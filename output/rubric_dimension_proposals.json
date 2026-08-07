@@ -1,0 +1,243 @@
+[
+ {
+  "corpus_observations": "The pack is dominated by three recurring genres: cold intros anchored on peer customers (\"Working with Onfido, Veriff & others\"), invitations to exec dinners/mixers (\"[Invite] Encord AI Leaders Dinner @ Kokkari 02/27\"), and conference meetup asks (\"Attending CVPR | quick coffee?\"). Template reuse is heavy and visible: several bodies appear verbatim to different recipients with only the name/company swapped (emails 9/79/89/98, 10/93, 33/70, 48/51/63, 82/86, 23/49, 32/38), and reusable blocks like \"Bit of context on Encord...we're a computer vision scale-up (recently raised a $30M Series B)\" recur across senders. Mail-merge residue and typos are common enough to be a real axis of variation (\"Hi ,\", \"Assuming you and the Christian team will be in Nashville\", \"Email: charlotte@encord.com: mailto:youremail@encord.com\", \"if you're be open\", \"private dinning room\", \"Muck like them\"). At the same time, a meaningful minority show genuine per-recipient research (\"I recently read that Outrider has addressed over 200,000 safety scenarios\", \"I just listened to your interview w/ Bulk Exchanges\") and warm hooks via colleagues or prior contact. A handful of items are not true first-touch outbound at all (mid-thread replies, rescheduling, onboarding kick-off, an internal security-questionnaire forward: emails 6, 8, 26, 36, 57, 78, 80, 92), which any judging pipeline should expect and possibly filter.",
+  "pack": "pack_2",
+  "dimensions": [
+   {
+    "name": "Recipient-specific research signal",
+    "definition": "How much the email demonstrates concrete, checkable knowledge of this recipient or their company (products, news, talks, hires, filings) versus knowledge that could apply to anyone in the vertical. Judged only from what is asserted in the text, not its truth.",
+    "variation_seen": "Wide variation. High: \"I recently read that Outrider has addressed over 200,000 safety scenarios \u2014 an impressive stat that speaks to the scale and complexity of your ML systems\" (email 62) or \"I just listened to your interview w/ Bulk Exchanges - v inspired by your vision to automate heavy machinery\" (41). Low: the blank-merge \"Hi ,\" opener with only \"I browsed your website\" (5), and the broken merge \"Assuming you and the Christian team will be in Nashville for CVPR\" (63) \u2014 the recipient's first name pasted where the company should be.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Trigger / 'why now' rationale",
+    "definition": "Whether the email states an explicit, dated reason this outreach is happening now \u2014 funding round, product launch, hiring post, conference attendance, a referral conversation \u2014 versus no stated occasion.",
+    "variation_seen": "High: \"Congrats on your Series A announcement! I saw you're hiring an engineer to scale your annotation infrastructure\" (74), \"I noticed you're attending NeurIPS this year\" (46), \"Flexiv's came up during a chat with 1X at our Physical AI event in SF last week\" (60). Low: \"Great to see that you were exploring Encord - wanted to reach out to see if I could help with anything?\" (47) and the generic \"1-1 meeting with Encord?\" website-visitor chaser (0), which cite no occasion beyond a page visit.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Specificity of the value claim",
+    "definition": "Whether the benefit Encord promises is quantified and mechanism-specific versus abstract platform language. Concrete numbers, named capabilities, and named failure modes score high; slogans score low.",
+    "variation_seen": "High: \"How StandardAI increased annotation throughput by 5x with Encord - saving $600k annually\" and \"eliminates ghost frames / sync issues vs frame-by-frame approach\" (1); \"typically delivering a 5-10x improvement in annotation speed\" (24); \"label data 2x-10x faster than in-house or first gen tools\" (62). Low: \"Designed to streamline data management and accelerate model development... I believe there's potential for synergy as you scale\" (20) and \"built to help teams bring better models to market, faster\" (37, 48, and elsewhere verbatim).",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Relevance of social proof to the recipient",
+    "definition": "Not whether customers are name-dropped (nearly all emails do) but whether the named companies are in the recipient's own vertical and framed as 'your peers', versus a stock all-purpose list. The recipient's domain is usually inferable from the email itself.",
+    "judgeable": "with_care",
+    "variation_seen": "High: to a driver-monitoring company, \"we're working w/ a few of your peers (SmartEye, Nauto, Netradyne, Seeing Machines, Woven by Toyota, Nexar, etc)... driver behavior analytics, in-cabin monitoring\" (27); to ID-verification firms, \"We've recently started working with Onfido, Veriff & iProov\" (9/79/98). Low: the same stock trio \"including Synthesia, Hudl, and Woven by Toyota\" sent to ZEISS, EarthCam and others regardless of domain (48, 51, 63)."
+   },
+   {
+    "name": "Problem-narrative specificity",
+    "definition": "Whether the email articulates a concrete, plausible pain in the recipient's workflow (with details of how it manifests) versus asserting a generic assumed need ('as you scale...').",
+    "variation_seen": "High: \"existing data curation & visualisation solutions (Voxel51 & internal tools)... lacking the speed & scalability required to efficiently search through their training datasets (capping out at ~1m images)\" (56); \"fine-tuning models for new stores was frustratingly slow and expensive - given bottlenecks in coordinating between CV teams and their third-party annotation partners\" (69). Low: \"As your AI team grows, I imagine you are handling massive volumes of data that need to flow seamlessly through your annotation workflows\" (20).",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Clarity and concreteness of the ask",
+    "definition": "Whether the email ends with one unambiguous call to action the recipient can answer with yes/no plus a time, versus a vague or hedged close. Concrete proposed slots score highest; 'worth connecting?' and 'let me know if you have questions' score low.",
+    "variation_seen": "High: \"Proposing some time for a quick platform demo on Thursday 26th at 1pm ET\" (1); \"Next Tuesday 12.30-2pm and Wednesday 2-3pm (Israel Time) are open right now\" (52); \"I'm flexible Tuesday to Thursday if you're open to a chat\" (19). Low: \"Would it be worth us connecting?\" as the entire close (9, 79, 81, 98) and \"Curious to explore how we can help the Motional team - let me know if you have any questions\" (10, 93), which asks for nothing schedulable.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Size of the ask",
+    "definition": "The magnitude of commitment requested, as stated in the text: quick reply or booth drop-by, 15/20-minute call, 30-minute chat, platform demo, or a multi-hour in-person dinner/event. Distinct from clarity \u2014 an ask can be clear but large.",
+    "variation_seen": "The corpus spans the full range: \"if you have 15 mins to chat over the coming weeks\" (33), \"a 20-mins chat tomorrow or Friday\" (44), \"a 30-minute chat this week or the next\" (3, 27, 97), a demo plus follow-up (1), up to three-hour dinners: \"The dinner will run from 6:30-9:30pm\" (2) and \"private dining room at Kokkari... 6:30-9:30pm\" (7, 21, 61).",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Template-ness / mail-merge residue",
+    "definition": "Visible evidence the email is a mass template: broken or lazy merge fields, generic swap-in structure where only name/company changes, and recycled boilerplate blocks. Judged per-email from artifacts in the text (duplication across the pack corroborates but isn't required).",
+    "variation_seen": "High residue: \"Hi ,\" (5); \"Assuming you and the Christian team will be in Nashville\" (63); the signature artifact \"Email: charlotte@encord.com: mailto:youremail@encord.com\" (13, 32, 48, 88, 94); the verbatim block \"Bit of context on Encord...we're a computer vision scale-up (recently raised a $30M Series B)\" appearing in 8+ emails. Low residue: bespoke notes like \"Winnie brought me up to speed on your chat at CVPR & excited to explore potential ways we can help the Disney team\" (1) or the hand-written reconnect to Ravin citing \"congrats on the partnership with Five Sigma!\" (71).",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Mechanical polish (grammar, typos, formatting)",
+    "definition": "Freedom from grammatical errors, typos, malformed sentences, duplicated legal footers, and raw tracking-link clutter that make the email look careless.",
+    "variation_seen": "Errors are frequent and graded: the recurring \"if you're be open to a 30-minute chat\" (3, 13, 22, 27, 97), \"Muck like them... building models in house with automated training data pipelines become top of mind\" and \"onboarded quick a few of your peers\" (85), \"unfies a significant amount of the ML tech stake\" (64), \"private dinning room\" (31), \"NVIDA GTC\" (33, 70). Clean examples read flawlessly end-to-end, e.g. the Zurich dinner invite \"It'll be an informal, open-format evening - no slides or pitches, just great food and conversation\" (23, 49) or email 50.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Brevity and scannability",
+    "definition": "Length and structural economy: word count of the body, paragraph size, and whether structure (short paragraphs, bullets) lets a skimmer extract who/why/ask in seconds.",
+    "variation_seen": "High economy: email 47 is three sentences total (\"Great to see that you were exploring Encord... Let me know if you have any questions\"), and 42/90 are a single short paragraph (\"Quick note to ask - will you be attending GTC Paris this year...\"). Low: email 67 runs ~180 words with a three-bullet feature list and buries the ask (\"Not sure if your team has any plans to reevaluate their data infra stack this year? Either way...\"), and 2 spends four dense paragraphs before the ask.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Peer-to-peer vs. salesy tone",
+    "definition": "Whether the register is a collegial exchange (trading notes, asking for feedback, low pressure) or a pitch with urgency/scarcity pressure and product-brochure phrasing. Judged from wording, not intent.",
+    "variation_seen": "Peer register: \"keen to trade notes & get your candid feedback on what we're building\" (25), \"no slides or pitches, just great food and conversation\" (82). Salesy register: \"That's where the Encord platform comes in. Designed to streamline data management and accelerate model development\" (20), and scarcity pressure \"les places sont limit\u00e9es et attribu\u00e9es selon le principe du premier arriv\u00e9, premier servi\" [seats limited, first come first served] (32, 38); softer pressure variants like \"We're capping the attendance to 40 guests - so let me know if you can make it!\" (73) sit in between.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Give-before-ask (evidence offered up front)",
+    "definition": "Whether the email hands the recipient something of standalone value before requesting time \u2014 case-study links, technical blog posts, named event speakers/attendees, insights from peer work \u2014 versus asking for time with nothing attached.",
+    "variation_seen": "High: email 1 links two resources inline (\"How StandardAI increased annotation throughput by 5x... Technical blog post discussing how Encord's native video architecture eliminates ghost frames\"); 45 links a case study; dinner invites listing confirmed attendees (\"CxOs and senior technical leaders from Synthesia, DeepMind, and Cohere\", 50) give a concrete draw. Low: \"Could be good to connect & discuss what we've been building more broadly\" (0, 15) and \"see if our work might align with what aiherd is doing in the space?\" (42) offer nothing beyond the meeting itself.",
+    "judgeable": "with_care"
+   }
+  ]
+ },
+ {
+  "pack": "pack_0",
+  "dimensions": [
+   {
+    "name": "Recipient-specific research signal",
+    "definition": "Whether the opening references a concrete, verifiable fact about this recipient or their company (a product, launch, talk, funding round, named mutual contact, or an action they took), versus a generic or slot-filled hook. Named-person referrals count as the strongest form.",
+    "variation_seen": "Very wide. High: \"Also heard that ScyllaNet Small outperformed YOLOv12\u2014incredible work\" (Scylla email); \"Heard v good things about Active Guard from Ed Mauser @Milestone Systems\"; \"Saw you're giving a talk at the RetailVision workshop at ICCV\". Low: the CVPR template repeated verbatim to four different recipients with only the company swapped \u2014 \"Assuming you and the iRobot team might be in Nashville for CVPR this year?\" \u2014 and one email opening literally \"Hi ,\" with a blank name field.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Vertical relevance of social proof",
+    "definition": "Whether named customers/peers are in the recipient's own domain (so the comparison is 'your direct peers') versus generic marquee logos recycled regardless of recipient industry. Judged against the recipient's vertical as stated in the email itself.",
+    "variation_seen": "Clear variation. High: a drone-inspection prospect gets \"working w/ a few of your peers (Skydio, Skyspecs, Zeitview, Zipline, Verity, etc)\" and an ID-verification prospect gets \"Reality Defender, Onfido and Paravision who are building similar identity verification models to yours\". Low: the same \"200+ AI teams including Synthesia, Hudl, and Woven by Toyota\" line sent to ZEISS, iRobot, and a dairy-robotics company alike.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Specificity of the value claim",
+    "definition": "Whether the benefit is quantified or mechanistically concrete (numbers, named capabilities tied to outcomes) versus abstract marketing language.",
+    "variation_seen": "High: \"helping them to reduce their AI data management overheads by 60%\"; \"typically delivering a 5-10x improvement in annotation speed\"; \"UVeye has since raised 191M for their AI powered vehicle inspection systems\". Low: the ubiquitous \"built to help teams bring better models to market, faster\" and \"consolidating data curation, annotation, workflow management and model evaluation under one platform\", which appear near-verbatim in a dozen emails.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Problem diagnosis / pain hypothesis",
+    "definition": "Whether the email articulates a specific, plausible operational challenge the recipient likely faces and engages them on it (often via a question), versus pitching features with no hypothesis about the reader's situation.",
+    "variation_seen": "High: \"I imagine the hard part is keeping recognition models sharp across edge cases such as spoofing attempts, and diverse demographics\"; \"struggled to efficiently filter & select videos from specific viewpoints, camera types or by quality for edge cases annotation... how you're thinking about this at ECAM?\". Low: \"Could be good to connect & discuss what we've been building more broadly\" or a bare webinar blast with a registration link.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Customer-story concreteness",
+    "definition": "Whether the email carries a mini case narrative \u2014 named customer, the situation that drove them to switch, what changed \u2014 versus a bare logo list or no proof at all.",
+    "variation_seen": "High: \"We recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools\"; \"Woven's Computer Vision team faced problems with data curation (Voxel51 & internal tools), where they lacked the speed & scalability...\". Low: logo-dropping only (\"we work with over 200 AI teams\") or none at all (\"Would love to grab a coffee and connect - swap notes on all things ML\").",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Clarity and size of the ask",
+    "definition": "Whether there is exactly one CTA, how concrete it is (duration, days, format offered), and how small the requested commitment is; penalizes vague open-ended asks and competing multiple asks.",
+    "variation_seen": "High: \"open to a 30-minute chat this week or the next? Wednesdays and Thursdays usually work for me\" and one email listing three dated time slots. Low/vague: \"Would you be open to learning more?\" and \"I'd love to show you how our multimodal platform could support your team\". One email stacks two competing asks (a meeting AND \"feel free to sign up for the live session\").",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Template-ness / mail-merge residue",
+    "definition": "How visibly the email is a reused shell: identical boilerplate blocks, unfilled or broken merge fields, sentences that don't fit the specific recipient. Judged from within-email artifacts and stock phrasing.",
+    "variation_seen": "High template-ness: \"Hi ,\" (empty name); the signature artifact \"Email: p <youremail@encord.com>ayom@encord.com\"; one dinner invite containing the \"In case you're not familiar with Encord\" paragraph twice in a row; four byte-identical CVPR bodies. Low: bespoke emails like the Mistral note referencing \"Small 3.1, OCR, and your broader push into multimodal capabilities\".",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Writing mechanics and formatting polish",
+    "definition": "Grammar, spelling, and rendering quality: typos, garbled syntax, collapsed bullet lists, duplicated paragraphs, broken links or images in the visible body.",
+    "variation_seen": "Sloppy end: subject line \"Data requirements for diver safety models\" (for driver-safety company Lytx); \"Apolonia in near the ProMat conference center\"; \"if you're be open to a 30-minute chat\"; \"Phyisical\", \"platfrom\", \"dinning\"; several emails where bullet lists collapsed into one run-on line (\"Model-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define...\"). Clean end: the ICCV/London dinner invites read flawlessly.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Concision / economy of the body",
+    "definition": "Whether the email makes its point in a few tight paragraphs versus padding with long company blurbs, repeated context, or rambling asides; length relative to information delivered.",
+    "variation_seen": "Tight: \"Noticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605)...\" (~4 lines). Bloated: the Drone Deploy email with a three-bullet product blurb after a dense opening paragraph, or the AWS Loft invite that wanders through panelists, guest lists, and \"I will God willing guarantee you a spot. We have a few spots left..\".",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Consultative vs promotional register",
+    "definition": "Whether the framing is peer-to-peer exchange (asking for the recipient's perspective/feedback, explicitly low-pressure) versus one-way selling (pushy RSVP mechanics, registration links, feature dumps).",
+    "variation_seen": "Consultative: \"keen to trade notes & get your candid feedback on what we're building\"; \"no slides or pitches, just bringing together like-minded people\". Promotional: \"Please RSVP to this invite to secure a spot, they are limited and on a first come, first served basis\"; \"Registration Link - here: https://encord.com/webinar/...\".",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Sender/company credibility anchoring",
+    "definition": "Presence and specificity of trust signals about Encord itself in the body: funding stage and investors, age, headcount, customer count \u2014 versus no context at all for a cold reader.",
+    "variation_seen": "High: \"Encord is a ML data layer scale-up ($50M Series B \u2013 YC, Next47, CRV)\"; \"~6 years old, 100+ employees & $50M+ funding\". Low: several coffee asks give no company context whatsoever (\"Would be great to get a coffee & show the team some of the big improvements to the product\"), leaving a cold recipient with only a signature block.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Event offer concreteness (invite subset)",
+    "definition": "For the ~40% of emails that are event invites: how concrete and enticing the offer details are \u2014 named venue, date/time, proximity to the conference, named attendee companies or speakers, and an explicit attendance cap \u2014 versus a bare 'dinner with leaders'.",
+    "variation_seen": "High: \"private room at Empire Steakhouse (~10 min walk from the conference)... Confirmed attendees include CxOs and senior technical leaders from Nexar, Woven by Toyota, and Philips\"; one even names a panelist as \"your former colleague RJ He\". Low: \"a Physical AI roundtable dinner for customers & CxOs\" with no attendee or theme detail beyond venue and cap.",
+    "judgeable": "reliably"
+   }
+  ],
+  "corpus_observations": "The pack splits into two dominant genres \u2014 conference-adjacent event invites (dinners, mixers, panels at ProMat, CVPR, NeurIPS, ICCV, ISC West; roughly 40 emails) and direct cold pitches asking for a 20-30 minute call or a coffee \u2014 plus about 10-12 emails that are not true first-touches (rescheduling notes, 'we're on the call now', post-demo follow-ups, doc links). Nearly all follow a shared skeleton: personalized hook, peer/customer proof, an 'in case you're not familiar with Encord' boilerplate paragraph, then the ask \u2014 so quality variance lives mostly in how well each slot is filled, not in structure. Template reuse is heavy and visible: several bodies are byte-identical across recipients, and mail-merge artifacts (a blank 'Hi ,', 'youremail@encord.com' fragments, a duplicated company paragraph) appear alongside genuinely bespoke, well-researched notes referencing the recipient's specific models, talks, or funding rounds. Polish varies sharply within the same sender pool, from flawless invites to emails with collapsed bullet formatting, 'diver safety' for 'driver safety', and 'if you're be open' constructions. Social proof is universal but ranges from tightly vertical peer lists to the same three marquee logos pasted regardless of the recipient's industry."
+ },
+ {
+  "pack": "pack_3",
+  "corpus_observations": "The pack mixes several outreach genres: cold first-touch intros pegged to a trigger event, event/dinner invites (roughly a quarter of the pack, e.g. the Aerlume Seattle dinner appears ~6 times with only the opening line swapped), conference meeting requests (CVPR/GTC/NeurIPS/ISC West), post-demo and post-call follow-ups, and website-visitor re-engagement notes; a handful are not really prospect outreach at all (a venue inquiry, an internal intro, a reply to a vendor). Template reuse is heavy and visible: \"demo - real workspace\" recurs verbatim 4 times, \"Plan for CVPR\" 5 times, and boilerplate blocks like \"Bit of context on Encord...we're a computer vision scale-up (recently raised a $30M Series B)\" repeat word-for-word across senders. Mail-merge failures are common and conspicuous: \"Hi ,\" with a blank name, \"Will you and the name team\", \"working with companies like name\", \"theAdvantis team\", and signature artifacts like \"Email: charlotte@encord.com: mailto:youremail@encord.com\". At the other extreme, some emails show genuinely specific research (\"Congratulations on completing the first unmanned, deep-water cable route survey\", \"I saw your facial recognition model was featured on the NIST leaderboard\") and bespoke content (China/VPN contracting details, FDA-traceability arguments referencing the prospect's actual tool, itk-snap). Nearly every email name-drops customers, so what varies is not the presence of social proof but how well the named customers match the recipient's domain. Length runs from two sentences to five dense paragraphs, and asks range from concrete offered time slots to open-ended \"Open to learning more?\".",
+  "dimensions": [
+   {
+    "name": "Recipient-specific research depth",
+    "definition": "How much the email demonstrates verifiable knowledge of this specific recipient or their company \u2014 a named announcement, publication, talk, hire, award, or mutual contact \u2014 versus generic or absent personalization. Judged only on what is claimed in the text and how specific/checkable the claim is.",
+    "variation_seen": "Extremely wide. High: \"Congratulations on completing the first unmanned, deep-water cable route survey\" ([3]); \"I saw your facial recognition model was featured on the NIST leaderboard\" ([98]). Low: \"Hi there, I hope you found the interactive demo useful!\" ([1]) and the literal blank-name \"Hi ,\" ([0], [71]).",
+    "judgeable": "reliably"
+   }
+  ]
+ },
+ {
+  "pack": "pack_1",
+  "dimensions": [
+   {
+    "name": "Evidence of recipient-specific research",
+    "definition": "Does the email contain details that could only apply to this recipient \u2014 their papers, funding, partnerships, product launches, hiring posts, role changes \u2014 versus generic or absent personalization (including broken merge fields)?",
+    "variation_seen": "Very wide. High: \"I read the paper on generative simulation with MFMs - excited to see your vision coming into reality at Genesis AI\" (#7), or \"Congrats on the Lyft partnership! ... I imagine things are moving fast given your target delivery date by the end of 2026\" (#5). Low: \"Given your AI/ML background - I'd love to present what we've built\" (#61), and one email opens \"Hi ,\" with the name merge field empty (#45).",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Stated trigger / reason for reaching out now",
+    "definition": "Whether the email names a concrete, checkable occasion for the outreach (website visit, referral by a named person, conference exhibitor list, news event, job posting) versus no stated reason or a manufactured one.",
+    "variation_seen": "High: \"I noticed you're looking to hire a Research Engineer to lead your data curation efforts\" (#88); \"I met your old colleague Ivan Vul\u00edc who recommended I reach out\" (#82); \"Just saw that you visited our website and requested more information\" (#1). Low: \"I wanted to introduce myself as your new point of contact at Encord\" (#61) \u2014 no trigger at all.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Specificity of the value claim",
+    "definition": "Whether the benefit is quantified or mechanically explained (numbers, named capabilities, concrete outcomes) versus generic platform language.",
+    "variation_seen": "High: \"Automate parts of their annotation process - typically seeing 6-10x throughput gain\" (#27); \"lacked the speed & scalability required... (capping out at ~1m images)\" (#52). Low: the boilerplate \"built to help teams bring better models to market, faster\" (#35, #43, #68, #81) or \"tackling a shared challenge: high-quality training data at scale\" (#39).",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Pain-point hypothesis about the recipient's workflow",
+    "definition": "Does the sender articulate a specific, plausible operational problem the recipient likely has (tool names, failure modes, workflow bottlenecks), versus just describing Encord's features?",
+    "variation_seen": "High: \"open source tooling like CVAT is slowing down the team (since it breaks videos down into frames which are painful & time consuming to process)\" (#23); \"surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets\" (#26). Low: \"we've built a data management platform that enables teams to curate data at scale\" (#61) \u2014 pure feature description with no hypothesis about the reader.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Relevance of social proof to the recipient",
+    "definition": "When customer names are dropped, are they matched to the recipient's stated sector/use case (peers they would recognize as comparable), versus the same all-purpose logo list regardless of audience?",
+    "variance_note": "",
+    "variation_seen": "High: to a mammography AI lead, \"share updates from our recent projects with Curemetrix, Viz.ai or Highmark Health\" (#72); to driver-safety companies, the Motive case study (#26/#28/#34). Low: the identical \"200+ AI teams - including Synthesia, Hudl, and Woven by Toyota\" line sent to robotics, insurance, and skin-cancer companies alike (#35, #43, #68). Nearly every email uses some social proof, so relevance rather than presence is what varies.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Clarity and friction of the ask",
+    "definition": "Is the requested next step concrete (format, duration, proposed dates/times) and low-effort, versus vague, open-ended, or demanding recipient homework before the call?",
+    "variation_seen": "High: \"Would you be open to a quick 20-minute virtual coffee... We're available AM Tuesday and Thursday next week\" (#4); \"we're at ISC West Wednesday (4/2) to Friday (4/4) - let me know if Thursday afternoon works for you?\" (#74). Low: \"Open to learning more?\" (#52, #66) with no format or time; and #0 adds pre-call homework: \"it would be really helpful if you could share a few details, such as the size of your ML/data team, amount of data...\"",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Template-ness / bespokeness",
+    "definition": "How much the email reads as a mail-merge slot-fill (generic phrasing that would work for anyone, awkward company-name insertions, boilerplate blocks) versus written for this one person.",
+    "variation_seen": "Extreme within the pack: \"Data quality for driver safety models\" appears verbatim three times with only the company swapped (#26 Azuga, #28 Verizon Connect, #34 Ridecell), and \"Plan for CVPR\" four times including the giveaway slot-fill \"what shell is doing on all things computer vision\" (#44, #90). Bespoke end: #80's partner note discussing \"exposing Encord's video annotation platform to your physicians via EndoML\" could not be sent to anyone else. Within a single email, slot-fill cues (generic clauses, uncapitalized company names, \"Hi ,\") make this ratable without seeing duplicates.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Mechanical polish and formatting integrity",
+    "definition": "Freedom from typos, grammar slips, broken merge artifacts, and mangled formatting (collapsed bullet lists, placeholder text) in the body and signature.",
+    "variation_seen": "Low polish: \"we help leading AI teams in vvideo understanding\" (#94); \"improve train training data quality\" (#76); \"Just checked and results you were at RSNA\" (#72); bullets collapsed into one run-on line in #26/#28/#34; signature placeholder leaks like \"Email: p: mailto:youremail@encord.comayom@encord.com\" (#85, #86). High polish: #87 and #32 are clean, correctly formatted throughout.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Tone: natural peer register vs stiff or salesy",
+    "definition": "Does the email sound like a person writing to a professional peer (conversational, curiosity-framed) or like a formal sales script (stilted self-introduction, repeated use of recipient's name, pitch cliches)?",
+    "variation_seen": "Natural: \"keen to trade notes & get your candid feedback on what we're building here at Encord\" (#40); \"happy to find a time that suits you best\" (#4). Stiff: \"I wanted to introduce myself and my company: my name is Tim Kovoor... Can I suggest we find time to meet on a call... I look forward to hearing from you, Yoshiyuki.\" (#25) \u2014 the recipient's name is used three times in one short email.",
+    "judgeable": "with_care"
+   },
+   {
+    "name": "Brevity and information economy",
+    "definition": "Whether every sentence earns its place and the email can be absorbed in one glance, versus dense multi-paragraph pitches that stack event logistics, company pitch, and attendee lists.",
+    "variation_seen": "Tight: #73 is three short sentences ending \"Could be interesting to connect / show you a quick product demo at the booth\". Bloated: #67 runs five paragraphs covering the panel lineup, moderator, investor, after-party, attendee roster, and company pitch before the ask; #32 similarly stacks fireside chat, venue, guest list, and disclaimers.",
+    "judgeable": "reliably"
+   },
+   {
+    "name": "Recipient-centricity of framing",
+    "definition": "Share of the email spent on the recipient's world (their goals, questions addressed to them) versus the sender's company, founders, and product ('we/our'-heavy prose).",
+    "variation_seen": "High: #26 opens and closes on the reader \u2014 \"have you run into similar challenges? ... How are you approaching training data preparation at Azuga?\". Low: #25 is almost entirely sender-side \u2014 \"At Encord, we built a high-performance architecture to support indexing and searching through billions of video and image data items...\" with the recipient appearing only in the ask.",
+    "judgeable": "with_care"
+   }
+  ],
+  "corpus_observations": "The pack is dominated by three recurring genres: exclusive event invites (roughly 35-40 dinner/mixer/happy-hour invitations tied to conferences like CVPR, NeurIPS, CES, Actuate, ISC West, all following a fixed formula of venue + capped guest count + name-dropped attendee list + 'In case Encord is new to you...' paragraph), conference coffee-meeting requests, and cold pitches anchored on a named customer case study ('We recently onboarded Motive/Woven/Entrust...'). A meaningful minority are inbound-lead follow-ups ('thank you for your interest in Encord') and a handful are actually mid-thread replies rather than true first touches (#9, #38, #46, #54, #56, #80, #95). Template reuse is heavy and visible: several emails are verbatim duplicates with only the company name swapped, and slot-fill artifacts (empty 'Hi ,', uncapitalized 'shell team', signature placeholders like youremail@encord.com) surface repeatedly. Social proof is near-universal \u2014 almost every email names customers (Boston Dynamics, Woven by Toyota, Synthesia, Physical Intelligence) \u2014 so what varies is its sector relevance, not its presence. Mechanical quality is uneven for a commercial team: typos ('vvideo', 'train training', 'NeuriPS'), collapsed bullet formatting, and garbled sentences appear in a nontrivial fraction. The best emails combine a checkable trigger, a domain-specific pain hypothesis, and a dated low-friction ask; the weakest are generic platform descriptions with 'Open to learning more?'"
+ }
+]
