@@ -1,0 +1,402 @@
+[
+{
+"id": "177677418715",
+"subject": "Re: Request to Update User Roles on Focal Systems Account",
+"text": "Thanks Seif,\nguest+focalsystems@encord.com still showing as an Admin."
+},
+{
+"id": "177681295574",
+"subject": "Re: Invoice INV-1299 from Cord Technologies Limited for Milvue",
+"text": "Sure Seif. Will do it today.\nBR\nAlex\n\nLe mar. 15 avr. 2025, 13:23, Seif Shoeib <seif@encord.com> a \u00e9crit :"
+},
+{
+"id": "177696348390",
+"subject": "Re: Jagruthi / Eliza",
+"text": "Hi Eliza,\n\nYeah everything is fine now.\nSure works, im available at 5PM IST tomorrow.\n\nWarm Regards,\n*Jagruthi D Atada*\n\n*Director of Clinical Data Engineering *\nOrigin Medical - Advancing Prenatal Care with Artificial Intelligence\n\nConnect with us:\nWebsite: https://www.originmedical.ai/\nLinkedIn: Origin Medical | LinkedIn\n<https://www.linkedin.com/company/origin-medical/>"
+},
+{
+"id": "177696402676",
+"subject": "Re: [Invite] The Rise of Physical AI @ AWS Loft",
+"text": "Thanks for the quick response. Ignore the request, the person said he can\u2019t join.\n\nThanks,\n\nAnup \n\nFrom:\nDillon Carrico <dillon@encord.com>\n\nDate: Tuesday, April 15, 2025 at 11:43\u202fAM\n\nTo: Anup Chatterjee <Anup.Chatterjee@brightmachines.com>\n\nSubject: Re: [Invite] The Rise of Physical AI @ AWS Loft\n\n\u00a0 External email\n\nHi Anup,\u00a0 \n\nI will have to check with the venue so if you could let me know their name and title, i\"ll see what I can do.\u00a0\n\nBest,\u00a0\n\nDillon"
+},
+{
+"id": "177696821492",
+"subject": "Re: [EXTERNAL] Re: Encord Project",
+"text": "After discussing with my manager, she suggested I start an email thread with our VP and you on it, so that he can reach out with any questions about the proposal.\nI\u2019ll start another thread for that.\nThanks,\nTony"
+},
+{
+"id": "177700567241",
+"subject": "Re: iMerit BiWeekly Sync Notes",
+"text": "Hi Abinash,\n\nThanks for reaching out, here is my best understanding of the answers to\nyour questions.\n\n   - *Overwrite Logic:* Team checked their review tasks and found only 1\n   classification done by any one surgeon can only be approved. If the same\n   'Task label' by another surgeon is being approved, then it automatically\n   asks to 'Overwrite' the earlier approved label. What is the recommended\n   minimum threshold for approving labels to avoid this overwrite scenario?\n   - If both annotators created an acceptable annotation, go ahead and\n      accept both and overwrite the second label.  The reviewer should also be\n      able to edit the annotation before final submission.  From a\n      workflow perspective, the main thing that matters is that the final label\n      looks good.  The reject tool is used if the label is incorrect\nor it would\n      be desirable for the original labeler to review the label so they can\n      improve their annotations.\n   - *Multiple Start/End Points:* Team is finding it difficult to manage\n   tasks with numerous start and end points within a single video (e.g., 10-20\n   different timelines for the same task within a 30-minute video). The tool\n   doesn't allow us to disagree on only one or two specific timelines without\n   rejecting the entire task. Similarly, when disagreements between surgeons\n   exist on only a few time points, approving the task becomes challenging.\n   How can we effectively handle these scenarios?\n   - This may be a limitation of the tool and we may need to change the\n      workflow to make it easier to review.  In the future, we should probably\n      make different segments different entries in the timeline so they can be\n      labeled individually.  For now, the reviewer can accept the\nclosest one and\n      the edit the label to be correct before final submission.\n   - *Encord Team Assistance:* We would greatly appreciate the Encord\n   team's availability this week to help us resolve these review workflow\n   q"
+},
+{
+"id": "177703242961",
+"subject": "Re: Encord contract",
+"text": "Unfortunately, I will be in Chicago on that day but Aadi should be there. I'm sure he would love to be there assuming his schedule allows.\n\nEntity info-\n\n*Hike Medical Co.*\n\n251 E. Little Falls Drive\n\nWilmington, DE 19808\n\nSteven Chacko\nChief Business Officer, Hike\n872-266-2890\nHike Medical ( http://hikemedical.com )\nConnect with Me on LinkedIn ( https://www.linkedin.com/in/steven-chacko-959248252/ )\n\nSent via Superhuman ( https://sprh.mn/?vip=steven@hikemedical.com )"
+},
+{
+"id": "177723777241",
+"subject": "Re: Boston Robotics Dinner - April 30th",
+"text": "Hi Leo,\n\nUnfortunately, I've got a pretty major customer commitment that week and so\nwill not be able to attend. Thanks for thinking of me and I hope I can\nattend the next one.\n\nBest,\nAriana"
+},
+{
+"id": "177727591631",
+"subject": "Re: Invitation: Encord/Arcelor Mittal @ Mon 28 Apr 2025 4:30pm - 5:15pm (BST) (sohrab.mokhtari@arcelormittal.com)",
+"text": "Alex,\n\nI sent you a Teams invitation. Please, feel free to invite other colleagues to the meeting.\nAlso, regarding the agenda, it would be great if you could send it to me and I will update it in Teams. I will invite relevant colleagues after receiving your agenda and documents.\nPlease, let me know if you encounter any problems in inviting other people.\n\nBests,\u2002\u2002\u2002\u2002\u2002\nSohrab"
+},
+{
+"id": "177737588923",
+"subject": "Declined: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (dillon@encord.com)",
+"text": "[Invite] The Rise of Physical AI @ AWS Loft\n\nJohn Hurliman has declined this invitation.\n\nHi all, \n\nWe're looking forward to welcoming everyone at Encord & Next47's Physical AI event at AWS Loft.\n\nWe're excited to be bringing together technical leaders in Physical AI & looking forward to sharing insights on innovation trends, scaling challenges, and investment opportunities in this rapidly evolving field.\n\nAgenda \n\n\u2022 \n5:30pm: Check-in + introductions\n\n\u2022 \n6:15pm: Panel discussion \n\n\u2022 \n7:00pm: Networking + food/drinks\n\nPanelists\n\n\u2022 \nKalpana Seshadrinathan, Director of Deep Learning @ Skydio\n\n\u2022 \nUlrik Stig Hansen, Co-Founder of Encord\n\n\u2022 \nRuijie (RJ) He, CEO & Co-Founder of Maniro ai\n\n\u2022 \nDr. Ivan Poupyrev, CEO & Founder of Archetype AI\n\n\u2022 \nDr. Stefan Schaal, Director of AI & Robotics @ Intrinsic ai\n\n\u2022 \nColton Dempsey, Partner @ Next47\n\nArrival Instructions & Important Details:\n\n\u2022 \nAWS GenAI Loft, 525 Market Street, 2nd Floor Courtyard Entrance, San Francisco, CA 94105 (Staircase next to Chipotle Restaurant)\n\n\u2022 \nAccessible entrance available via the lobby elevators at 525 market street main entrance\n\n\u2022 \nAWS Loft requires a form of ID to be let into the venue so please bring one\n\nPlease reach out to dillon@encord.com / maya@encord.com if there are any questions and looking forward to seeing you all soon!\n\nBest, \nEncord Team\n\nWhen\n\nWednesday 16 Apr 2025 \u22c5 1:30am \u2013 4:30am (United Kingdom Time)\n\nLocation\n\nAWS GenAI Loft, 525 Market St, San Francisco, CA 94105, USA\nView map\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "177737939152",
+"subject": "Re: Invitation: Encord & Embodied AI | Platform Demo @ Tue 29 Apr 2025 2pm - 2:45pm (BST) (david@embodied-ai.company)",
+"text": "Hi Alex,\n\nThanks for updating the invite.\n\nThe labelling capabilities in the demo video look very impressive.\n\nIn your note below you mentioned fine-tuning of VLM/VLAs to train robotic actions.  Are there other capabilities that you provide in this respect aside from the labelling capabilities featured in the demo video?  If so, and you have any info on these, please do send through any info in advance of the call.\n\nThanks,\n\nDavid"
+},
+{
+"id": "177740807364",
+"subject": "Declined: Encord/Arcelor Mittal",
+"text": ""
+},
+{
+"id": "177745460419",
+"subject": "Encord Presentation",
+"text": ""
+},
+{
+"id": "177758867657",
+"subject": "Accepted: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (dillon@encord.com)",
+"text": "[Invite] The Rise of Physical AI @ AWS Loft\n\nDan Grover has accepted this invitation.\n\nHi all, \n\nWe're looking forward to welcoming everyone at Encord & Next47's Physical AI event at AWS Loft.\n\nWe're excited to be bringing together technical leaders in Physical AI & looking forward to sharing insights on innovation trends, scaling challenges, and investment opportunities in this rapidly evolving field.\n\nAgenda \n\n\u2022 \n5:30pm: Check-in + introductions\n\n\u2022 \n6:15pm: Panel discussion \n\n\u2022 \n7:00pm: Networking + food/drinks\n\nPanelists\n\n\u2022 \nKalpana Seshadrinathan, Director of Deep Learning @ Skydio\n\n\u2022 \nUlrik Stig Hansen, Co-Founder of Encord\n\n\u2022 \nRuijie (RJ) He, CEO & Co-Founder of Maniro ai\n\n\u2022 \nDr. Ivan Poupyrev, CEO & Founder of Archetype AI\n\n\u2022 \nDr. Stefan Schaal, Director of AI & Robotics @ Intrinsic ai\n\n\u2022 \nColton Dempsey, Partner @ Next47\n\nArrival Instructions & Important Details:\n\n\u2022 \nAWS GenAI Loft, 525 Market Street, 2nd Floor Courtyard Entrance, San Francisco, CA 94105 (Staircase next to Chipotle Restaurant)\n\n\u2022 \nAccessible entrance available via the lobby elevators at 525 market street main entrance\n\n\u2022 \nAWS Loft requires a form of ID to be let into the venue so please bring one\n\nPlease reach out to dillon@encord.com / maya@encord.com if there are any questions and looking forward to seeing you all soon!\n\nBest, \nEncord Team\n\nWhen\n\nWednesday 16 Apr 2025 \u22c5 1:30am \u2013 4:30am (United Kingdom Time)\n\nLocation\n\nAWS GenAI Loft, 525 Market St, San Francisco, CA 94105, USA\nView map\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "177762950388",
+"subject": "Accepted: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (dillon@encord.com)",
+"text": "[Invite] The Rise of Physical AI @ AWS Loft\n\nJohn Hurliman has accepted this invitation.\n\nHi all, \n\nWe're looking forward to welcoming everyone at Encord & Next47's Physical AI event at AWS Loft.\n\nWe're excited to be bringing together technical leaders in Physical AI & looking forward to sharing insights on innovation trends, scaling challenges, and investment opportunities in this rapidly evolving field.\n\nAgenda \n\n\u2022 \n5:30pm: Check-in + introductions\n\n\u2022 \n6:15pm: Panel discussion \n\n\u2022 \n7:00pm: Networking + food/drinks\n\nPanelists\n\n\u2022 \nKalpana Seshadrinathan, Director of Deep Learning @ Skydio\n\n\u2022 \nUlrik Stig Hansen, Co-Founder of Encord\n\n\u2022 \nRuijie (RJ) He, CEO & Co-Founder of Maniro ai\n\n\u2022 \nDr. Ivan Poupyrev, CEO & Founder of Archetype AI\n\n\u2022 \nDr. Stefan Schaal, Director of AI & Robotics @ Intrinsic ai\n\n\u2022 \nColton Dempsey, Partner @ Next47\n\nArrival Instructions & Important Details:\n\n\u2022 \nAWS GenAI Loft, 525 Market Street, 2nd Floor Courtyard Entrance, San Francisco, CA 94105 (Staircase next to Chipotle Restaurant)\n\n\u2022 \nAccessible entrance available via the lobby elevators at 525 market street main entrance\n\n\u2022 \nAWS Loft requires a form of ID to be let into the venue so please bring one\n\nPlease reach out to dillon@encord.com / maya@encord.com if there are any questions and looking forward to seeing you all soon!\n\nBest, \nEncord Team\n\nWhen\n\nWednesday 16 Apr 2025 \u22c5 1:30am \u2013 4:30am (United Kingdom Time)\n\nLocation\n\nAWS GenAI Loft, 525 Market St, San Francisco, CA 94105, USA\nView map\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "177765623999",
+"subject": "Re: re-schedule",
+"text": "Thanks Eliza.\nI checked with the team and we don't have any questions for your team\ncurrently as we are waiting to get the Service Account permission issues\nresolved.\nCan we cancel for tomorrow and we can sync via email when we get the issue\nresolved?\n\nThanks,\nNavnita"
+},
+{
+"id": "177773881576",
+"subject": "Re: Physical AI socials @AWS Loft - Apr 15",
+"text": "Thanks Winnie.\nThe next few weeks will be a bit busy for me due to an upcoming launch\nmilestone, but happy to check back in for a coffee chat in ~May if that\nworks for you and the leadership team.\n\nbest,\nAlvin"
+},
+{
+"id": "177775608028",
+"subject": "Re: Encord Meeting tomorrow",
+"text": "Hi Steffan,\n\nThanks for your reply.\nCurrently we have a Data team to support data collection and annotation works for our company. Basically the current project is related to annotate images for documents like exam papers. Maybe you can demo based on this.\n\nRegards,\nNeoh\n\nSent from Outlook for Android<https://aka.ms/AAb9ysg>"
+},
+{
+"id": "177798937811",
+"subject": "RE: [Invite] Physical AI Panel @ AWS Loft 04/15",
+"text": "Dear Dillon,\n\nI hope this message finds you well. I would like to request that Liu Ren (liu.ren@us.bosch.com) be removed from your email list. He appreciates the information you\u2019ve shared, but he no longer wishes to receive these updates.\n\nThank you for your assistance.\n\nBest regards,\n\nJordan Kraft\n\nResearch and Technology Center North America (CR/RTC-NA)\nRobert Bosch LLC | 384 Santa Trinita Avenue | Sunnyvale, CA 94085 | USA | www.bosch.us\nJordan.Kraft@us.bosch.com<mailto:Jordan.Kraft@us.bosch.com>\n\u200b"
+},
+{
+"id": "177807287543",
+"subject": "Updated invitation: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (eugen.solowjow@siemens.com)",
+"text": "Hi Dillon,\n\nI am unfortunately still at work, held up by an issue that came up. I will be late. Sorry for the inconvenience.\n\nBest,\n\nEugen"
+},
+{
+"id": "177807381742",
+"subject": "Declined: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (dillon@encord.com)",
+"text": "[Invite] The Rise of Physical AI @ AWS Loft\n\nHarsha Mohan has declined this invitation.\n\nHi all, \n\nWe're looking forward to welcoming everyone at Encord & Next47's Physical AI event at AWS Loft.\n\nWe're excited to be bringing together technical leaders in Physical AI & looking forward to sharing insights on innovation trends, scaling challenges, and investment opportunities in this rapidly evolving field.\n\nAgenda \n\n\u2022 \n5:30pm: Check-in + introductions\n\n\u2022 \n6:15pm: Panel discussion \n\n\u2022 \n7:00pm: Networking + food/drinks\n\nPanelists\n\n\u2022 \nKalpana Seshadrinathan, Director of Deep Learning @ Skydio\n\n\u2022 \nUlrik Stig Hansen, Co-Founder of Encord\n\n\u2022 \nRuijie (RJ) He, CEO & Co-Founder of Maniro ai\n\n\u2022 \nDr. Ivan Poupyrev, CEO & Founder of Archetype AI\n\n\u2022 \nDr. Stefan Schaal, Director of AI & Robotics @ Intrinsic ai\n\n\u2022 \nColton Dempsey, Partner @ Next47\n\nArrival Instructions & Important Details:\n\n\u2022 \nAWS GenAI Loft, 525 Market Street, 2nd Floor Courtyard Entrance, San Francisco, CA 94105 (Staircase next to Chipotle Restaurant)\n\n\u2022 \nAccessible entrance available via the lobby elevators at 525 market street main entrance\n\n\u2022 \nAWS Loft requires a form of ID to be let into the venue so please bring one\n\nPlease reach out to dillon@encord.com / maya@encord.com if there are any questions and looking forward to seeing you all soon!\n\nBest, \nEncord Team\n\nWhen\n\nWednesday 16 Apr 2025 \u22c5 1:30am \u2013 4:30am (United Kingdom Time)\n\nLocation\n\nAWS GenAI Loft, 525 Market St, San Francisco, CA 94105, USA\nView map\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "177809110210",
+"subject": "Accepted: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (dillon@encord.com)",
+"text": "[Invite] The Rise of Physical AI @ AWS Loft\n\nHarsha Mohan has accepted this invitation.\n\nHi all, \n\nWe're looking forward to welcoming everyone at Encord & Next47's Physical AI event at AWS Loft.\n\nWe're excited to be bringing together technical leaders in Physical AI & looking forward to sharing insights on innovation trends, scaling challenges, and investment opportunities in this rapidly evolving field.\n\nAgenda \n\n\u2022 \n5:30pm: Check-in + introductions\n\n\u2022 \n6:15pm: Panel discussion \n\n\u2022 \n7:00pm: Networking + food/drinks\n\nPanelists\n\n\u2022 \nKalpana Seshadrinathan, Director of Deep Learning @ Skydio\n\n\u2022 \nUlrik Stig Hansen, Co-Founder of Encord\n\n\u2022 \nRuijie (RJ) He, CEO & Co-Founder of Maniro ai\n\n\u2022 \nDr. Ivan Poupyrev, CEO & Founder of Archetype AI\n\n\u2022 \nDr. Stefan Schaal, Director of AI & Robotics @ Intrinsic ai\n\n\u2022 \nColton Dempsey, Partner @ Next47\n\nArrival Instructions & Important Details:\n\n\u2022 \nAWS GenAI Loft, 525 Market Street, 2nd Floor Courtyard Entrance, San Francisco, CA 94105 (Staircase next to Chipotle Restaurant)\n\n\u2022 \nAccessible entrance available via the lobby elevators at 525 market street main entrance\n\n\u2022 \nAWS Loft requires a form of ID to be let into the venue so please bring one\n\nPlease reach out to dillon@encord.com / maya@encord.com if there are any questions and looking forward to seeing you all soon!\n\nBest, \nEncord Team\n\nWhen\n\nWednesday 16 Apr 2025 \u22c5 1:30am \u2013 4:30am (United Kingdom Time)\n\nLocation\n\nAWS GenAI Loft, 525 Market St, San Francisco, CA 94105, USA\nView map\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "177855335665",
+"subject": "Re: [Invite] Encord AI Leaders Dinner @ Orla Santa Monica 03/27",
+"text": "Hi Jamie,\n\nTuesday 11:30am PT works for us.\n\nChat soon,\nIris"
+},
+{
+"id": "177855758552",
+"subject": "Declined: Encord <> Datalogic | NDA & Trial Success Criteria Catch-up",
+"text": "Ciao Everyone,\n\nI think we shall pass on tomorrow\u2019s alignment meeting as I do not have any significant news.\n\nlet me recap them her from Datalogic side:\n\n- NdA: I have tried to get our side prepared but need a few interactions with the lady who oversees the process and haven\u2019t heard back from her yet (did send you NdA template to see)\n\n- Directors and VPs involvement: We are getting the \u201ccentral teams\u201d (decoding libraries, etc) Directors involved but this is a slow moving process\n\n- \u201cacceptance criteria\u201d: this has to come from the team who will play the product owner tem which is not mine (device-specific R&D) there are a few candidate teams for it and internal debate is needed\n\nHope this is sounds good.\n\nI think we can resyc early May with possibly some good news (gonna be a slo-mo tho)\n\nHappy Easter y\u2019all\n\nM\n\nCONFIDENTIALITY NOTICE. This message is for the sole use of the intended recipient(s) and may contain confidential and/or privileged information. Any unauthorised review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please destroy all copies of the original message, including any and all attachments, and notify the sender immediately."
+},
+{
+"id": "177870083299",
+"subject": "Re: Physical AI Socials @AWS Loft - Apr 15",
+"text": "Hi Winnie, so sorry for the late notice, but I'll unfortunately have to\nmiss tonight's event. An unfortunate work emergency popped up and I'm going\nto have to attend to it tonight. That said, I'm excited to meet w/ the\nEncord team tomorrow to discuss your platform.\n\nBest,\nDan"
+},
+{
+"id": "177875547372",
+"subject": "Re: [Invite] Encord AI Leaders Dinner @ Orla Santa Monica 03/27",
+"text": "Hi Jamie,\nIt was a pleasure to meet you all as well. Sorry to have missed this on\nMonday - Mondays, am I right?\n\nExcite to meet up next Tuesday!"
+},
+{
+"id": "177897943237",
+"subject": "Declined: [Invite] The Rise of Physical AI @ AWS Loft @ Wed 16 Apr 2025 1:30am - 4:30am (BST) (dillon@encord.com)",
+"text": "[Invite] The Rise of Physical AI @ AWS Loft\n\nKrishna Toshniwal has declined this invitation.\n\nHi all, \n\nWe're looking forward to welcoming everyone at Encord & Next47's Physical AI event at AWS Loft.\n\nWe're excited to be bringing together technical leaders in Physical AI & looking forward to sharing insights on innovation trends, scaling challenges, and investment opportunities in this rapidly evolving field.\n\nAgenda \n\n\u2022 \n5:30pm: Check-in + introductions\n\n\u2022 \n6:15pm: Panel discussion \n\n\u2022 \n7:00pm: Networking + food/drinks\n\nPanelists\n\n\u2022 \nKalpana Seshadrinathan, Director of Deep Learning @ Skydio\n\n\u2022 \nUlrik Stig Hansen, Co-Founder of Encord\n\n\u2022 \nRuijie (RJ) He, CEO & Co-Founder of Maniro ai\n\n\u2022 \nDr. Ivan Poupyrev, CEO & Founder of Archetype AI\n\n\u2022 \nDr. Stefan Schaal, Director of AI & Robotics @ Intrinsic ai\n\n\u2022 \nColton Dempsey, Partner @ Next47\n\nArrival Instructions & Important Details:\n\n\u2022 \nAWS GenAI Loft, 525 Market Street, 2nd Floor Courtyard Entrance, San Francisco, CA 94105 (Staircase next to Chipotle Restaurant)\n\n\u2022 \nAccessible entrance available via the lobby elevators at 525 market street main entrance\n\n\u2022 \nAWS Loft requires a form of ID to be let into the venue so please bring one\n\nPlease reach out to dillon@encord.com / maya@encord.com if there are any questions and looking forward to seeing you all soon!\n\nBest, \nEncord Team\n\nWhen\n\nWednesday 16 Apr 2025 \u22c5 1:30am \u2013 4:30am (United Kingdom Time)\n\nLocation\n\nAWS GenAI Loft, 525 Market St, San Francisco, CA 94105, USA\nView map\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "177899962612",
+"subject": "Re: [Invite] Physical AI Panel @ AWS Loft 04/15",
+"text": "HI, I want to let you know I will be late as the traffic is too bad.\nThanks."
+},
+{
+"id": "177982847174",
+"subject": "Re: iMerit BiWeekly Sync Notes",
+"text": "Hi Jocelyn,\n\nThank you for your clarification,\n\nWe have informed the same to our surgeons.\n\n[image: iMerit Technology Services Pvt Ltd]\n\n*Korra Seshu Babu*\n\nManager \u2013 Projects & Delivery\n\n*iMerit Technologies Pvt Ltd*\n\ne: *korraseshu.babu@imerit.net <korraseshu.babu@imerit.net>*\n\nw: www.imerit.net\n\nm: 7702330387\n\nOn Tue, Apr 15, 2025 at 9:40\u202fPM Jocelyn Barker <jbarker@propriovision.com>\nwrote:\n\n-- \niMerit Technology Services"
+},
+{
+"id": "177994381499",
+"subject": "Re: Encord & Neubility",
+"text": "Kamil,\n\nThanks again to you and the team for organizing the demo, and we look\nforward to connecting again soon.\n\nBest regards,\n\n\uae40\ub3c4\ud658| Kim, Do Hwan\nChief of Staff\n\n2F, 115 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea, 04768\n*H:* www.neubility.co.kr\n*M:* +82-10-6209-6833\n*E:* dohwan.kim@neubility.co.kr <sypark@neubility.co.kr>\n\ubcf8 \uc774\uba54\uc77c \ubc0f \ucca8\ubd80\ud30c\uc77c\uc740 \ube44\ubc00\uc0ac\ud56d\uc774\uba70 \uc8fc\uc2dd\ud68c\uc0ac \ub274\ube4c\ub9ac\ud2f0\uc758 \ubc95\uc801\uc778 \uad8c\ub9ac\uac00 \uc788\ub294 \uc815\ubcf4\uc77c \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc758\ub3c4\ub41c \uc218\uc2e0\uc790\uac00 \uc544\ub2c8\ub77c\uba74 \ubcf8 \uc815\ubcf4\uc758\n\uc720\ucd9c, \ubcf5\uc0ac, \ubc30\ud3ec \ubc0f \uae30\ud0c0\ud589\uc704\ub294 \uc5c4\uaca9\ud788 \uae08\uc9c0\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4. \uc5b4\ub5a0\ud55c \ud615\ud0dc\ub85c\ub4e0 \ud574\ub2f9 \uc815\ubcf4\uc758 \ubcf4\uc720 \ubc0f \uc7ac\uc804\uc1a1\ud560 \uad8c\ub9ac\ub294 \uc5c6\uc73c\uba70 \uc774 \uc774\uba54\uc77c\uc744\n\uc989\uc2dc \ud3d0\uae30\ud574\uc57c \ud569\ub2c8\ub2e4. This message (including any attachments) may contain\nconfidential, proprietary, privileged and/or private information of\nNeubility. The information is intended for the use of the individual or\nentity designated above. If you are not the intended recipient of this\nmessage, please notify the sender immediately and delete the message and\nany attachments. Any disclosure, reproduction, distribution or other use of\nthis message or any attachments by an individual or entity other than the\nintended recipient is prohibited."
+},
+{
+"id": "178035475645",
+"subject": "AW: Revised Proposal",
+"text": "Hi Steffan,\n\nplease see attached the NDA in Word document.\n\nBest regards.\nMatthias Veh"
+},
+{
+"id": "178067653861",
+"subject": "Re: Encord Meeting tomorrow",
+"text": "Hi Steffan,\n\nSure. I'm ok with any time from now on.\nLet me know the time is convenient for you.\n\nRegards,\nNeoh Tze Ming\nAI Data Product Manager\n\n[cid:b3e4251d-a7b4-4571-81d2-381735c10f9a]  [cid:21d16541-a7fd-4b6c-aff0-beee38b0edd3]\nSunia Sdn Bhd\nSuite 3B-15-3A, Level 15, Block 3B, Plaza\nSentral, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur\nMobile No. : +6012-4569886\nPhone : +603-2276 6209"
+},
+{
+"id": "178074722504",
+"subject": "Mit Vorbehalt: Encord/Gebhardt - Computer Vision for Picking",
+"text": ""
+},
+{
+"id": "178090264820",
+"subject": "Re: Encord Video AOI Instructions",
+"text": "Hi Matt,\n\nThe project is now updated with the right ontology. Please note that all\nannotation types are now only bounding boxes, which is the best for our\nprocessing. Please begin the test on the annotation with your team and let\nme know if you have any questions or concerns.\n\nWe are off for Easter holidays from tomorrow to Tuesday, 22nd of April in\nDenmark but feel free to email me if there's any blockers from your side.\n\nBest\nKonstantina"
+},
+{
+"id": "178096225504",
+"subject": "Re: Encord in Tallinn",
+"text": "Hey Steffan,\n\nSorry to break the news, but it looks like the plan to meet with you guys\nhas been scrapped.\nPlease check with Henri for details and further plans once he's back :-)\n\nHave a nice rest of the week,\nRivo"
+},
+{
+"id": "178113290448",
+"subject": "Re: Encord next steps",
+"text": "Hi Eliza,\n\nI'll be in touch shortly with proposed dates for the meetings. I'm just\nwaiting to confirm everyone's availability.\n\nThanks so much for your patience,\n\nBarbara"
+},
+{
+"id": "178156179653",
+"subject": "Re: Encord & Searidge",
+"text": "Im not available this week. Can we chat in 2 weeks?"
+},
+{
+"id": "178170659015",
+"subject": "Automatic reply: Jamie Shelton - Tax Return",
+"text": "Hi,\n\nI am currently out of the office and will respond to any queries upon my return on Monday 28th April 2025.\n\nPlease forward any urgent matters on to Joshua Amin-Williams (Joshua.AminWilliams@brebners.com).\n\nThanks,\n\nAnthonia\n\nDisclaimer\n\nThe information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.\n\nThis email has been scanned for viruses and malware, and may have been automatically archived by Mimecast Ltd, an innovator in Software as a Service (SaaS) for business. Providing a safer and more useful place for your human generated data. Specializing in; Security, archiving and compliance. To find out more visit the Mimecast website."
+},
+{
+"id": "178187575501",
+"subject": "Re: AI Execs Dinner @ Harvard Club Boston",
+"text": "Hi Skander,\n\nCopying in @Charles Andersen <charlie@burro.ai>, founder and CEO at Burro\nand HBS 2014.  I'll let you follow up with details!\n\nThanks,\nMoira"
+},
+{
+"id": "178231569615",
+"subject": "Re: Whiterabbit Annotations with iMerit",
+"text": "I\u2019m confused. Eliza said Encord offers annotation services and it would\nmost likely be cost effective given we already have a contract with you and\ncan\u2019t even use the platform for most of our projects. If that\u2019s not true,\nplease don\u2019t waste my time. Thank you!\n\nLindsey Solovey\nDirector of Clinical Strategy\n(215) 620-0881\nwww.whiterabbit.ai"
+},
+{
+"id": "178246018275",
+"subject": "Automatic reply: [Invite] Encord AI Leaders Dinner @ Orla Santa Monica 03/27",
+"text": "Thank you for your email. I am currently Out of Office .\n\nPlease reach out to RobertBrown@omnimed.ai for any immediate assistance.\n\nFor an emergency, please call my cell phone 805.761.2631\n\nRespectfully,\n\nChristian Loversky\n\nChristian Loversky\nDirector of Product and Customer Success\n[cid:logo_295d0fde-c921-4c3b-9bde-c2469b1e1df9.jpg].    .       T: (888) 716-6646<tel:(888)%20716-6646>\nChristianLoversky@omnimed.ai<mailto:ChristianLoversky@omnimed.ai> - www.omnimed.<https://www.yourdomain.url>ai\n15151 Woodlawn Ave, Tustin, CA 92780\n.\n\nOmnimedl LLC Confidential/Proprietary Information - Not For Distribution\nCONFIDENTIALITY NOTICE: This message is intended for the use of the individual or entity to which it is addressed. It may contain information that is legally privileged, confidential, and/or exempt from disclosure. If you are not the intended recipient, you may not disseminate, distribute, or copy this message, or any attachment. If you received this message in error, please immediately notify the sender by telephone at (888) 716-6646 or by return email, and please delete this message, along with any attachments. Thank you."
+},
+{
+"id": "178246097122",
+"subject": "Re: [External] Encord - AI Fairness Project",
+"text": "Hi Dillon,\n\nWe are working through a few more items on our side, so will circle back\nbefore the end of next week on our proposed next steps. We appreciate your\npatience in the meantime!\n\nBest,\nIndu"
+},
+{
+"id": "178251475149",
+"subject": "Re: AI Execs Dinner @ Harvard Club Boston",
+"text": "Hi Skander, \n\n Thank you for the invitation! I would love to join but am expecting a baby and due any day now, so unfortunately won\u2019t be able to make it April 30. Please include me in the next one! \n\n Thanks again and hope it\u2019s a great event. \n\n Moira"
+},
+{
+"id": "178253843700",
+"subject": "Encord & IDC",
+"text": "Thank you.  I sent out an invitation.\nTake care, Jacki"
+},
+{
+"id": "178256291028",
+"subject": "Re: Encord in Tallinn",
+"text": "Meeting in person. Not sure about Encord overall - from what I've heard the\npricing is excessive for us ATM. That said, we like the product and it\nseems to have most of what we'd need, so I'm hoping you can sort it out :-)\n\nRivo"
+},
+{
+"id": "178259007677",
+"subject": "Re: Encord | Finding a time to chat",
+"text": "Hi Leo,\n\nI spoke too soon. We actually are doing okay with gauges, a more recent\nexperiment for us is with:\n\n- Ball Valves open and closed\nhttps://universe.roboflow.com/search?q=ball%2520valves\n- 5S Shadow or tool Boards with equipment present/missing\nhttps://universe.roboflow.com/yuangroboflow/gix-toowall-instance-segmentation\n- Doors open/closed\nhttps://universe.roboflow.com/dooropenclose/door_open_close-svc2y\n- Digital screens with various numbers\nhttps://universe.roboflow.com/nishant-4dmbx/lcd-or-7-seg\n\nWe typically use VLMs for simple \"Yes/No\" Q&A for most of these cases.\n\nBen Gowaski\nProduct Manager\n*Boston**Dynamics*\n\nOn Wed, Apr 16, 2025 at 10:30\u202fAM Ben Gowaski <bgowaski@bostondynamics.com>\nwrote:"
+},
+{
+"id": "178289022183",
+"subject": "AW: Revised Proposal",
+"text": "Hi Steffan,\n\nthanks for signing - we signed as well.\nOf course we can continue now with your proposal.\nI am out of office until 28th of April...just for information.\n\nBest regards\nMatthias"
+},
+{
+"id": "178302346484",
+"subject": "Re: AI Circle Dinner \u2013 Next Steps",
+"text": "Hi Maya,\n\nSo nice to hear from you! I\u2019m available Friday between 3:30\u20135:00 PM ET or\nMonday after 2:00 PM ET. Let me know what works best for you\u2014looking\nforward to connecting!"
+},
+{
+"id": "178322591993",
+"subject": "RE: Good Chatting Noopoor",
+"text": "Apologies Alex. Somehow your mails were being flagged as SPAM.\n\nIntroducing John, my colleague who handles Smart Cities part here in NA and Mukund, who handles all the MedTech solutions.\n\nThanks,\n          Noopoor\nCell: +1 732 986 7893"
+},
+{
+"id": "178325657828",
+"subject": "Re: AI Execs Dinner @ Harvard Club Boston",
+"text": "Hi Skander,\n\nThanks for the invite. I will be out of the country on a trip at 5/30.\n\nReza"
+},
+{
+"id": "178341182707",
+"subject": "Re: New invoice for your approval VENDBILL13134",
+"text": "Hey Parvathi\n\nCould you please provide logs for this as I doubt this is the case based on\nthe fact that I checked the accounts a few days before.\nThis has happened multiple times now, and when I've asked for logs from\nEncord's side we found that there were accounts being counted that were\nlike deletedaccount@encord.com or something and they were being counted\ntowards our active users.\n\nThanks\n\nCamilla"
+},
+{
+"id": "178342865094",
+"subject": "Re: Declined: Encord & Intuition - Product Demonstration @ Tue 15 Apr 2025 1pm - 1:45pm (BST) (skander@encord.com)",
+"text": "looks fine to me"
+},
+{
+"id": "178343139543",
+"subject": "Re: [Invite] Physical AI Panel @ AWS Loft 04/15",
+"text": "Hey Jamie,\n\nSorry we couldn't make it to the event yesterday. We got held up with an\nurgent production issue till late last night.\nWe can hopefully catch up sometime in the upcoming events or when you're\nback in SF.\n\nCheers,\nNitheesh"
+},
+{
+"id": "178355707084",
+"subject": "Re: Encord // Abundant // 1-1 meeting?",
+"text": "Thursday can do 9 or 9:30? 10 also works."
+},
+{
+"id": "178363696344",
+"subject": "Re: Project AiCCESS Model Development",
+"text": "Sorry for the calendar snafu\u2026we are all on the TEAMS link!\n\nSonia\n\nFrom: sb2814@research.rutgers.edu\nWhen: 3:00\u202fPM - 4:00\u202fPM April 16, 2025\nSubject: Project AiCCESS Model Development\nLocation: https://rutgers.zoom.us/j/96024953440?pwd=qyp5HEoh1UanTmaFZHmutaHI6hq6Uq.1\n\nSonia Bell is inviting you to a scheduled Zoom meeting.\n\nTopic: Predictive Prescription Model and Data Flow\nTime: This is a recurring meeting Meet anytime\n\nJoin Zoom Meeting\nhttps://rutgers.zoom.us/j/96024953440?pwd=qyp5HEoh1UanTmaFZHmutaHI6hq6Uq.1\n\nJoin by SIP\n96024953440@zoomcrc.com<mailto:96024953440@zoomcrc.com>\n\nMeeting ID: 960 2495 3440\nPassword: 713817\nOne tap mobile\n+13092053325,,96024953440# US\n+13126266799,,96024953440# US (Chicago)\n\nJoin By Phone\n        +1 309 205 3325 US\n        +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n        +1 646 931 3860 US\n        +1 301 715 8592 US (Washington DC)\n        +1 305 224 1968 US\n        +1 346 248 7799 US (Houston)\n        +1 360 209 5623 US\n        +1 386 347 5053 US\n        +1 507 473 4847 US\n        +1 564 217 2000 US\n        +1 669 444 9171 US\n        +1 669 900 9128 US (San Jose)\n        +1 689 278 1000 US\n        +1 719 359 4580 US\n        +1 253 205 0468 US\n        +1 253 215 8782 US (Tacoma)\nMeeting ID: 960 2495 3440\nFind your local number: https://rutgers.zoom.us/u/abkmlUAjnH\n\nIf you have any questions, please <a href=https://it.rutgers.edu/help-support/>contact the Office of Information Technology Help Desk</a>"
+},
+{
+"id": "178365435115",
+"subject": "Re: Whiterabbit Annotations with iMerit",
+"text": "Hi everyone,\n  I\u2019ve already sent over the radiologist requirements and protocols so\nplease send a proposal that matches our needs under option 1.\n\nThank you!\n\nLindsey Solovey\nDirector of Clinical Strategy\n(215) 620-0881\nwww.whiterabbit.ai"
+},
+{
+"id": "178370663640",
+"subject": "Re: Encord & Mach9",
+"text": "Hi Kevin,\n\nIt was great meeting you and some of the Encord team last night! Thank you\nfor the invite, I had a great time.\n\nThe labels extending to the edge is great, thank you for sending that. I\nhave updated my document based on the changes Encord has made since then,\nyou can find it here\n<https://docs.google.com/document/d/1mAKabyRVVc9NGqW8PrEAXR4U5prIdr6s34zYEgXqKVo/edit?usp=sharing>.\nThis document shows what we would need to potentially transition to Encord\nfor annotation, as well as a few nice to haves.\n\nLooking forward to talking about Encord Active later today!\n\nNicole"
+},
+{
+"id": "178374549708",
+"subject": "Re: [Invite] Encord AI Leaders Dinner @ Orla Santa Monica 03/27",
+"text": "I  am so the 16th if you want to send an invite\n\nGet Outlook for iOS<https://aka.ms/o0ukef>\n\nRobert Brown\nPresident\n[cid:logo_295d0fde-c921-4c3b-9bde-c2469b1e1df9.jpg].    .       T: (888) 716-6646<tel:(888)%20716-6646>\nrobertbrown@omnimed.ai<mailto:robertbrown@omnimed.ai> - www.omnimed.<https://www.yourdomain.url>ai\n15151 Woodlawn Ave, Tustin, CA 92780\n.\n\nOmnimedl LLC Confidential/Proprietary Information - Not For Distribution\nCONFIDENTIALITY NOTICE: This message is intended for the use of the individual or entity to which it is addressed. It may contain information that is legally privileged, confidential, and/or exempt from disclosure. If you are not the intended recipient, you may not disseminate, distribute, or copy this message, or any attachment. If you received this message in error, please immediately notify the sender by telephone at (888) 716-6646 or by return email, and please delete this message, along with any attachments. Thank you."
+},
+{
+"id": "178375026874",
+"subject": "Automatic reply: Encord",
+"text": "Hi,\n\nI am out of the office returning on Apr 22nd. Please contact me at +45 25606772 with anything urgent.\n\nBest,\n\nEd"
+},
+{
+"id": "178375861450",
+"subject": "RE: [EXTERNAL] Re: Re: FW: Re: Point of contract for Encord payment",
+"text": "Hello,\nAll the appropriate documents have been completed with payment processing. Unfortunately, we are unable to do anything on our terms regarding the net-60/net-30. I was advised by our supply chain management team that the vendor (encord) would need to specifically be the ones to call and make the changes to that. Our Supply Chain Management's phone number is 507-266-5551. You would have to press the option button for Vendor. I sincerely apologize for the delay.\n\nBest,\n\nLydia Schulz\nMedical Administrative Assistant to:\n    Cornelius Thiels, D.O. M.B.A. | Division of Hepatobiliary and Pancreas Surgery\n    Omar Ghanem, M.D. | Chair of Division of Metabolic and Abdominal Wall Reconstructive Surgery\n    Michelle Benish, APRN, C.N.P., M.S.N. | Division of Metabolic and Abdominal Wall Reconstructive Surgery\n    Julia Jurgensen, APRN, C.N.P., D.N.P. | Division of Metabolic and Abdominal Wall Reconstructive Surgery\n\nPhone: 507-284-2095 | Fax: 507-284-5196"
+},
+{
+"id": "178376166587",
+"subject": "Re: AWS Loft Physical AI event on 4/15",
+"text": "Great to meet you in person as well, Nick!  Hope we get to cross paths in\nperson again soon.\n\nYes, and he's a very smart, gregarious guy!  I sent him a connect on\nLinkedIn; hope he and I get to stay in touch.\n\nEvan"
+},
+{
+"id": "178390250691",
+"subject": "Re: Encord x Dolby - Exec Pitch",
+"text": "Hi Jamie,\n\nDo you folks have a slot tomorrow? I am open 9AM-10AM and 1PM-4PM PT.\nOtherwise, we can next Wednesday at 10AM PT.\n\nThanks,\nAndrea"
+},
+{
+"id": "178424735971",
+"subject": "Re: Thank you for coming!",
+"text": "Hi Nick,\n\nThank Encord for hosting such an interesting event, and thank you a lot for\nintroducing me to a lot of folks!\nI left a little bit early and missed the social session due to parking lot\nclosing soon lol, but it was one of the most inspiring evenings. I would\ndefinitely love to meet you folks again in a future event.\n\nThanks,\nLifeng"
+},
+{
+"id": "178450333935",
+"subject": "RE: Nick (Encord) & Diego (Rhombus)",
+"text": "Awesome, tks! Chat soon \ud83d\ude09\n\n[https://storage-use.letsignit.com/61eeca6fd3aa8c004f26d986/generated/effects_86b62ce8a2da663c65cedacee49f33afc309c6fb30da96d46d62b3a5.png]<https://cloud.letsignit.com/collect/bc/623362fe56beabd7b0fda6aa?p=wIf-TO7OSydTbEKfSgfv94Q5XCtspqGOS9ySd1fccT02T3EWDfIlt3XheEDifWQB5q189tdOugPO_tFf31KazpCEIhZSyMrKEv86z2lTEIbo_OEI1rr8HfBJySAfLIspAw_2F8JFw6G5NPbLSw2bsg==>\n\n[https://storage-use.letsignit.com/icons/designer/socials/Facebook--circle--black.png]<https://cloud.letsignit.com/collect/bc/623362fe56beabd7b0fda6aa?p=wIf-TO7OSydTbEKfSgfv94Q5XCtspqGOS9ySd1fccT02T3EWDfIlt3XheEDifWQB5q189tdOugPO_tFf31KazvVzXhRjIwulkZtBqPCEIIZvU7x-jvNZreByVNW8LFPH_h6_lCHIRw8gvsGu5KilDg==>\n\n[https://storage-use.letsignit.com/icons/designer/socials/RSS--circle--black.png]<https://cloud.letsignit.com/collect/bc/623362fe56beabd7b0fda6aa?p=wIf-TO7OSydTbEKfSgfv94Q5XCtspqGOS9ySd1fccT02T3EWDfIlt3XheEDifWQB5q189tdOugPO_tFf31KazpCEIhZSyMrKEv86z2lTEIasjn6M5k-UhUX79DmQhoCOttYW2qqIZhTfj83dZslHZ6hA8fSF2EWwNO7eiyX5nvI=>\n\n[https://storage-use.letsignit.com/icons/designer/socials/Linkedin--circle--black.png]<https://cloud.letsignit.com/collect/bc/623362fe56beabd7b0fda6aa?p=wIf-TO7OSydTbEKfSgfv94Q5XCtspqGOS9ySd1fccT02T3EWDfIlt3XheEDifWQB5q189tdOugPO_tFf31KazpCEIhZSyMrKEv86z2lTEIZvXWEQB9EFnTGMHp0zHr0adB-pYQdc9sVubPEQQGhh_nCxCnayIoJiCFkqsXJ2DyM=>\n\nDiego Oliveira\n\nP.\n\n+1 (434) 242\u20115912"
+},
+{
+"id": "178451304666",
+"subject": "Re: Encord",
+"text": "Hi Jamie,\n\nYes, 9am - 10am is open for me.\n\nCheers,\nTaylor"
+},
+{
+"id": "178476446948",
+"subject": "Re: [Invite] AI Leaders Dinner @ Harvard Club of Boston 04/30",
+"text": "Hi Dillon,\n\nThank you for the kind offer but I won't be attending.\n\nBest, Chris."
+},
+{
+"id": "178480739524",
+"subject": "Re: Coffee with Frederik (LinkedIn) - Suggesting some times",
+"text": "Hi\nThe proposed time is great\nSee you.\n\nOhad\n\nOhad Shitrit\nVP AI Engineering\nMobile +972-54-4265072\nmobileye.com<https://mobileye.com/>\n\n[https://static.mobileye.com/email/mobileye_logo_x2_2022.png]<https://www.mobileye.com/>"
+},
+{
+"id": "178485432553",
+"subject": "Re: Good Chatting Noopoor",
+"text": "Dest Skander, Alex,\n\nGreetings & Nice connecting with you both.\nLooking forward to speaking to you on Wed - 23rd.\n\nWith Regards\nMukund\n+91-7022976557\n\nGet Outlook for Android<https://aka.ms/AAb9ysg>"
+},
+{
+"id": "178487086285",
+"subject": "Re: Encord <> Conservation X Labs | Next Steps",
+"text": "Hi Charlotte and Leo,\n\nWe have had very productive conversations with our executives, and they\nhave been supportive.  They have asked that we wait to make any commitments\n(on Encord and other new purchases) until we hit another fiscal milestone,\nwhich we estimate to be in approximately five or six weeks.  We look\nforward to getting their go ahead at that time.  Hopefully that still works\nfor you and Encord! I understand that our pricing may expire before then,\nbut we are still very interested in moving forward once the executive team\ncan greenlight this. As with so many things, asking at the right time is\nthe key.  :)\n\nWe will keep you informed and get back to you once we have their greenlight.\n\nThank you so much for helping us make this pitch to management, which was\nvery well received.\n\n-Jason and Kirk\n\nOn Wed, Apr 9, 2025 at 3:30\u202fAM Charlotte Decaudaveine <charlotte@encord.com>\nwrote:"
+},
+{
+"id": "178488857839",
+"subject": "Re: Dolby/Encord follow-up",
+"text": "I meant to include Kris McBride in my last message.  I've added her here, as she can speak to Shriram's availability.  His schedule is quite tricky the next month or so, but once we discuss a few things internally, she can get back to you about it.\n\nThank you.\n\nBest,\nRoshni"
+},
+{
+"id": "178496176326",
+"subject": "Automatic reply: [EXTERNAL] Re: Encord Evaluation : Checkpoint and Deployment Plan Discussion",
+"text": "Hi\n\nI am OOO from 14th April 2025 to 21st April 2025. I will have no access to my mail during this time. Kindly expect delay in response to your mail.\n\nThanks\nNanditha"
+},
+{
+"id": "178538994919",
+"subject": "Re: Gong Quote",
+"text": "Hey Nick,\n\nYes, that is correct - you will have access to unlimited free collaborator\nlicenses for folks to login and listen to calls.\n\nJust to confirm before I go make a case to my director, that if I can get\nthe quote we discussed approved, you will be able to have the order form\nsigned within 24 hours.\n\nOnce I have confirmation, I'll get to work on my side with my leadership\nteam to try to get this done.\n\nBest,\n\nJamie Porter\nAccount Executive\n(847)-770-1323\njamie.porter@gong.io\n<https://gong.email-composer-webhooks.gong.io/email-tracking/clicked?email-info-token=eyJhbGciOiJIUzI1NiJ9.eyJjb21wYW55SWQiOiIyNjI4MzQ4MjAzMjg3MzIiLCJkcmFmdElkIjoicjgxMzU5NjQ5MzM4ODgxNDc0NzIiLCJsaW5rVXJsIjoibWFpbHRvOmphbWllLnBvcnRlckBnb25nLmlvIiwibGlua1RleHQiOiJqYW1pZS5wb3J0ZXJAZ29uZy5pbyIsInRlbXBsYXRlSWQiOiIiLCJleHAiOjE3NDY2NTg5ODMsImlhdCI6MTc0NDg0NDU4MywianRpIjoibXhVUWQxYzZ6bmFBIn0.oJ9vC0mNN9YY0S3oOdVHxJl0h30UII4Nc1Qzwc9b-7k>\n<https://gong.email-composer-webhooks.gong.io/email-tracking/clicked?email-info-token=eyJhbGciOiJIUzI1NiJ9.eyJjb21wYW55SWQiOiIyNjI4MzQ4MjAzMjg3MzIiLCJkcmFmdElkIjoicjgxMzU5NjQ5MzM4ODgxNDc0NzIiLCJsaW5rVXJsIjoiaHR0cHM6Ly9nb25nLmlvIiwibGlua1RleHQiOiIiLCJ0ZW1wbGF0ZUlkIjoiIiwiZXhwIjoxNzQ2NjU4OTgzLCJpYXQiOjE3NDQ4NDQ1ODMsImp0aSI6Iml4QTBMRUliN2ZJSCJ9.T-xS2V7uHGDFqvZLQw2joD-hYGOZtjlaAGeSZYQ3hVw>\nwww.gong.io\n<https://gong.email-composer-webhooks.gong.io/email-tracking/clicked?email-info-token=eyJhbGciOiJIUzI1NiJ9.eyJjb21wYW55SWQiOiIyNjI4MzQ4MjAzMjg3MzIiLCJkcmFmdElkIjoicjgxMzU5NjQ5MzM4ODgxNDc0NzIiLCJsaW5rVXJsIjoiaHR0cHM6Ly93d3cuZ29uZy5pbyIsImxpbmtUZXh0Ijoid3d3LmdvbmcuaW8iLCJ0ZW1wbGF0ZUlkIjoiIiwiZXhwIjoxNzQ2NjU4OTgzLCJpYXQiOjE3NDQ4NDQ1ODMsImp0aSI6IkM3dFdwa3ZyOWhCWiJ9.26dyqgDRabhXUkkvvNyLBlpPP-GxSCJPle9ZAIIWHNU>\n[image: Learn More...]\n<https://gong.email-composer-webhooks.gong.io/email-tracking/clicked?email-info-token=eyJhbGciOiJIUzI1NiJ9.eyJjb21wYW55SWQiOiIyNjI4MzQ4MjAzMjg3MzIiLCJkcmFmdElkIjoicjgxMzU5NjQ5MzM4ODgxNDc0NzIiLCJsaW5rVXJsIjoiaHR0cHM6Ly9zaWduYXR1cmVzLmdvbmcuaW8vdWMvNj"
+},
+{
+"id": "178715392206",
+"subject": "Re: Urgent: Next Steps for Our Partnership",
+"text": "Hi Shivant,\n\nUnfortunately I got sick so won't be able to make our meeting - scheduled\nfor Tues when you're back.\n\nThanks,\nDavid"
+},
+{
+"id": "178766755063",
+"subject": "Re: Encord in Tallinn",
+"text": "Lets wait until Henri is back and continue then.\n\nRivo"
+},
+{
+"id": "178796039398",
+"subject": "Gartner - Encord Scope Of Work",
+"text": "Hi All,\n\nI have provided a brief agenda below to make the most of our time together.\n\n\u00a0Agenda:\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nAlignment of your key priorities to Gartner\u2019s capabilities\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nEngagement roadmap & outcomes that will be achieved from investment\n\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nEstablish next steps\n\nI look forward to speaking with you then. \u00a0\n\nBest Wishes,\n\nJay"
+},
+{
+"id": "178825349333",
+"subject": "Re: Origin Medical // Subscription Renewal Inquiry \u2013 June 2025",
+"text": "Hi Eliza,\n\nAs discussed over the call, I have confirmed with Sripad, and he agrees to\nproceed with the same plan.\n\nPlease feel free to share the draft of the contract at your convenience. We\nwill review it and get back to you with any feedback or comments."
+},
+{
+"id": "178837845234",
+"subject": "RE: Encord",
+"text": "Hi Jamie,\n\nI\u2019ve scheduled our next meeting for May. Please accept as confirmation of attendance.\n\nThanks,\nJay\n\nJay Desmond\nClient Executive | UK & Ireland\nGartner\nMobile: +44 7985432038\nEmail: jay.desmond@gartner.com<mailto:jay.desmond@gartner.com>\n\nFor more information about how Gartner uses your information, please reference our Privacy Policy.\nGartner UK Limited, Tamesis, The Glanty, Egham, Surrey TW20 9AW, United Kingdom, + 44 1784 431611."
+},
+{
+"id": "178838397167",
+"subject": "Abgelehnt: Encord/Gebhardt - Computer Vision for Picking",
+"text": "Dear Alex,\n\ni didn\u2019t pay attention to the date of our Meeting because \u00a0the first of May \u00a0is a legal holiday in Germany, sorry i cancle the meeting.\n\nBest regards\n\nAlex"
+},
+{
+"id": "178894550208",
+"subject": "Automatische Antwort: Revised Proposal",
+"text": "Sehr geehrte Damen und Herren,\nvielen Dank f\u00fcr Ihre E-Mail.\nIch bin vom 17.04.25- 27.04.25 au\u00dfer Haus.\nSie erreichen mich wieder ab 28.04.25.\nIn dringenden F\u00e4llen k\u00f6nnen Sie sich an Celil Bal wenden:\nCelil.Bal@wanzl.com\n+4982217296940"
+},
+{
+"id": "178922022074",
+"subject": "Automatische Antwort: Revised Proposal",
+"text": "Dear Sir or Madam,\n\nThank you for your message.\n\nI am currently out of office. I will be available again starting from April 24.\n\nYour e-mail will not be forwarded. I will answer it when I am back. If you have any questions you may also contact Benny B\u00fchler (benny.buehler@wanzl.com) or Heiko Raible (heiko.raible@wanzl.com).\n\nThank you for your understanding!\n\nSincerely yours,\nGerhard Helfrich\n\nGerhard Helfrich\n\nComputer Vision & AI Engineer\n\nSoftware Solutions\n\nWanzl GmbH & Co. KGaA\n\nRudolf-Wanzl-Stra\u00dfe 4\n\n89340 Leipheim\n\nGermany\n\nPhone +49 (0) 8221 / 7290\n\ngerhard.helfrich@wanzl.com<mailto:gerhard.helfrich@wanzl.com>\n\nwww.wanzl.com<http://www.wanzl.com/>\n\nWanzl GmbH & Co. KGaA\nSitz der Gesellschaft: Leipheim\nRegistergericht: Memmingen, HRB 18559\nUST-Id-Nr.: DE 260224206\n\nVorsitzender des Aufsichtsrats: Prof. Dr. Reinhard Poellath\n\nPersoenlich haftende Gesellschafterin: Wanzl International Verwaltungs-GmbH, Sitz der Gesellschaft: Leipheim, Registergericht: Memmingen, HRB 18463\n\nGeschaeftsfuehrer: Peter Allaart (Vorsitzender), Alexander Kienle, Bernhard Renzhofer, Andreas Starzmann\n\nDie Informationen in dieser E-Mail samt etwaigen Anhaengen sind vertraulich und koennen Geschaeftsgeheimnisse enthalten. Die E- Mail ist ausschliesslich fuer den Adressaten bestimmt. Jeglicher Zugriff auf sie durch andere Personen als den Adressaten ist untersagt. Sollten Sie nicht der fuer diese E-Mail bestimmte Adressat sein, ist Ihnen jede Veroeffentlichung, Vervielfaeltigung oder Weitergabe sowie jegliche Nutzung der erlangten Informationen untersagt; bitte verstaendigen Sie in diesem Fall den Absender durch Rueckantwort oder telefonisch unter der in der Signatur genannten Nummer ueber den irrtuemlichen Erhalt der E-Mail und loeschen Sie anschliessend die E-Mail.\n\nWanzl ist der Schutz Ihrer Daten wichtig. Die Informationen zur Verarbeitung Ihrer Daten nach der DSGVO finden Sie online in den Datenschutzhinweisen<https://www.wanzl.com/de_DE/Datenschutzinformation-fuer-Webseite>\n\nThe inf"
+}
+]

@@ -1,0 +1,239 @@
+SENDER: tom.inglis
+7 sample first-touch emails
+
+--- email (subject: Re: Strategic Partnership: Accelerating Encord + Google Cloud GTM) ---
+Hi Clemmie,
+
+Great to connect, unfortunately none of these times work for me this week,
+do you have any additional time Tuesday at 4pm, Thursday after 3pm or some
+time for next week?
+
+Best,
+Tom
+
+--- email (subject: Encord - Booking Inquiry) ---
+Hi Christopher,
+
+Thank you for booking some time to chat, I'd love to understand how I can
+help/ what you are looking to understand about Encord
+
+Best,
+Tom
+
+--
+
+Tom Inglis
+
+Email: tom.inglis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3kBW2q5wqF3WLjm3W7cXXB-7fHsS6W4lDjqv75WkGqN8klSyf1f7HPW7wJ8Cm7jPxLHW35NpLp83yk17F4wXGwtkLHlW3xWCyD2D7m11W8Rs3vH2HgXT_Vg-dF_8zlLXwW1vMjlm2bkH04W7gpmGp3LdVQyW7WXBv73NbfnDVXY3cJ4gxjvgW40HK8d8W078LW8gyypZ3bf1GKTPY2m6HTtk0MMtW9RKrtXhW3Vfhwb7pSr4pW2hP3z43rJv9tW5WKpnn6gv3fvW96pCZW7LhjDkW7rd1-S5wtT45VGXMdN8V426Sddc1qW04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Encord - Next Steps) ---
+Hi Jessica and Rene,
+
+Great speaking with you both on Friday - thanks for the time and for
+walking me through the project in detail.
+
+To summarise where we landed:
+
+- You're annotating DICOM cardiac scans across three planes to build a
+segmentation model targeting the mitral valve, myocardium, and papillary
+muscle
+- The immediate priority is getting through the remaining ~4,000 mitral
+valve images, with the other two features to follow
+- Key areas where Encord can help: native DICOM support (removing the
+manual extraction step), SAM-based auto-segmentation to reduce annotation
+time, multi-planar viewing with 3D composite visualisation, and a
+structured review workflow for your client to provide feedback directly
+- You also have some existing 3D Slicer annotations from your client that
+we should be able to import - we'll confirm the exact pathway ahead of the
+demo
+
+You should now have an invitation to Wednesday's call.
+
+If you're able to share a sample DICOM or 3D Slicer file ahead of
+Wednesday, we can use your actual data during the session.
+
+I'll also have some indicative pricing across to you before Wednesday.
+
+Any questions in the meantime, just let me know.
+
+Best,
+Tom
+
+--
+
+Tom Inglis
+
+Account Executive
+
+Email: tom.inglis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3pjW4_bhxK1Y96KpW6lkRkh3JCRyyW5NTLlp7NDlvhW3Xb4rd1px8N_N89mssDfMPLCW4tHgH11NmbHZW7gFm455m9X0WW39bF6k8KG3L9W20WCMZ3wJkhrW5HNv2M8hhwhLW3MPXns1MSMblW64RhsR6j6XYjW2T03vX5Kk67ZW5cZZ9d3V5s4CW3xtlZF67VJCBN2Nkzcl23KZDW32rvfD2f1gfbW3zt6GS4VSNPYW84Hdf52TnC0TW1dG4p74mJ2ZmW5lSJ-Y1fQRpxW5pvPxm84NHm5W5x3gvM1v4YgxW8MRVgW7ClJKnf5QWcM-04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files tr
+
+--- email (subject: Encord - Next Steps) ---
+Hi all,
+
+Thanks for the time today - really valuable to hear where things are
+heading, especially on the UGC scaling and the in-house TTS model build.
+
+Agreed next steps:
+
+   - *Data audit (Shubham)* - once you've completed the data inventory and
+   pipeline scoping (1 month), loop us in to define a POC around data curation
+   and annotation for the expressive TTS model.
+   - *Demo / platform walkthrough* - Shubham, please connect us with your
+   research team when ready end of next week/ beginning of the following. This
+   will give them direct visibility into how Encord handles large-scale audio
+   annotation before the POC.
+   - *Video gen introductions (Jatin)* - appreciate you looping in Balaji
+   and Shreyash Mishra. Hugo and I will follow up with both on the video
+   fine-tuning and RL pipeline angles.
+
+In addition I will share some more case study and product information you
+can share with the team
+
+Looking forward to next steps,
+
+Best,
+Tom
+--
+
+Tom Inglis
+
+Account Executive
+
+Email: tom.inglis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3l9W5ghHY99c4-HgW7dTN2V37QzX2VhS5DJ4wjS28W293q5K369360W2BKxf719Wb-ZW14ffRn8YvMVXW8b9H3h4ljpzDW7d-Kqf5Sm0bbW1PsKxV6hQKSLW4J8QQ12J2v-1W7D5RB_8N1STjW1LNX0s2k6ngRW6HLMR85S4j8LW2Zhd7H3Z9hMvW4zr9KC55TNJDVXw6pk4P0t7nW1fDfWX6_RYvKW1HS8hd5rYyGlW493bh24mBgQSW3lPj4p7C7fJBW8ML_ym6xxZHqW9l_s227nZYnSW32vbxF5v_YQgN1Y-PNP9kkqCf5b9Vt604>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email
+
+--- email (subject: Encord Booking) ---
+Hi Louis
+
+Thank you for reaching out, I see you cancelled the time you booked in, is
+there a time today that works better for you?
+
+Best,
+Tom
+
+--
+
+Tom Inglis
+
+Email: tom.inglis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3mtW4G6HKG3g63gHW7rW5VZ97HRBTVcMV4-5Zbt9PW3HFyyx66YhrqW7VpXXn8MThBFW46LNVZ6pYHQ0W7n6zm73dDPsGW8S7LmW2T197QW9bWp5S6L6M4KW8s4rDC79zxhCW2B1JZ39fZwW9W56clTl7bpVhvW45PR4Y6jjBtjW5z_ZTZ8KB-f0W7f6fcJ6RDD9qW2XZsHR6ZFYygW5cRh5t1ySNcMW3ltHnM4z2ZbbW5rDqTB7g4WjpW5nRCnY1_LgbJW5WGrhw939lvTW21CCmX8DXCDBN1fq6q83PPdLW3vphYh3t2gHbf2c-c6C04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Encord - Next Steps) ---
+Hi all,
+
+Thank you for the time today. It was a pleasure to meet the team and to
+hear how you are approaching AI across trajectory planning and
+intraoperative tracking, from the segmentation and registration work on MRI
+and CT through to the multi-target biopsy planning you are starting to
+build out. As promised, I have shared the deck we went through.
+
+What we would like you to get out of Friday is: a clear understanding of
+the product, a view of what sensible next steps look like, and a potential
+test case we could scope together.
+
+If there is anything specific you would like us to cover, send it over and
+we will build it in.
+
+Speak Friday,
+Tom
+
+-- 
+
+Tom Inglis
+
+Healthcare Lead
+
+Email: tom.inglis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3kwW27SbnF8-1S7hW8RBwmw1dK-KFV3bpj15nKPsmVjfsgV6CJTDYW5fnCT98XgvFLW2Pkn8t974G6CW1CQ9J-2Vd5HxW8fBh-c9gWjJVN8WVTql3VQ1nW3RxgJc3X-01hW4VH5BF15KY2pN9jbYQKqJdK_W8gfNXh7kYSVXVn8-b573Wt9KW8RlLrd1-9KlsW2sPYhv5jhRsMW8gzgPX1hdk9nW5vFB771Q-mtnW4jvj3G2QxlhpN6r1dXfdNNWLW2LCvQX55bF-wVT3zR68HbrrWW1XgFYN9fYlycW7zH0_M1588d5f1rtmn-04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Re: SRS 2026 Prospectus) ---
+Hi Tyler,
+
+Thank you for this, we have no signed up and are looking forward to the
+event!
+
+2 questions from my side:
+1) would it be possible to have an updated attendee list
+2) will their be an app/ way of networking closer to the event? rather than
+us constantly asking for an updated attendee list
+
+Best,
+Tom
+
+On Mon, 15 Jun 2026 at 17:20, Tyler Gillespie <tgillespie@veritasamc.com>
+wrote:
+
+-- 
+
+Kind Regards
+
+Tom Inglis
+
+Account Executive
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*

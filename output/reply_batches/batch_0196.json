@@ -1,0 +1,402 @@
+[
+{
+"id": "497952130256",
+"subject": "Re: Following up from the Humanoids Summit",
+"text": "Hi Will,\n\nThank you for taking the time to meet with us today. It was great to learn\nmore about Encord.\nWe are excited about the complementary fit between our companies!\nAPTO collecting raw robotics and teleop data and Encord handling the\nannotation and the opportunity to support each other in the Japanese and\nUS/European markets.\n\nWe've gone ahead and set up the shared Slack channel, you should have\nreceived an invitation email from Takashina. Please let us know if it\nhasn't come through.\n\nOn our side, we will keep an eye out for any customers with data collection\nor annotation needs where a partnership would apply. We understand you will\nbe checking in with your engineering and commercial teams as well. Once we\nidentify a concrete project, we can move toward an NDA as the next step.\n\nLooking forward to working together.\n\nBest regards,\nShun\n\nOn Wed, Jun 17, 2026 at 12:43\u202fPM William Purvis <william.purvis@encord.com>\nwrote:"
+},
+{
+"id": "497952637174",
+"subject": "Re: Encord intro",
+"text": "Hi Joe,\nApologies for missing the earlier discussion and for the delayed response.\nThis week and the upcoming week are quite hectic on my end, so I may not be able to find a suitable slot during this period. In the meantime, it would be really helpful if you could share some materials or resources about Encord that I can review.\nI\u2019ll get back to you once my schedule eases up so we can reconnect.\nThanks for your understanding.\nBest regards,\nSarthak"
+},
+{
+"id": "498089081040",
+"subject": "RE: Proposal timelines",
+"text": "Hi James,\nTomorrow is national vacation in Sweden. We can discuss next week. We are planning to close of the supplier comparison before the summer vacation. Lets discuss on Wednesday 16:00 cet?\n\nMohamed"
+},
+{
+"id": "498089706744",
+"subject": "Re: Bytedance <> Encord - training data",
+"text": "Hi Matt,\n\nI have some points that need clarification and\u00a0 discussion as follows:\n1. Please find the attached data spec for your reference. We categorize data into three tiers: L1 raw data, L2 hand tracking, and L3 text annotation. The spec is only for reference, as all data we purchased previously was off-the-shelf data.\n2. In terms of raw data, there are three variants: ego-head only, ego + wrist cameras, ego + wrist + exo third-person view. Could you provide separate pricing and weekly production capacity for each type?\n3. On top of raw data, hand tracking and text annotation services will be required. Please quote the respective fees for these two annotation types. Also, could you share the accuracy metrics of your hand tracking, the granularity level of your text annotations, and provide relevant samples for our review?\n4. The samples you provided earlier generally meet our baseline requirements, yet there remain several critical issues. For one thing, the MANO model was not configured with the camera\u2019s actual intrinsic parameters. In addition, the third-person view cameras were placed too far from the subjects in the footage.\n5. Regarding environments, I\u2019d like to know the price differences between them. If third-person view footage can be captured in household scenes, I believe it will meet our requirements.\n\n[image]\n\nPlease let me know if you have any questions.\n\nBest,\nMeng"
+},
+{
+"id": "498091508980",
+"subject": "Accepted: James & Mohamed",
+"text": "This email message (including its attachments) is confidential and may contain privileged information and is intended solely for the use of the individual and/or entity to whom it is addressed. If you are not the intended recipient of this e-mail you may not\n disseminate, distribute or copy this e-mail (including its attachments), or any part thereof. If this e-mail is received in error, please notify the sender immediately by return e-mail and make sure that this e-mail (including its attachments), and all copies\n thereof, are immediately deleted from your system. Please further note that when you communicate with us via email or visit our website we process your personal data. See our privacy policy for more information about how we process it: https://www.volvogroup.com/en-en/privacy.html"
+},
+{
+"id": "498098625741",
+"subject": "New Time Proposed: James & Mohamed",
+"text": "This email message (including its attachments) is confidential and may contain privileged information and is intended solely for the use of the individual and/or entity to whom it is addressed. If you are not the intended recipient of this e-mail you may not\n disseminate, distribute or copy this e-mail (including its attachments), or any part thereof. If this e-mail is received in error, please notify the sender immediately by return e-mail and make sure that this e-mail (including its attachments), and all copies\n thereof, are immediately deleted from your system. Please further note that when you communicate with us via email or visit our website we process your personal data. See our privacy policy for more information about how we process it: https://www.volvogroup.com/en-en/privacy.html"
+},
+{
+"id": "498101579992",
+"subject": "Re: [External] Re: Proposed new time: Encord x GrabMaps | Physical AI Demonstration @ Thu 18 Jun 2026 9am - 9:45am (BST) (yianni@encord.com)",
+"text": "Hey Yianni,\n\nThanks for accommodating mate.\n\nSure, feel free to add me and Adam to the sync tomorrow.\nThanks a bunch.\n\nRajat\nOn Thu, 18 Jun 2026 at 2:32\u202fPM, Yianni Manolakakis <yianni@encord.com>\nwrote:\n\n-- \n\nBy communicating with Grab\u00a0Holdings Limited\u00a0and/or its subsidiaries, \nassociate companies and jointly controlled entities (collectively,\u00a0\u201cGrab\u201d), \nyou are deemed to have consented to the processing of your personal data as \nset out in the Privacy Notice which can be viewed at\u00a0\nhttps://grab.com/privacy/\u00a0 <https://grab.com/privacy/>\n\n\u00a0This email \ncontains confidential information\u00a0that may be privileged\u00a0and is only for \nthe intended recipient(s). If you are not the intended recipient(s), please \ndo not disseminate, distribute or copy this email.\u00a0Please notify Grab \nimmediately if you have received this by mistake and delete this email from \nyour system. Email transmission\u00a0may not\u00a0be secure or error-free as any \ninformation\u00a0could be intercepted, corrupted, lost, destroyed, delayed or \nincomplete, or contain viruses. Grab does\u00a0not accept liability for any \nerrors or omissions in\u00a0this email\u00a0that\u00a0arise as a result of email \ntransmission. All intellectual property rights in this email and\u00a0any\u00a0\nattachments\u00a0shall remain vested in Grab, unless otherwise provided by law"
+},
+{
+"id": "498107637984",
+"subject": "Re: Hitech x Encord x Annotation",
+"text": "Dear Burke,\n\nWe have reviewed the project instructions and training video and are clear on the requirements. Our team is ready to proceed with the POC.\n\nCould you please create user accounts for our team on the Encord platform as per the list provided below and grant access for a period of five days?\n\nName\nEmail\nRole\nPratheesh\npratheesh.a@hitechdigital.com\nAnnotator\nAjay\najay.tiwari@hitechdigital.com\nAnnotator\nSumit\nsumit.yadav@hitechdigital.com\nAnnotator\nSagnik\nsagnik.banerjee@hitechdigital.com\nAnnotator\nAbhilash\nabhilash.vjain@hitechdigital.com\nAnnotator\nBiju Peter\nbiju.peter@hitechdigital.com\nReviewer\n\nAlso, it would be great if you can provide us with some additional information regarding this project;\n\n  1.\nWhat is the average duration of each video?\n  2.\nAre there any specific guidelines regarding the minimum and maximum length of each video segment?\n  3.\nIs there a limit on the number of characters that can be included in the captions?\n\nThank you for your support. We look forward to getting started\n\nSincerely,\n\nBiju Peter\n\n[Logo, company name  Description automatically generated with medium confidence]\n\nBIJU PETER  |  Sr. Manager\n\nHitechDigital  |  INDIA  |  USA  |  UK\n\n+91 974 754 7799 |  hitechdigital.com<http://www.hitechdigital.com/>\n\n[Facebook]<https://www.facebook.com/HitechDigitalSolutionsLLP/> [Linkedin] <https://www.linkedin.com/company/hitechdigitalsolutions/>   [Twitter] <https://twitter.com/HiTech_OS>"
+},
+{
+"id": "498112823510",
+"subject": "Re: Follow up calls",
+"text": "Hi Jagan,\n\nAs mentioned on our call yesterday, could you please run the homography\ntest for the following project in our account?\n\nProject Name: homography_test\nProject ID: a50ee9e6-f26e-4b16-bc05-0e3d1efb3125\n\nI look forward to our next call in a couple of hours.\n\nBest regards,\n\nKiran Guragai"
+},
+{
+"id": "498117262523",
+"subject": "Re: catch up after ICRA",
+"text": "Hi Kat,\n\nI will not be able to meet at the provided time. Perhaps we can reschedule.\nHowever, I'd also like to clarify the meeting agenda. I don't have the\nauthority to decide on adopting your product and my team wouldn't be\nparticularly interested in it either.\n\nThank you.\n\nBest regards,\nAaron"
+},
+{
+"id": "498229925059",
+"subject": "Accepted: Encord <> Eka | Workshop @ Mon 22 Jun 2026 8am - 9am (GMT-7) (william.purvis@encord.com)",
+"text": "Encord <> Eka | Workshop\n\nKyle Neblett has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/qpu-gkri-pfh\n\nJoin by phone\n\n(GB) +44 20 3910 5423 \nPIN: 972206930\n\nMore phone numbers\n\nWhen\n\nMonday 22 Jun 2026 \u22c5 8am \u2013 9am (Pacific Time - Los Angeles)\n\nGuests\n\nwilliam.purvis@encord.com\n- organiser\n\nskander@encord.com\n\njames.watson@encord.com\n\nKristian Hartikainen\n\nSophia MacQueen Pooler\n\nPratik Kunapuli\n\nKyle Neblett\n\nandrew@encord.com - optional\n\noscar@encord.com - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "498244120793",
+"subject": "Re: [Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Laura, thank you, I would respectfully decline.\n\nOmar"
+},
+{
+"id": "498250992863",
+"subject": "Re: Encord - Introduction Request",
+"text": "Hi Andrew and Leo,\n\nNice to meet you!\n\nI want to connect you with Albert. He can give you the full picture of how we do things and where there could be a good fit between us.\n\nI'll loop him in so you can coordinate the invite directly.\n\nUn abrazo!\n\nCarla G\u00f3mez\ncarla@theker.eu<mailto:carla@theker.eu>\ntheker.ai<https://www.theker.ai/>\nCarrer Pere IV 78, planta 1, 08005, Barcelona\n[Texto  Descripci\u00f3n generada autom\u00e1ticamente]\nEste mensaje y sus archivos adjuntos pueden contener informaci\u00f3n confidencial, no estando permitida su comunicaci\u00f3n, reproducci\u00f3n o distribuci\u00f3n. Si usted no es el destinatario final, elim\u00ednelo e inf\u00f3rmenos por esta v\u00eda.\nDe conformidad con lo dispuesto en la normativa vigente en materia de protecci\u00f3n de datos, le informamos que los datos personales ser\u00e1n tratados bajo la responsabilidad de THEKER para resolver su consulta. Los datos ser\u00e1n conservados el tiempo necesario para resolver su consulta y no ser\u00e1n cedidos a terceros, salvo obligaci\u00f3n legal. Puede ejercer los derechos de acceso, rectificaci\u00f3n, portabilidad, supresi\u00f3n, limitaci\u00f3n y oposici\u00f3n enviando un correo electr\u00f3nico a gdpr@theker.eu<mailto:gdpr@theker.eu> y si considera que el tratamiento no se ajusta a la normativa vigente, podr\u00e1 presentar una reclamaci\u00f3n ante la autoridad de control en www.aepd.es<https://www.aepd.es/>.\nThis message and its attachments may contain confidential information, being its communication, reproduction or distribution not allowed. If you are not the final recipient, delete it and inform us by this way.\nIn accordance with the provisions of current legislation on data protection, we inform you that personal data will be processed under the responsibility of TheKer to solve your question. User\u2019s personal data will only be kept for as long as necessary to achieve the purposes for which they were collected, as long as the consents given have not been revoked. You can exercise the rights of Access, rectification, portability, deletion, limitation and opposition by"
+},
+{
+"id": "498265622715",
+"subject": "Re: Encord - nice to meet + intro to data mining team",
+"text": "Hi Dmitry,\n\nI met the Encord team during CVPR and their data mining tools might be\nuseful for Stack.\n\nI'm just making the introduction. James will be the main contact if you\nwant to explore more.\n\nThank you!\n\nOn Wed, Jun 17, 2026, 4:46\u202fAM James Sweeney <james.sweeney@encord.com>\nwrote:"
+},
+{
+"id": "498289768647",
+"subject": "Re: Hugo from Encord - demo organisation",
+"text": "Hi Maira,\n\nNice to meet you! I\u2019ve got good availability next week for the following:\n\n  *\nMonday 22-Jun: 1 - 2pm\n  *\nTues 23-Jun: 2 - 3pm or 3 - 4pm\n\nLet me know which of those work best for you and I\u2019ll send an invite across.\n\nAware you\u2019re just down the road from us in Holborn, so would be happy to do this in person at Encord's office and squeeze a coffee in too if that works?\n\nBest wishes,\nZach\n\nZach Sheridan\nAccount Executive, Luminance\nMobile: +44 <tel:+447386967634> 7917308634  | 2 Fitzroy Place, 8 Mortimer Street, London, W1T 3JJ\n\n[signature_3786254506]\nLuminance.com<https://urldefense.proofpoint.com/v2/url?u=https-3A__luminance.com_&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=-l1HFAFnxEBA8-K3OWD7jJCd2esdxXBbncTwHSL4vT8&m=U7uFUkI-nDFPF-UiCpISZYfA6dBdXc9iOGR38eSzKQ52BaA76YoAkjyK0j9X5Nlk&s=nsw3ovGSXvirr08_PY7dliELKRafzor8ilhB8okqDVo&e=>\nLinkedIn<https://www.linkedin.com/in/zachsheridan1997/>\nAbout Luminance\nDeveloped by AI experts from the University of Cambridge, Luminance\u2019s Legal-Grade\u2122 AI automates and augments every touchpoint a business has with its contracts. Its Mixture of Experts approach - known as the \u201cPanel of Judges\u201d - uses probabilistic consensus to ensure legal-grade accuracy during contract generation, negotiation and post-execution analysis. Trusted by over 1,000 customers in 70+ countries including a quarter of the world\u2019s largest law firms and multinational organisations across industries, from AMD and National Grid to LG Chem and DHL, Luminance\u2019s end-to-end platform brings specialist AI to wherever computer meets contract."
+},
+{
+"id": "498291895486",
+"subject": "Re: we chatted on the phone - encord | working w/ moon surgical & mmi",
+"text": "Hi Yuvi,\n\nThanks for connecting and reaching out. I do not think I am the right person for this, so I don't believe there is any reason for us to talk further. However, I am forwarding this information to our head of SW here at Swan, and if they are interested, I will connect you both.\n\nThanks,\n\nDimitri"
+},
+{
+"id": "498298903801",
+"subject": "RE: Encord - Invoicing eProcurement System",
+"text": "Good morning Will.\n\nI haven\u2019t forgotten about you. I have a message in to the ariba invoicing team to see how this next step is handled. I did get confirmation from them earlier this week that you have officially been set up. Just waiting to hear how they communicate that to you.\n\nVicki Blumb| UHG\nAssociate Director\nEnterprise Procurement\n2 Optum Circle\nEden Prairie, MN 55344\nDesk : 952/936-6678\nvicki_blumb@uhg.com<mailto:vicki_blumb@uhg.com>\n\n[cid:image001.png@01DCFF0D.3DA4CAE0]"
+},
+{
+"id": "498309608649",
+"subject": "Re: Encord <> Eka | Demo",
+"text": "I created the Google Drive folder and shared it with everyone.  Please let\nme know if you are unable to access it.\n\nToday we will upload the data and confirm here when it's ready for you to\nset up the platform.\n\nThanks,\n\nKyle\n\nOn Thu, Jun 18, 2026 at 10:45\u202fAM William Purvis <william.purvis@encord.com>\nwrote:"
+},
+{
+"id": "498311379188",
+"subject": "Re: Yianni (Encord) x F\u00e9lix | Sync",
+"text": "Hi Yianni,\n\nNice to hear back from you. We\u2019re definitely still interested but are currently working out funding. Can you remind me the licence fee for 1 year?\n\nKind regards,\n\nF\u00e9lix Buyck\n\nSent from Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "498321954036",
+"subject": "Re: Following up from the Humanoids Summit",
+"text": "Hi Will,\n\nJust following up on my previous email. We haven't heard back yet, so I\nwanted to check whether the Slack channel invitation from Takashina reached\nyou okay. If it didn't come through, please let us know and we'll resend it.\n\nJust in case, here are the email addresses of our team members on the APTO\nside for your reference:\n\n  - takashina@apto.co.jp\n  - y.karino@apto.co.jp\n  - endo@apto.co.jp\n  - y.li@apto.co.jp\n  - j.lee@apto.co.jp\n\nLooking forward to connecting in the channel.\n\nBest regards,\nShun"
+},
+{
+"id": "498346839232",
+"subject": "Re: [EXTERNAL] Updated invitation: Encord <> Intuitive Surgical @ Thu 11 Jun 2026 10pm - 10:30pm (BST) (santosh.balasubramanian@intusurg.com)",
+"text": "Leo -\nThanks for the check-in; we are still reviewing our options internally.\n\nThat said, last week before I met Adithya, I had sent a few questions (I will paste below here again). Some Adi and I discussed, some needs answers from Encord's side. I hope this made it to you as you mentioned that Adi is on vacation this week.\n\nthese are the questions that had come up during our internal review.\n\n  *   Scope of \u201c1M Frames\u201d: Clarify what is specifically covered under the \u201c1 million frames\u201d definition.\n  *   Evaluating Annotation Capabilities: Identify alternatives to a full pilot for assessing Encord\u2019s capabilities, and confirm whether they can provide time and cost estimates based on a sample workflow we share.\n  *   Surgeon Qualification Process: Understand how Encord validates and certifies surgeons participating in annotation work.\n  *   Tiering for Generalists: Explore whether tiered structures can be introduced to account for varying task complexity, including differentiated rates for more advanced work to reduce churn.\n  *   Pricing Flexibility at Scale: Given the expected volume of annotation needs, assess opportunities for additional pricing concessions.\n  *   Seat Model Flexibility: Determine how flexible Encord\u2019s seat model is, particularly for ad hoc participation, and compare to models like Labelbox that offer unlimited seats for greater workflow flexibility.\n\nWhen can we have answers for this?\n\n--\nSantosh Balasubramanian\nO: (408) 523-9654"
+},
+{
+"id": "498361236687",
+"subject": "Re: Declined: [Hold] Tzafon & Encord - catch up @ Thu 2 Jul 2026 11am - 11:15am (PDT) (laura.zhu@encord.com)",
+"text": "Hi, Ill be OOO for a few weeks, please reach out to Simon in case you have Qs :) \n\n Alice"
+},
+{
+"id": "498378511573",
+"subject": "Re: Encord - Introduction Request",
+"text": "Hi Andrew,\n\nGreat, see you tomorrow!\n\nBest,\n\nAlbert Badias\n\nalbert[Forma  Descripci\u00f3n generada autom\u00e1ticamente con confianza baja]theker.eu\n\n+34 689 346 243<tel:+34689346243>\ntheker.eu<http://www.theker.eu/>\n\nCarrer Pere IV 78, planta 1\n08018 Barcelona\n\n[Texto  Descripci\u00f3n generada autom\u00e1ticamente]\n\nEste mensaje y sus archivos adjuntos pueden contener informaci\u00f3n confidencial, no estando permitida su comunicaci\u00f3n, reproducci\u00f3n o distribuci\u00f3n. Si usted no es el destinatario final, elim\u00ednelo e inf\u00f3rmenos por esta v\u00eda.\nDe conformidad con lo dispuesto en la normativa vigente en materia de protecci\u00f3n de datos, le informamos que los datos personales ser\u00e1n tratados bajo la responsabilidad de TheKer para resolver su consulta. Los datos ser\u00e1n conservados el tiempo necesario para resolver su consulta y no ser\u00e1n cedidos a terceros, salvo obligaci\u00f3n legal. Puede ejercer los derechos de acceso, rectificaci\u00f3n, portabilidad, supresi\u00f3n, limitaci\u00f3n y oposici\u00f3n enviando un correo electr\u00f3nico a gdpr@theker.eu<mailto:gdpr@theker.eu> y si considera que el tratamiento no se ajusta a la normativa vigente, podr\u00e1 presentar una reclamaci\u00f3n ante la autoridad de control en www.aepd.es<http://www.aepd.es/>.\nThis message and its attachments may contain confidential information, being its communication, reproduction or distribution not allowed. If you are not the final recipient, delete it and inform us by this way.\nIn accordance with the provisions of current legislation on data protection, we inform you that personal data will be processed under the responsibility of TheKer to solve your question. User\u2019s personal data will only be kept for as long as necessary to achieve the purposes for which they were collected, as long as the consents given have not been revoked. You can exercise the rights of Access, rectification, portability, deletion, limitation and opposition by sending an email to gdpr@theker.eu<mailto:gdpr@theker.eu> and if you consider that the treatment does not comply with current "
+},
+{
+"id": "498421253323",
+"subject": "Accepted: Encord <> Twolabs Catch Up @ Mon 22 Jun 2026 3:30pm - 4:15pm (GMT-7) (william.purvis@encord.com)",
+"text": "Encord <> Twolabs Catch Up\n\nSardor Rahmatulloev has accepted this invitation.\n\nWhen\n\nMonday 22 Jun 2026 \u22c5 3:30pm \u2013 4:15pm (Pacific Time - Los Angeles)\n\nGuests\n\nwilliam.purvis@encord.com\n- organiser\n\nmoritz@encord.com\n\nSardor Rahmatulloev\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "498426807526",
+"subject": "Re: Encord <> Eka | Demo",
+"text": "Data is uploaded now. A subset of the data has rosbags containing rgb\nimages from the base camera; the vast majority of the data does not. Video\nclips and rosbags are labelled with success or failure modes (drop, franka\nerrors, etc). As mentioned earlier, trials labelled timeout mostly contain\nerror modes we aren't able to better categorize. Let me know if you have\nany questions.\nThanks,\nSophia\n\nOn Thu, Jun 18, 2026 at 11:02\u202fAM William Purvis <william.purvis@encord.com>\nwrote:"
+},
+{
+"id": "498430276801",
+"subject": "RE: PG&E <> Encord SaaS Agrrement Redlines",
+"text": "colin@encord.com (Office365@messaging.microsoft.com) has sent you a secure message. \n\nRead the message \n\nThis is an encrypted email sent from PG&E. \n\n This email and its content are confidential and intended solely for the use of the addressee. Please notify the sender if you received this email in error or simply delete it.\n Privacy Statement \n\n Learn More on email encryption. \nMicrosoft Corporation, One Microsoft Way, Redmond, WA 98052"
+},
+{
+"id": "498432167130",
+"subject": "Re: Quick Request",
+"text": "Seif,\n\nOur new chief marketing officer has asked to change wording as such:\n\nShe mentioned that we will have to post it on the company linkedin instead\nof a founder, is that OK?\n\nRegards,"
+},
+{
+"id": "498433831144",
+"subject": "Re: Indeed <> Encord - catch up",
+"text": "Hi Laura,\n\nThank you for reaching out and for sharing the updates on Encord's new\nfeatures!\n\nAt this time, we're not actively exploring new tooling in this space, so\nI'll have to pass on the chat for now. That said, I appreciate you keeping\nus in the loop, and I'll be sure to reach out if our needs change down the\nroad.\n\nWishing you and the Encord team all the best!\n\nBest regards,\nArthur"
+},
+{
+"id": "498433911025",
+"subject": "Tentatively Accepted: Encord <> Eka | Workshop @ Mon 22 Jun 2026 8am - 9am (GMT-7) (william.purvis@encord.com)",
+"text": "Encord <> Eka | Workshop\n\nKristian Hartikainen has replied \"Maybe\" to this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/qpu-gkri-pfh\n\nJoin by phone\n\n(GB) +44 20 3910 5423 \nPIN: 972206930\n\nMore phone numbers\n\nWhen\n\nMonday 22 Jun 2026 \u22c5 8am \u2013 9am (Pacific Time - Los Angeles)\n\nGuests\n\nwilliam.purvis@encord.com\n- organiser\n\nskander@encord.com\n\njames.watson@encord.com\n\nKristian Hartikainen\n\nSophia MacQueen Pooler\n\nPratik Kunapuli\n\nKyle Neblett\n\nTarik Kelestemur\n\nandrew@encord.com - optional\n\noscar@encord.com - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "498441198835",
+"subject": "Declined: Wayve X Encord | Weekly sessions  @ Wed 24 Jun 2026 4:30pm - 5pm (BST) (james.watson@encord.com)",
+"text": "Wayve X Encord | Weekly sessions \n\nThomas Kollar has declined this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/aaj-bbxn-qqs\n\nJoin by phone\n\n(GB) +44 20 3956 9939 \nPIN: 820500489\n\nMore phone numbers\n\nWhen\n\nWednesday 24 Jun 2026 \u22c5 4:30pm \u2013 5pm (United Kingdom Time)\n\nLocation\n\nUS-Sunnyvale-Ground Floor Non-Secure-Arches (4)\nView map\n\nGuests\n\njames.watson@encord.com\n- organiser\n\nPeter Yu\n\nInigo\n\nricha@encord.com\n\nThomas Kollar\n\nVibashan VS - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "498447978720",
+"subject": "Re: Encord - demo recording + next steps ahead of trial access",
+"text": "Hi James,\n\nThanks for the update and for sharing the Loom \u2014 great to see the progress\non both time series and MCAP support.\n\nWe're quite busy with a number of ongoing priorities at the moment, so it\nmay be difficult for us to find time recently. We'll review the update\ninternally and get back to you once we have some bandwidth to continue the\ndiscussion.\n\nThanks again, and looking forward to reconnecting soon.\n\nBest regards,\nJiaqi\n\nOn Wed, Jun 10, 2026 at 4:36\u202fPM James Sweeney <james.sweeney@encord.com>\nwrote:\n\n-- \n[image: G logo]\nJiaqi Chen\nRobotics Engineer\nT.  +41 44 442 07 70\nGravis Robotics AG\nThurgauerstrasse 119\n8152 Opfikon, Switzerland\nwww.gravisrobotics.com\n[image: linkedin] <https://www.linkedin.com/company/gravisrobotics> [image:\nyoutube] <https://www.youtube.com/channel/UC5yGKime-Em-Q8m_CnmdPNQ> [image:\ntwitter] <https://twitter.com/GravisRobotics> [image: instagram]\n<https://www.instagram.com/gravisrobotics/>"
+},
+{
+"id": "498450232551",
+"subject": "RE: Hitech x Encord x Annotation",
+"text": "Hi Burke, I have received the contract via Juro and it looks good.\nJust wondering if it would be possible to change the term to 2 years (instead of 5) under Section 2?"
+},
+{
+"id": "498450400477",
+"subject": "RE: Online query from SunTec.ai",
+"text": "Dear Winnie,\n\nHope you are doing well\u2026\n\nI understand that you might have been busy with most of your office work, but wanted to follow up if you have received my emails for your project requirement and did you take any further steps for us on same? \n\nI look forward to hearing from you.\n\nBest regards,\n\nPavan\n\nPavan Kakar | SuntecIndia\nVice President - AI Data, B2B Intelligence & ESG\nT: +91-11 4264 4425 | F (India): +91 11 4264 4430\nM: +91-989 970 0626\nE:  <mailto:pavan@suntecindia.com> pavan@suntecindia.com | W:  <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.suntecindia.com_&d=DwMFAg&c=mfsj4EqbbtbBjM01gds5HQ&r=OvSioF_I_DbdQ9z1RIdi-w&m=dmbXxNul5BPOyXu4fAzREKXBotGZHn32HIuPY7CSk04&s=obsEDVteABKvVwSUUhY4iP_ScGH0-xK2q4F0XML8EdI&e=> www.suntecindia.com\n\nReferrals are very important to our business. If you know someone who could benefit from our services, please do not hesitate to have them contact us. We would appreciate the opportunity to assist."
+},
+{
+"id": "498464219339",
+"subject": "Re: Data labelling - LiDAR Annotation",
+"text": "Hi Winnie,\n\nJust following up on below email\n\nRequesting for an opportunity Winnie, we have trained resources in house \nand our price is very competitive.\n\nRegards,\n\nMuneer"
+},
+{
+"id": "498464531701",
+"subject": "Re: Reconnecting",
+"text": "Hi Tom,\nThanks for following up. With all the new changes, we are moving in a different direction and not pursuing this effort for now.\nIn the future if we get the opportunity to continue this effort, I will get in touch with you.\n\nThanks again for your time and following up on this.\n\nRegards,\nSrini"
+},
+{
+"id": "498491698399",
+"subject": "RE: PG&E <> Encord SaaS Agrrement Redlines",
+"text": "Preece, Cindi (C3PV@pge.com) has sent you a secure message. \n\nRead the message \n\nThis is an encrypted email sent from PG&E. \n\n This email and its content are confidential and intended solely for the use of the addressee. Please notify the sender if you received this email in error or simply delete it.\n Privacy Statement \n\n Learn More on email encryption. \nMicrosoft Corporation, One Microsoft Way, Redmond, WA 98052"
+},
+{
+"id": "498504304878",
+"subject": "Re: Meet at Automate next week <> Encord",
+"text": "Hi Stewart,\n\nHope you are doing well and thanks for reaching out. I wouldn't be at\nAutomate unfortunately, but please feel free to stop by our booth and\ninteract with Vamsy (Senior Solutions Engineer) or Michael (Senior Robotics\nField Engineering Manager).\n\nThanks,\nKush"
+},
+{
+"id": "498511822039",
+"subject": "Re: AWS bucket shared with Encord",
+"text": "Hey guys, apologies for the late reply.\nI will check tomorrow and make sure everything is in order.\n\nThanks,\nAlex"
+},
+{
+"id": "498520637641",
+"subject": "coffee in person @ AIEWF?",
+"text": "Hi Laura,\n\nThanks for reaching out! Unfortunately, I won't be attending AIEWF this\ntime around.\n\nHappy to catch up if you come to LA sometime though.\n\nBest,\n--\nCharly H.\nAI Research\nHeyGen"
+},
+{
+"id": "498526415096",
+"subject": "Re: [EXTERNAL] Re: Encord & Arlo Follow-Up",
+"text": "Yes 430 works as well\n\nKen"
+},
+{
+"id": "498530187489",
+"subject": "Re: Encord & Ecorobotix",
+"text": "Hi Kamil,\n\nThanks, glad it was useful on our side too, and good to introduce Florian.\n\nI haven\u2019t had the chance to sync with Alexandre yet, I\u2019m seeing him Monday. So Friday is a bit early on my end. Let me catch up with him first, and I\u2019ll come back to you early next week to find a slot that works for everyone.\n\nTalk soon,\n\nRoch\n\nLe 16 juin 2026 \u00e0 19:48, Kamil Mouthon <kamil@encord.com> a \u00e9crit :\n\n\ufeff\nVous n\u2019obtenez pas souvent d\u2019e-mail \u00e0 partir de kamil@encord.com. Pourquoi c\u2019est important<https://aka.ms/LearnAboutSenderIdentification>\nHey Roch,\n\nMerci d'avoir pris le temps pour la d\u00e9mo de la semaine derni\u00e8re - it was good to catch up & meet Florian.\n\nHoping you had the chance to reconnect with Alexandre. His team is exactly where Encord tends to have the most immediate impact - large image volumes, models that need to keep pace with new crops and geographies, and iteration speed that directly gates what you can ship. That's the same problem Carbon Robotics came to us with.\n\nI've sent a tentative invite for Friday - if that doesn't work, suggest another time that fits better, we're flexible. The goal is simple: show Alexandre how teams like Carbon Robotics use Encord to move as fast as they do when pushing into new crops and regions, and pressure-test it against your actual data volumes and labeling setup.\n\nA tr\u00e8s vite,\n\nKamil"
+},
+{
+"id": "498536077502",
+"subject": "Re: Encord & Mindy Support",
+"text": "Hi Winnie, hi Matt,\n\nAs we move forward with the third round of the pilot project and scale up\nthe crowd engagement, I'd love to get your feedback on the Mindy Rate Card\nwe recently shared.\n\nIt would also be helpful to understand whether you have an estimated budget\nin mind for the current project.\n\nThanks in advance!\n\nBest,\nOlga\n\nOn Tue, Jun 9, 2026 at 6:22\u202fPM Olga Rotanenko <\nolga.rotanenko@mindy-support.com> wrote:\n\n-- \n\nOLGA ROTANENKO\nCommercial Director\nLN <https://www.linkedin.com/in/olga-rotanenko-805a19178/>\nIG <https://www.instagram.com/mindy_support>\nX <https://x.com/mindysupport>\nClutch <https://clutch.co/profile/mindy-support>\n[image: Mindy-Support-logo]\n\n-- \n**Confidentiality Notice:**_\u00a0The contents of this message, including any \nattachments, are confidential information and intended solely for the use \nof the person or entity to whom the message was addressed. If you are not \nthe intended recipient of this message, please be advised that any \ndissemination, distribution, or use of the contents of this message is \nstrictly prohibited. If you have received this message in error, please \nnotify the sender immediately. Whilst our mail attachments are scanned for \nmalware, you should rely on your own antivirus engine and any other \nsecurity procedures you may employ before opening or downloading \nattachments. Sender\u2019s liability in relation to malware that might exist in \nany attachment is expressly excluded._"
+},
+{
+"id": "498592330989",
+"subject": "Declined: Matthieu (Wandercraft) & Kamil (Encord) | Intro",
+"text": ""
+},
+{
+"id": "498592537821",
+"subject": "Re: Your Encord enquiry",
+"text": "Hi James,\n\nThank you for the email.\n\nI have a large set of medical wound images that I need to annotate. I would like them to be held on our own server so we keep complete control of them for privacy and ethical reasons. Would this work with your service?\n\n The export that we'd need would be COCO JSON, YOLO or mask PNGs which drop straight into any PyTorch modelling pipeline.\n\nEventually we would need Ai assistance to annotate uploaded photos that our users will upload and then use the annotations for a decision making tree that our service provides.\n\nRegards,\n\nMichael\n\nGet Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "498599516356",
+"subject": "Re: Jack | Encord x FIFA \u26bd",
+"text": "Hey Shivant,\n\nSounds good. I should be there right around 5.\n\nBest,\n\nJack"
+},
+{
+"id": "498600658134",
+"subject": "Re: Microsoft Teams Guest Access Intake Details",
+"text": "Hi Will and Joseph,\n\nBack to the drawing board on this one. Can you provide the  IP address of a main office either London or San Fran for the guest access request?\n\nBest,\n\nJung\n\nJung Kim-Lemon (she/her)\n\nSr Product Manager | Clinical Services & Product\n\nW: 952.406.3760\n\n[image.png]"
+},
+{
+"id": "498606726357",
+"subject": "Refus\u00e9 : [Tentative] Encord & Alexandre (Ecorobotix) | Intro & Demo",
+"text": ""
+},
+{
+"id": "498607810751",
+"subject": "Re: Encord - demo prep and videos",
+"text": "Hey Laura,\n\nAttached is a sample clip. Thanks.\n\nBest,\nPat\n 8b0e3f80d63d027b5b8872747eb058cd.mp4\n<https://drive.google.com/file/d/1pb_sSSvwbCjt1k3IuYxio_abeXnOsDd7/view?usp=drive_web>"
+},
+{
+"id": "498664154312",
+"subject": "RE: Encord <> Bosch: Exploratory Discussion \u2013 Teleoperation Data Collection for Robotics Foundation Models",
+"text": "Dear Nick,\n\nThank you very much for our productive exploratory discussion yesterday. It was great learning more about Encord\u2019s capabilities in teleoperation and annotation workflows.\n\nAs agreed, we would like to transition our discussions to a confidential stage and proceed with a Non-Disclosure Agreement (NDA). Please find attached our proposed NDA draft from the Bosch side: NDA_2026-06-19_Robot_Data_Encord.pdf.\n\nWe kindly ask you to review this draft. Please note that this draft is based on our standard, pre-approved terms. Any major changes or substantial revisions will require us to involve our legal department, which will unfortunately lead to process-related delays in our collaboration. We hope we can proceed with this draft as smoothly as possible.\n\nTo prepare the formal signature process and complete our standard export control and compliance checks, could you please provide us with the following details?\n\nInformation Required:\n\n  *   DocuSign Signatory:  Name and email address of the authorized person who will sign the NDA on your side.\n  *   Military & Defense Sector:     Whether Encord is active as a business partner in the military or defense sector (relevant for export control purposes).\n  *   ECCN (Export Control):             The Export Control Classification Number (ECCN) for your technology or software, if available.\n  *   Cryptography:              Whether your technology or software uses cryptography or encryption.\n\nThank you for your support. We look forward to receiving your feedback and continuing our collaboration.\n\nMit freundlichen Gr\u00fc\u00dfen / Best regards\n\nHans-Peter Grabsch\n\nBusiness and Venture Intelligence (CR/BVI)\nRobert Bosch GmbH | Postfach 10 60 50 | 70049 Stuttgart | GERMANY | www.bosch.com<https://www.bosch.com/>\nTel. +49 711 811-7166 | Mobil +49 1525 8814023 | Telefax +49 711 811-5116082 | Hans-Peter.Grabsch@de.bosch.com<mailto:Hans-Peter.Grabsch@de.bosch.com>\n\nSitz: Stuttgart, Registergericht: Amtsgericht Stuttgart, HRB 14000;\nAufsic"
+},
+{
+"id": "498666846431",
+"subject": "RE: Encord: LTW follow up",
+"text": "OFFICIAL\n\nThank you, Beth for the introduction.\n\nDear Joe\n\nGood to be connected. My contact at Samsung SDS has planned to visit LTW this year, however he was unable to travel due to other commitments at the week. Instead, he has reviewed the list of the companies participating in the DBT showcase at LTW and expressed an interest in your company. Please let me speak with him again to see if he would be happy to do a virtual call with you to understand better what Encord offers.\n\nBest wishes,\nMikie\n\n[cid:image003.png@01DD003B.E26D5770]<https://www.greatbritaincampaign.com/>\n\nMikyung(Mikie) Park (She/her) \ubc15\ubbf8\uacbd | Senior Trade Officer \uc120\uc784\uc0c1\ubb34\uad00\nBritish Embassy Seoul \uc8fc\ud55c\uc601\uad6d\ub300\uc0ac\uad00 |\nSejong-daero 19-gil 24 | Seoul 04519 |\nTel: (+82) (0)2 3210 5624 | FTN: 8492 5624 | Mobile: (+82) (0)10 5376 5624\nE-mail: Mikyung.Park@fcdo.gov.uk<mailto:Mikyung.Park@fcdo.gov.uk>\n gov.uk/dit<https://www.gov.uk/government/organisations/department-for-international-trade?utm_source=staffsignature&utm_medium=email&utm_campaign=DIT> | Twitter<https://twitter.com/tradegovuk> | LinkedIn<https://www.linkedin.com/company/department-for-international-trade> | YouTube<https://www.youtube.com/department-for-international-trade> | great.gov.uk<http://www.great.gov.uk/?utm_source=staffsignature&utm_medium=email&utm_campaign=GREAT>\n\nOFFICIAL"
+},
+{
+"id": "498667311295",
+"subject": "Accepted: Encord <> Eka | Workshop @ Mon 22 Jun 2026 8am - 9am (GMT-7) (william.purvis@encord.com)",
+"text": "Encord <> Eka | Workshop\n\nPratik Kunapuli has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/qpu-gkri-pfh\n\nJoin by phone\n\n(GB) +44 20 3910 5423 \nPIN: 972206930\n\nMore phone numbers\n\nWhen\n\nMonday 22 Jun 2026 \u22c5 8am \u2013 9am (Pacific Time - Los Angeles)\n\nGuests\n\nwilliam.purvis@encord.com\n- organiser\n\nskander@encord.com\n\njames.watson@encord.com\n\nKristian Hartikainen\n\nSophia MacQueen Pooler\n\nPratik Kunapuli\n\nKyle Neblett\n\nTarik Kelestemur\n\nandrew@encord.com - optional\n\noscar@encord.com - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "498699699436",
+"subject": "Re: Tawfiq | Encord x FIFA \u26bd",
+"text": "Thanks Shivant. Looking forward to it.\u00a0 \n\n Tawfiq Jawhar"
+},
+{
+"id": "498743782590",
+"subject": "Re: Kay | Encord x FIFA \u26bd",
+"text": "Hi Shivant, \n\n Thanks for reaching out and providing these details. \u00a0 \n\n My train arrives at 17:10h at the Great America station , and it will take me 5-10\u2019 walking to Gate B. \n\n Could you possibly wait for me until 17:20h ? \n\n Thanks, and looking forward to see you tonight, \n\n Kay \n\n mobile & WhatsApp: +1 248 752 3368"
+},
+{
+"id": "498788269287",
+"subject": "Re: Microsoft Teams Guest Access Intake Details",
+"text": "Thank you Joseph! I just updated the request. I'll let you know if anything else comes up.\n\nJung\n\nJung Kim-Lemon (she/her)\n\nSr Product Manager | Clinical Services & Product\n\nW: 952.406.3760\n\n[image.png]"
+},
+{
+"id": "498804446448",
+"subject": "Accepted: Encord <> Eka | Workshop @ Mon 22 Jun 2026 8am - 9am (GMT-7) (william.purvis@encord.com)",
+"text": "Encord <> Eka | Workshop\n\nTarik Kelestemur has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/qpu-gkri-pfh\n\nJoin by phone\n\n(GB) +44 20 3910 5423 \nPIN: 972206930\n\nMore phone numbers\n\nWhen\n\nMonday 22 Jun 2026 \u22c5 8am \u2013 9am (Pacific Time - Los Angeles)\n\nGuests\n\nwilliam.purvis@encord.com\n- organiser\n\nskander@encord.com\n\njames.watson@encord.com\n\nKristian Hartikainen\n\nSophia MacQueen Pooler\n\nPratik Kunapuli\n\nKyle Neblett\n\nTarik Kelestemur\n\nandrew@encord.com - optional\n\noscar@encord.com - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "498818014424",
+"subject": "Re: Kay | Encord x FIFA \u26bd",
+"text": "Ok, thanks for confirming"
+},
+{
+"id": "498826289361",
+"subject": "Re: Jack | Encord x FIFA \u26bd",
+"text": "So sorry we\u2019re almost there!"
+},
+{
+"id": "498856277207",
+"subject": "Re: Kay | Encord x FIFA \u26bd",
+"text": "Hello Gents, \n\n it appears my ticket is still downloading in the FCW2026 ticket app. Please see attached pic. \u00a0I\u2019ve been checking all day. \n\n Is it the same for you ? \n\n Thanks\u00a0 \n\n K"
+},
+{
+"id": "498863046855",
+"subject": "RE: Encord: LTW follow up",
+"text": "OFFICIAL\n\nThank you, Joe\n\nVery helpful!\n\nBest wishes,\nMikie\n\n[cid:image001.png@01DD01D5.97188010]<https://www.greatbritaincampaign.com/>\n\nMikyung(Mikie) Park (She/her) \ubc15\ubbf8\uacbd | Senior Trade Officer \uc120\uc784\uc0c1\ubb34\uad00\nBritish Embassy Seoul \uc8fc\ud55c\uc601\uad6d\ub300\uc0ac\uad00 |\nSejong-daero 19-gil 24 | Seoul 04519 |\nTel: (+82) (0)2 3210 5624 | FTN: 8492 5624 | Mobile: (+82) (0)10 5376 5624\nE-mail: Mikyung.Park@fcdo.gov.uk<mailto:Mikyung.Park@fcdo.gov.uk>\n gov.uk/dit<https://www.gov.uk/government/organisations/department-for-international-trade?utm_source=staffsignature&utm_medium=email&utm_campaign=DIT> | Twitter<https://twitter.com/tradegovuk> | LinkedIn<https://www.linkedin.com/company/department-for-international-trade> | YouTube<https://www.youtube.com/department-for-international-trade> | great.gov.uk<http://www.great.gov.uk/?utm_source=staffsignature&utm_medium=email&utm_campaign=GREAT>\n\nOFFICIAL"
+},
+{
+"id": "498891614401",
+"subject": "Re: Encord - demo recording + next steps ahead of trial access",
+"text": "Filippo Spinelli reacted via Gmail\n<https://www.google.com/gmail/about/?utm_source=gmail-in-product&utm_medium=et&utm_campaign=emojireactionemail#app>\n\nOn Fri, Jun 19, 2026 at 4:27\u202fPM James Sweeney <james.sweeney@encord.com>\nwrote:\n\n-- \n[image: G logo]\nPhone 2-->\nFilippo A. Spinelli\nRobotics Engineer\nM. +41 76 723 22 55\nGravis Robotics AG\nThurgauerstrasse 119\n8152 Opfikon, Switzerland\nwww.gravisrobotics.com\n[image: linkedin] <https://www.linkedin.com/company/gravisrobotics> [image:\nyoutube] <https://www.youtube.com/channel/UC5yGKime-Em-Q8m_CnmdPNQ> [image:\ntwitter] <https://twitter.com/GravisRobotics> [image: instagram]\n<https://www.instagram.com/gravisrobotics/>"
+},
+{
+"id": "498923890904",
+"subject": "RE: Encord <> IP Australia: intro [SEC=OFFICIAL]",
+"text": "OFFICIAL\n\nHello Joe,\n\nJust chasing up the last couple of remaining high level quotes for enterprise licensing on behalf of IPA.\n\nHow are things progressing?\n\nRegards,\n\nDeon Beswick\nAssociate Process Analyst\nBusiness Transformation\nData & Technology Group, DTG\nIP Australia\n\n[cid:image001.png@01DD023E.5667E420]\n\nP 02 6283 2530   \u2502   E deon.beswick@ipaustralia.gov.au<mailto:deon.beswick@ipaustralia.gov.au>\nVisit us at http://www.ipaustralia.gov.au<http://www.ipaustralia.gov.au/>\n\n[Facebook small]<http://www.facebook.com/ipaustralia.gov.au>   [Twitter black small] <http://www.twitter.com/IPAustralia>   [LinkedIn black small] <http://www.linkedin.com/company/ip-australia>   [Youtube black small] <http://www.youtube.com/user/ipaustralia>   [Shape  Description automatically generated with low confidence] <https://www.instagram.com/ipaustraliaofficial/>\n\nP Please consider the environment before printing this email\n\nOFFICIAL"
+},
+{
+"id": "498966289603",
+"subject": "Re: Encord Intro: Weds 24th at 16:00 IST",
+"text": "Hi Joe,\n\nThanks for getting back to me. The new time slot works for me.\n\nI am primarily interested in your robotics data collection and annotation\ncapabilities.\n\nLooking forward to our call.\n\nRegards,\nShruti"
+},
+{
+"id": "498980655303",
+"subject": "Re: [Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi Laura\nJust making sure o know what to do for tomorrow.  I\u2019m going to try to grab\na coworking office near the Levi stadium tomorrow and will have my last\nmeeting around 6.  Please let me know anything about attendance,\ndownloading tickets and access entrance for arrival around 630"
+},
+{
+"id": "498990794981",
+"subject": "Re: AWS bucket shared with Encord",
+"text": "Hey @Shivant Maharaj <shivant@encord.com>,\n\nI\u2019ve created a new S3 bucket, IAM roles, and an Encord integration by\nfollowing this guide:\nhttps://docs.encord.com/platform-documentation/General/annotate-data-integrations/annotate-aws-integration\n.\n\nBucket details:\n\n   1.\n\n   Bucket ARN: arn:aws:s3:::walden-encord-incoming-bucket\n   2.\n\n   Bucket region: us-west-2\n   3.\n\n   Bucket shared with this Encord account: arn:aws:iam::312435012576:root\n   4.\n\n   To access the bucket, please assume the following role:\n   arn:aws:iam::402590802424:role/walden-vendor-encord-incoming-role\n\nPlease also specify the following External ID: a9f52ffd-34c9-40, and ensure\nthat you use --acl bucket-owner-full-control when uploading data to our\nbucket.\n\nLet me know if you have any questions.\n\nThanks,\nAlex\n\nOn Thu, Jun 18, 2026 at 8:21\u202fPM Alexander Osipov <alex.osipov@lbm.global>\nwrote:"
+},
+{
+"id": "499002778817",
+"subject": "Re: Automate Next Week <> Encord",
+"text": "Hi Stewart,\nMy colleague, @Angus Siberry<mailto:asiberry@nvidia.com> works with Encord.\nI have some time on Wednesday, could we meet 10 am at our booth?\n\nthanks,\nPoonam Chitale\nDeveloper Relations, NVIDIA\npchitale@nvidia.com<mailto:pchitale@nvidia.com>"
+},
+{
+"id": "499018358004",
+"subject": "Re: Hitachi Energy + Encord",
+"text": "Hello @Arisha<mailto:arisha@encord.com>,\n\nGood evening.\nI hope you are doing well.\nI will be on vacation until June 30. @Giorgia Natalizia<mailto:giorgia.natalizia@hitachienergy.com>and @Michal Malinowski<mailto:michal.malinowski@hitachienergy.com>, I hope you are available for the meeting.\nKindly confirm.\n\nThank you.\n\nBest regards,\nAkash Venugopalan\nArtificial Intelligence and Automation Engineer\nHitachi Energy"
+},
+{
+"id": "499022982350",
+"subject": "RE: Hitachi Energy + Encord",
+"text": "Hello,\n\nYes I can confirm my availability for Wednesday 24th.\n\nKind regards\n\nGiorgia Natalizia\nR&D Engineer - Artificial Intelligence and Automation\nMobile: +46 (72) 2349122"
+},
+{
+"id": "499023411421",
+"subject": "Re: Following up from the Humanoids Summit",
+"text": "Hi William,\n\nI hope you had a great weekend!\nThank you for speaking with us the other day.\n\nThanks for the suggestion, a direct introduction to one of our R&D accounts\nis a great way to test the fit, and we'd love to explore that when the\ntiming is right.\nCurrently, our robotics customers aren't actively working through data\nannotation projects at a scale that would justify bringing Encord in.\nThat said, we're keeping a close eye on pipeline and will reach out as soon\nas a relevant project takes shape.\n\nAppreciate your patience, and looking forward to staying in touch.\n\nBest\nYuri\n\nOn Fri, Jun 19, 2026 at 5:07\u202fAM William Purvis <william.purvis@encord.com>\nwrote:\n\n-- \n\n*Yuri Li*\nInternational BD /  APTO Inc.\nKanda Iwamotocho Plaza Building, Unit 504\n2-4-1 Iwamotocho, Chiyoda-ku, Tokyo 101-0032, Japan\ntel 03-6416-0523\nphone +81-80-2144-7970\nWeChat ID itshoobastank\ne-mail y.li@apto.co.jp\nsite https://apto.co.jp/"
+},
+{
+"id": "499034849470",
+"subject": "RE: Hitech x Encord x Annotation",
+"text": "Dear Burke,\n\nHope you are doing well.\n\nI just wanted to check whether the user accounts for our team have been created on the Encord platform as per the list shared below.\n\nAlso, our team has joined the Slack channel and will be available for any discussions or support required during the PoC process.\n\nThank you.\n\nSincerely,\nBiju Peter\n\n[Logo, company name    Description automatically generated with medium confidence]\n\nBIJU PETER  |  Sr. Manager\nHitechDigital  |  INDIA  |  USA  |  UK\n+91 974 754 7799 |  hitechdigital.com<http://www.hitechdigital.com/>\n[Facebook]<https://www.facebook.com/HitechDigitalSolutionsLLP/> [Linkedin] <https://www.linkedin.com/company/hitechdigitalsolutions/>   [Twitter] <https://twitter.com/HiTech_OS>"
+},
+{
+"id": "499042749667",
+"subject": "Re: GlobalLogic <> Encord | Boston Scientific & GTM Partnership",
+"text": "Hi Shivant,\n\nI see a free slot for client: Fri 26 June:  06:00 PT / 09:00 ET / 14:00 UK\n\nWill send an invite shortly\n\nRegards,\nVitaliy Zynych\nSenior Manager | Engineering\nP: +380939269346\n*GlobalLogic | A Hitachi Group Company* <http://www.globallogic.com/>\nhttp://www.globallogic.com/Disclaimer.htm\n<http://www.globallogic.com/email_disclaimer.txt>\n[image: Smart Bold Human]\n<http://www.globallogic.com/>\nhttp://www.globallogic.com/email_disclaimer.txt"
+},
+{
+"id": "499078671561",
+"subject": "Re: Following up from CVPR",
+"text": "Hello Satchel,\n\nThanks for reaching out, @Mei Qi Tang <mei@aerovect.com> filled me\nin. Sorry for the late reply.\n\nThis week is a bit tight, can we move the meeting to sometime next week?\nThanks!\n\nVenkat\nSenior Autonomy Engineer\n*AeroVect*\nhttp://aerovect.com/"
+},
+{
+"id": "499082710253",
+"subject": "Re: Leo in Boston - 22nd June",
+"text": "Hi. I wasn't planning to go in on the 24th but let me try and move some\nthings around. If I go in, i'm free all day (and for dinner as well).\n\nI'm also trying to get more World Cup tickets but the prices now are crazy\n(we lotteries and got tickets for two matches and that may be all we see.\nAlas).\n\nAre you taking the train to the stadium?"
+},
+{
+"id": "499082909900",
+"subject": "RE: Ambu + Encord",
+"text": "Hi Arisha,\n\nThanks for the follow-up - great to meet you as well on Friday.\n\nYou're very welcome to use the data from the trial period, including the videos and labels we have already created. That should give your engineering team a representative view of our use case. Let me know if it is not available anymore and I'll share it with you.\n\nIf helpful, we can also set up a test project in the platform for Solene to review - just let us know what you prefer.\n\nOn the compliance/security requirements, I'll share our list with you by the end of tomorrow.\n\nI will try set up some meetings. Unfortunately, we are still awaiting an IT person to be assigned to this project, but I'll update you on this matter.\n\nKind regards,\n\nHoddan Osman | AI Healthcare Data Associate\n\nPhone: +45 7225 2000<tel:+45%207225%202000> | Direct: +45 7225 2989<tel:+45%207225%202989> | hoos@ambu.com<mailto:hoos@ambu.com>\n\nAmbu A/S | Baltorpbakken 13 | Ballerup | 2750 | Denmark |\n\nwww.ambu.com<https://www.ambu.com/>\n\n[cid:image001.png@01DD0258.A4C73840]\n\nRestricted"
+},
+{
+"id": "499092248810",
+"subject": "Re: Dinner at Town - 2 July",
+"text": "Hi Joe,\n\nI hope you\u2019re well.\n\nJust following up on the below ahead of your event. Please could you let me\nknow when would be a good time to send over the payment link to confirm\nyour reservation?\n\nWe would also be grateful to receive the final starter and main selections,\nas well as your seating plan, by 23rd June. Please also let me know whether\nyou would like us to provide name cards for dinner, and whether you are\nhappy for your guests to order from the menu upstairs.\n\nWe\u2019re really looking forward to welcoming you and your guests.\n\nBest,\n\nAusma Sabalyte\n\nReception Manager | Town\n\n26-29 Drury Lane, WC2B 5RL, London"
+},
+{
+"id": "499093006583",
+"subject": "Accepted: Encord <> Nomagic | Demo @ Wed 24 Jun 2026 4pm - 4:45pm (BST) (james.sweeney@encord.com)",
+"text": "Encord <> Nomagic | Demo\n\nWeronika Janik has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/taz-fpvc-kcc\n\nJoin by phone\n\n(GB) +44 20 3956 4153 \nPIN: 763814477\n\nMore phone numbers\n\nWhen\n\nWednesday 24 Jun 2026 \u22c5 4pm \u2013 4:45pm (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nkat@encord.com\n\nMarkus Wulfmeier\n\nWeronika Janik\n\nMicha\u0142 Grzejdziak-Zdziarski\n\nMateusz Zakrzewski - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "499111368891",
+"subject": "Re: PAIDF Next Steps \u2014 Partner Qualification & GTC Berlin Target",
+"text": "Hi @Eric Landau<mailto:eric@encord.com>,\n\nHow was your meeting with Saurabh?\n\nJust as an FYI we have released both version of PAIDF as agents, devs can deploy a claw agent in minutes on Brev to deploy, schedule and test SDG/Augmentation jobs.\n\nhttps://brev.nvidia.com/agents\n\n[image.png]\n\nWe still have the Encord-Cosmos org with ~$400 credit that can be used so might be helpful for the devs to assess this way. As PAIDF leverages OSMO as its orchestration platform (purpose-built for Physical AI and robotics development) you can also get a feel for it wtr Encord platform.\n\n[image.png]\n\nThanks,\n\nAngus"
+},
+{
+"id": "499112291518",
+"subject": "Re: Quick Request",
+"text": "I just learned of it too. It looks great!\nHappy to help."
+},
+{
+"id": "499113940204",
+"subject": "Automatic reply: L-1A for: Encord/ Kamil Mouthon - Still need Questionnaire and Checklist - Follow up",
+"text": "Thank you for your email. I am currently out of the office and will return on Wednesday, July 1st. For immediate assistance while I am away, please contact: kasia@gpimmigration.com, martha@gpimmigration.com, and ingrida@gpimmigration.com.\n\nThank you,\nEllie"
+},
+{
+"id": "499114235072",
+"subject": "Re: Leo in Boston - 22nd June",
+"text": "Sounds good!\n\nFYI Boston is not good at trains ... be prepared to wait to go home\n(hopefully there will be ample celebration on the ride home)"
+},
+{
+"id": "499116148973",
+"subject": "Accepted: Encord <> Eka | Workshop II @ Tue 23 Jun 2026 9:30am - 10am (GMT-7) (william.purvis@encord.com)",
+"text": "Encord <> Eka | Workshop II\n\nKyle Neblett has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/yok-uwmq-arj\n\nJoin by phone\n\n(GB) +44 20 3956 9894 \nPIN: 426154283\n\nMore phone numbers\n\nWhen\n\nTuesday 23 Jun 2026 \u22c5 9:30am \u2013 10am (Pacific Time - Los Angeles)\n\nGuests\n\nwilliam.purvis@encord.com\n- organiser\n\njames.watson@encord.com\n\nKristian Hartikainen\n\nPratik Kunapuli\n\nskander@encord.com\n\nSophia MacQueen Pooler\n\nKyle Neblett\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+}
+]

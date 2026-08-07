@@ -1,0 +1,538 @@
+[
+ {
+  "sender": "annabel",
+  "modal_title": "Content Manager",
+  "style": "event_invite_blast",
+  "genre_notes": "Mostly templated webinar/live-event invitations (repeated verbatim across recipients, utm_source=annabel+outbound, bit.ly signup links) plus generic product-pitch templates, signed \"Content Manager\".",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "james.golby",
+  "modal_title": "Partnerships (also \"AI // ML // Computer Vision / Multimodal AI @ Encord\")",
+  "style": "mixed",
+  "genre_notes": "Personalized one-to-one prospect pitches and researched dinner/happy-hour invites to specific senior AI prospects, plus one reply on a customer security questionnaire.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "james.sweeney",
+  "modal_title": "Partnerships Manager @ Encord / Technical PM @ Encord (also one \"GTM\")",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized researched cold outreach to specific prospects (conference coffees, TRI LBM write-up references, competitor-peer name-drops, an exclusive CVPR dinner invite) plus one deal-progression email scoping a trial proposal.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "skander",
+  "modal_title": "AI // ML // Computer Vision @ Encord (Harvard | Columbia)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized researched outbound to named prospects (peer name-drops, industry-specific hooks, meeting asks), plus an exec-dinner invite and a signup follow-up \u2014 classic outbound rep selling.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "james.sutton",
+  "modal_title": "Growth at Encord (one email also shows \"AI/ML Ops\")",
+  "style": "templated_blast",
+  "genre_notes": "Mail-merged sequence templates \u2014 re-engagement \"picking up where we left off\" duplicates, a content-asset promo with utm tracking, an event happy-hour invite, and identical \"quick question\" diagnostic pitches \u2014 with no individual research beyond merge fields.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "laura.zhu",
+  "modal_title": "AI/ML Partnerships",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized cold outreach to named prospects (researched pitches like Handoff/Inflection) plus hand-written exclusive dinner invites to senior AI leaders around conferences, with some ongoing account follow-up (Jumio thread).",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "thao",
+  "modal_title": "Growth",
+  "style": "templated_blast",
+  "genre_notes": "Mass templated webinar invites, CVPR event/happy-hour promo, and a repeated LiDAR product-launch blast with utm_campaign tracking and HubSpot unsubscribe links, signed \"Growth\".",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "winnie",
+  "modal_title": "Partnership Lead (also \"ML Data Ops @ Encord\", \"Physical AI @ Encord\", \"Voice AI Ops @ Encord\")",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized one-to-one outbound to named new prospects: conference coffee invites, exclusive founder-hosted dinners/mixers, plus one deal-stage proposal follow-up, all pitching Encord's platform with prospect-specific research.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "chloe",
+  "modal_title": "none seen",
+  "style": "event_invite_blast",
+  "genre_notes": "All 8 emails are templated webinar/event invitations (SwingVision and vialytics webinars, AI After Hours London event) with only mail-merged name/company personalization and utm_source=sequences/hubspot tracking links.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "george.bf",
+  "modal_title": "Senior Growth Manager",
+  "style": "event_invite_blast",
+  "genre_notes": "Templated webinar/masterclass invitation blasts (identical bodies across recipients, bit.ly and utm_source=email sequence links, one \"Hi Chief\" merge failure), all pushing Encord masterclass/live-session registrations.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "carl",
+  "modal_title": "none seen (signature is just \"Carl Bager\" with contact block)",
+  "style": "event_invite_blast",
+  "genre_notes": "Templated webinar/masterclass invitations (annotation analytics, audio AI, 3D labeling, AI agents) with identical bodies reused across recipients, bit.ly links and utm_source=email / \"outbound sequence\" tracking params.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "frederik (Frederik Hvilsh\u00f8j, frederik@tryencord.com)",
+  "modal_title": "ML Lead",
+  "style": "templated_blast",
+  "genre_notes": "Templated webinar/masterclass invitations and a repeated \"Physical AI community\" invite blast, sent from a HubSpot sequence with utm_source=email tracking, personalized only by a merge-field company news line.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "shreya (Shreya Kirpalani)",
+  "modal_title": "Computer Vision/Machine Learning | Encord/Oxford",
+  "style": "mixed",
+  "genre_notes": "Templated-but-personalized outbound to new prospects: CVPR coffee-meeting asks (same template, company name swapped) plus personally-extended exec dinner invites in Paris/Zurich, all via HubSpot sales sequences.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "rose",
+  "modal_title": "Growth @ Encord",
+  "style": "event_invite_blast",
+  "genre_notes": "All 8 emails are templated webinar/masterclass invitations (identical bodies across recipients, bit.ly and utm_source=email sequence links) with no personalization beyond the first name.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "charlotte",
+  "modal_title": "Technical Project Lead (also Partnerships Manager, Commercial Associate)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized researched cold pitches to named prospects (with account-specific hooks and customer name-drops), CVPR coffee invites, an AI leaders dinner invite, plus one demo/POC follow-up.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "jamie (Jamie Shelton)",
+  "modal_title": "none seen (signature is name + company address only)",
+  "style": "mixed",
+  "genre_notes": "Mix of semi-personalized exec dinner/mixer invites to named prospects, one researched cold pitch with peer-customer reference, and deal-progression emails (demo follow-up, MNDA, testing kick-off) to active prospects.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "kat",
+  "modal_title": "AI // ML (also \"Medical AI @\" once)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized outbound to named new prospects: researched pitches (Voice AI/medical annotation), post-conference coffee asks, and hand-written invites to curated AI leaders dinners with prospect-specific context.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "sara (Sara Schein)",
+  "modal_title": "Manager (also \"AI/ML Ops\" cover line in two emails)",
+  "style": "templated_blast",
+  "genre_notes": "Three rotating templates sent verbatim to new/trial prospects: a \"pipeline bottleneck diagnostic\" cold pitch and two demo/trial-signup follow-ups (\"interactive demo\", \"your own Encord workspace\"), with only the first name swapped (one even blank).",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "medium"
+ },
+ {
+  "sender": "alex.winstone",
+  "modal_title": "Account Director",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Hand-written deal-management emails: call recaps with demo recordings, trial kick-offs, PoC/contract execution, rescheduling, and a personal dinner invite \u2014 mid/late-funnel account work rather than cold first-touch or mass blasts.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "kamil",
+  "modal_title": "Commercial Associate - Team Lead (also Commercial Lead / Commercial Account Executive)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized 1:1 outbound sales emails \u2014 post-call follow-ups referencing specific phone conversations, prospect-specific research (hiring, product areas), plus hand-written AI Leaders dinner invites to named senior prospects.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "albira",
+  "modal_title": "AI/ML Ops (also \"AI Content Strategist\" in signature block)",
+  "style": "templated_blast",
+  "genre_notes": "All 8 emails are an identical word-for-word template (including the same typo \"pipelinen\") pitching a 2-minute pipeline diagnostic, with only the first name and company-name subject line mail-merged.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "leo",
+  "modal_title": "Head of Sales (later Vice President of Sales)",
+  "style": "mixed",
+  "genre_notes": "Hand-written one-to-one emails spanning senior-prospect dinner invites, deal reconnects, partner/vendor coordination, exec intros, reference calls, and even a support reply \u2014 the mixed workload of a sales leader, not a templated outbound sequence.",
+  "role_verdict": "leadership",
+  "confidence": "high"
+ },
+ {
+  "sender": "adithya",
+  "modal_title": "GTM | AI/ML (Adi Ramesh)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized cold outbound pitches to new prospects (AiFi, Zillow, Sardine, ROC) referencing recipient-specific context and asking for intro calls, plus a couple of scheduling replies.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "steffan",
+  "modal_title": "Director of Partnerships",
+  "style": "mixed",
+  "genre_notes": "Hand-written one-to-one sales-cycle emails \u2014 demo scheduling, evaluation kick-offs (Michelin, M\u00f6lnlycke, NBCUniversal), personalized re-engagement of prospects, and partnership/accelerator logistics \u2014 with no templated blasts.",
+  "role_verdict": "leadership",
+  "confidence": "medium"
+ },
+ {
+  "sender": "yianni",
+  "modal_title": "AI // ML // Computer Vision",
+  "style": "templated_blast",
+  "genre_notes": "Mostly one templated CVPR meetup/re-engagement sequence with company name mail-merged in, plus a personalized exec dinner invite and a website-inquiry follow-up \u2014 sales prospecting, not marketing content.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "nick.mesic",
+  "modal_title": "Senior Account Executive",
+  "style": "mixed",
+  "genre_notes": "Post-demo/POC follow-ups (Gong recordings, sandbox setup, pricing negotiation, reconnects) plus hand-written exec dinner invites \u2014 active deal-cycle AE work, not first-touch prospecting or blasts.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "andrew",
+  "modal_title": "AI / ML / Computer Vision",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalised outbound prospecting: researched cold pitches, conference dinner/event invites, webinar co-host asks, and content follow-ups addressed individually to new prospects with company-specific context.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "kyle",
+  "modal_title": "GTM \u2014 AI / ML / Computer Vision",
+  "style": "mixed",
+  "genre_notes": "Mostly a lightly-personalized templated CVPR meeting/happy-hour sequence to prospect companies, plus a researched 1:1 inbound follow-up, a referral-ask prospecting email, and one webinar invite with tracking link.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "nick",
+  "modal_title": "Head of US / Director / Head of Physical AI (Nick Rajpal)",
+  "style": "mixed",
+  "genre_notes": "Hand-written mid-thread replies: deal negotiation and pricing discussions, customer migration/onboarding coordination, warm intros, scheduling, and internal/vendor ops \u2014 no templated first-touch prospecting.",
+  "role_verdict": "leadership",
+  "confidence": "high"
+ },
+ {
+  "sender": "payom",
+  "modal_title": "Commercial Associate (alternating with \"US GTM\")",
+  "style": "mixed",
+  "genre_notes": "Semi-personalized exec dinner invites plus one-to-one prospecting/scheduling emails referencing phone calls, conference meetings (GTC, SxSW), and demo coordination.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "seif",
+  "modal_title": "Senior Customer Success Manager",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Post-sales customer success emails to existing accounts: onboarding recaps, renewal/order forms, product update notices, feature status updates, QBR scheduling, and relationship check-ins.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "shivant",
+  "modal_title": "Strategic Account Manager (one older email: Technical Customer Success Manager)",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Follow-ups to demos already given, monthly check-ins, order-form/contract negotiation, and post-meeting notes to existing accounts (Hudl, UVEye, Innervision, H Company).",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "moritz",
+  "modal_title": "Physical AI & Robotics",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized cold outbound pitches to prospects in robotics/AV/defense (referencing hiring, launches, funding), plus one scheduling reply and one webinar nudge, signed with a cover title.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "james.watson",
+  "modal_title": "GTM",
+  "style": "one_to_one_pitch",
+  "genre_notes": "One-to-one, personally written sales emails working active deal cycles with named new prospects \u2014 scheduling demos, sending case studies, discussing proposals/licenses, and countersigning an agreement \u2014 plus one personal event/webinar invite.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "medium"
+ },
+ {
+  "sender": "colin (Colin Gesik, colin@encord.com)",
+  "modal_title": "Account Executive",
+  "style": "mixed",
+  "genre_notes": "Hand-written one-to-one sales emails to prospects: researched cold pitches (robotics/audio labeling), post-call follow-ups with Looms and decks, a commercial/proposal discussion, a HumanX dinner invite, and one personal webinar invite \u2014 no bulk blasts.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "medium"
+ },
+ {
+  "sender": "arisha",
+  "modal_title": "Customer Success Manager",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Post-sales CSM emails to existing Encord customers: intros as their new CSM, support escalations, technical guidance, billing follow-ups, renewals, and feature-update check-ins.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "nicolaj.peters",
+  "modal_title": "Growth Strategy Operations Analyst (body sign-off cover title: \"AI/ML Ops\")",
+  "style": "templated_blast",
+  "genre_notes": "Eight near-identical cold outbound emails pitching a \"2-minute AI pipeline diagnostic\" to prospects at different companies, personalized only by first name and company name in the subject line.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "medium"
+ },
+ {
+  "sender": "joe.turner",
+  "modal_title": "AI / ML / Computer Vision",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personally researched cold intros and conference/dinner follow-ups to specific new prospects (ICLR meetings, doughnut drops, curated AI Leaders dinners), each referencing the recipient's own work.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "alyssa",
+  "modal_title": "Account Manager",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Mostly account-management/relationship emails \u2014 order forms, demo coordination, reconnecting with former customers, plus a few hand-written exec dinner and CVPR event invites tied to existing relationships.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "william (Will Bauer)",
+  "modal_title": "none seen (signature is name + company address only, no role line)",
+  "style": "mixed",
+  "genre_notes": "Hand-written 1:1 deal-cycle emails: POC/trial onboarding support, scheduling, contract/order-form negotiation, seat-overage billing to an existing customer, plus one personalized ML-leaders dinner invite.",
+  "role_verdict": "post_sales",
+  "confidence": "medium"
+ },
+ {
+  "sender": "hugo (Hugo Mayne)",
+  "modal_title": "ML Technical Partnerships",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalised one-to-one prospecting emails to new prospects (BMW, VinFast, Ooredoo, AXA-style intros), cold-call follow-ups, inbound-interest qualification questions, and meeting-time proposals \u2014 classic outbound rep selling.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "callum",
+  "modal_title": "AI / ML",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized researched cold outreach to named prospects at new accounts (referencing their hiring, CE marks, product updates, referrals) pitching Encord and asking for a call.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "sofia",
+  "modal_title": "none seen (signs as \"Sofia from Encord\", no title)",
+  "style": "event_invite_blast",
+  "genre_notes": "All 8 emails are the identical templated webinar invitation (\"Build Smarter VLMs, Faster\", June 26 2025) with only the recipient name and company merged in.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "stewart",
+  "modal_title": "GTM - Physical AI",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized first-touch sales pitches to named prospects in robotics/AV (with researched context, customer name-drops, 30-min meeting asks), plus hand-curated invite-only dinner/summit invitations to senior Physical AI prospects.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "tom.kennedy",
+  "modal_title": "Growth Associate (body sign-off sometimes \"AI/ML Ops\")",
+  "style": "event_invite_blast",
+  "genre_notes": "6 of 8 are an identical invite-only healthcare AI networking event blast and the other 2 are an identical templated \"quick question\" diagnostic-quiz sequence with zero recipient-specific research.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "rachel",
+  "modal_title": "Physical AI @ Encord",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Lightly personalized cold outreach to new robotics/physical-AI prospects (templated intro pitches, GTC dinner invites to named execs, event follow-ups) all seeking calls or meetings.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "yuvi",
+  "modal_title": "Technical PM (also \"Commercial Associate\" and \"PM\" in some signatures)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized outbound selling and inbound-lead qualification: researched cold pitches (hiring signal, trade-show follow-up), demo scheduling, and curated AI leaders dinner invites to specific senior prospects.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "gauri",
+  "modal_title": "ML Partnerships",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized outbound to named prospects: hand-written exec dinner/lunch invites with company-specific context, post-call pitch follow-ups, and demo next-steps \u2014 classic outbound rep work under the \"ML Partnerships\" cover title.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "tim",
+  "modal_title": "Enabling Computer Vision & Multimodal AI Teams (Tim Kovoor)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalised one-to-one cold/warm outbound pitches to new computer-vision prospects \u2014 phone follow-ups, meeting-booking links, company-specific research (Paraspot, Odysight, Woven by Toyota), dinner invite, and a referral ask.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "ria (Ria Passi, ria@encord.com)",
+  "modal_title": "Technical PM (5 of 7 signatures; also \"Commercial Associate\" twice)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized one-to-one prospecting to new prospects \u2014 company-researched intro pitches plus hand-written invites to intimate AI leaders dinners/lunches with personal context (calls, CVPR meetings, offering Ubers).",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "diego",
+  "modal_title": "Commercial Associate",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized 1:1 sales outreach to named prospects \u2014 meeting follow-ups, tailored pitches (e.g. Suki breakdown), call scheduling, and hand-written dinner/World Cup suite invites to specific AI leaders.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "sachit",
+  "modal_title": "Commercial Associate (also \"Physical AI PM\" / \"Technical PM\" cover titles)",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized 1:1 cold outreach to robotics/physical-AI prospects (ST Engineering, Boston Dynamics, Eureka, Vivid Machines) pitching Encord's data platform and 15-20 min calls, plus a few demo follow-ups.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "nick.aguilar",
+  "modal_title": "Commercial Associate",
+  "style": "mixed",
+  "genre_notes": "A mix of templated webinar-invite blasts (4 identical), one researched one-to-one product pitch to a robotics prospect, personal exec-dinner invites, and a hand-written coffee-meetup note \u2014 all signed Commercial Associate.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "kevin (Kevin McKeever, kevin@encord.com)",
+  "modal_title": "Director, Partnerships",
+  "style": "mixed",
+  "genre_notes": "Personal one-to-one deal-cycle emails spanning pilot kickoffs, training/onboarding coordination, NDA/contract handling, meeting scheduling, and some researched prospect outreach \u2014 full-cycle partnerships/sales work rather than pure first-touch prospecting or blasts.",
+  "role_verdict": "post_sales",
+  "confidence": "medium"
+ },
+ {
+  "sender": "katie",
+  "modal_title": "AI // ML // Computer Vision",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized one-to-one prospecting emails: re-engaging past evaluators, post-call follow-ups, demo scheduling, and a curated AI Leaders dinner invite with personal context.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "tom.inglis",
+  "modal_title": "Account Executive (also \"Healthcare Lead\" once)",
+  "style": "other",
+  "genre_notes": "One-to-one deal-cycle emails: inbound booking confirmations/reschedules, detailed post-discovery-call recaps with demo/pricing next steps, and an event logistics reply \u2014 active sales-cycle management, not cold first-touch prospecting or mass blasts.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "laura",
+  "modal_title": "none seen (signed \"Sofia from Encord\", no title)",
+  "style": "event_invite_blast",
+  "genre_notes": "All 8 emails are the identical templated webinar invitation (\"World Models for Physical AI, May 22nd\") with only the first name swapped, sent via HubSpot with utm_source=hubspot campaign tracking, and oddly signed \"Sofia from Encord\".",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "william.purvis",
+  "modal_title": "Special Projects Lead / Physical AI Special Projects",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Hand-written one-to-one outbound to specific physical-AI/robotics prospects: researched cold pitches, warm intros, event follow-ups, and personalized happy-hour invites to named senior attendees.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "dillon",
+  "modal_title": "Strategy @ Encord",
+  "style": "mixed",
+  "genre_notes": "Mostly personalized invites to exclusive executive dinners/panel events for senior AI-lab prospects (with hand-written touches like funding congrats and Optimus mentions), plus one templated product pitch with HubSpot unsubscribe link and a follow-up offering a product chat.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "medium"
+ },
+ {
+  "sender": "precious",
+  "modal_title": "AI // ML // Computer Vision",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Researched one-to-one cold pitches to named prospects (Perfect Corp, Axis, AutoScout24) requesting 15-min calls, plus call follow-ups and personalized AI After Hours event invites \u2014 classic outbound prospecting.",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "eliza",
+  "modal_title": "Head of Customer Success",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Existing-customer emails: product support answers, meeting scheduling, partnership check-ins, follow-ups with next steps, and contract/DocuSign renewal logistics, signed \"Head of Customer Success\".",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "kit",
+  "modal_title": "Senior Content Manager",
+  "style": "event_invite_blast",
+  "genre_notes": "All 8 emails are the identical templated webinar invitation (\"20-minute session on using GPT-4o... reserve your spot\") sent via HubSpot with only the first name changed.",
+  "role_verdict": "marketing_or_growth",
+  "confidence": "high"
+ },
+ {
+  "sender": "nico.fernandez",
+  "modal_title": "Commercial Associate",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Hand-written, researched cold outreach and inbound-lead follow-ups pitching Encord's data platform to specific new prospects (plus one event-venue logistics inquiry).",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "dave.hunt",
+  "modal_title": "Customer Success Manager",
+  "style": "customer_success_or_account_mgmt",
+  "genre_notes": "Hand-written emails to existing Encord customers about feature updates, onboarding, renewals, user-management cleanup, label-fix operations, and follow-up sessions.",
+  "role_verdict": "post_sales",
+  "confidence": "high"
+ },
+ {
+  "sender": "eric.landau",
+  "modal_title": "CEO & Co-founder",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Hand-written one-to-one founder emails: podcast invites, investor/fundraise discussions, partnership intros, and a personal dinner invite, all signed CEO & Co-founder.",
+  "role_verdict": "leadership",
+  "confidence": "high"
+ },
+ {
+  "sender": "satchel",
+  "modal_title": "Commercial Associate",
+  "style": "one_to_one_pitch",
+  "genre_notes": "Personalized 1:1 outbound sales emails to new prospects (CVPR/Autonomous event follow-ups, trial inquiries, call scheduling and pitch follow-ups), signed \"Commercial Associate\".",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ },
+ {
+  "sender": "zainab",
+  "modal_title": "AI // ML // Computer Vision",
+  "style": "mixed",
+  "genre_notes": "Mix of hand-targeted exclusive dinner invites to named senior prospects (Le Bristol Paris, CVPR dinners) and researched one-to-one sales pitches referencing company-specific context (Series C, FDA imaging, NatWest AI office).",
+  "role_verdict": "ca_like_outbound_rep",
+  "confidence": "high"
+ }
+]

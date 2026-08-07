@@ -1,0 +1,224 @@
+SENDER: dave.hunt
+7 sample first-touch emails
+
+--- email (subject: Update on multi-camera sync for Encord) ---
+Hi Mission 3A team,
+
+How are things going?
+I wanted to let you know that *multi-camera sync* is now available in
+Encord. You can synchronize playback between multiple video feeds within
+the editor -- a capability I remember being a key part of your workflow.
+Here's what it includes:
+
+   - Sync playback between video<>video (and audio)
+   - Pressing play/space now starts all videos simultaneously
+   - Seeking in one tile updates the others
+   - Stepping forward/back, pausing, and timeline seeking are all synced
+   - Option to toggle sync off if you want to review just one stream at a
+   time
+
+Want to set up time for a demo? Looking forward to hearing from you.
+
+Dave
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Action Needed on Encord "Free Float" Users) ---
+Hi MVP team,
+
+As part of our ongoing efforts to simplify user management and improve
+security, we’ll soon move to a Strict User Management system, which means
+users who are currently “free-floating” (not officially part of your
+organization) will need to be either added to your org or removed.
+
+Our product team recently audited our user database and found *12
+project-associated
+users* not currently linked to your organization, all of whom have been
+active on projects in the last 6 months. I’ve listed out these users below.
+We’d love your guidance on how to manage these users. We can either:
+
+   - Add them to your organization
+   - Remove them completely from the platform
+
+Please let us know what approach you’d like to take and we can handle on
+our end. I’m happy to discuss this in a quick sync if that’s easier.
+
+*Free float users*nmorrison@mvpindex.com
+mhawkins@mvpindex.com
+mreed@mvpindex.com
+jlevin@mvpindex.com
+bkennedy@mvpindex.com
+jkirven@mvpindex.com
+kscott@mvpindex.com
+rlee@mvpindex.com
+bbrazda@mvpindex.com
+amadsen@mvpindex.com
+jgarsson@mvpindex.com
+mludwig@mvpindex.com
+
+Thank you!
+
+Dave Hunt
+*Customer Success Manager*
+
+Email: dave.hunt@encord.com
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Coordinating LVT's Encord Renewal) ---
+Thanks so much, Weijun. 
+
+Charles -- when are you free for a call? We met with Yiyuan at CVPR as we understand he has been tasked with building out the ML Operations pipeline, which Encord can definitely support. Would be great to connect on this within the next week to avoid any rush near the renewal. 
+
+Regards, 
+
+Dave
+
+--- email (subject: Mission 3A | Encord - meeting follow-up) ---
+Hi Estefan and Tracey,
+
+Great reconnecting last week. I know you’ve made good progress on the AWS
+side so I wanted to follow up with a few resources to help you get data
+flowing into Encord.
+
+*Step 1: Ingesting from your AWS buckets*
+Now that the integration is live, you're ready to start uploading video and
+other assets. There are a few different ingestion modes depending on your
+preferences:
+
+   - *Cloud Synced Folder*: If you’d like your AWS bucket to auto-sync with
+   Encord (including new files as they arrive), this is the most seamless path.
+   - *Strict Client-Only Access*: If you’d prefer to manage access tightly
+   and avoid direct integration, we support pre-signed URLs for controlled
+   ingestion.
+   - *JSON-based Uploads*: For more control, you can register files via
+   JSON in bulk, including custom metadata like resolution, FPS, etc.
+
+I recommend having a look at the attached tech onboarding doc (slides 8-11
+in particular) as it has more detail on each of these options.
+
+*A few suggestions based on our last call:*
+
+   - Since you're planning to upload multi-view surgical footage, I’d
+   strongly recommend enabling Data Groups
+   <https://docs.encord.com/sdk-documentation/index-sdk/sdk-data-groups#create-data-groups>.
+   These let you group files together into a single task and ensure they’re
+   synced during annotation.
+   - It sounds like you're also thinking about audio ingestion and
+   diarization.  We support MP3 ingestion today, and I’d love to hear a bit
+   more about how you’re planning to use speaker identification so we can
+   point you in the right direction.
+
+Thanks again! Around if any questions come up.
+
+Dave
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom
+
+--- email (subject: Intro & check-in from Encord) ---
+Hi Lindsey!
+
+Dave here, I'm the new Encord account manager for White Rabbit. I hope
+all's well.
+
+Would you be up for a brief intro call sometime soon? It'd be great to hear
+how things are going and see how I can best support.
+
+Thanks a lot, looking forward to meeting you.
+
+Dave Hunt
+*Customer Success Manager*
+
+Email: dave.hunt@encord.com
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Label Format Issue in Encord Project) ---
+Hi Voxel team,
+
+We recently identified a small number of labels in your project that were
+saved in an incorrect format due to a past issue with our polygon tool. The
+good news is we’ve developed a script to automatically correct these
+labels, and we can handle the process entirely on our side.
+
+To ensure the fix is safe, we’ll:
+
+   - Create a copy of your project.
+   - Run the correction script on the copy and verify the results.
+   - Apply the fix to your original project.
+   - Remove the copied project and any temporary access.
+
+All we need from you is to add our temporary account -
+guest+voxel@encord.com - to the relevant project with admin permissions.
+Once we’re done, we’ll remove it immediately.
+
+Please let us know once the account has been added and we’ll take care of
+the rest.
+
+Thank you for working with us on this!
+
+Dave Hunt
+*Customer Success Manager*
+
+Email: dave.hunt@encord.com
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Encord follow up session) ---
+Hey Manu! Really enjoyed the conversation last month. Thanks again for
+walking us through your thinking on prompt iteration and fine-tuning
+datasets.
+
+Per your suggestion, let’s get a follow-up session on the books so you can
+take us through your static image hazard localization workflow?  That way
+we can see concretely how you’re approaching it today and align on where
+Encord can support.
+
+Let me know when works best for you.
+
+Dave
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*

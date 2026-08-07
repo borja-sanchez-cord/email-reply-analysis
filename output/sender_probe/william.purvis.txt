@@ -1,0 +1,304 @@
+SENDER: william.purvis
+8 sample first-touch emails
+
+--- email (subject: Steven <> Suhail Intro) ---
+Hey Steven,
+
+Great to catch up last week in SF! Connecting you with Suhail from Sunshine
+Lake. Suhail is a good friend of mine and when I told him about what you're
+working on at Orchestra he was interested in learning more!
+
+Hope its a good convo - over to you both
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Physical AI Special Projects
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3l2VQ1l5y7QrmmqW5tzQMF1jfxGBW7dwZKs1l9zYKW6Psnv-87xWz2W3DYbbT1RGkwzV53T1k8shSMwW2jmRy17kCNqHW821rNB6QcgN0N4dX86wCz3x2VHzpYD52B6BHW1Fv5pC6KL7YDW1bMY6s92bx_DW8llpq43xc9cJW7qZHZF8BWR4LW3mlRyH55cSFgW5HfPYz35QQp6V_yJV26bkdKYW8vPwW24k1ns2W2Mpyfz6Dg73SW1-frKy4d_ll7W6LwFX11khwlLW12ZLrn5PFTBBf1419Tj04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Encord <> SoftBank Follow Up) ---
+Hi Daisuke and Ayako,
+
+Great to meet you both today. As promised, please find attached two case
+studies most relevant to your team's use case:
+
+   - *Pickle Robot*: warehouse robotics team using Encord for data
+   curation, annotation, and model evaluation. Results include a 30%
+   improvement in annotation accuracy, 60% faster model iteration cycles, and
+   15% improvement in robotic grasping accuracy.
+   - *Toyota Woven*: our largest Japanese customer, using Encord for
+   autonomous driving data management and curation at scale. Saved $2M+/yr
+   across 50 FTEs.
+
+Why teams like these choose Encord comes down to data quality. Cheap
+egocentric data is widely available; we specialise in is turning raw data
+into high-quality, structured training data that moves model performance.
+That means accurate labels, action captions, sub-task segmentation, and
+full pipeline coverage from data collection through to pre-training. That
+is exactly the gap between a VLA that works in the lab and one that works
+on the factory floor.
+
+To give your team a sense of what working with us would look like - and to
+prepare a rough cost estimate - it would help to understand a few things
+about your requirements. If you can get answers from the Japan team, even
+partial ones are useful:
+
+   1. What industrial environments will the VLA operate in? (e.g. assembly
+   line, pick and place, quality inspection)
+   2. What specific tasks need to be demonstrated?
+   3. What data collection approach are you targeting: egocentric
+   (head/wrist-mounted cameras), robot arm teleoperation, or both?
+   4. RGB or RGB-D? Do you need depth camera data?
+   5. How many camera angles or viewpoints per scene?
+   6. Do you need the data annotated, or raw collection only?
+   7. Roughly how many hours of data are you looki
+
+--- email (subject: Training data for KAI World Model) ---
+Hi,
+
+Congrats on the KAI launch, the KAI Halo approach to egocentric data
+collection is a smart way to build the world model.
+
+The bottleneck teams hit at this stage is usually on the labeling and
+curation side: structuring that first-person data at scale to actually move
+model performance.
+
+We work with several humanoid teams on exactly this. Worth a quick call?
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Special Projects Lead
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3n7W7WdwTN1jwBswW7Ts3hx4z1SgrW36C6Gs94WChXW2tVmPM45cVBkW8r8s3D2TBFyQW1HZKz158mzd_W5mlBjn1XgwPCW51krpd2ymh5xW4bc2zd4y3VwyW3myW-N7nJlQlVfNbnf4xKg0FW7CmQcK4YR63sW7MMYBJ6-NNpnW9kD1nJ7p44jfW4SYg997bR1C6W1qPsw949BkB9W5S6twc7Ff_K4W145MpW3G9x6ZW7B2mTz7MslMRW7h0-WJ6PnK13W4FV5w27vC150W5H6h_F8yt1NQVYwXwG1Xs1mRN8ZnhF_L0mmzf3qSPZz04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Happy Hour invitation (Humanoid Summit - Tokyo)) ---
+Dear Lior,
+
+Hope you're well. Saw that you're speaking at the Humanoid Summit and
+wanted to extend an invite:
+
+We're hosting a small happy hour this evening at Bar Cocktail Works in
+Shinagawa, 5 min walk from the conference venue (6-9pm). ~30 founders,
+execs, and engineering leads working across humanoid robotics and broader
+physical AI. Drinks, bites, no panels, no pitches.
+
+If Encord is new to you: we're the data layer that physical AI and robotics
+teams use to curate, annotate, and align their training data. We work with
+Boston Dynamics, Woven by Toyota, Dyna Robotics, and others.
+
+We would love to have you in attendance if you are available.
+
+Best wishes,
+Will
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Special Projects Lead
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3kWW5jnbpC5v1xNxW5Mmz685JYnJqW61K2xZ5nX63QN6YDW7dpT3zRW7S_Rdf1YWZQXW6nc1Sn6qJvnvN8FC91Nrpz-5W3V_2v61ht-L6VM3JR71DrnJSW2TlySx4SmTpTN3p0rb3VhPBTW8G5-xZ2jQXKJW89DrWX4-BQrjW5DkP4v4Cv-wXW4lLGCS7JgJzGW78RLZD7Jw8vlW6Bq5m599xYbJW89SB9t3wnGcXW4TgW0W6xvPwCW3msx8-52WB3jN8yKvh6G_lPHW8MHhdJ96bv-CW7_9PRR7XTWlwW1w4kCW4v0821f2p4Hpl04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Encord <> Hacklab Robotics Hackathon) ---
+Hey Pedro,
+
+Connecting you with @Tom Kennedy <tom.kennedy@encord.com> who leads our
+Physical AI growth team at Encord. He has context on the hackathon planned
+for November, I'll leave it to you both to find a time to discuss further.
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Physical AI Special Projects
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3n-N7HPbsNc2TfLW1ZZb_G10vv-3W7NXvgz7xf7_KW1pz5342_nKV-W2DQ8CH2bfCpXW5TyPWM6ts9h2W2ZftDV1kwGGbW3QNN-c4H1rsmVDSzFR1JXcd2TXVL11BhWr8W2zzbzM54mB9jW1g9N8r1hqKlZVQgY02524V64M_QhlL9zsCbW6b4Xml7My0cWW5b-SBN1mZbjHW8zgnjY7x_3trW3RWmZs4bVsQyW8kp3CS3NXclQV-_Vr71vqDfJW3F6Xwf6QFKK4W1PTgY_6tYDkWf6PlhMH04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Happy Hour invitation (Humanoid Summit - Tokyo)) ---
+Dear Junya,
+
+Hope you're well. Saw you're coming to the Humanoid Summit later this month
+and wanted to extend an invite:
+
+We're hosting a small happy hour the night before the summit kicks off
+(Wednesday May 27, 6-9pm) at Bar Cocktail Works in Shinagawa, 5 min walk
+from the conference venue. ~30 founders, execs, and engineering leads
+working across humanoid robotics and broader physical AI. Drinks, bites, no
+panels, no pitches.
+
+If Encord is new to you: we're the data layer that physical AI and robotics
+teams use to curate, annotate, and align their training data. We work with
+Boston Dynamics, Woven by Toyota, Dyna Robotics, and others.
+
+We would love to have you attend. Let me know if you're available and I'll
+send over the details.
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Special Projects Lead
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3mlW282V3x2XXz1MW638rb-4_66q6W2nNL652p2W7yVqVZ556F2cMbW2f-lsx9fCQtWW6rBxNM8Hk764W2K-vp41QSskTW98N5CX1v7C-0N7zlkR9Kt-KwW26nH_B1s1G_RW3hs0SB2jrBtwW4Xp00J2d2vrDW1SZB788Cr6vqN6V4HP-fx598W5h4NlJ8mvry1W3zcpZ61csqdWW1qHN3c7DLdBqW69rByR4r7l8hW22GtQf6Mw8JkW6jnJBJ3KZvtnW8cZkMb3MdybnVrTvPX1F7dH8N4gXtZgVCP2rW3GCl8x7-jh8bf5gRkcP04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of 
+
+--- email (subject: Intro from Sina - Encord x Traton) ---
+Hi Florian,
+
+Sina suggested I reach out after our conversation today.
+
+I’m Will from Encord. Sina mentioned you’d be the best person to speak with
+about annotation pipelines and MLOps at Traton.
+
+I’ve sent over a calendar invite for Wednesday morning. I’d love to give a
+short introduction to Encord and show how we support multimodal data
+workflows across curation, annotation, and dataset gap analysis for teams
+working with video and lidar.
+
+Please let me know if the time works for you. Looking forward to connecting.
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Special Projects Lead
+
+[image: image.png]
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3kqW2fz46H20jcqYW3VgM8J7st8h_N4zSwp7wQKs-W5zf0dY7PL12hW9dSz4k6Tr-VPW5DWsyx2S3HtxV-kB4c6ns5nSW18l1Mw6Bz2jwW2TYP6k64mn7HW3ZD2RW1NdvbhW8L4QXP8dsD-RW4qQ0M_5QYrjKW7k0m5G70mVPQW1sdlS22RNf1vW8Y18Ml61vjHtW423K5X1lcXgVW6zhQwF80THkkW4_kw6p2nHF0QVw8x1s2QkX87N3TKN9wvw9kNW6HK8b28pS0TNW6BFcNQ7ZBDHMMxcbTS6qcs6W69T4hR6fpDjrf2F0jr604>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Great to meet at the Humanoids Summit) ---
+Dear Rammaru-san,
+
+Great to meet you in Tokyo last week and glad you could make it to the
+happy hour. Sorry your boss couldn't make it in the end.
+
+Would love to set up a call to share what we're doing at Encord and
+understand where SoftBank Robotics is headed. Happy to loop in your manager
+too if that's useful.
+Given the timezone difference, Tuesday or Wednesday morning (JST) tends to
+work best from London. Alternatively, here is my calendar for easier
+scheduling: https://cal.com/wpurvis-encord/humanoids-summit-follow-up
+
+-- 
+
+Best wishes,
+
+Will Purvis
+
+Physical AI Special Projects
+
+Email: william.purvis@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3krW6SfKLF90lztDVRghJ248Sn-NW59ZCBC6cz4-sN7k17CH4gG-BW4ZZRJS8bfjMYW3_PQX01J-jpYW4vtzwt1Tnq8fW2rlgV983PhdPW7TTgQ92w5BDCVWrrB_1h-1GqW6C8qb522zprxW5pWGs875z0F7W27zG6N2N3zkqN1qtyhLrmNclW2Ng8hb4lFSMzW6lbmx915MGlBW5h4drx8nG5BQW73rj2B1NV3mkW14_LKG3Q02DfVyryz73Rr_PlW11q6x-49TV_NW4PtY_b2CwBv_W2ngryf7Z1G9FN64jkYnvQNfnf2g5d_b04>
+
+Reg Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*

@@ -1,0 +1,402 @@
+[
+{
+"id": "409688498401",
+"subject": "Re: Encord <> Milwaukee | ML data ops pipelines",
+"text": "Hi Moritz,\n\nHappy New Year to you as well,\n\nThank you for being transparent about the platform\u2019s current capabilities. We completely understand and agree that it makes sense to save everyone\u2019s time and cancel the meeting on the 12th.\n\nPlease reach out to us as soon as you have any solution or updates around time-series data capabilities. We\u2019d be happy to reconnect when there\u2019s better alignment.\n\nBest regards,\nNitin"
+},
+{
+"id": "409843920073",
+"subject": "Re: Archive Skipped",
+"text": "Hey sorry should have gotten back to you. I ended up just basically\nduplicating the agent and that works fine.\n\n[image: image.png]"
+},
+{
+"id": "409844574401",
+"subject": "Re: Encord Trial",
+"text": "Sounds good on linking the keypoints in the ontology. No rush, I really appreciate all the active support you are providing on this!\n\nRegarding #2, thanks for confirming the issue. Ive went ahead and updated the json on the frames with the missing keypoints to have the keypoint annotation assigned to id of 5. In addition, ive made sure all annotations share a standard id to name mapping for the various objects, and ensured this mapping matches the ontology you setup. Ive re-zipped and attached the updated per-frame json, can you load this updated data into the dataset so im able to see the keypoints?\n\nGet Outlook for Mac <https://aka.ms/GetOutlookForMac>"
+},
+{
+"id": "409853226212",
+"subject": "\ud83d\udea8 Please upload your missing receipts",
+"text": "Some of your payments are missing their receipts\nSome of your payments are missing their receipts\nHi, \nWe're trying to close our books for last month. Please could you upload the receipt as soon as possible? I'd really appreciate any help here. TY!!\nBest, \nParvathi\nView my payments missing receipts\nManage my email notification settings\nCopyright \u00a9 2026 Spendesk. All rights reserved.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "409862886595",
+"subject": "Re: Encord Trial",
+"text": "Hey guys,\n\nSorry to keep bothering you. At this point im just having issues getting the interpolation on keypoints to work. Ive tried a couple things:\n               1) With my initial per-frame annotations loaded, ive tried to run the interpolation between frames (after adjusting the keypoints to be correct on the first and last frames I want to interpolate between). But when I click the interpolation button it seems like nothing happens. I was thinking that it was because every frame was uploaded as a keyframe and I need to remove the keypoint annotations between the two keyframes I wanted to interpolate between. This thought let me to (2) below\n\n  *   2) I uploaded a new video (c10_left.mp4) and tried to add pose keypoints to an initial key frame, then I added them to another key frame in the future (for example I added the pose on frames 0 and 20) and then tried to run the interpolation between those two frames. I see the popup at the top for a second saying its running the interpolation, but nothing seems to happen.\n\nI know you demoed this feature in the first meeting we had but I don\u2019t remember what Im doing differently. Could you share the video of that demo with me? If not please advise or point me to the documentation I need to get the keypoint interpolation between keyframes working.\n\nThanks,\nMax Smalley\n\nGet Outlook for Mac <https://aka.ms/GetOutlookForMac>"
+},
+{
+"id": "409863230688",
+"subject": "Accepted: Encord x Ooredoo - Intro",
+"text": ""
+},
+{
+"id": "409886148836",
+"subject": "Re: Kluster x Encord - Quarterly Biz Review @ Thu, 8 Jan 2026 2:30pm \u2013 3:10pm (GMT+00)",
+"text": "No worries, yes that time is free for me tomorrow! See you all then, looking forward ??\n\n[cid:f7838f6e-be9d-4920-80d2-92368a955059]\n\nFreya Tubb | Mid-Market Account Manager\n\nDouble your ability to beat quota, with accurate forecasting\n\nfreya.tubb@kluster.com<mailto:matt.stevenson@kluster.com> | kluster.com<http://kluster.com/>\n\n[cid:a710f35f-2a04-4db5-883b-6bcbdb26e429]"
+},
+{
+"id": "409901524191",
+"subject": "Re: Slack Channel",
+"text": "Hi Seif,\n\nGreat question, thanks for checking! Let's go with encord-walden.\n\nThanks,\nRares"
+},
+{
+"id": "409902123228",
+"subject": "Re: HNY! 2026 Alignment",
+"text": "Hi Winnie,\n\nTomorrow/Friday, I'm free from 3-5pm CT if that works for you?\n\n[created with MySignature.io]<https://mysignature.io/?utm_source=logo>\nDaniel Sposito\nStaff Software Engineer\nemail: daniel@contoro.com\nwebsite: www.contoro.com"
+},
+{
+"id": "409958555883",
+"subject": "New purchase of \u00a327.85 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello James,\nA new payment of \u00a327.85 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3272.15 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "409969172712",
+"subject": "New purchase of \u00a316.52 made with your Spendesk virtual card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a316.52 was made. Please provide your receipt through Spendesk using one of the following methods: \nAlready have a digital copy of your receipt?\nJust answer this email with the receipt attached and we will match it automatically!\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt\nIf you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410000838846",
+"subject": "RE: NDA",
+"text": "Hi Steffan,\nAttached is the NDA.\n\nKind regards,\nMohamed"
+},
+{
+"id": "410005565673",
+"subject": "Re: Encord Proposal Call",
+"text": "Hi Colin,\n\nHappy New Year.\n\nI wanted to inform you that there are a few changes to the user license requirements. Also, we would like to have one more demo of the tool's capabilities. Please let me know if we can schedule that today so we can conclude the next steps. I will also have my team join this call.\n\nThanks & Regards\nDarshan R\nCo-Founder & COO\n[cid:0e289ab3-05ec-412c-80d2-e3b8127a3152]\nPh: +1 949-610-0025<tel:=19496100025> | +91 998-650-1001<tel:919986501001>\n\nLinkedIn<https://www.linkedin.com/company/cohortdata-llc/?viewAsMember=true> | Website<https://www.cohortdata.com/>"
+},
+{
+"id": "410087215322",
+"subject": "New purchase of \u00a35.64 made with your Spendesk virtual card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a35.64 was made. Please provide your receipt through Spendesk using one of the following methods: \nAlready have a digital copy of your receipt?\nJust answer this email with the receipt attached and we will match it automatically!\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt\nIf you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410090415307",
+"subject": "Re: Encord Trial",
+"text": "Hey Zach,\n\nThanks for getting that all setup! I see the email and should be good to go. Ill reach out if I have any issues before the Monday call.\n\nAlso, I see the missing pose for those frames as well, looks like our internal model wasn\u2019t able to detect the pose on those frames so nothing wrong on your end.\n\nBest,\nMax\n\nGet Outlook for Mac <https://aka.ms/GetOutlookForMac>"
+},
+{
+"id": "410108146918",
+"subject": "Re: Encord<>CCC sync",
+"text": "Hi Steffan,\nUlrik must\u2019ve got the link to sign the document now. Please follow up on your side.\n\nThanks,\n\nSrini"
+},
+{
+"id": "410119082186",
+"subject": "Re: Encord<>Assent Pricing & Next Steps",
+"text": "Hi Steffan,\n\nAre you open to reviewing and signing our MNDA attached?\n\nThanks\nElham"
+},
+{
+"id": "410125712597",
+"subject": "New purchase of \u00a37.66 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a37.66 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3250.34 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410129571002",
+"subject": "New purchase of \u00a312.26 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a312.26 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3257.74 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410131988692",
+"subject": "Re: Connect later this week?",
+"text": "Hi Colin,\n\nFeel free to shoot me a text at 304-615-0938 and we will find time to\nconnect"
+},
+{
+"id": "410147297479",
+"subject": "Automatic reply: At CES today? - Autonomy data chat",
+"text": "I am out of the office until Jan 13.  I will respond as time permits."
+},
+{
+"id": "410147520736",
+"subject": "Re: Encord<>Assent Pricing & Next Steps",
+"text": "Hi Steffan,\n\nWe are still in the process of security clearance.\nThe attached insurance documents do not cover cyber related incidents and\nwill not suffice. Please provide one that ensures protection with relation\nto cyber incidents.\nWe can only plan for kick off when security is clarified.\n\nBest\nElham"
+},
+{
+"id": "410156999889",
+"subject": "New purchase of \u00a312.21 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a312.21 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3237.79 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410160698557",
+"subject": "Accepted: Encord & Contoro",
+"text": ""
+},
+{
+"id": "410172371184",
+"subject": "Re: Encord Trial",
+"text": "I can see everything now! Thanks for the support, Ill let you know if I run into any other issues.\n\nGet Outlook for Mac <https://aka.ms/GetOutlookForMac>"
+},
+{
+"id": "410178129127",
+"subject": "New purchase of \u00a313.74 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a313.74 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3903.26 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410185371869",
+"subject": "RE: Valkyries Group Outing Opportunities",
+"text": "Hi Alyssa,\n\nThank you for reaching back out! I\u2019m looping in @Jenny<mailto:jewalker@goldenstate.com> who will be your point of contact. She will share the schedule and pricing which is likely coming soon. Hopefully some dates work out and we can get a group outing put together. I\u2019ll let you two take it from here.\n\nBest,\n\nAdam Postiglione\nDirector, Group Sales\nGolden State Valkyries\n\n415.349.3100 (office)\nwarriors.com<https://www.warriors.com/> | tickets<https://www.warriors.com/tickets> | goldenstate.com<https://goldenstate.com/connect>\n[Golden State Warriors Banner]"
+},
+{
+"id": "410214169846",
+"subject": "Re: NDA",
+"text": "Hi William -\n\nIntroducing you to @Ciara Aguilar <ciara.aguilar@airbnb.com> on my team.\nShe will own the contract going forward and process."
+},
+{
+"id": "410214253775",
+"subject": "Accepted: Nuance Labs <> Encord - chat @ Fri 9 Jan 2026 1pm - 1:30pm (PST) (laura.zhu@encord.com)",
+"text": "Nuance Labs <> Encord - chat\n\nClaudia Vanea has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/isv-jxfu-vmx\n\nJoin by phone\n\n(US) +1 601-909-0007 \nPIN: 326765993\n\nMore phone numbers\n\nWhen\n\nFriday 9 Jan 2026 \u22c5 1pm \u2013 1:30pm (Pacific Time - Los Angeles)\n\nGuests\n\nlaura.zhu@encord.com\n- organiser\n\nClaudia Vanea\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "410228535527",
+"subject": "Re: Encord x Robot partnership",
+"text": "Also, if easier you can propose some times tomorrow and I'll make that work"
+},
+{
+"id": "410232068304",
+"subject": "RE: Valkyries Group Outing Opportunities",
+"text": "How does 3 pm sound?\n\nJenny Walker\nAccount Executive, Group Sales\nGolden State Valkyries\n\n415.404.9215 (office)\nvalkyries.com<https://valkyries.com/> | tickets<https://valkyries.com/tickets> | goldenstate.com<https://goldenstate.com/connect>\n[Golden State Valkyries Banner]"
+},
+{
+"id": "410248883436",
+"subject": "Re: Nuance Labs <> Encord - chat",
+"text": "Hi Laura,\n\nDo you have time tomorrow? Hoping to do some video labelling asap :)\nI was trying LabelBox as I'd used them during my PhD but their video editor\nis very buggy. I'd heard good things about Encord so keen to get started!\n\nThanks!\nClaudia"
+},
+{
+"id": "410252326124",
+"subject": "Re: Encord x Robot partnership",
+"text": "Hi team,\n\nFeel free to call or text me directly at 304-615-0938\n\nTysm!"
+},
+{
+"id": "410252396764",
+"subject": "Re: Mutual NDA with Tacta Systems",
+"text": "Winnie,\n\nI will be sending the NDA today.  Thank you for your patience, I was out and now back from break.\n\nHappy New Year! Please expect the NDA to come via Docusign.\n\nMonica Valadez"
+},
+{
+"id": "410254136535",
+"subject": "Re: [EXTERNAL] Encord <> Upwork - NeurIPS follow up",
+"text": "Roger,\n\nGood question.  Mind if we get the NDA in place and then I'm glad to go\ninto further detail?  Some of this stuff is emerging business for us.\n\nPlease see attached edits from our legal team and if you are ready to sign,\nlmk who your signatory is and we can hook this up to docusign and send over.\n\nRegards,"
+},
+{
+"id": "410274653418",
+"subject": "New purchase of \u00a313.10 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a313.10 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3212.90 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410274726136",
+"subject": "New purchase of \u00a313.90 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a313.90 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3211.10 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410278225133",
+"subject": "Re: Sick // Encord Quick Sync",
+"text": "Hi Olivia,\n\nCan't make it tomorrow, but please feel free to schedule something for next week. Prefer after 9am pacific time.\u00a0\n\nBest regards\n\nEmahn Novid\n\nSoftware Engineer\n|\nIntegrated Automation"
+},
+{
+"id": "410281922751",
+"subject": "Accepted: steg.ai <> Encord - demo @ Mon 26 Jan 2026 10am - 10:45am (PST) (laura.zhu@encord.com)",
+"text": "steg.ai <> Encord - demo\n\nJoe Degol has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/mke-izgn-qvn\n\nJoin by phone\n\n(US) +1 941-451-2787 \nPIN: 301082272\n\nMore phone numbers\n\nWhen\n\nMonday 26 Jan 2026 \u22c5 10am \u2013 10:45am (Pacific Time - Los Angeles)\n\nGuests\n\n(Guest list has been hidden at organiser's request)\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "410282049785",
+"subject": "Re: Brand Logos for Encord",
+"text": "Hi Colin,\n\nAnything you all have ran ads with? Like marketing or brand guideline by\nchance?"
+},
+{
+"id": "410285659329",
+"subject": "New purchase of \u00a323.21 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello James,\nA new payment of \u00a323.21 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3809.79 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410315537607",
+"subject": "Re: Creating an order - Encord & Abbvie",
+"text": "Hi William,\n\nSorry for the delay and Happy New Year.\n\nGood question.\n\nThe next step is for you to send the invoice(s) to\ninvoices@scienceexchange.com. Once we receive them, our team will mark the\norder as complete for you.\n\nIf the order is marked complete before we receive the invoice, we\u2019re still\nable to accept it, but it adds an extra step on our side since we then need\nto reach out to the requester for email confirmation before processing.\n\nSo sending the invoice first is the smoothest path.\n\nHere are some Help Center article with more information:\nhttps://help.scienceexchange.com/s/article/s-invoice-process\nhttps://help.scienceexchange.com/s/article/s-order-completing-order\n\nLet me know if you have any questions. And sorry again for the delay in\nresponse.\n\nBest,\nCyn"
+},
+{
+"id": "410331878644",
+"subject": "New purchase of \u00a326.30 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello James,\nA new payment of \u00a326.30 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3782.70 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410349532396",
+"subject": "New purchase of \u00a320.70 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a320.70 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3882.30 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410364177635",
+"subject": "New purchase of \u00a311.96 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a311.96 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3226.04 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410370008298",
+"subject": "Re: Encord & Dexterity",
+"text": "Will - my apologies, this slot got booked by a customer meeting. I am now\navailable the following times tomorrow (Fri):\n1.30-2.30pm\n4.00-5.00pm\n\nThanks.\n\n-- Rajiv"
+},
+{
+"id": "410401731800",
+"subject": "New purchase of \u00a38.77 made with your Spendesk virtual card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a38.77 was made. Please provide your receipt through Spendesk using one of the following methods: \nAlready have a digital copy of your receipt?\nJust answer this email with the receipt attached and we will match it automatically!\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt\nIf you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410421971164",
+"subject": "Re: Creating an order - Encord & Abbvie",
+"text": "Any time William."
+},
+{
+"id": "410644505786",
+"subject": "Re: AWL + Encord",
+"text": "Dear Arisha,\n\nThank you very much for your reply.\nHope to talk to you next week on MEETS.\nI have also asked my team, ABDUL and FADOUA to join.\n\nPlease have  a wonderful week.\nMina"
+},
+{
+"id": "410656579820",
+"subject": "Re: Encord x Robot partnership",
+"text": "Hope you\u2019re feeling better!\n\nLet\u2019s do 1pm PST.\n\n@merlito can you please send invite?\n\nSpeak soon"
+},
+{
+"id": "410661819591",
+"subject": "Re: Ahead of your Start!",
+"text": "Hi Leo and James, \n\nReally appreciate you setting all of this into motion, Leo enjoy SF and looking forward to catching up when you\u2019re back! \n\nJames, appreciate you reaching out and booking something for Monday, looking forward to meeting! \n\nHave a great weekend!\n\nTom"
+},
+{
+"id": "410669749476",
+"subject": "Re: Madrid dinner + how have you been?",
+"text": "Hi James,\n\nHappy New Year! Everything is good, thanks for asking. I hope things are well on your end too!\n\nEverything is running smoothly on our side with Encord. Projects are slowly ramping-up, and we have almost all the pipelines under control.\n\nRegarding the dinner, I don't think we will join, but thanks for the invitation \ud83d\ude42.\n\nBtw, thanks for the Christmas goodies! We received a blanket, a sweater, and a pair of socks \ud83d\ude04. Just a note, Encord is directing them to Alfonso Moralo, who is not longer with us.\n\nAll the best,\n\nJuan Ignacio Bravo\n\nHead of GeoAI\n\n[A green letter and a black background  Description automatically generated]\n\nt:    +34 671674303\n\ne:   juan-ignacio.bravo@xoople.com<mailto:juan-ignacio.bravo@xoople.com>\n\nw:  www.xoople.com<http://www.xoople.com/>\n\nMake the best decisions on Earth\u2122"
+},
+{
+"id": "410688038114",
+"subject": "Re: Encord <> Didro",
+"text": "Hi Moritz,\nSounds good. I will send over some sample data before the demo.\nBest,\nPierre"
+},
+{
+"id": "410714278105",
+"subject": "Re: \"Bales PET\" Project Sync Fail",
+"text": "[image: image.png]\n\nNow your HDPE project is failing...., can you have a look why?"
+},
+{
+"id": "410850175175",
+"subject": "Re: Kluster x Encord - Quarterly Biz Review @ Thu, 8 Jan 2026 2:30pm \u2013 3:10pm (GMT+00)",
+"text": "Hey Ray, Christian and Leo,\n\nI\u2019m so sorry, but I have a personal matter I need to take care of this afternoon, so I\u2019ve moved our meeting to Monday.\n\nI\u2019m really looking forward to the conversation and hope this new time works. If not, please feel free to suggest a time that does.\n\nThanks again and apologies for the change!\nFreya\n\n[cid:bead18b7-e844-44c0-846d-273eadd4f9c8]\n\nFreya Tubb | Mid-Market Account Manager\n\nDouble your ability to beat quota, with accurate forecasting\n\nfreya.tubb@kluster.com<mailto:matt.stevenson@kluster.com> | kluster.com<http://kluster.com/>\n\n[cid:027a33f4-00b0-44c2-ada3-0914c9a5efc4]"
+},
+{
+"id": "410878894303",
+"subject": "Re: [EXTERNAL] Re: Encord <> AbbVie - Weekly",
+"text": "11:30AM - 12PM works for me.\n\nRafael"
+},
+{
+"id": "410899657964",
+"subject": "Re: Invitation: Encord & Airbnb @ Mon Jan 12, 2026 11:30am - 12pm (PST) (omar.siddiqui@airbnb.com)",
+"text": "Hi Will, much appreciated!\n\nConfirmed for the 21st at 11:30am PST. Sounds good\n\nBest\nOmar"
+},
+{
+"id": "410927381715",
+"subject": "Accepted: Encord <> ANYBotics | Demo @ Tue 13 Jan 2026 12pm - 12:45pm (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> ANYBotics | Demo\n\nYi Hao Ng has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/oso-btsf-jpm\n\nJoin by phone\n\n(GB) +44 20 3956 3142 \nPIN: 865037600\n\nMore phone numbers\n\nWhen\n\nTuesday 13 Jan 2026 \u22c5 12pm \u2013 12:45pm (United Kingdom Time)\n\nLocation\n\nHH 81A-3-Rosie (81A - 3) (8)\nView map\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nYi Hao Ng\n\nNebojsa Andelkovic\n\nkat@encord.com\n\nSamuel Bachmann\n\nJavier De Velasco Oriol\n\nMaximilian Wulf\n\nJo\u00e3o Cravo - optional\n\nFernando (Ferran) - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "410946918588",
+"subject": "Your multi-use card has been cancelled by an admin",
+"text": "Your multi-use card has been cancelled by an admin \nYour multi-use card has been cancelled by an admin \nHello Shreya, Your multi-use virtual card ending with 8525 for CES has been cancelled by an admin. If you still need to spend, please request a new card.\nThe Spendesk team\nHave a good day,\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "410968978630",
+"subject": "Re: Encord<>Assent Pricing & Next Steps",
+"text": "Thanks Steffan, I've accepted these changes and signed for Assent.\n[image: Assent] <https://www.assent.com/>\n\nRochelle Johnson\n\nPrivacy Officer\n\nrochelle.johnson@assent.com\n[image: -------------]\n<https://www.assent.com/blog/assent-now-certified-b-corporation>\n\nAssent Inc.\n\n1 866 964 6931 <18669646931> / assent.com <https://www.assent.com>\nBlog <https://www.assent.com/blog/> / Customer Support\n<https://www.assent.com/customer-support/> / LinkedIn\n<https://www.linkedin.com/company/assentinc/>"
+},
+{
+"id": "411044181179",
+"subject": "RE: Valkyries Group Outing Opportunities",
+"text": "I can do either! Do you have a preference?\n\nJenny Walker\nAccount Executive, Group Sales\nGolden State Valkyries\n\n415.404.9215 (office)\nvalkyries.com<https://valkyries.com/> | tickets<https://valkyries.com/tickets> | goldenstate.com<https://goldenstate.com/connect>\n[Golden State Valkyries Banner]"
+},
+{
+"id": "411051785458",
+"subject": "New purchase of \u00a310.62 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello James,\nA new payment of \u00a310.62 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3772.38 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411058967754",
+"subject": "Re: NDA between Cord Technologies, Inc. and QUALCOMM Incorporated",
+"text": "Hi Mortiz,\n\nI have Ulrik signing the NDA on Dec 22 (see attached), but from the summary it looks like we didn\u2019t have you nor Maria on the cc line. Apologies about that.\n\nLet us know if you need anything else.\n\nThanks,\n\ng"
+},
+{
+"id": "411071912182",
+"subject": "New purchase of \u00a318.12 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a318.12 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3176.88 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411073674485",
+"subject": "Accepted: Invitation: Tensor <> Encord - sync @ Thu Jan 15, 2026 1pm - 1:20pm (PST) (shuhengliu@tensor.ai)",
+"text": "CONFIDENTIALITY NOTICE: The contents of this email and any attachments are intended solely for the addressee(s) and contain confidential and/or privileged information and are legally protected from disclosure unless otherwise indicated. If you received this message by mistake, please immediately alert the sender by reply email and then delete this message and any attachments. If you are not the intended recipient, you are hereby notified that any use, dissemination, copying, or storage of this message or its attachments is strictly prohibited."
+},
+{
+"id": "411075113195",
+"subject": "Accepted: Encord <> Path Robotics | Trial Wrap @ Fri 9 Jan 2026 4pm - 4:45pm (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> Path Robotics | Trial Wrap\n\nNima Gard has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/ayn-iqyx-zuc\n\nJoin by phone\n\n(GB) +44 20 3956 6441 \nPIN: 510741229\n\nMore phone numbers\n\nWhen\n\nFriday 9 Jan 2026 \u22c5 4pm \u2013 4:45pm (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nChristopher Eubel\n\nNima Gard\n\nNima Gard\n\nMatthew Klein\n\nblake@encord.com\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more\n\nThis email message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message. If you are the intended recipient, please be advised that the content of this message is subject to access, review and disclosure by the sender's Email System Administrator."
+},
+{
+"id": "411075486925",
+"subject": "New purchase of \u00a316.97 made with your Spendesk virtual card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a316.97 was made. Please provide your receipt through Spendesk using one of the following methods: \nAlready have a digital copy of your receipt?\nJust answer this email with the receipt attached and we will match it automatically!\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt\nIf you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411077203146",
+"subject": "New purchase of \u00a313.79 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a313.79 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3903.21 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411078785211",
+"subject": "Re: HNY! 2026 Alignment",
+"text": "Hi Winnie,\n\nI have a last minute personal appointment that came up this afternoon.\n\nCan we reschedule to next week? I'm free Thursday (15th) and Friday (16th) after 3pm CT.\n\nThanks for the flexibility!\n\n[created with MySignature.io]<https://mysignature.io/?utm_source=logo>\nDaniel Sposito\nStaff Software Engineer\nemail: daniel@contoro.com\nwebsite: www.contoro.com"
+},
+{
+"id": "411080609998",
+"subject": "Re: Encord & Turion follow up",
+"text": "Hey Winnie, Yeah Monday still works!\n\nMohamed Hasan\n\u200b\u200b\u200b\u200b\nMachine Learning Engineer\n(714) 874\u20116324\nwww.turionspace.com<https://us.content.exclaimer.net/?url=http%3A%2F%2Fwww.turionspace.com%2F&tenantid=0RoPVsqXEe6F-WBFvdVZWQ&templateid=a62d4be8a0caee1185f96045bdd55959&excomponentid=F9QHgiqSHbO1GkOtZUeiTGoXlf7TgWzJIi7ruiQV_7s&excomponenttype=Link&signature=wqN0C5wVzreDiCR94VTEDFxwwJgPQXk9GCUA8_69mV6pQec1bgk327Tv7vnoA-cRHNTOHvwEnp432R9GFLiHVB4rOaDgNPZDVMomZMfkqchkNNDg46qj_VqlWF1pwhOWPnD70fsuIRFqkmtGkbSXunmfv4yjJucmkfu76yFVCYSYz6-brsG-i29SOV5cqQ3ZxCy_-Y5j8n3Mxuh5uqLfEc_bK65gyrvjSMVnS60JAoKOwH68uJy45yFY52gs2wDfbOLYI4VrHXon6KB6DHzFPTehbPKormUx9A_t2dlGuGH1SRu5ov-UKs7A4_8J2Uf_kNhkN-uuMfY7HxfyZW_ZNA&v=1>\nThe information contained in this e-mail and any attachments from Turion may contain confidential and/or proprietary information and is intended only for the named recipient to whom it was originally addressed. If you are not the intended recipient, any disclosure, distribution, or copying of this e-mail or its attachments is strictly prohibited. If you have received this e-mail in error, please notify the sender immediately by return e-mail and permanently delete the e-mail and any attachments. ITAR EXPORT CONTROLLED - This document may contain technical data that is controlled under the U.S. International Traffic in Arms Regulations (\u201cITAR\u201d), 22 C.F.R. Parts 120-130, and may not be exported, reexported or transferred to a Non-U.S. Person except as licensed or otherwise authorized by the U.S. Government. Violations of the ITAR may be subject to both criminal and administrative penalties under the Arms Export Control Act of 1976 (as amended). EAR EXPORT CONTROLLED - This document may contain technology that is controlled under the U.S. Export Administration Regulations (\u201cEAR\u201d), 15 C.F.R. Parts 730-774, and may not be exported, reexported or transferred to a Non-U.S. Person, except as licensed or otherwise authorized by the U.S. Government. Violations of the EAR are subject t"
+},
+{
+"id": "411082634470",
+"subject": "Re: Meeting",
+"text": "Dear James\nI apologize I replied late. Let' s schedule a call next week. January 15th\nwould be ok for me. I will be in San Francisco.\n\nRegards\nFabio\n\n*Fabio Puglia*\n\nCHAIRMAN and CTO\n\n R O B O T I C S   F O R   H U M A N S\n\nOversonic Robotics S.r.l Societ\u00e0 benefit\n\nVia Rivabella, 7 20842\n\nBesana in Brianza (MB) Italy\n\nwww.oversonicrobotics.com\n\nIl Ven 9 Gen 2026, 11:22 James Sweeney <james.sweeney@encord.com> ha\nscritto:"
+},
+{
+"id": "411114032367",
+"subject": "Re: Recconnect",
+"text": "Hey James,\n\nThe pricing is quite the sticker shock for us. We aren\u2019t able to justify spending the platform fee for what\u2019s being offered.\nWe\u2019ll stick with using CVAT for now and maybe look at this again after spring training.\n\nRegards\nKevin"
+},
+{
+"id": "411139310821",
+"subject": "Re: [EXTERNAL] Re: Encord <> AbbVie - Weekly",
+"text": "Same for me as well. cheers.\n\n[Image]"
+},
+{
+"id": "411141898468",
+"subject": "Re: Coffee at CES - AI iteration at scale",
+"text": "I don\u2019t do cold calls, but you can send me a brief on your platform, and I will review and follow up.\n\nThanks. Brandon\n\nCaterpillar: Confidential Green"
+},
+{
+"id": "411143733458",
+"subject": "New purchase of \u00a317.31 made with your Spendesk virtual card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Yianni,\nA new payment of \u00a317.31 was made. Please provide your receipt through Spendesk using one of the following methods: \nAlready have a digital copy of your receipt?\nJust answer this email with the receipt attached and we will match it automatically!\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt\nIf you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411147267320",
+"subject": "Re: Encord<>Assent Pricing & Next Steps",
+"text": "Thanks Steffan,\n\nThe attached insurance documents do not cover cyber related incidents and\nwill not suffice. Please provide one that ensures protection with relation\nto cyber incidents."
+},
+{
+"id": "411147462885",
+"subject": "New purchase of \u00a313.92 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello James,\nA new payment of \u00a313.92 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3758.08 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411164244175",
+"subject": "Re: Fraunhofer IPK & Encord",
+"text": "Hi Kamil,\n\nHappy new year to everyone!\n\nThanks for the follow up.\nWe discussed this internally w.r.t. our new projects and data.\nThe team does not see an alignment on data annotation work at the moment.\n\nMonday meeting slot works, but the scope would be limited in light of the team's decision.\n\n---\n\nBest Regards/Viele Gr\u00fc\u00dfe\n\nVivek Chavan | LinkedIn<https://www.linkedin.com/in/vivek9chavan/> | Website<https://vivekchavan.com/>\n\nResearch Associate\n\nMachine Vision | Automation Technology Division | Room 475\n\nBook a Meeting<https://outlook.office.com/bookwithme/user/9cdbb064352b472dad24d363481e59f9@ipk.fraunhofer.de?anonymous&ep=pcard>\n\nFraunhofer-Institut f\u00fcr Produktionsanlagen und Konstruktionstechnik IPK\nPascalstrasse 8-9\n10587 Berlin\n\nTel.: +49 (0)30 / 3 90 06 329\nMail: vivek.chavan@ipk.fraunhofer.de<mailto:vivek.chavan@ipk.fraunhofer.de>\n\nhttp://www.ipk.fraunhofer.de\n\nDas Fraunhofer IPK ist DQS-zertifiziert nach ISO 9001:2015."
+},
+{
+"id": "411178650814",
+"subject": "New purchase of \u00a316.37 made with your Spendesk card",
+"text": "New payment on your Spendesk card \nNew payment on your Spendesk card \nHello Shreya,\nA new payment of \u00a316.37 was made. Please provide your receipt through Spendesk using one of the following methods:\nDo you have a physical receipt?\nDownload the Spendesk mobile application and justify your payment by easily taking a picture of your receipt\nDid you receive the receipt by email?\nForward it to receipts+w676hkvuq1hnn1@spendesk.com, our robot Marvin will automatically match it with your payment.\nAnd of course you can always log in on Spendesk and upload your receipt to the payment.\nUpload my receipt For information, there is \u00a3194.63 left on your card. If you have any questions, we're always here to help.\nThe Spendesk team\nG\u00e9rer mes param\u00e8tres de mail et de notifications\nCopyright \u00a9 2026 Spendesk. Tous droits r\u00e9serv\u00e9s.\n\u200b (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "411178816727",
+"subject": "Re: Encord Trial",
+"text": "Hey Zach,\n\nThanks for the help, I am able to get the tracking/interpolation working with the steps you recommended.\n\nHowever, this isn\u2019t quite the flow I was expecting. This flow makes sense for annotating the video from scratch, but if you recall we want to start with our pre-annotations. Because our pre-annotations have been loaded such that each frame has its own pose object, im not seeing how to make this work. In addition, is there not a way to set a future key frame (lets say frame 20) and then have the tracking/interpolation occur between those two ground truth key frames? Without the end key frame (the current flow you recommended, places a starting pose (no end pose to reference) and then just let it track in the future) im seeing the tracking/interpolation break down quite quickly once any sort of complex movements start to happen.\n\nIf there isn\u2019t a way to do this im not sure Encode will work well for us. Can you please advise on the ideal annotation process for our workflow because right it\u2019s a bit unclear to me.\n\nThanks,\nMax\n\nGet Outlook for Mac <https://aka.ms/GetOutlookForMac>"
+}
+]

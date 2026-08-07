@@ -1,0 +1,402 @@
+[
+{
+"id": "474105851121",
+"subject": "Re: Encord <> 10alabs",
+"text": "This is the first time you're receiving an email from this person. Make sure you check the email address to confirm their identity before interacting with the email.\n\nHey folks,\n\nIn another call that\u2019s running a bit over, I\u2019ll be around 5-10 minutes late. Apologies for any inconveniences, let me know if we need to reschedule if this is too late.\u00a0\n\n-Kurt"
+},
+{
+"id": "474136648920",
+"subject": "Encord <> Ouster | Testing Wrap Up: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Ouster | Testing Wrap Up \nOuster, \u2022 Mar 6, 2026 \u2022 11 minutes \nEncord: Moritz Buttinger + 2 more \u2022 Customer: Joseph Lam + 2 more \nGo to call \nGenerate follow-up email \nKey points 1. Meeting Objective: The primary goal is to wrap up the testing phase, validate the tooling, and then proceed to producing labels and aligning on quality. \n2. Tool Loading Issues: Kalyani reported intermittent processing delays and issues with frames loading smoothly, especially with larger datasets, noting that the tool eventually fails to load for her. \n3. File Size Challenges: Nick and Oscar identified that the core problem seems to be related to the size of the files and issues with loading them from the bucket. \n4. Expected Loading Behavior: Matthew suggested that the tool should pause and wait if a frame hasn't loaded, rather than attempting to step forward, to handle large data more sensibly. \n5. Downsampling Discussion: There was a discussion about whether downsampling or voxelization could help with large datasets, with Matthew advocating for voxelization to maintain visibility of sparse objects. \n6. Browser-Based Performance: Matthew noted that other browser-based tools they use, like Deepen, also load slowly but eventually succeed, unlike the current issue. \n7. User Interface Feedback: Matthew and Kalyani provided feedback on the tool's UI, highlighting the need for a very large monitor due to limited ability to split tabs or fully minimize side columns. \n8. Upside Down Frame: Matthew inquired about a previously identified \"upside down\" frame issue (frame 31) and whether it had been resolved. \n9. Encord Internal Review: Nick committed to discussing the loading issues with Encord's engineering team (Rad, Danny, Dave) to assess fix feasibility and associated costs. \n10. Next Steps and Update: Encord will provide an update on Monday regarding the fix for loading issues and alignment on pricing for human labels before proceeding to step two. \nNext "
+},
+{
+"id": "474137649396",
+"subject": "Re: Physical AI Execs Dinner Invite - 17th March",
+"text": "Hi James,\n\nNice to meet you.\nThat sounds interesting. Please send over the  details for the dinner on\nthe 17th.\n\nBest,\n\nOlgert"
+},
+{
+"id": "474142288073",
+"subject": "Re: Encord Mutual NDA",
+"text": "Shivant,\n\nIt will be Krishna.Padmanabhan@globallogic.com\n\nRegards,\nVinodh"
+},
+{
+"id": "474144122090",
+"subject": "Re: Encord x Rilla - follow-up",
+"text": "Hey Hugo,\n\nThanks again for the call and for sharing those slides - really appreciate you taking the time to walk through how Encord's platform works and the capabilities.\n\nAfter discussing internally with the team, we've decided that while the platform looks solid, it's not quite the right fit for us at this time. The audio labeling and QA workflows you showed aren't a major pain point for us right now given our current setup and priorities.\n\nReally appreciate you thinking of us though, and if things change down the line I'll definitely reach out.\n\nHappy to stay in touch until then\n\nAll the best,\n\nAlex\n\nSent via Superhuman ( https://superhuman.com/refer/5n9z2tnj?utm_medium=signature&utm_source=product )"
+},
+{
+"id": "474145660139",
+"subject": "Re: Objectways Invoice - January 2026",
+"text": "Yes, it is. Thank you\n\nGet Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "474147580128",
+"subject": "Encord & Bedrock Robotics - Trial Kick-off: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & Bedrock Robotics - Trial Kick-off \nBedrock Robotics \u2022 Mar 6, 2026 \u2022 35 minutes \nEncord: Winnie Zhu + 2 more \u2022 Customer: Vincent Gonguet + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Bedrock's Core Need: Bedrock is looking for a workflow management system for their human and auto annotation pipelines, specifically for data understanding. \n2. NDA & Data Sharing: The NDA is executed, allowing Bedrock to share their data. They will provide MCAP files for multi-camera video action events, while Encord will use open-source NuScenes for perception tasks. \n3. Encord Platform Overview: Oscar provides a high-level overview of Encord's browser-based platform, covering data ingestion, dataset creation, and the three components of a labeling project: workflow, ontology, and dataset. \n4. Model Integration Focus: Bedrock wants to test integrating their own models for pre-labeling, either through Encord's agents framework or by loading labels via the SDK, prioritizing seeing the data flow and pipelining mechanics. \n5. Encord's Pre-labeling Offerings: Encord has a pre-labeling model and an SDK for custom integrations. They are also developing VLM/VLA chaining for physical AI customers to automate human work and scale throughput. \n6. Golden Sets & Feedback Loops: Bedrock is interested in tools for generating high-quality golden sets, fine-tuning data, and capturing recursive feedback for agents to improve models. \n7. Labeling Workforce: For the POC, Bedrock will handle labeling internally, but they currently work with Imerit for production labeling and may consider Encord's services in the future. \n8. POC Scope & Timeline: The POC will focus on the workflow, data flows, and UI ease of use, including testing a Gemini VLA workflow. The trial period is typically 1-2 weeks, with a check-in scheduled for next Friday. \n9. Platform Access: Encord will send invites to the Bedrock team immediately to allow them to explore the platform with st"
+},
+{
+"id": "474158137544",
+"subject": "Modiface/Encord - intro chat: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nModiface/Encord - intro chat \nl'Oreal \u2022 Mar 6, 2026 \u2022 36 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: Maucourant Edgar \nGo to call \nGenerate follow-up email \nKey points 1. Modiface's Core Business: Edgar explains that Modiface, acquired by L'Oreal in 2018, focuses on three main pillars: Virtual Try-On (VTO) for makeup, hair, and skincare; Skin Diagnostic; and an LLM-based recommendation system called Beauty Genius. \n2. Ethical AI Data Constraints: Edgar highlights a significant challenge in data acquisition due to Modiface's commitment to ethical AI, requiring explicit consent for all images, which restricts the use of public datasets. \n3. Shift to External Collaboration: Edgar mentions Modiface is moving from entirely in-house model development to fine-tuning existing models and plans to balance internal teams with external partners for specific projects and expertise. \n4. Annotation Methods: Edgar details Modiface's annotation processes, which include both simple tasks (e.g., highlighting eyes/hair) and professional-grade annotations (e.g., dermatologists for skin analysis), previously done in-house but now increasingly outsourced to agencies. \n5. Synthetic Data Use: Edgar notes that Modiface leverages synthetic data to overcome the constraints of real-world data acquisition, though he acknowledges it cannot be the sole training source. \n6. Annotation Tooling: Edgar clarifies that their external annotation agency uses its own tooling, with Modiface providing the images and receiving the annotations back for internal review. \n7. Data Volume & Growth: Kat asks about data volumes, and Edgar states they currently have about 50K images and 20K videos, with a goal to reach 300K images to fine-tune generative AI models. \n8. Video Annotation Process: Edgar confirms Modiface annotates videos by extracting and individually annotating frames, rather than using native video annotation tools. \n9. Compliance and Regulation: Edgar emphasizes the "
+},
+{
+"id": "474161718505",
+"subject": "RE: Encord Order Form",
+"text": "I\u2019ll chase them for an update, but haven\u2019t heard back since sending the materials you passed along.\n\nTrust that Ian and I are pushing this forward!\n\nHappy Friday\nCharles"
+},
+{
+"id": "474179734734",
+"subject": "Encord & Field AI - Testing Kick Off: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & Field AI - Testing Kick Off \nField AI \u2022 Mar 6, 2026 \u2022 32 minutes \nEncord: Nick Rajpal + 3 more \u2022 Customer: Harish Karunakaran + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Security & Data Sharing: Harish confirmed access to security documents and is awaiting confirmation to share customer data; otherwise, he will share internal data. Wally confirmed Encord's data processing covers privacy issues for customer video data. \n2. Encord's Service Overview: Nick explained Encord provides tools for the data portion of AI, primarily for robotics and physical AI, focusing on producing training data and scaling labeling workflows for 3D data (and potentially 2D). \n3. Platform Demo - 2D Video: Oscar demonstrated a multi-camera video labeling project, showing data sets, ontologies (segmentation, polygons, key points, lines, bounding boxes, classifications), workflow (labeling, review), and annotation features like captioning, auto-annotation (Segment Anything), and tracking. \n4. Customer Focus - 3D Lidar: Harish clarified that for this initial pilot, their primary focus is on lidar data with 3D bounding boxes for their tracking and prediction pipeline, rather than the 2D video flow. \n5. Lidar Data Demo: Oscar quickly set up and demonstrated a lidar labeling project, showing navigation, calibrated views, object creation, rotation adjustment, and interpolation for tracking objects through time. \n6. Access & Onboarding: Oscar provided Harish and Sneha access to the platform and projects. Harish will send a list of emails for additional labelers to be added. \n7. Data Upload Plan: Harish will send internal data (ROS bag format) first, likely a smaller section via Slack, then a 30-second one, and a longer one once format is confirmed. Oscar will prep the data for Monday/Tuesday. \n8. Labeler Training: Harish and Sneha confirmed they have two experienced labelers in India who will perform annotations, with Sneha and Harish reviewing. En"
+},
+{
+"id": "474186922216",
+"subject": "Re: [Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi Rachel - I'd be interested in joining if there's room. Can you share additional details on timing, etc?\n\nThanks,\n\nJon"
+},
+{
+"id": "474232673489",
+"subject": "Re: [Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi Rachel,\n\nThank you for the invitation. Yes, I\u2019d be happy to join the dinner! Can you please send me a calendar invite? \n\nBolei"
+},
+{
+"id": "474232982721",
+"subject": "Re: Declined: Encord & Voize @ Mon 9 Mar 2026 12:15pm - 12:45pm (GMT) (kamil@encord.com)",
+"text": "Hi Kamil,\n\nJust timing. We're heads down building right now and have no space to shift\nfocus to a six figure contract and all the pressure that creates.\n\nData's also growing smaller as a concern, these days models are quite\nsample efficient. Will revisit once we get current new initiatives off the\nground and into the refinement loop.\n\nBest,\nReuben\n\nReuben Morais\n\nMachine Learning\n\nreuben@voize.de\n\n[image: voize Logo]\n------------------------------\nvoize GmbH \u2022 Dircksenstr. 47 \u2022 D-10178 Berlin \u2022 www.voize.de\nGesch\u00e4ftsf\u00fchrer: Fabio Schmidberger, Erik Ziegler, Marcel Schmidberger\nAmtsgericht Potsdam \u2022 HRB 33938 \u2022 USt-IdNr.: DE330586102\nDiese E-Mail und ihre Anh\u00e4nge sind vertraulich und ausschlie\u00dflich f\u00fcr\nden/die angegebenen Empf\u00e4nger bestimmt. Sollten Sie diese Nachricht\nirrt\u00fcmlich erhalten haben, informieren Sie bitte sofort den Absender und\nl\u00f6schen Sie die Nachricht. Jegliche unbefugte Verwendung oder Weitergabe\nist untersagt."
+},
+{
+"id": "474233206989",
+"subject": "The daily Gong: Your team\u2019s opportunities today [Mar 7th]",
+"text": "GONG Your team has 1 external meeting today \nWeRide.ai \n12:00 AM Qinyao <> Laura - intro \n(Not set to record) Laura Zhu \nView calendar \nFriday\u2019s recap \n9 deals ( 7 calls, 28 emails)\n5 highlighted deals \ud83e\udd29 \nBedrock Robotics \n$75K \u2022 Evaluation \u2022 Close date: May 13\nEncord & Bedrock Robotics - Trial Kick-off (Not recorded) Winnie Zhu \nTrackMan \n$50K \u2022 Evaluation \u2022 Close date: May 31\nTrackman // Encord Next Steps | 27m\nHugo Mayne \nCall brief: Olivia and Leo from Encord, along with Steen from TrackMan, discussed TrackMan's needs for improved video annotation and data management, with Steen expressing interest in Encord's video-native approach but noting that key features like 3D multi-view object annotation and significant improvements to key point annotation are needed to justify switching from their current system. Leo offered to assess TrackMan's key point tracking setup and provide a demo of Encord's migration process to address Steen's concerns about the effort required for switching systems. \nTier IV \n$30K \u2022 Evaluation \u2022 Close date: May 29\nEncord <> Tier IV | Reconnect | 24m\nAndrew Bell \nCall brief: Kamil and Andrew from Encord, along with Kok from Tier IV, discussed Tier IV's ongoing evaluation of annotation platforms, including Segment AI and Cognic, and Encord's potential fit. While Tier IV is currently resource-constrained and focused on these two platforms, Kamil emphasized Encord's advanced tooling and offered a proof of concept to demonstrate its capabilities, with a follow-up meeting planned to discuss a potential partnership in June or July. \nMeituan Dianping \n$0 \u2022 Qualification \u2022 Close date: Apr 23\nEncord <> Meituan (Not recorded) Winnie Zhu \n10a Labs \nBook with Kurt (Yuvi Ajoomal) (Not recorded) Yuvraj Ajoomal \nEmails | 1 received | 1 sent\nAnd also with Upheal, l'Oreal + 14 more (total $185K)\nView all \nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferen"
+},
+{
+"id": "474233975008",
+"subject": "Declined: EagleView <> Encord",
+"text": ""
+},
+{
+"id": "474234285245",
+"subject": "Re: Encord - demo for Randal",
+"text": "That time doesn\u2019t work \u2013 I can do noon pst."
+},
+{
+"id": "474234289379",
+"subject": "New Time Proposed: Amazon (Randal) <> Encord (Laura) - intro",
+"text": ""
+},
+{
+"id": "474245147861",
+"subject": "Automatic reply: Encord <> NVIDIA",
+"text": "Dear sender,\nThank you for your email. I am currently out of office with limited access to my mails. Please expect a delay in my response. I will get back to you no later than my return on Friday, March 13.\nBest\nChiara Ref\u00e4uter"
+},
+{
+"id": "474354569410",
+"subject": "Re: Physical AI roundtable dinner invite - 17th March",
+"text": "Hi James,\nHope you\u2019re well. I work with Jon at Cobot and look after communications. Unfortunately Jon won\u2019t be in town for GTC and the Cobot team\u2019s schedule is a bit tight but I can see if I have anyone available to attend and get back with you.\nThanks,\nMegan\n\n\ufffc\n\ufffc"
+},
+{
+"id": "474430172360",
+"subject": "Re: Encord <> TEKsystems",
+"text": "Thanks Colin! Will take a look and revert.\n\nGet Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "474779365600",
+"subject": "Re: Short-term labelling capacity increase options",
+"text": "Morning Seif,\n\nThanks again for last week\u2019s call and thank you very much for passing on the slides. Really helpful for us to understand what options we have.\n\nThanks for the slides, we\u2019ll reach out once we have a firmer idea of how to proceed.\n\nWas a very sunny weekend up here and hope the same can be said for yourselves down south!\n\nKind regards,\nCalum"
+},
+{
+"id": "475140047049",
+"subject": "Declined: Encord <> Tennr | Catch-up @ Mon 9 Mar 2026 3:30pm - 4pm (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> Tennr | Catch-up\n\nJoschka Braun has declined this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/ior-xzhu-tjg\n\nJoin by phone\n\n(GB) +44 20 3956 5260 \nPIN: 203209099\n\nMore phone numbers\n\nWhen\n\nMonday 9 Mar 2026 \u22c5 3:30pm \u2013 4pm (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nTyler Johnson\n\nkat@encord.com\n\nJoschka Braun\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "475151420622",
+"subject": "Re: Encord <> NVIDIA",
+"text": "@Moritz Buttinger<mailto:moritz@encord.com> \u2013 see the attached deck for sample use case."
+},
+{
+"id": "475183073466",
+"subject": "Automatic reply: [EXTERNAL] Re: Deploying AI agents in minutes (live session) - Final Spaces",
+"text": "I am sorry, but I am OOO until 3/16/26 with no access to email. I will get back to you as soon as I can once I return.\n\nThanks,\n\nMark"
+},
+{
+"id": "475240358084",
+"subject": "Declined: Encord <> Scandit | PoC KO @ Mon 9 Mar 2026 11am - 11:45am (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> Scandit | PoC KO\n\nJohn Halazonetis has declined this invitation with a note:\n\"Declined because I am out of office\"\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/gfn-ctfe-hee\n\nJoin by phone\n\n(GB) +44 20 3937 4259 \nPIN: 691481867\n\nMore phone numbers\n\nWhen\n\nMonday 9 Mar 2026 \u22c5 11am \u2013 11:45am (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nPiotr Mitoraj\n\nKlemens Vogel\n\nThomas Wesner\n\nJohn Halazonetis\n\nTuan Nguyen\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "475345289444",
+"subject": "RE: Removal of users",
+"text": "Hi Seif,\n\nI have received the approval for the license renewal and have requested Mythri to proceed with the renewal process. She will handle the renewal in the same manner as last year.\n\nBest\nBismillah"
+},
+{
+"id": "475494002894",
+"subject": "Accepted: Encord <> Scandit | PoC KO @ Mon 9 Mar 2026 11am - 11:45am (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> Scandit | PoC KO\n\nPiotr Mitoraj has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/gfn-ctfe-hee\n\nJoin by phone\n\n(GB) +44 20 3937 4259 \nPIN: 691481867\n\nMore phone numbers\n\nWhen\n\nMonday 9 Mar 2026 \u22c5 11am \u2013 11:45am (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nPiotr Mitoraj\n\nKlemens Vogel\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "475517528309",
+"subject": "\u26a0\ufe0f $0 at risk in your $0 open pipeline (2/2 deals)",
+"text": "Hi James, We spotted some deals at risk on your All Pipeline - Test board that are closing this year and require your attention: \nWant to see something else here? Send us your feedback! \nJames Golby Commercial Associate \nVIEW DEALS \n% OF OPEN DEALS AT RISK \n100% \nOPEN DEALS \n$0 (2) \nRISK \n$0 (2) \nSightline Intelligence No activity for over 7 days \n$0 SiteSync AI No activity for over 7 days \n$0 \nYou are receiving this email because your company, Encord, has subscribed to the Gong service for capturing and analyzing sales calls and emails. Want to change how you receive these emails? I want to receive this email at a different time Unsubscribe\n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "475517667531",
+"subject": "Decision on Encord",
+"text": "Hey Olivia,\n\nI canceled our meeting this morning, sorry for the late notice. \n\nWe decided not to move forward with Encord after the demos and a careful consideration. Here's the main feedback I got:\n\n\u2022 \nWhile Encord has positive features, such as highlighting text evidence to justify scoring decisions, it cannot display score descriptors as required. The inability to display score descriptors (detailed text explaining what each score means) next to scores, and to show multiple score descriptors side-by-side for comparison, is a critical requirement and a breaking point for the team. \n\n\u2022 \nTwo demos were insufficient to validate that the platform can support our needs. And since we can't access the platform before signing a contract we think that doesn't suit us.\n\nThank you for your time and effort, and I hope we find other opportunities to work together in the future.\n\nBest,\n\n-- \n\nRalph Esber\n\nHead of AI at Kognity\n\nralph.esber@kognity.com\n\n+46704985441\n\nwww.kognity.com\n\nLinkedIn"
+},
+{
+"id": "475525727441",
+"subject": "\u26a0\ufe0f $0 at risk in your $0 open pipeline (14/17 deals)",
+"text": "Hi Yianni, We spotted some deals at risk on your All Pipeline - Test board that are closing this year and require your attention: \nWant to see something else here? Send us your feedback! \nYianni Manolakakis Commercial Associate \nVIEW DEALS \n% OF OPEN DEALS AT RISK \n82% \nOPEN DEALS \n$0 (17) \nRISK \n$0 (14) \nSpace42 No activity for over 7 days \n$0 Kawada technologies, inc. No activity for over 7 days \n$0 Visionary.ai Vision Ltd No activity for over 7 days \n$0 WSC Sports No activity for over 7 days \n$0 Toyota Boshoku America No activity for over 7 days \n$0 42dot No activity for over 7 days \n$0 Johnson & Johnson No activity for over 7 days \n$0 Addverb No activity for over 7 days \n$0 Aselsan No activity for over 7 days Pricing not mentioned and the deal is closing in 30 days or less \n$0 Honeywell No activity for over 7 days Pricing not mentioned and the deal is closing in 30 days or less \n$0 \n+4 more deals\n$0 \nDownload the Gong mobile app\nListen to sales calls on the go, even offline!\nYou are receiving this email because your company, Encord, has subscribed to the Gong service for capturing and analyzing sales calls and emails. Want to change how you receive these emails? I want to receive this email at a different time Unsubscribe\n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "475525893340",
+"subject": "\u26a0\ufe0f $1.12M at risk in your $3.02M open pipeline (17/34 deals)",
+"text": "Hi James, We spotted some deals at risk on your All Pipeline - Test board that are closing this year and require your attention: \nWant to see something else here? Send us your feedback! \nJames Watson \nVIEW DEALS \n% OF OPEN DEALS AT RISK \n50% \nOPEN DEALS \n$3.02M (34) \nRISK \n$1.12M (17) \nSkild No activity for over 7 days \n$500,000 Verisk No activity for over 7 days \n$117,000 Ford No activity for over 7 days \n$100,000 Berkshire Grey No activity for over 7 days \n$80,000 Agile Robots Prospect has been ghosting for over 14 days \n$80,000 JLR No activity for over 7 days \n$65,000 Stats Perform No activity for over 7 days \n$50,000 LG AI Research No activity for over 7 days \n$50,000 Wayfair No activity for over 7 days \n$30,000 Fujifilm Ripcord Prospect has been ghosting for over 14 days \n$30,000 \n+7 more deals\n$20K \nDownload the Gong mobile app\nListen to sales calls on the go, even offline!\nYou are receiving this email because your company, Encord, has subscribed to the Gong service for capturing and analyzing sales calls and emails. Want to change how you receive these emails? I want to receive this email at a different time Unsubscribe\n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "475526002901",
+"subject": "\u26a0\ufe0f $125K at risk in your $835K open pipeline (2/18 deals)",
+"text": "Hi Kamil, We spotted some deals at risk on your All Pipeline - Test board that are closing this year and require your attention: \nWant to see something else here? Send us your feedback! \nKamil Mouthon Commercial Account Executive \nVIEW DEALS \n% OF OPEN DEALS AT RISK \n11% \nOPEN DEALS \n$835K (18) \nRISK \n$125K (2) \nVeridas Prospect sent an email with a red flag in the last 10 days \n$100,000 PyannoteAI Prospect has been ghosting for over 14 days \n$25,000 \nYou are receiving this email because your company, Encord, has subscribed to the Gong service for capturing and analyzing sales calls and emails. Want to change how you receive these emails? I want to receive this email at a different time Unsubscribe\n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "475544794304",
+"subject": "\u26a0\ufe0f $380K at risk in your $695K open pipeline (9/17 deals)",
+"text": "Hi James, We spotted some deals at risk on your All Pipeline - Test board that are closing this year and require your attention: \nWant to see something else here? Send us your feedback! \nJames Sweeney Commercial Associate \nVIEW DEALS \n% OF OPEN DEALS AT RISK \n53% \nOPEN DEALS \n$695K (17) \nRISK \n$380K (9) \nHelsing No activity for over 7 days \n$200,000 Noimos Missing a Director, and the deal is closing in 30 days or less \n$30,000 Generative Bionics No activity for over 7 days \n$30,000 Gravis Robotics No activity for over 7 days \n$30,000 Mirelo AI No activity for over 7 days \n$30,000 Origin (10x) No activity for over 7 days \n$20,000 ExaCare AI No activity for over 7 days \n$20,000 Nagish No activity for over 7 days \n$20,000 UMA No activity for over 7 days \n$0 \nDownload the Gong mobile app\nListen to sales calls on the go, even offline!\nYou are receiving this email because your company, Encord, has subscribed to the Gong service for capturing and analyzing sales calls and emails. Want to change how you receive these emails? I want to receive this email at a different time Unsubscribe\n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "475549463757",
+"subject": "Declined: Kognity // Encord Sync @ Mon 9 Mar 2026 9am - 9:30am (GMT) (olivia@encord.com)",
+"text": "Kognity // Encord Sync\n\nRalph Esber has declined this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/rje-gxfn-hkx\n\nJoin by phone\n\n(GB) +44 20 3956 5993 \nPIN: 694802410\n\nMore phone numbers\n\nWhen\n\nMonday 9 Mar 2026 \u22c5 9am \u2013 9:30am (United Kingdom Time)\n\nGuests\n\nolivia@encord.com\n- organiser\n\nRalph Esber\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "475568922840",
+"subject": "Re: Flikweert Vision + Encord",
+"text": "Hi Diarmuid McGonagle\n\nThanks for the update.\nI mainly wanted to follow up regarding the issue with saving or submitting tasks. You mentioned that you would try to reproduce it on your side, have you already been able to test this or see the same behaviour?\n\nAlso, regarding the email threads: I kept this in the same thread for now since I\u2019m waiting for the result of that investigation. For new questions I\u2019ll make sure to start a separate thread with support@encord.com<mailto:support@encord.com> as suggested.\n\nKind regards,\n\nFinn Joostens\n\nComputer Vision Engineer\n\n[Logo Flikweert Vision]<https://www.flikweertvision.nl/>\n\nM f.joostens@flikweertvision.nl<mailto:f.joostens@flikweertvision.nl>\n\nA Platte Capelledijk 1, 4306 NE, Nieuwerkerk\n\nW<https://www.flikweertvision.nl/> flikweertvision.<https://www.flikweertvision.nl/>nl"
+},
+{
+"id": "475589751031",
+"subject": "Encord <> Scandit | PoC KO: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Scandit | PoC KO \nScandit \u2022 Mar 9, 2026 \u2022 31 minutes \nEncord: James Sweeney + 1 more \u2022 Customer: Tuan Nguyen + 4 more \nGo to call \nGenerate follow-up email \nKey points 1. Legal Status: The team is awaiting a signature on the agreement, which is expected later today, to enable platform access and send invites. \n2. POC Goals: The primary goals for the POC are to annotate 1,000 videos for new theft prevention products, validate the broader data pipeline, and build a business case for initial theft prevention and potential broader migration. \n3. New Use Case: Scandit confirms that video annotation is a new use case for them, meaning there's no existing benchmark for comparison, and they are building it fresh. \n4. Workstream Focus: The team will focus on video annotation speed and ease of use, team management, and building basic understanding of platform integration, particularly uploads and exports. \n5. Parallel Workstreams: Scandit intends to run video annotations and integration work (SDK for uploads/exports) in parallel, aiming for a basic understanding of integration rather than a full migration. \n6. Annotation Best Practices: Scandit seeks Encord's guidance on annotation best practices and platform sequences to establish a robust baseline for their new video use case. \n7. Project Setup Overview: Skander provides a basic walkthrough of project setup, including creating ontologies for object detection (bounding boxes), adding attributes, and setting up projects with workflows. \n8. Workflow Iteration: Scandit plans to explore and iterate on workflows, potentially starting with a small dataset to test different approaches, acknowledging that workflows can be modified within a project. \n9. Data Hierarchy: Skander clarifies that datasets hold the data and can be part of many projects, while projects hold the labels, allowing data reuse across different schemas (e.g., segmentation, object detection). \n10. Workflow Flexibility: Skander d"
+},
+{
+"id": "475599606002",
+"subject": "Evolv // Encord Demonstration: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEvolv // Encord Demonstration \nEvolv Technology \u2022 Mar 9, 2026 \u2022 46 minutes \nEncord: Olivia Pickett + 2 more \u2022 Customer: Matthew Belley + 2 more \nGo to call \nGenerate follow-up email \nKey points 1. Introductions & Evolv's Needs: Olivia introduces Encord's team and outlines Evolv's current ML pipeline challenges, including operational efficiency, annotation/review workflows, model integration, and centralized dataset management. Sean clarifies his role and interest in non-image/video annotation. \n2. DICOS Support: Sean and Matt inquire about Encord's support for non-image/video annotation, specifically DICOS. Max confirms DICOM support and discusses how it can handle DICOS, including the crucial aspect of storing and surfacing metadata like vendor info and system parameters. \n3. Customizable Workflow: Max demonstrates Encord's project workflow, which is fully customizable with stages like annotate and review, and allows for setting permissions for internal and external teams. \n4. Automation with Agents: Max explains that Encord's \"agents\" are webhooks that call out to user-defined scripts or APIs, allowing for automation of QA, metadata checks, or integration with LLMs, rather than being pre-defined agents. \n5. Model Integration & Pre-annotation: William asks about hooking into models for pre-annotation. Max confirms that Encord supports this by allowing users to extract images, feed them into their pre-annotation agent, and then upload the generated labels via the SDK. \n6. Task Assignment & Management: Max shows how project managers can assign specific tasks to annotators and distribute them evenly, ensuring annotators only see tasks assigned to them. \n7. Data Curation & Active Learning: Max demonstrates Encord's data curation capabilities, including filtering data by metadata or image qualities, comparing model predictions, and using embedding plots for data distribution analysis and similarity searches. \n8. Model Evaluation & Dataset Creat"
+},
+{
+"id": "475860468952",
+"subject": "Encord // AIDA Trial Wrap-Up: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord // AIDA Trial Wrap-Up \nPolytechnic Institute of Milan \u2022 Mar 9, 2026 \u2022 26 minutes \nEncord: Olivia Pickett + 1 more \u2022 Customer: Paolo Pertino + 2 more \nGo to call \nGenerate follow-up email \nKey points 1. Trial Wrap-up: Olivia outlined the meeting's purpose as wrapping up the trial, ensuring all questions are answered, and addressing any remaining testing needs. \n2. Product Feedback: Christian plans to send a list of product feedback and suggested tweaks to Olivia via Slack for Encord's physical AI team. \n3. Segmentation Review Process: Paolo inquired about the review process for segmentation masks, particularly for large datasets, and standard practices for handling reviews. \n4. Encord's Review Workflow: Skander detailed Encord's iterative review process, which includes internal annotator review, random sampling, and expert review by Encord's solutions team, noting that customers can add further review steps. \n5. Data Curation Access: Paolo reported an issue with the data curation explorer tab not showing samples for 2D segmentation bitmasks. Skander clarified that this feature for complex data groups is a beta feature not enabled on trial accounts. \n6. Review Editor Usability: Paolo discovered a \"single label review\" toggle that automatically zooms in on annotations, addressing his difficulty in reviewing small segmentation masks. \n7. 3D Cuboid Review: Christian suggested a shortcut or quick button to temporarily hide bounding boxes during 3D cuboid review to better see the underlying image and check attributes. Skander confirmed that shift+H is the shortcut. \n8. Reverting Review State: Christian noted that there's no direct button to revert an approved box's state when in focus mode, requiring him to navigate back through the list. Skander agreed this should be implemented. \n9. Label Linking & Pseudo-labeling: Ale asked about the correlation of IDs between 2D and 3D bounding boxes and the method for providing pseudo-labels (TXT/JSON "
+},
+{
+"id": "475904873668",
+"subject": "Encord <> Neura | Catch-up: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Neura | Catch-up \nNEURA Robotics \u2022 Mar 9, 2026 \u2022 24 minutes \nEncord: James Sweeney + 1 more \u2022 Customer: Bharath Santhanam \nGo to call \nGenerate follow-up email \nKey points 1. Initial Setup: Bharath acknowledged missing some initial setup steps and confirmed the Gemini model key and SSH key were already configured in his environment variables. \n2. S3 Key Integration: Bharath needed to add S3 keys, opting to temporarily set them in the terminal for the current session. \n3. Context Base URL: Abraham instructed Bharath to include a `context_base_url` parameter in the Python script, specifying the S3 path where context files are stored. \n4. Access Denied Error: Bharath encountered an \"access denied\" error when running the script, which Abraham identified as a service account permission issue. \n5. Service Account Permissions: Abraham guided Bharath to add the service account to the project settings with an admin role to resolve the access problem. \n6. S3 Structure Mismatch: A significant issue was identified where Bharath's S3 bucket structure had multiple MP4 files sharing a single TXT context file per directory, while Encord's code expected a one-to-one relationship with matching names. \n7. Code Fix Required: Abraham confirmed that the current code would need modification to accommodate Bharath's S3 structure, promising a fix within 30 minutes. \n8. Workflow Visualization: Bharath inquired about visualizing processed tasks in the UI, and Abraham explained that tasks would move from 'pre label' to 'complete' once the code runs successfully. \n9. Future Testing Plan: Bharath outlined his plan to add more datasets, experiment with pre-prompts, and run multiple tests to understand the platform better, aiming to finish by Wednesday. \n10. Follow-up Meeting: Bharath will sync with Jens tomorrow morning and then determine if a follow-up meeting with James and Abraham on Wednesday or Thursday would be productive to discuss his findings and any f"
+},
+{
+"id": "475968400578",
+"subject": "Re: Encord <> Tennr | Feedback / Testing alignment @ Mon, 9 Mar 2026 3:30pm \u2013 4:00pm (GMT+00)",
+"text": "Hey Kat,\n\nSorry for the late notice, I don't think it makes sense for us to meet today. We're still in a pretty similar spot to a few months ago and aren't at the point where this is a top priority for us to invest in.\n\nLet's check in again in a few months!\n\nBest,\n\nTyler Johnson\nCo-Founder, CTO\nTennr ( https://tennr.com/ ) | LinkedIn ( https://www.linkedin.com/in/tyler-johnson-482a42158 )"
+},
+{
+"id": "475975880906",
+"subject": "Accepted: Encord <> Scandit | Support @ Tue 10 Mar 2026 1:30pm - 2pm (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> Scandit | Support\n\nJohn Halazonetis has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/aza-wmco-cyc\n\nJoin by phone\n\n(GB) +44 20 3937 3680 \nPIN: 585848568\n\nMore phone numbers\n\nWhen\n\nTuesday 10 Mar 2026 \u22c5 1:30pm \u2013 2pm (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nJohn Halazonetis\n\nKlemens Vogel\n\nPiotr Mitoraj\n\nRobin Erik B\u00fcrgi\n\nThomas Wesner\n\nTuan Nguyen\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "476002688203",
+"subject": "Re: Meet the Women Redefining Enterprise AI in 2026",
+"text": "Hi Winnie,\n\nThank you for reaching out.\n\nCould you please share a bit more with me about your interest in our Momentum AI London Summit, are you interested in attending, speaking or sponsoring?\n\nThanks,\n\nKamran Samii\nHead of Momentum AI\n\nReuters\n\nreuters.com<http://thomsonreuters.com/>\nevents.reutersevents.com<https://events.reutersevents.com/>"
+},
+{
+"id": "476004839617",
+"subject": "Final Interview Follow Up",
+"text": "Hi James,\n\nHope you\u2019re doing well. Firstly, huge congratulations on the successful Series C! It\u2019s an incredible achievement and a real testament to what you\u2019re building.\n\nI\u2019m following up on my final interview from two weeks ago to check in on whether there are any updates or feedback from your side.\n\nLooking forward to hearing from you.\n\nBest,\n\nRiddhi"
+},
+{
+"id": "476031152357",
+"subject": "Accepted: Encord <> Scandit | Support @ Tue 10 Mar 2026 1:30pm - 2pm (GMT) (james.sweeney@encord.com)",
+"text": "Encord <> Scandit | Support\n\nPiotr Mitoraj has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/aza-wmco-cyc\n\nJoin by phone\n\n(GB) +44 20 3937 3680 \nPIN: 585848568\n\nMore phone numbers\n\nWhen\n\nTuesday 10 Mar 2026 \u22c5 1:30pm \u2013 2pm (United Kingdom Time)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nskander@encord.com\n\nJohn Halazonetis\n\nKlemens Vogel\n\nPiotr Mitoraj\n\nRobin Erik B\u00fcrgi\n\nThomas Wesner\n\nTuan Nguyen\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "476040519877",
+"subject": "RE: Meet the Women Redefining Enterprise AI in 2026",
+"text": "Hi Winnie, pleased to introduce my colleague Kam who heads up our London event.\n\nThanks\nBekki\n\nBekki Mistri\nSenior Project Director - Momentum AI 2026\nReuters Events\nBekki.mistri@thomsonreuters.com<mailto:Bekki.mistri@thomsonreuters.com>\n[See the source image]"
+},
+{
+"id": "476048470253",
+"subject": "The call \"Michelin & Encord | Weekly Concept Intro\" you shared was viewed",
+"text": "GONG \nHello Kamil, the call you shared was just accessed. \nMichelin & Encord | Weekly Concept Intro \nMichelin \u2022 Mar 5, 2026 \u2022 shared 17 minutes of 40 minutes \nEncord: Kamil Mouthon + 2 more \u2022 Customer: Binit Bhagat \nSee all views \nYou are receiving this email because your company, Encord , has subscribed to the Gong service for capturing and analyzing sales calls. (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "476051951841",
+"subject": "Michelin & Encord | Weekly Concept Intro: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nMichelin & Encord | Weekly Concept Intro \nMichelin \u2022 Mar 9, 2026 \u2022 34 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: Binit Bhagat + 2 more \nGo to call \nGenerate follow-up email \nKey points 1. Testing Progress: Kamil inquired about the testing progress on the platform, and Binit confirmed some features have been tested, but not all, mentioning a pending question for Max regarding proxy and server settings. \n2. SDK Interest: Pankaj expressed significant interest in using the SDK for data ingestion, specifically for importing images from Azure blob storage into Encord. \n3. SDK vs. UI Balance: Pankaj clarified that Michelin uses a balance of both UI and SDK, finding the SDK beneficial for specific data tweaking, while Skander confirmed that most functionalities are available via SDK and are commonly used in production for large-scale operations. \n4. SDK Integration Support: Skander provided documentation for Azure integration via SDK and offered to assist with any specific SDK testing, noting that automated workflows are typical in production environments. \n5. Proxy/VPN Challenges: Binit explained that Michelin faced challenges with Encord's SAS token approach and proxy settings, which were not encountered with other platforms that used connection strings (client ID, tenant ID) instead. \n6. Ontology for Layered Images: Skander discussed the annotation of layered images, confirming that Michelin primarily uses segmentation for detecting defects, and demonstrated how to set up a \"defect\" class with nested attributes like \"Amo,\" \"OK,\" and \"Not OK.\". \n7. Nested Labeling/Classification: Skander showed how to implement nested classifications, such as an \"anomaly\" tag with a conditional \"priority\" attribute, which Pankaj found very unique and useful for complex labeling tasks. \n8. Label Export Formats: Akash inquired about exporting labels. Skander explained that while UI export to JSON or COCO is available, the SDK offers a more robust solution "
+},
+{
+"id": "476125363425",
+"subject": "Andrew (Encord) & Mattia (Comau) | Intro call: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nAndrew (Encord) & Mattia (Comau) | Intro call \nComau \u2022 Mar 9, 2026 \u2022 22 minutes \nEncord: Tom Inglis + 1 more \u2022 Customer: Mattia Tritto \nGo to call \nGenerate follow-up email \nKey points 1. Comau's Role & AI Focus: Mattia works in Comau's digital team on an application called Ingrid, which monitors plants, robots, and production lines in real-time, focusing on KPI data from PLCs. \n2. AI Initiative 1: Data Summarization: Comau is leveraging AI to summarize real-time data from PLCs and robots, aiming to make insights more user-friendly for operators by simplifying complex dashboards and alarms. \n3. AI Initiative 2: Generative Robot Code: They are developing a generative AI model to write proprietary programming language code for robots, enabling programming without requiring technical expertise. \n4. Project Status: Comau is currently in the early stages of these AI initiatives, focusing on collecting ideas, design, and gathering data from customers. \n5. Data Challenge for Generative Model: While they possess thousands of examples of existing robot code, they lack descriptions of what these programs do, which is a challenge for fine-tuning models and requires annotation. \n6. Comau's Internal AI Expertise: Comau has prior experience training AI models, including vision and 3D models, in other departments, indicating internal knowledge of best practices for AI development. \n7. Generative Model Timeline: Mattia estimates approximately one year to develop a first generative model with around 70% accuracy, acknowledging the probabilistic nature and complexity of such projects. \n8. Encord's Core Offering: Tom explains that Encord provides a platform to curate, annotate, and evaluate AI models, supporting data ingestion, cleaning, annotation, and quality assurance. \n9. Encord's Workflow & Features: Encord centralizes annotation workflows, ensures data quality, facilitates in-platform quality assurance with human-in-the-loop options, and provides audita"
+},
+{
+"id": "476127547594",
+"subject": "Re: Physical AI Roundtable Dinner Invite - 17th March",
+"text": "Hey James,\n\nThanks for reaching out. I won't be at GTC this year but I appreciate the\ninvitation. Best of luck with the event.\n\nBest,\nRyan"
+},
+{
+"id": "476131064012",
+"subject": "Encord & HOPPR | Next steps: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & HOPPR | Next steps \nHOPPR \u2022 Mar 9, 2026 \u2022 14 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: Ali Ganjizadeh + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Meeting Purpose: Kamil wanted an update on HOPPR's internal discussions regarding timelines and feedback from their \"set shop\" meeting last week. \n2. Lung Module Deadline: Ali stated a hard deadline of end of March for lung module annotations, requesting eight annotators to expedite the process. \n3. Mammography Project: Ali mentioned a follow-up meeting today for the mammography project, aiming to upload 500 cancer mammography cases to the platform ASAP, with a goal to finish by mid-Q2 (April) in batches. \n4. Team Selection: Kamil explained that the \"preferred team\" is significantly more expensive per case and their earliest delivery date is April 1st, while the \"gamma team\" can scale faster. \n5. Gamma Team Concerns: Julie expressed that the gamma team is not usable or coachable, as they didn't understand instructions and over-annotated cases, making them inefficient. \n6. Preferred Team Cost & Timeline: Julie questioned if the preferred team's cost and time assessment accounted for their previous over-annotation and the new threshold of 3-4mm nodules. \n7. Instruction Clarification: Richa confirmed she communicated differences to the preferred team and will reiterate the 3-4mm nodule threshold to potentially reduce costs. \n8. End of March Deadline: Ali emphasized that the end of March deadline for the lung module is a hard company goal that cannot be moved. \n9. Partial Delivery Option: Julie suggested that receiving half or three-quarters of the annotations by the deadline from the preferred team would be more useful than using the gamma team. Ali agreed to discuss this internally. \n10. Annotation Guidelines: Julie advised reiterating to the preferred team that they should never do more than eight nodules per case, marking cases with more as such and moving on, "
+},
+{
+"id": "476131123419",
+"subject": "Estimated volumes",
+"text": "Expected volume at production level --- 1000 lidar sequences per quarter.\n\nPete Finnegan\n\nStaff Technical Product Manager - Perception\n\n256.658.0089\n\npete.finnegan@forterra.com\n\nThe information contained in this e-mail and any attachments from Forterra may contain confidential and/or proprietary information, and is intended only for the named recipient to whom it was originally addressed. If you are not the intended recipient, any\n disclosure, distribution, or copying of this e-mail or its attachments is strictly prohibited. If you have received this e-mail in error, please notify the sender immediately by return e-mail and permanently delete the e-mail and any attachments."
+},
+{
+"id": "476133187783",
+"subject": "Re: Private Dining Inquiry",
+"text": "Hi Winnie,\n\nMy pleasure!  Unfortunately, there is not a door or curtains to isolate the Atrium from the main dining room.  The only fully private space at Gwen is our wine room.  But yes, I\u2019ll have those photos for you of the setup there tomorrow afternoon.\n\nJasmine\n\nJasmine Quintana\n\nEvent Manager\n\n6600 Sunset Blvd. #200\nLos Angeles, CA 90028\ne: jasmine@curtisstoneevents.com\n\nc: +1 312.912.3338\n\n[cid:image001.png@01D97848.C19BEC60]"
+},
+{
+"id": "476134888685",
+"subject": "Karun (Reflex) & Kamil (Encord): Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nKarun (Reflex) & Kamil (Encord) \nReflex Robotics \u2022 Mar 9, 2026 \u2022 23 minutes \nEncord: Kamil Mouthon \u2022 Customer: Karun Warrior \nGo to call \nGenerate follow-up email \nKey points 1. Kamil's Travel & Event Inquiry: Kamil shares his upcoming travel plans and asks Karun about a physical AI panel he missed, expressing interest in its content. \n2. Physical AI Panel Experience: Karun describes the panel as a valuable experience, highlighting the diverse approaches to solving shared problems among participants. \n3. Reflex Robotics' Progress: Kamil inquires about Reflex Robotics' progress on building policies and notes the expansion of their perception team. \n4. Current Development Focus: Karun explains that Reflex Robotics is currently prioritizing the development of their teleop system, new hardware, and robot form factors to establish a reliable foundation for future autonomous policies. \n5. Off-the-Shelf Data: Kamil asks if Reflex Robotics is exploring acquiring off-the-shelf data, mentioning Encord's data collection services as a potential future collaboration. \n6. Data Strategy: Karun indicates that Reflex Robotics is not currently focused on training models from scratch with off-the-shelf data, preferring to leverage open-source models for experimentation, but acknowledges its future importance. \n7. Annotation & Policy Timeline: Kamil asks when annotation and policy development will become a primary focus for Reflex Robotics. \n8. Prioritization & Future Plans: Karun explains that they need to refine existing systems and potentially expand their team before fully dedicating resources to annotation and policy, estimating a timeline of around six months. \n9. Industry Trends & Data Importance: Both discuss the increasing emphasis on data in robotics, with Kamil noting major players' focus on data collection and Karun agreeing that scaling data is crucial for solving robotics challenges. \n10. Reliable System Building: Karun emphasizes the importance "
+},
+{
+"id": "476135018697",
+"subject": "Re: Encord <> NVIDIA | Partnership",
+"text": "Moritz,\n\nWe're all off the Thursday and Friday after GTC. I think it's best if we meet the 31st or 2nd at 8am PT or 8:30am PT. The post-GTC dust will have settled a bit more by then.\n\nWarmest regards and talk soon,\n\nLes Karpas\n\nInception Global Head of Physical AI\n\nhttps://nvidia.com/startups/\n\n [signature_765981457]"
+},
+{
+"id": "476143791325",
+"subject": "Tie & Encord | Demo: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nTie & Encord | Demo \nTie \u2022 Mar 9, 2026 \u2022 30 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: John Nugent \nGo to call \nGenerate follow-up email \nKey points 1. Evaluation Criteria: Kamil asks John what criteria his team will use to differentiate between various solutions they are evaluating. \n2. Core Need: John states that his team's primary need is automation for complex, structured, rule-based annotation with high volume, aiming for efficiency beyond basic labeling. \n3. Encord's Proposed Solution: Kamil suggests that Encord's ontologies and workflows are designed to handle sophisticated logic, allowing for flexible integration of models and human input. \n4. Specific Annotation Challenge: John details their bottleneck: annotating documents with 100-150 metrics per slot/slide, where each metric requires 6-7 different components or attributes to be extracted. \n5. Workflow Flexibility: Ali explains Encord's workflow capabilities, including human annotation, review stages, and agent workflows that allow models (like OCR) to pre-label or post-process, with customizable review processes. \n6. Review Panel Customization: John inquires about customizing the review panel, specifically to display tabular data from financial documents, to which Ali suggests using data groups and Kamil offers chunking tasks. \n7. Automation Strategy: John clarifies that his team's current process involves an MVP pre-labeling documents, followed by human auditing and correction, which Ali confirms is achievable using Encord's agents and SDK. \n8. Backend Integration: John asks about connecting his team's existing extraction pipeline to Encord's platform, which Ali confirms is possible via SDK for importing/exporting labels and creating a feedback loop. \n9. Implementation Support: Kamil explains that Encord provides documentation and support for integrating with customer S3 buckets and deploying cloud functions for models, but customers are responsible for inference costs"
+},
+{
+"id": "476147324127",
+"subject": "Accepted: Next step alignment | NBA X Encord",
+"text": ""
+},
+{
+"id": "476150901961",
+"subject": "Re: Encord & Deepecho",
+"text": "Hello Kamil,\n\nThank you for getting back to us, I\u2019ll review the data and get back to you\nas soon as possible. We should be able to come up with a decision within\ntwo days max.\n\nThanks!\nSaad\n\n*Saad Slimani M.D.*\n\nChief Medical Officer & Co-founder, DeepEcho\n\nsaad.slimani@deepecho.io | +1(347) 397-0093"
+},
+{
+"id": "476152171759",
+"subject": "Re: Encord & Havoc AI",
+"text": "James,\n\nThanks for reaching out so quickly, and glad you're meeting Ben. I'm available to meet Tuesday the 10th at 11:00am, and if that's no longer available, Wednesday the 11th at 12pm.\n\nBest,\nWill"
+},
+{
+"id": "476154276074",
+"subject": "Re: [Invite] AI Leaders dinner @ Nvidia GTC - 16th of March",
+"text": "Hi, James. I will be traveling for a couple of weeks and won't be able to do the dates you mentioned. How about early April?\n\nThanks,\nQian"
+},
+{
+"id": "476156485830",
+"subject": "Re: [Invite] AI Leaders dinner @ Nvidia GTC - 16th of March",
+"text": "Thanks, James!\n\nQian"
+},
+{
+"id": "476168641774",
+"subject": "Encord <> Forterra | Catch-up: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Forterra | Catch-up \nForterra \u2022 Mar 9, 2026 \u2022 23 minutes \nEncord: James Sweeney \u2022 Customer: Pete Finnegan \nGo to call \nGenerate follow-up email \nKey points 1. Evaluation Status: James updated Pete on demos with Becky and the perception team, noting that Becky was involved in both a team-wide demo and a separate one with the research team. \n2. Decision Timeline: Pete emphasized the need to make a decision on a secondary annotation supplier before April, aligning with their Q2 PI planning and busy summer period. \n3. VLA Communication: Pete confirmed that James should continue working through Becky for Visual Language Annotation (VLA) communications, with him being CC'd on emails. \n4. 3D and VLA Independence: Pete clarified that while it's ideal to get both 3D and VLA services, they are independent requests, meaning progress on one is not contingent on the other. \n5. POC Success Criteria: Pete outlined that Forterra will evaluate Encord's process, labeling quality (especially for challenging elements like dust and thin poles), and turnaround time, targeting a 90% success rate (less than 10% rework). \n6. Production Volumes: James requested an estimate of Forterra's total production volumes for sequences to better prepare for the POC, and Pete agreed to get this information from Amanda. \n7. Internal Tooling Access: Pete inquired about the possibility of Forterra engineers setting up accounts to do quick labels and QC/rework themselves, which James confirmed is an option and a key advantage of Encord's platform. \n8. POC Process: James proposed a three-step POC process: a kickoff call with the human data team, task execution, and a final presentation of results, aiming for validation of Encord's capabilities. \n9. Turnaround Time Targets: Pete indicated that while their current vendor's turnaround time is two weeks, they aim for a significant improvement, ideally 24-48 hours for rework to avoid blocking internal workflows. \n10. Legal & Pr"
+},
+{
+"id": "476219944168",
+"subject": "Your daily Gong: Opportunities you have today [Mar 9th]",
+"text": "GONG You have no external meetings today \ud83d\uddd3\ufe0f \nSunday\u2019s recap \n1 deal ( 2 calls, 1 email)\nLogitech \n$30K \u2022 Qualification \u2022 Close date: Jun 03\nWACV Chat Sunday (Richard Campbell) (Not recorded) \nNo account \nWACV Chat Sunday (Ujjwal Pasupulety) (Not recorded) \nView all \nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "476221606100",
+"subject": "Binit on leave",
+"text": "Hello Team,\n\nI will be on planned leave from 11\u00a0to 25 March 2026. I will resume on 26 Mar.\n\nThanks,\n\nBinit."
+},
+{
+"id": "476226456799",
+"subject": "Encord-Michelin-tech-discussion",
+"text": "Hello team,\n\nSetting up this meet to touch base on the tunneling issue we face. Pls let me know if this time doesn't work for you. Pls feel free to forward.\n\nThanks,\n\nBinit."
+},
+{
+"id": "476234258670",
+"subject": "Re: [EXTERNAL] Re: Encord Inquiry",
+"text": "Hi Shivant,\n\nWe are looking to DE-ID metadata.\n\nBest regards,\nAbdul\n\nAbdulrahman Alomar, MD\n\nResearch Fellow\n\nDivision of Metabolic & Abdominal Wall Reconstructive Surgery\n\nEmail: alomar.abdulrahman@mayo.edu<mailto:alomar.abdulrahman@mayo.edu>\n\nMayo Clinic | 200 First Street SW |Rochester, MN 55905\n\nMayoClinic.org"
+},
+{
+"id": "476237742312",
+"subject": "Encord <> Neura Robotics | Catch-up: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Neura Robotics | Catch-up \nNEURA Robotics \u2022 Mar 9, 2026 \u2022 20 minutes \nEncord: James Sweeney + 2 more \u2022 Customer: Bharath Santhanam \nGo to call \nGenerate follow-up email \nKey points 1. Error Discussion: Bharath mentioned an error he encountered that James couldn't replicate, with Abraham explaining that model output variability and token limits mean errors might not be consistent. \n2. Retry Feature: Abraham suggested adding a retry input to the script to handle instances where the maximum token limit is reached, which would be beneficial for overnight operations. \n3. New Project Challenges: Bharath detailed his attempt to set up a new project by linking a bucket directly to Encord, which resulted in errors and an inability to process files. \n4. Data Linking Correction: Abraham advised Bharath against directly linking buckets that contain text files into the data section, as this can cause issues. \n5. Context File Mismatch: Abraham identified that the agent was failing to locate context files because the folder name was being incorrectly appended to the file names during the cloud sync process, leading to a mismatch. \n6. Code Amendment: Abraham confirmed that he would amend the code to address the issue of the appended folder name, as there was no straightforward UI solution, and would provide Bharath with an updated version. \n7. Text File Management: Bharath inquired about managing text files that are inherently part of his datasets. Abraham clarified that while text files can exist in Encord, they should not be included when registering data into the dataset for the project. \n8. Manual Exclusion: Skander and Abraham demonstrated how Bharath could manually filter and exclude text files when adding items to a dataset from the index. \n9. Future Automation: Bharath expressed the need for an automated solution for excluding text files, to which Abraham suggested a pre-agent could be implemented later. \n10. Next Steps: Bharath will remo"
+},
+{
+"id": "476237792475",
+"subject": "Re: Nick Boesel referral - AI Leaders Dinner @ Nvidia GTC, 17th March",
+"text": "Hey James,\n\nvery nice to hear from you! Thanks for reaching out to Nick!\n\nI'd love to join you as head of AI here at P-1. But also I have to say that\nI'd love to meet you guys because world models are very close to my\nresearch interests and heart as a long-time Deep RL person.\n\nLet me know if you'd need anything from me!\n\nAll the best,\n\nIgnacio"
+},
+{
+"id": "476239603930",
+"subject": "Sachit Ajay is requesting a seat for Gong Professional",
+"text": "Hi Dillon,\nSachit Ajay Shenai is requesting a seat for Gong Professional . You can update their seat permissions in their team member page. \nThanks for helping us support your team\u2019s needs!\nAssign seat \nYou are receiving this email because your company works with the Gong Revenue AI Platform. (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "476248326377",
+"subject": "The daily Gong: Your team\u2019s opportunities today [Mar 9th]",
+"text": "GONG Your team has 9 external meetings today Largest 5 deals \ud83e\udd29 \nVecna Robotics \n$50K \u2022 Qualification \u2022 Close date: Jun 03\n6:00 PM Encord AI Leaders Dinner | Introduction \nAndrew Bell \nDoordash \n$5K \u2022 Qualification \u2022 Close date: May 03\n9:30 PM Encord & Doordash - Testing Kick Off \n(Not set to record) Winnie Zhu \nCACI International \n$0 \u2022 Qualification \u2022 Close date: May 19\n6:00 PM Encord & CACI \nJames Golby \nComau \n2:00 PM Andrew (Encord) & Mattia (Comau) | Intro call \nAndrew Bell \nMagna \n2:00 PM Follow up: AI leaders dinner on the 26th \n(Not set to record) Joe Turner \nAnd also with pickford.ai, Cord + 1 more (total $0)\nView calendar \nSunday\u2019s recap \n4 deals ( 2 calls, 5 emails)\n5 highlighted deals \ud83e\udd29 \nLogitech \n$30K \u2022 Qualification \u2022 Close date: Jun 03\nWACV Chat Sunday (Richard Campbell) (Not recorded) Tom Powell \nNo account \nWACV Chat Sunday (Ujjwal Pasupulety) (Not recorded) Tom Powell \nR3 Robotics \n$30K \u2022 Closed Lost \u2022 Close date: Mar 03\nEmails | 1 sent\nBolt6 \n$20K \u2022 Closed Lost \u2022 Close date: Mar 04\nEmails | 1 sent\nHavocai.com \n$0 \u2022 Qualification \u2022 Close date: Apr 29\nEmails | 2 received\nAnd also with Smallest.ai (total $0)\nView all \nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "476248466623",
+"subject": "Accepted: Encord & DeepEcho @ Wed 11 Mar 2026 3:30pm - 3:45pm (GMT) (kamil@encord.com)",
+"text": "Encord & DeepEcho\n\nSaad Slimani has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/yno-jubo-zog\n\nJoin by phone\n\n(GB) +44 20 3910 5613 \nPIN: 986048050\n\nMore phone numbers\n\nTentative time to align on next steps\n\nWhen\n\nWednesday 11 Mar 2026 \u22c5 3:30pm \u2013 3:45pm (United Kingdom Time)\n\nGuests\n\nkamil@encord.com\n- organiser\n\nSaad Slimani\n\nLeila Noureddine\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "476251441370",
+"subject": "Accepted: Tactorum <> Encord - intro @ Tue 10 Mar 2026 9am - 9:30am (PDT) (laura.zhu@encord.com)",
+"text": "Tactorum <> Encord - intro\n\nJustin Burdge has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/mkd-qawp-njg\n\nJoin by phone\n\n(US) +1 414-858-7146 \nPIN: 454299181\n\nMore phone numbers\n\n\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\nAttendee Info \u2014 powered by amplemarket.com\n\n\ud83d\udc64 Justin Burdge\n\ud83d\udcbc Founder\n\ud83c\udfe2 Tactorum\n\ud83d\udccd New York, United States\n\ud83d\udd17 Linkedin Profile\n\ud83d\udc64 Laura Zhu\n\ud83d\udcbc GTM, US\n\ud83c\udfe2 Encord\n\ud83d\udccd San Francisco, United States\n\ud83d\udd17 Linkedin Profile\n\n// powered by amplemarket.com\n\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\n\nWhen\n\nTuesday 10 Mar 2026 \u22c5 9am \u2013 9:30am (Pacific Time - Los Angeles)\n\nGuests\n\nlaura.zhu@encord.com\n- organiser\n\nJustin Burdge\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "476255374572",
+"subject": "Re: Encord Technical Onboarding - Recording + Slides",
+"text": "Hello Seif,\n\nI just realized the link for the recording of the second technical\nonboarding call (which you sent on 27th Feb) is incorrect.\nCould you please send us the correct link?\nThank you!\n\nBest,\nYi Hao"
+},
+{
+"id": "476282489036",
+"subject": "Your daily Gong: Opportunities you have today [Mar 9th]",
+"text": "GONG You have 3 external meetings today \nCord \n4:00 PM US Sales Team - Weekly Objectives \nPrepare with Gong AI \nPrevious call with this account: \nUS Sales - Weekly Forecast | Mar 6, 2026\nCall brief: Christian, Alyssa and Adithya from Encord discussed the status of key deals for March, identifying potential risks and opportunities to accelerate closing timelines, with a focus on improving deal control and addressing client concerns around pricing, product flexibility, and internal build-versus-buy decisions. The team reviewed individual deal progress, adjusted forecasts based on new information, and explored strategies to engage key decision-makers and address potential blockers. They also discussed the importance of focusing on March to avoid a last-minute rush and Alyssa offered to improve the meeting format. \nNo account \n4:00 PM CFD (Alex) & Encord (James) \nPrepare with Gong AI \nCACI International \n$0 \u2022 Qualification \u2022 Close date: May 19\n6:00 PM Encord & CACI \nPrepare with Gong AI \nView calendar \nNo external meetings on Sunday \ud83d\uddd3\ufe0f \nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "476290014438",
+"subject": "Automatic reply: Private Dining Inquiry",
+"text": "Greetings,\n\nI am out of office and will return Friday, March 13th 2026.\n\nIf you need immediate assistance, please text me directly at 310-980-5097 or e-mail my colleague Jasmine at jasmine@curtisstoneevents.com.\n\nWishing you a wonderful week,\n\nAnn"
+},
+{
+"id": "476314618081",
+"subject": "RE: Removal of users",
+"text": "Hi Seif,\n\nWe noticed that the overall license fee has increased by 10%, while the discount has been adjusted from 40% to 32%. Could you please help clarify the rationale behind this change? This will help me explain it clearly to the sourcing team.\n\nThank you for your support.\n\nBest,\nBismillah"
+},
+{
+"id": "476322049260",
+"subject": "Re: Physical AI Execs Dinner Invite - 17th March",
+"text": "Hi James,\n\nAccepted the Luma invite. No dietary requirements here.\n\nBest,\nOlgert"
+},
+{
+"id": "476326341851",
+"subject": "Encord <> Maven | Testing Support Check In: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Maven | Testing Support Check In \nMaven Robotics \u2022 Mar 9, 2026 \u2022 40 minutes \nEncord: Moritz Buttinger + 2 more \u2022 Customer: Alberto Guiggiani \nGo to call \nGenerate follow-up email \nKey points 1. Auto-labeling: Park is interested in auto-labeling for object detection on large image batches, and Nick explains two methods: offline model output loading via SDK or direct model integration using Encord's agents framework. \n2. SDK Access & Usage: Park wants to use the SDK for local auto-labeling, and Oscar confirms they will provide SDK access, instructions, and documentation for loading labels. \n3. Ontology Configuration: Park inquired about detailed object representations, including key points (like human pose estimation) and sub-attributes (e.g., box damage type), which Oscar demonstrates how to configure using primitives and nested attributes within the ontology. \n4. Label Export: Nick highlights label export as a crucial evaluation step, and Oscar will provide documentation for Park to perform this successfully. \n5. Cloud Storage Integration: Park asks about connecting to AWS S3 for raw data, and Nick explains Encord's process of taking read permissions and streaming assets via signed URLs, with synchronization. \n6. Multi-view Labeling: Oscar differentiates between data groups (multiple unsynchronized media views) and unified scenes (calibrated images/PCDs labeled as one scene), with Park finding the unified scene approach useful for their metadata-rich data. \n7. Time Series Data: Park mentions the need for time series data support (e.g., from parquet files), which Nick confirms is on the roadmap but still a quarter away, suggesting converting it to image/video representations in the interim. \n8. Vercity Gateway Support: Park inquires about supporting Vercity Gateway for on-prem S3-like storage due to cost optimization, which Nick and Oscar will investigate, noting it would be a custom integration. \n9. 3D Labeling: Park asks about au"
+},
+{
+"id": "476326341856",
+"subject": "Accepted: Encord <> Maven | Testing Support Check In @ Fri 13 Mar 2026 2pm - 2:30pm (PDT) (rachel@encord.com)",
+"text": "Encord <> Maven | Testing Support Check In\n\nRounak Mehta has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/fne-ruub-gap\n\nJoin by phone\n\n(US) +1 910-849-2632 \nPIN: 773989053\n\nMore phone numbers\n\nWhen\n\nFriday 13 Mar 2026 \u22c5 2pm \u2013 2:30pm (Pacific Time - Los Angeles)\n\nGuests\n\nrachel@encord.com\n- organiser\n\nBenjamin Kolligs\n\nRounak Mehta\n\nRoyer Ramirez Ruiz\n\noscar@encord.com\n\nAlberto Guiggiani\n\nmoritz@encord.com\n\nnick@encord.com\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "476327257308",
+"subject": "Re: Shivant x Miguel | Catch Up",
+"text": "Hey Shivant,\n\nI think we're good for now. The in person presentations were helpful\nI'll let you know if we run into any issues\n\nBest Regards,\n\nMiguel"
+},
+{
+"id": "476332611777",
+"subject": "Encord // SICK Sensor FDE Discussion: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord // SICK Sensor FDE Discussion \nSICK AG \u2022 Mar 9, 2026 \u2022 4 minutes \nEncord: Olivia Pickett + 2 more \u2022 Customer: Casey Allen + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Meeting Connection Issues: The meeting experienced recurring technical difficulties with the Google Meet platform, specifically preventing Iman from connecting or speaking, a problem that also occurred in a previous meeting. \n2. Platform Switch: Due to the persistent connection problems, the team decided to switch from Google Meet to an alternative platform, with Casey offering to send a WebEx link. \n3. Communication Strategy: Olivia proactively emailed all participants, including Iman, suggesting they provide a Zoom link if the current platform continued to be problematic, to facilitate a smooth transition. \nNext steps 1. Casey will send a WebEx meeting link if the current Google Meet doesn't work. \n2. Christian, Olivia, and Justin will jump on the WebEx meeting link once Casey sends it. \nWant to know something specific about the call? Ask anything\nInteraction tips Longest Customer Story 10 seconds \nBelow range \nTry to let your customer to speak for longer \nAssociated deals SICK Sensor Intelligence Deal \nAmount: $311,250 \nCall stage: 95473901 \nClose date: Mar 30, 2026 \nParticipants \nEncord\nOlivia Pickett (host) \u2022 Account Executive \nJustin Sharps \nChristian Kabrich \u2022 Vice President of Sales \nSICK AG\nCasey Allen \u2022 Director of Engineering \nEmahn Novid \u2022 Senior Machine Learning Engineer \nGet the Gong mobile app\nListen to sales calls anywhere, even offline\nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed because this email is too large)"
+}
+]

@@ -1,0 +1,280 @@
+SENDER: callum
+8 sample first-touch emails
+
+--- email (subject: Encord Platform Interest) ---
+Hi Nikhil,
+
+Thanks for the kind words on the platform.
+
+Encord supports on-premise and air-gapped deployment. The platform runs
+entirely inside your network with no outbound internet access and no data
+leaving your infrastructure.
+
+One thing to flag early: on-premise deployment is an Enterprise-tier
+offering and carries a higher fee than our standard cloud plans.
+
+On data management: you keep full ownership of your data, labels, and
+models. You can export in standard formats whenever you need to.
+
+Before we get on a call to show you the platform, could you help us
+understand a few things so we can tailor the discussion?
+
+   1. What data modalities are you working with (DICOM, MRI, CT, pathology
+   slides, or something else)?
+   2. What is the scale of your annotation work: number of images or scans,
+   and expected annotation hours per month?
+   3. What is your target timeline for moving from evaluation to production?
+   4. Do you have a budget range in mind for the platform, and does that
+   already account for the higher cost of on-premise deployment?
+
+After this, I'm happy to set up a call. Let me know a time that works later
+this week or early next week?
+
+-- 
+
+Kind Regards,
+
+Callum Marley
+
+AI / ML
+
+Email: callum@encord.com
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: $500m Premium Imagery Labelling Problem) ---
+Hi Jean,
+
+I spoke with a couple of people on your team this week. One mentioned they
+have satellite imagery labelling work on their plate, with annotation split
+between an internal team and third parties.
+
+That disconnected workflow hits model accuracy directly, and model accuracy
+is your competitive edge. We helped Tractable
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jll2-6qcW7Y8-PT6lZ3pgW497x727-PJB6W2HyHqg6vtR47W69yN5J7h5VF_W4x4X7p7sJYVFV1D95D4RXHffW3SbBVN6wY3F8W1KRl-P1q_YG9W3yXZhf2KRqnjN1F2t4DznqrlW4kGJk37YgRWxW25n_Vc6zJGdyW7pfS9x3pYwsdW3Hf9qP65XpH8W8S-T-Z6Km524W8-Y_-03jjCbtW8t-dWs9hwkxQW41W99s8BV0W1W46RchK6lz2jZW5mPFQP6Fh_z1N1Z326-B7-ykVMGcxW9kVldLW5k6f4W4cbbn6W35g1Rf3VyJxWVbjvYM7mBmL6W1Nl24n351Ks7Vt9MC_7g5S20f465_Ps04>,
+who assesses property damage from imagery for major insurers, scale to 40+
+annotators while keeping quality control tight across complex ontologies.
+
+Encord handles imagery, video, and time series in one platform, including
+the on-site wind speed data you are now pulling.
+
+With Germany and Austria now added and a $500M premium target on the
+horizon, the labelling and curation burden only grows with each new region.
+Do you have 20 minutes early next week to discuss further?
+
+-- 
+
+Kind Regards,
+
+Callum Marley
+
+AI / ML
+
+Email: callum@encord.com
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly pr
+
+--- email (subject: Referred by Andrew Baish — EO/IR training data for Chess Dynamics) ---
+Hello,
+
+I spoke with Andrew Baish earlier today and he suggested I send this
+through to the right desk.
+
+Encord is the data layer underneath EO/IR tracking and classification
+models: curation, annotation, and evaluation. We recently completed a piece
+of work with Forterra on their perception stack, which is how Chess
+Dynamics came onto our radar. Andrew confirmed your We sit underneath EO/IR
+tracking and classification models, doing the curation, annotation, and
+evaluation. We worked with Forterra recently on their perception data, and
+that's where the overlap with what you're building at Chess Dynamics stood
+out: in-house object detection and classification on small aerial and land
+targets.
+
+Two pages that i thought were relevant: Drones and aerial systems
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3p6W6WL4BR4kjthzW5jyP8r6dglkHW36NV7x95-bZjW8lrZyT87ZPDGW7-xjMC8DbVxRVx705M1gv5vXW5Nx-FL1wRPsRW3q1ftx6wS9GYW4WfWfM21Vz7CW94PlqS64zlDkW2cl6xM2W8Y2cN8dxFsY73f-RW1zCsyD2y_HHWW6XRjl-4nKCQ9W7j2Wx78pS-8-W7Dfx7B4nLxYNN3xZcjrhkk_CW6-yR2T2MGKQfW1s39-W2KPJdxW3vC7TG8fbVWbW7s4Rq-39ygrJW1Ntl3L5n1T7Df1Z0kNK04>
+ & Defense AI
+
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3m7W6b6wmy3ZGmgXW8v2RKy4qNbGNN1LHXNTbWfJ-W97z_422qMLLGW5NfQjS8X4hN6W1tWXVR9cb1GYW9gYX-g21Z3TDW6sv64B12w-RNW6CH4VW4kP9hTW1WZ75b46t1bJW7N43rj6HctlqW4ZfWzv8yRVM-W5cDHmn8Tm33dW6ZFvRv2zJpxvW7h6yHt74NmkZW99nfkQ4hYg2fVvH16z77t1W6W8-9h1C3tp1ccW82VH4K4QCc0SW1M__xp1Wh_gpW5JG8bF2YHXWGW6KcSKj634bxTf1TN8kY04>The
+two questions we normally get asked are:
+Can Encord be deployed fully on-premise?
+Yes. The full platform runs inside your own infrastructure, including
+air-gapped. No data touches Encord servers.
+
+How does Encord handle export control (ITAR / EAR)?
+The on
+
+--- email (subject: data collection challenges) ---
+Hi Mai,  
+
+ I noticed you're in the data collection team at Plumerai. Are you also part of the curation process? If so i would love to show you how we free up your time to be better spent elsewhere on operations. 
+
+ Please let me know. 
+
+Kind Regards, 
+
+Callum Marley 
+
+AI / ML 
+
+Email: 
+callum@encord.com
+
+--- email (subject: radiologist correction loop in Pi) ---
+Hi Lucy,
+
+I saw the Prostate Intelligence update, the accept-or-revise workflow that
+lets radiologists adjust segmentations before sending to PACS. That
+human-in-the-loop correction pipeline is the same workflow we use with
+another cardiovascular imaging company. Specifically, a DICOM annotation
+layer where clinicians can review, adjust, and approve model outputs, with
+every correction feeding a traceable retraining record.
+
+The interesting question is what happens to the corrections after they
+leave the accept-or-revise step & whether that data is being captured as
+labelled ground truth for the next model update, or whether it's lost once
+it hits PACS.
+
+Would love to discuss further and how we've helped a similar team and
+AbbVie if you have some time later this week. I'm free on Wednesdays and
+Thursdays!
+
+Cheers :)
+-- 
+
+Kind Regards,
+
+Callum Marley
+
+AI / ML
+
+Email: callum@encord.com
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: fraud team hiring vs model performance) ---
+Hi Meron,
+
+I saw you're hiring a Fraud Data Analytics Manager and several analysts in
+Tel Aviv. That's usually the moment when the model iteration speed becomes
+a real constraint.
+
+We work with Veriff, Vida ID and another global IDV company on their
+identity verification AI. Their challenge was that new attack patterns were
+surfacing faster than they could label, evaluate, and retrain & the gap
+between 'fraud pattern observed' and 'model updated' was 3-4x longer than
+it should have been.
+
+Moving from manual triage to automated curation cut that gap significantly
+and scaled as their detection scope grew.
+
+iOS injection attacks were up 1,151% in H2 2025. The teams keeping pace
+with that aren't adding analysts faster, they're closing the loop between
+detection and retraining faster.
+
+Let me know if you agree or not and would love to chat
+
+Cheers :)
+
+-- 
+
+Kind Regards,
+
+Callum Marley
+
+AI / ML
+
+Email: callum@encord.com
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: identity verification data pipeline at Checkout.com) ---
+Hi Reenah,
+
+We've been working with Veriff and a large global IDV platform on similar
+identity verification use cases as Checkout.com so I thought I'd reach out.
+
+ML leads in the identity verification space come to us when:
+
+   - New deepfake generation tools release publicly and the eval benchmark
+   goes stale faster than the annotation pipeline can refresh it
+   - Adding a new geography or document type surfaces model
+   underperformance and the path from finding that gap to labelled training
+   examples takes weeks, not days
+   - The data infrastructure inherited from an earlier product phase wasn't
+   built for multimodal sessions with document images, liveness video, and
+   face match data in one task
+
+Do you face similar issues at Checkout.com?
+
+If so, it might be worth having an initial conversation to see whether our
+offerings fit your needs.
+
+Cheers :)
+-- 
+
+Kind Regards,
+
+Callum Marley
+
+AI / ML
+
+Email: callum@encord.com
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Data infrastructure behind Vara's expansion) ---
+Hi Daniel,  
+
+ I saw the tomosynthesis CE mark last month and the expansion into 10 European markets this year. 
+
+ A significant acceleration with new modalities, new markets, new certification cycles, all on a team of ~50! 
+
+ I've spent most of this year working with the Hoppr and Hologic engineering team on annotation and model validation infrastructure.  
+
+ The specific friction points are usually the same: clinical annotators disengaging from tools that don't match their reading environment, QA overhead compounding per workload, and audit trail assembly becoming a manual burden at each certification cycle. 
+
+ Curious whether any of that is live at Vara right now? Happy to connect later this week to show you how we've both firms solve them. 
+
+ Best, 
+
+Callum Marley 
+
+AI / ML 
+
+Email: 
+callum@encord.com

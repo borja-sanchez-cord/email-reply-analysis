@@ -1,0 +1,214 @@
+SENDER: eliza
+7 sample first-touch emails
+
+--- email (subject: Re: Encord Alignment) ---
+Hi Ilyass,
+
+Apologies for my miss here, I realised our sync never made it to the
+calendar.  Are you available Thursday to connect? Either 11AM GMT, or
+Friday at 2pm GMT?
+
+Let me know when possible, appreciate your patience in advance.
+
+Best,
+Eliza
+
+On Wed, 22 Jan 2025 at 14:19, Ilyass Seddoug <ilyass@echo-analytics.io>
+wrote:
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Re: Encord Questions from Evident Vascular) ---
+Hi Shannon,
+
+Lovely to meet you via email! Bare with me while I follow up on your first
+question, and why it may be behaving that way.  But I was able to provide
+answers for the rest.  Apologies in advance for the lengthy email!
+
+*2. Turning off Auto-annotation* - To turn off the auto-annotation feature
+and require the annotator to use bitmask or polygon tools to draw the
+vessel lumen manually, you can follow these steps:
+
+*For bitmask annotations:*
+
+   - Select the bitmask annotation type in the label editor.
+   - Use the brush tool, which is selected by default when you choose a
+   bitmask annotation.
+   - Adjust the brush size using the slider in the bitmask popup.
+   - Draw the vessel lumen manually using the brush.
+   - When finished, click "Apply label" or press Enter.
+
+*For polygon annotations:*
+
+   - Select the polygon annotation type in the label editor.
+   - Click on the editor canvas to start drawing your polygon.
+   - Click to create each vertex of the polygon.
+   - To complete the shape, either click on the first vertex or
+   double-click to automatically close the polygon.
+
+*To ensure manual annotation:*
+
+   - Avoid using any auto-segmentation or tracking features.
+   - Don't use the "Track object" option or the Shift + T shortcut for
+   auto-segmentation tracking.
+   - Instruct annotators to draw the vessel lumen manually using either the
+   bitmask brush tool or the polygon tool.
+
+*3. Adding additional annotators to a study:*
+
+   1. Open the project you want to add annotators to.
+   2. Click on the Annotate component in your workflow.
+   3. Choose the "Selective" tab.
+   4. Type the email address of the user you want to add as an annotator.
+   5. Select the user from the list that appears.
+   6. Click "Add" to confirm the selection.
+
+*Important notes:*
+
+
+
+--- email (subject: Re: re-schedule) ---
+That's no problem at all - thank you for letting me know! We are available
+at 12 EST on Wednesday next week? Does that work for you?
+
+--- email (subject: Encord check in) ---
+Hi both,
+
+I hope this email finds you well.
+
+I wanted to introduce myself, I lead the Customer Success team here at
+Encord.  And I would love to touch base on how our partnership is going and
+how we can better collaborate moving forward.  It would also be great to
+hear what Hexical Labs has on the roadmap for 2025, and how we can help.
+
+Do any of the times below work for you to connect?
+
+*Meet with Eliza Cheyney*
+Guest : mfox@foxtechnologyventures.com
+30 min — GMT (+00:00)
+Wed, 12 Feb 2025
+16:30 - 17:00
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739377800000&end=1739379600000>
+ 17:00 - 17:30
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739379600000&end=1739381400000>
+
+Thu, 13 Feb 2025
+15:00 - 15:30
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739458800000&end=1739460600000>
+ 15:30 - 16:00
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739460600000&end=1739462400000>
+ 17:00 - 17:30
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739466000000&end=1739467800000>
+
+Tue, 18 Feb 2025
+15:30 - 16:00
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739892600000&end=1739894400000>
+
+Wed, 19 Feb 2025
+14:30 - 15:00
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739975400000&end=1739977200000>
+ 16:30 - 17:00
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1739982600000&end=1739984400000>
+
+Thu, 20 Feb 2025
+15:00 - 15:30
+<https://meetings-eu1.hubspot.com/confirm/141397a8b1b5305bd248f87c9be68950?start=1740063600000&end=1740065400000>
+
+Schedule meetings for free with HubSpot
+<https://app.hubspot.com/signup-hubs
+
+--- email (subject: Encord Follow Up) ---
+Hi both,
+
+Thank you again for your time yesterday.  And it was great to meet you. Thank
+you for bringing me up to date on our partnership so far and explaining the
+need for Landmark annotation.  I have made the request to our team, and I
+will keep you posted on our progress.
+
+*Below outlines are key next steps:*
+
+   - Eliza: Prioritize landmark annotation feature with the team and
+   provide a timeline if achievable -* in progress *
+   - Eliza: Schedule a recurring monthly meeting with Sankar and team *-
+   done*
+   - Eliza: Explore 3D visualization options for the landmark annotation
+   feature -* in progress *
+
+Please let me know if you need anything additional in the meantime.
+
+Best,
+Eliza
+
+-- 
+
+Eliza Cheyney
+
+Head of Customer Success
+
+Email: eliza@encord.com <youremail@encord.com>
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3n9W4XBZZR5Z749-W716ZdY1R7JWcW75MvRY9j3RFlW7ydJb266k6zLW14ZLsL7C_JG_W4t_nkQ88tv7yW7lYjYp5n3NWVW1J-PDK6Nf9xXW7zmwt01D2c4hW32HHdx1yg6JHW1GVCH18wJ_7kW4J9ndB1BXwJyW6lhrTh8P58f7N4Cwp-cZ0G4kVjbCNJ1WvG04W2w_S0N1F6VXfW8TgW7M9m2skYN2k2YKgDzcYSW11X4NM7h5SS0N8jMgCx5y6ghW8XHG0S5PplVVW1wV9Yg2xTTD1W9fNlsn7m1k1VW97Z0rB8vD0gRf1hndmz04>
+
+Address: 86-90 Paul Street, 3rd Floor, London, EC2A 4NE
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohib
+
+--- email (subject: Re: Review CT Thresholding / Ontology / Protocol Dev) ---
+Hi Kelly,
+
+Thank you for documenting this, Alex and I will review prior to our
+workshop tomorrow! And let you know if we have any questions.
+
+Speak tomorrow!
+
+Best,
+Eliza
+
+On Tue, 28 Jan 2025 at 23:12, Shields, Kelly J (Highmark Health) <
+Kelly.Shields@highmarkhealth.org> wrote:
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Re: Reminder: Complete with Docusign: StevTech_Order Form_Apr2025.pdf) ---
+Hi Tristan,
+
+That's no problem at all! I will work with our finance team to draft a new
+contract that starts Aug 1, and let them know to anticipate the payment
+then as well!
+
+Best,
+Eliza
+
+On Tue, 6 May 2025 at 21:13, Tristan Steventon <tristan@stevtech.com.au>
+wrote:
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*

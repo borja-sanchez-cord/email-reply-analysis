@@ -1,0 +1,402 @@
+[
+{
+"id": "484925409525",
+"subject": "Re: Seif from Encord Checking In",
+"text": "Hi Seif,\nhope everything is fine with you! Sorry for the late reply, I\u2019ve been tied up with some important deadlines and, moreover, just found your emails in the junk folder for some unclear reason!\nOur contract with ENCORD expired on March 20th and has not been renewed, mainly due to a lack of new projects starting in our facility that could currently benefit from its use. While we consider it a powerful and valuable tool for analysis, there are still some technical limitations, as we previously discussed.\nThat said, we will certainly keep ENCORD in mind for future research opportunities and compliant projects.\nI remain available for a call if you would like to discuss further.\n\nBest regards,\nEdda\n\nEdda Boccia, PhD\nBiomedical Engineer\n\nRadiomics G-STEP Core Research Facility\n\n[cid:0fa34b5b-80db-4906-9a01-664f1bde7936]\n\nFondazione Policlinico Universitario Agostino Gemelli IRCCS\n\nLargo Agostino Gemelli, 8, 00168 Roma\n\nwww.policlinicogemelli.it<http://www.policlinicogemelli.it/>\n\n[cid:9f47f078-11cc-4fe3-9a30-7d5441e74587] [cid:257a3e32-f10d-4f9a-b769-dcb94bf50df1]"
+},
+{
+"id": "484933507268",
+"subject": "Invite - AI Leaders Dinner in Rio @ ICLR - Apr 24",
+"text": "Hi, Laura, \n\n Sorry for the late reply. But sure! Let's reserve a seat. Thanks! \n\n Best wishes,\u00a0 \n\n Shuai Chen \n\n On Fri, Apr 10, 2026 at 8:04\u202fAM Laura Zhu < \nlaura.zhu@encord.com> wrote: \n\n Hi Shuai, just bumping my invite. Would love to have you join is in Rio! \n\nLaura Zhu \n\nAI/ML Partnerships \n\nEmail: \n \nlaura.zhu@encord.com \n \n| \nLinkedIn \n | \nEncord \n\nReg Address \n: 2261 Market St #4217, San Francisco, California, 94114"
+},
+{
+"id": "484934242515",
+"subject": "Invite - ICLR Sunset Cruise - Apr 25",
+"text": "Yes, AFAIK I should be able to \n\n Best regards, \n\n Aleksei Petrenko \n\n aleksei_petrenko@apple.com"
+},
+{
+"id": "484935669947",
+"subject": "AIAH- chat",
+"text": "Hi Laura,\n\nSounds good. I'm open to a quick coffee chat. Let me know what time works best for you this week or next.\n\nMany thanks."
+},
+{
+"id": "484937226429",
+"subject": "Elias Rocha and James Sweeney | Encord: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nElias Rocha and James Sweeney | Encord \nSynapps Mobile \u2022 Apr 13, 2026 \u2022 30 minutes \nEncord: James Sweeney + 1 more \u2022 Customer: Elias Rocha \nGo to call \nGenerate follow-up email \nKey points 1. Project Overview: Synapps Mobile is building a pet translator app, focusing on identifying non-verbal and sounding behaviors in domestic dogs and cats using video and audio data to understand and communicate with pets. \n2. Company Background: Elias has over 20 years in mobile apps, with a strong background in video components, including early video codecs and app development for iPhone and Android. \n3. Current Products: Synapps Mobile currently offers a video tutor for English and a fashion product that converts clothing images to video. \n4. Annotation Need: Synapps Mobile requires automatic annotation services for thousands of video frames to identify pet behaviors, as manual annotation (like V7) is too labor-intensive for their volume. \n5. Data Volume: They anticipate 5,000-10,000 frames for annotation during the development phase over the next three months, with potential for scaling after product release. \n6. Multi-modal Data: While primarily focused on video annotation, they have audio data from Cornell University (barks, meows) and Encord's platform supports multi-modal annotation. \n7. Deployment Strategy: The pet translator will be an authorial product under the Synapps Mobile brand, initially deployed in the US using phone cameras for real-time identification, targeting pet owners. \n8. Go-to-Market: They plan a timid initial launch with press releases to gauge acceptance before seeking investors for scaling, as it's a novel product. \n9. Budget Expectation: Elias estimates a budget of a couple to a few thousand dollars per month, or around $10,000 per year, for annotation services. \n10. Encord Pricing: Kat clarified that Encord's minimum annual subscription is typically $15,000, which includes platform access and automatic annotation capabilitie"
+},
+{
+"id": "484937571516",
+"subject": "RE: Invoice Overdue 33 days",
+"text": "Hi Michelle,\n\nWe've had to inform Leo that we can't continue to work on your current GTM hiring until we receive payment for this outstanding invoice.\n\nWe're now almost 2 months overdue, and I don't understand how or why this has happened.\n\nWhat is the update from your side?\n\nLloyd"
+},
+{
+"id": "484940732640",
+"subject": "Re: Frontera & Encord - demo @ Mon, Apr 13, 2026 11:00am \u2013 11:30am (GMT-06)",
+"text": "Hi Laura - Let's shoot for 12:30p MT on April 21. Thanks!"
+},
+{
+"id": "484941734082",
+"subject": "Hoppr + Encord Sync: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nHoppr + Encord Sync \nHOPPR \u2022 Apr 13, 2026 \u2022 25 minutes \nEncord: Arisha Ahmed + 2 more \u2022 Customer: Ali Ganjizadeh + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Auto Data Groups Introduction: David Reischer, from Encord's product team, introduced a new feature called \"auto data groups\" designed to automate the creation of data groups by inferring grouping rules from file names, aiming to streamline data import. \n2. Mammography Grouping Challenge: Ali Ganjizadeh inquired if auto data groups could resolve HOPPR's issue with mammography data, where multiple instance IDs within a single series ID are currently treated as one series, requiring manual workarounds. \n3. File Name Dependency: David clarified that the auto data groups feature primarily relies on patterns within file names for grouping, not directly on DICOM metadata, suggesting that modifying file names could enable its use for HOPPR's specific case. \n4. Testing and Follow-up: Arisha Ahmed and Ali agreed that Amber, who handles HOPPR's data, should test the auto data groups with actual files once she recovers, with a follow-up call planned with David to assess its effectiveness. \n5. Shared Classes for Ontologies: David also introduced the concept of \"shared classes\" for ontologies, allowing reuse of classifications and objects across different projects to ensure consistent data mapping and IDs for the same class. \n6. Shared Classes Relevance: Julie Bauml and Ali confirmed that shared classes would be highly relevant to HOPPR's workflows, especially for similar projects and setting up new projects, as it would save time and ensure data consistency. \n7. CT Scan Visualization Needs: Ali highlighted the need for a \"lift panel\" functionality, similar to OHIF, for CT scans, allowing clinicians to easily navigate and view multiple series within a single exam, which is currently lacking in Encord's UI. \n8. Grid View Limitations: Julie expressed concerns about the limitations of"
+},
+{
+"id": "484947993821",
+"subject": "RE: Encord Overview",
+"text": "Hi Will,\n\nThe draft is still being drafted, but trust that I haven\u2019t forgotten about you. We are working on the proper language for this agreement and it is taking a bit longer than expected.\n\nThank you for your patience.\n\nRegards,\n\nVicki Blumb| UHG\nAssociate Director\nEnterprise Procurement\n2 Optum Circle\nEden Prairie, MN 55344\nDesk : 952/936-6678\nvicki_blumb@uhg.com<mailto:vicki_blumb@uhg.com>\n\n[cid:image001.png@01DCCB31.B4EA6B10]"
+},
+{
+"id": "484951246042",
+"subject": "Re: Encord <> NVIDIA",
+"text": "Hi Moritz,\n\nFor the dataset, I was OoO last week but let me share that this week. Sorry for the delay.\n\nThanks,\nChintan"
+},
+{
+"id": "484953191639",
+"subject": "Re: Scaling labelling services",
+"text": "Hi James,\n\nHope all is well.\n\nI can probably meet with you for 30 mins this Wed, 10am PST I have a spot\nopen, if that works for you?"
+},
+{
+"id": "484955172086",
+"subject": "Encord & TFH | Next steps: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & TFH | Next steps \nTools for Humanity \u2022 Apr 13, 2026 \u2022 39 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: Nishad Nishad.Basheer.Habsa + 2 more \nGo to call \nGenerate follow-up email \nKey points 1. Internal Meeting Feedback: Ashima provided positive feedback on the previous demo, highlighting its promise but raising concerns about data privacy, security, integration, and customization. \n2. Pricing Model Request: Constantin requested information on Encord's pricing model to compare with other platforms. \n3. Project Timeline & Urgency: Ashima clarified that while the project is exploratory, they aim to migrate their system within the next few months, driven by incoming data and long-term goals, but will not rush the process. \n4. Data Inflow Sources: Ashima explained that new data is coming from both external vendors for model training and their deployed app/data donation programs. \n5. Current Labeling & Curation Tools: Ashima described their current pre-labeling as manual and hard to configure, while Constantin mentioned using Streamlit for data visualization, which is less sophisticated than Encord's solution. \n6. Labeling Team Structure: Constantin stated they have 15 in-house labelers, and outsourcing some labeling is a potential future consideration. \n7. Primary Evaluation Drivers: Ashima confirmed that improving their labeling pipeline, reducing maintenance, and scaling to handle increasing data are key drivers for the evaluation. \n8. Data Security Requirements: Ashima emphasized that data privacy and security are the foremost hurdles, stating they do not want any external access to sensitive data and suggested a call with their infra team leader, Mehmet, to discuss specifics like VPC or on-premise deployment. \n9. Specific Use Cases (Batch Labeling & Subject ID Correction): Nishad and Constantin detailed the need for batch correction of subject IDs due to collection mix-ups, and Ashima described batch labeling for classificatio"
+},
+{
+"id": "484955881701",
+"subject": "William, your call \"Gong test\" is set to record",
+"text": "Gong - Invite Request Success \nHi William,\nWe've received your call recording request. Gong is scheduled to record your call: \u201cGong test\u201d on Monday, April 13, 2026 12:45 PM Eastern Time. After the call is complete, Gong will transcribe and store it in your account so that you can review it at any time. Just log in using your email address william.purvis@encord.com Best regards, -- The Gong Team\nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "484956936441",
+"subject": "Encord - Forterra Kickoff",
+"text": "James to share agenda"
+},
+{
+"id": "484959068352",
+"subject": "Accepted: James & Lan @ Wed 15 Apr 2026 6pm - 6:30pm (BST) (james.watson@encord.com)",
+"text": "James & Lan\n\nLan Guthmann has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/hjx-rbhp-dvq\n\nJoin by phone\n\n(GB) +44 20 3937 1597 \nPIN: 947488531\n\nMore phone numbers\n\nWhen\n\nWednesday 15 Apr 2026 \u22c5 6pm \u2013 6:30pm (United Kingdom Time)\n\nGuests\n\njames.watson@encord.com\n- organiser\n\nLan Guthmann\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "484959799540",
+"subject": "Platform onboarding | Wayve X Encord: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nPlatform onboarding | Wayve X Encord \nWayve \u2022 Apr 13, 2026 \u2022 14 minutes \nEncord: Oscar Evans \u2022 Customer: Peter Yu \nGo to call \nGenerate follow-up email \nKey points 1. Review Process Confirmation: Hot Springs confirmed that he and Peter have accounts, can view videos and corrections, and understand the approve/reject functionality. \n2. Initial Sample Quantity: Oscar reiterated the previous agreement to review an initial 100 samples, then proceed with the remaining 900, and confirmed Peter has access. \n3. Workflow Explanation: Oscar explained the project workflow: task starts, agent uploads pre-labels, annotation stage by Encord team, encode review (peer review), and then wave review for Wayve to approve/reject. \n4. Handling Rejections: Oscar clarified that if Wayve rejects a task, it goes back to the annotators with comments. \n5. Collaborative Review Challenge: Hot Springs raised a concern about multiple people reviewing the same sample, asking for a way to mark samples for discussion without holding up the review process. \n6. Viewing Tasks Without Assignment: Oscar demonstrated how to use the \"view\" option (three dots next to initiate) to skim tasks without assigning oneself as a reviewer, allowing for shareable links for discussion. \n7. Proposed Review Strategy: Hot Springs suggested he and Inigo each do 10 samples to get a feel, then sync up, and then evenly split the remaining 33 samples each from the initial 100. \n8. Live Review Demonstration: Oscar guided Hot Springs through completing a review, showing how to approve/reject labels and the entire task, and how to use the sync video feature. \n9. Using Encord Review as Temporary Storage: Hot Springs proposed using the \"Encord review\" stage as a temporary storage for tasks that need discussion or re-evaluation by the Wayve team. \n10. Ongoing Support: Oscar offered to jump on a call with Inigo for platform orientation and encouraged Wayve to drop any urgent questions in the channel. \nNext "
+},
+{
+"id": "484966226168",
+"subject": "Re: Encord onsite",
+"text": "Hi Nick and Moritz,\n\nWe're excited to meet you and Ulrik. We'd love to host you in our Santa\nClara HQ if you can swing it.\n\nThu ~12pm works for us, as does Fri 10am PT. If we decide on Thu, we'll\narrange for lunch during the visit.\n\nBest,\nHamza"
+},
+{
+"id": "484966422777",
+"subject": "Your first recorded Gong call\u2014what to expect",
+"text": "You\u2019re about to host your first recorded call using Gong! Hi William,\nYour upcoming call \"Gong test\" is set to be recorded by Gong so that you can focus on the conversation instead of taking notes.\nHere's what you should know:\nWhen joining the call: You\u2019ll notice that a Gong bot named \"Encord Notetaker\" has joined the meeting as a participant. If your meeting has a waiting room, be sure to admit the bot onto the call if you want it to be recorded. \nDuring your conversation: Don't be shy to ask for consent. Customers consent to record over 96% of sales calls. If needed, you may stop the recording by removing the \"Encord Notetaker\" from the conference call or canceling the recording from the Gong app home page. \nSoon after it\u2019s over A link to the recording will be sent to internal participants by email. Listen back, share with your customers, and collaborate with others by commenting, sharing snippets, or requesting feedback. \nLearn more about recording calls with Gong \nPro tip Impromptu call? Not the host?\nYou can still record any conference call by inviting encord@assistant.gong.io to your meeting. Learn more. \nGet the Gong mobile app\nListen to sales calls anywhere, even offline\nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "484967916792",
+"subject": "Re: [EXTERNAL] AI x Media Dinner - 16th Apr, LA",
+"text": "Hi Winnie,\n\nNo restrictions. Thank you for checking!\n\nMoonie Lantion\nDirector, Digital Technology Products\n100 Universal City Plaza, Bldg 2375 - 5th Floor\nUniversal City, CA 91608\n\n818.740.9952\n\n[UniEnt_Logo.png]"
+},
+{
+"id": "484968999142",
+"subject": "Re: Encord <> World Labs",
+"text": "My apologies Moritz. We've been stretched pretty thin lately and are still\nin the brainstorming stage for use case of your annotation platform. Due to\nlimited bandwidth, we have internally deprioritized the current 3D\nannotation project for another high priority task. I will let you know once\nwe find a good use case for you before our meeting this Friday. Thanks for\nthe understanding.\n\nBest,\nJerry"
+},
+{
+"id": "484969614580",
+"subject": "Accepted: Nuro & Encord - chat @ Thu 21 May 2026 9:30am - 10am (PDT) (laura.zhu@encord.com)",
+"text": "Nuro & Encord - chat\n\nFei Meng has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/ocy-pwdj-tos\n\nJoin by phone\n\n(US) +1 219-321-0391 \nPIN: 537601992\n\nMore phone numbers\n\n\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\nAttendee Info \u2014 powered by amplemarket.com\n\n\ud83d\udc64 Fei Meng\n\ud83d\udcbc Head of Data Platform\n\ud83c\udfe2 Nuro\n\ud83d\udccd United States\n\ud83d\udd17 Linkedin Profile\n\ud83d\udc64 Laura Zhu\n\ud83d\udcbc GTM, US\n\ud83c\udfe2 Encord\n\ud83d\udccd San Francisco, United States\n\ud83d\udd17 Linkedin Profile\n\n\ud83d\udc64 Nick Rajpal\n\ud83d\udcbc Head of Physical AI\n\ud83c\udfe2 Encord\n\ud83d\udccd San Francisco, United States\n\ud83d\udd17 Linkedin Profile\n\n// powered by amplemarket.com\n\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\u200c\n\nWhen\n\nThursday 21 May 2026 \u22c5 9:30am \u2013 10am (Pacific Time - Los Angeles)\n\nGuests\n\nlaura.zhu@encord.com\n- organiser\n\nFei Meng\n\nnick@encord.com\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "484971235549",
+"subject": "Your daily Gong: Opportunities you have today [Apr 13th]",
+"text": "GONG You have 1 external meeting today \nCord \n12:00 PM US Sales Team - Weekly Objectives \n(Not set to record) \nPrepare with Gong AI \nPrevious call with this account: \nDeveloper briefing | Apr 9, 2026\nCall brief: Alex from Encord discussed the company's progress towards exceeding its $3.5 million target by focusing on larger, higher-value deals, highlighting recent wins and pipeline growth with key accounts like Boston Dynamics and Toyota. The company is shifting its strategy to prioritize holistic solutions combining services and software, while also addressing competitive threats from companies like Scale, Cognite, and Labelbox. Alex emphasized the importance of team collaboration, customer engagement, and continuous product improvement to capitalize on the significant market opportunity. \nView calendar \nNo external meetings on Sunday \ud83d\uddd3\ufe0f \nGet the Gong mobile app\nListen to sales calls anywhere, even offline\nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "484971697342",
+"subject": "Re: Flatiron Health + Encord - Renewal 2026",
+"text": "Hi Arisha,\n\nBased on changes to our scans project pipeline, we will hold off on medsam\nintegration and will defer to the normal renewal timeline later this year.\nThanks again for putting this proposal together and working with us on this.\n\nBest,\nSarah"
+},
+{
+"id": "484973477060",
+"subject": "Re: Encord/Zipline - Renewal",
+"text": "Thanks- Keval is no longer at Zipline, but our new signatory will be\nPatrick Herndon.\n\n@Alyssa Fleming <alyssa@encord.com> the only remaining thing i'd like to\nsee here is renewal cap language at 4% on the order form. Could you update\nand share back here so I can submit for formal approvals?\n\n-Will"
+},
+{
+"id": "484973840632",
+"subject": "James, your call \"Encord - Forterra Kickoff\" is set to record",
+"text": "Gong - Invite Request Success \nHi James,\nWe've received your call recording request. Gong is scheduled to record your call: \u201cEncord - Forterra Kickoff\u201d on Monday, April 20, 2026 5:00 PM British Time. After the call is complete, Gong will transcribe and store it in your account so that you can review it at any time. Just log in using your email address james.sweeney@encord.com Best regards, -- The Gong Team\nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "484975731951",
+"subject": "Accepted: Encord <> Forterra | Cloud Integration Sync",
+"text": ""
+},
+{
+"id": "484977387733",
+"subject": "Re: Encord W-8/9 and ACH Forms are needed",
+"text": "Hi Shivant\n\nThnaks for sharing. We sent this to our team, and will work on it.\n\nThnak you."
+},
+{
+"id": "484987697384",
+"subject": "Re: Encord & Blue River Technology",
+"text": "Hey William,\nmeet Sathya who leads, amonth other things, labeling and aspects of dataset\ncuration. Some of the features that Encord offers, align much better with\nhis scope so he'll be a key stakeholder going forward.\n\nSathya, William is the point of contact from Encord. He gave us a\npreliminary demo of some interesting features they've implemented. If there\nis interest, we could do a deeper dive with some data from S&S.\n\nBest,\nOlgert"
+},
+{
+"id": "484988436709",
+"subject": "Re: Encord/Zipline - Renewal",
+"text": "sorry for the extra step- but this is technically like 17.5 months [and\ncaught by our finance team]- so please revise the prorated total on the\ninvoice being submitted after we sign to reflect that.\n\nThink it should be like $89.4k or something like that. Your finance team\ncan confirm too, thanks"
+},
+{
+"id": "484988603581",
+"subject": "Re: Hollywood AI Exec Dinner - 16th Apr",
+"text": "Hey Winnie, apologies I can't make it this week. Hope you'll keep me in mind for the future, I'd love to have been able to attend!\n\nCheers,\n_Travis"
+},
+{
+"id": "484996781270",
+"subject": "Intro call : Neutrinos x Encord: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nIntro call : Neutrinos x Encord \nNeutrinos \u2022 Apr 14, 2026 \u2022 31 minutes \nEncord: Yianni Manolakakis + 1 more \u2022 Customer: Zaheer Z \nGo to call \nGenerate follow-up email \nKey points 1. Neutrinos' Platform Focus: Neutrinos is building a platform for the insurance domain, primarily focused on extracting information from medical report documents to reduce manual work and processing time. \n2. Specialization in Handwritten Documents: Neutrinos specializes in handling complex handwritten documents and large volumes of pages, where traditional systems often fail, leveraging LLMs for extraction. \n3. Object Detection for Extraction: They use open-source models like YOLO, treating entities as objects to obtain bounding boxes, and then fine-tune these pre-trained models with their own data for extraction. \n4. Annotation Tools and Workflow: Zaheer's team uses Label Studio and their internal AI hub platform for data annotation. For very complex or large documents, they outsource the annotation process. \n5. LLM-Assisted Annotation: Their internal annotation tool uses an LLM layer to auto-draw bounding boxes, which annotators then review and adjust, emphasizing the importance of careful annotation for model accuracy. \n6. Model Training and Evaluation Pipeline: Neutrinos has a pipeline for training models, allowing users to configure training duration. They separate data for validation and use metrics like mAP to evaluate model performance and display statistical summaries in the UI. \n7. Iterative Annotation for Schema Drift: Annotation is an iterative process, especially when schema requirements change (e.g., needing to extract new entities), requiring reprocessing with existing and new data. \n8. Key Optimization Goal: Inference Latency: Zaheer's primary concern and optimization goal is the inference speed (latency) of their deployed models, especially for large artifact models handling multiple requests. \n9. Encord's Proposed Value: Yianni explains Encord's"
+},
+{
+"id": "484998973631",
+"subject": "RE: Spago Beverly Hills: PLEASE E-SIGN - 4/16/2026 Encord AI Business Dinner*\u00a0Banquet Event Order",
+"text": "| Reply above this line to comment |\n====================================\nReplying to: Tobie Cancino\n\nEvent: Encord AI Business Dinner** on Thursday, Apr 16, 2026  6:00 PM\nManager: Tobie Cancino\n\nYes.  No problem.\n\nTobie Cancino | Restaurant &amp;amp; Event Manager\n[Wolfgang Puck - Spago]\nSpago, Beverly Hills\n176 North Canon Drive\nBeverly Hills, California 90210\nPhone:\n310.777.3711\nwebsite | vCard | map | email\n[Facebook][Instagram][Twitter][Pinterest]\nConfidentiality Note: The information contained in this e-mail and any attachments to it may be legally privileged and include confidential information. If you have received this e-mail in error, please notify the sender immediately of that fact by return e-mail and permanently delete the e-mail and any attachments. Thank you."
+},
+{
+"id": "485001166038",
+"subject": "Re: AI leaders dinner",
+"text": "Hey Andrew,\n\nLet's connect soon: https://calendly.com/nparker-11/15-minutes-with-noah\n\nBest,\n\n-NP\n\n*Noah Parker*\n\nVP of Engineering\n\n( http://cyvl.com )\n\n76 School St \u2022\u00a0 Somerville, MA\n\nwww.cyvl.com ( http://www.cyvl.com/ ) \u2022 nparker@cyvl.ai ( nparker@cyvl.ai )\n\n( https://cyvl.com/ ) ( https://www.linkedin.com/company/cyvl/ ) ( https://www.youtube.com/@cyvl_ai ) ( https://x.com/cyvl_ai ) ( https://github.com/roadgnar )\n\nSent via Superhuman ( https://superhuman.com/refer/f3szmrto?utm_medium=signature&utm_source=product )"
+},
+{
+"id": "485001357523",
+"subject": "RE: Spago Beverly Hills: PLEASE E-SIGN - 4/16/2026 Encord AI Business Dinner*\u00a0Banquet Event Order",
+"text": "| Reply above this line to comment |\n====================================\nReplying to: Tobie Cancino\n\nEvent: Encord AI Business Dinner** on Thursday, Apr 16, 2026  6:30 PM\nManager: Tobie Cancino\n\nThank you.  Sounds good.  Shifting to a 6:30 pm start time, with the hosts arriving at 6:00 pm.\n\nTobie Cancino | Restaurant &amp;amp; Event Manager\n[Wolfgang Puck - Spago]\nSpago, Beverly Hills\n176 North Canon Drive\nBeverly Hills, California 90210\nPhone:\n310.777.3711\nwebsite | vCard | map | email\n[Facebook][Instagram][Twitter][Pinterest]\nConfidentiality Note: The information contained in this e-mail and any attachments to it may be legally privileged and include confidential information. If you have received this e-mail in error, please notify the sender immediately of that fact by return e-mail and permanently delete the e-mail and any attachments. Thank you."
+},
+{
+"id": "485001553105",
+"subject": "RE: Love your ICLR paper - quick coffee in Rio?",
+"text": "Hi Laura,\n\nThank you for your thoughtful message and for reading our paper. I\u2019m glad the work resonated with you, especially given your experience with UAV customers.\nMy colleague and the first author of the paper, Deokyun Kim, will be attending the conference in person and is the best person to connect with on this topic. I\u2019ve shared your note with him, and he will follow up with you directly regarding a suitable time to meet at booth #105.\nThanks again for reaching out, and I hope you have a great time at ICLR.\nBest regards,\nJihun\n\n=======================\nJihun Cha, Ph.D.\nAutonomous UAV Research Group\nETRI\nO. +82-42-860-6305\nH. +82-10-8808-4166\n&nbsp;\n&nbsp;"
+},
+{
+"id": "485009012931",
+"subject": "Encord & Cognex | Trial Scoping: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & Cognex | Trial Scoping \nCognex Corporation \u2022 Apr 14, 2026 \u2022 27 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: Hyungyu Lee \nGo to call \nGenerate follow-up email \nKey points 1. Trial Purpose: Hyungyu wants to test Encord's basic features, performance (speed of uploading/downloading, filtering, rendering, browsing images), and data management capabilities, comparing them to their current trial with Voxel 51. \n2. Data for Testing: Hyungyu plans to upload some of Cognex's public datasets for workflow experience, while Max suggests using Encord's pre-loaded large datasets for scale testing (e.g., 1 million images) and Cognex's smaller datasets (a few thousand items) for specific filtering quality tests. \n3. Trial Duration: Kamil explains that Encord's standard trials are 72 hours (3 days), but he is open to extending it to a week if needed, pending approval, to accommodate Cognex's testing requirements. \n4. Trial Timeline: Hyungyu expresses urgency due to an upcoming decision deadline in May, pushing for the trial to start next week. Kamil agrees to aim for a start next week, with a decision expected by the first week of May. \n5. Cloud Integration: Max offers to set up a GCP bucket in a region close to Cognex's Azure bucket to ensure accurate performance testing, as Hyungyu prefers not to use their internal cloud for the trial due to security concerns. \n6. SDK Testing: For SDK testing, Max suggests Cognex send a list of desired SDK actions, and he will provide a script, or they can conduct an interactive workshop to explain the SDK. \n7. Requirements Sharing: Hyungyu agrees to share Cognex's internal criteria document for the trial this week, which will help Encord understand their specific needs. \n8. Trial Participants: The trial will primarily involve J\u00f6nsik and Hyejeong from Cognex, with Hyungyu joining optionally due to other commitments. \n9. Communication Channel: Kamil proposes setting up a Microsoft Teams channel for ongoing s"
+},
+{
+"id": "485009928426",
+"subject": "Re: Encord onsite",
+"text": "Perfect, we'll see you then."
+},
+{
+"id": "485010701560",
+"subject": "Re: EXT: Hollywood AI Exec Dinner - 16th Apr",
+"text": "Hi Winnie,\n\nThank you for reaching out! Could you please send us the guest list for the dinner? We would like to share it with Philipp to confirm the attendance.\n\nBest,\nVeronica"
+},
+{
+"id": "485011396827",
+"subject": "Re: Invite to AI Leaders dinner in Bellevue, May 4th",
+"text": "Hey Will,\n\nSounds great, I can make it on the 4th. Thanks for the invite.\n\nExcited to meet other folks working in the same space.\n\nBest,\nGanesh"
+},
+{
+"id": "485014258936",
+"subject": "Re: Hollywood AI Exec Dinner - 16th Apr",
+"text": "That sounds great. Please send along some time slots, and thanks!\n\n_Travis"
+},
+{
+"id": "485020493009",
+"subject": "Invitation: Andrew Bell and Noah Parker @ Fri 17 Apr 2026 4pm - 4:15pm (BST) (andrew@encord.com)",
+"text": "Andrew Bell and Noah Parker\n\nJoin with Google Meet \u2013 Event Name\n15 minutes with Noah\n\nLocation: This is a Google Meet web conference.\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps://calendly.com/events/2d967ebc-01de-4a9d-bd5\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/rhq-imje-axx\n\nJoin by phone\n\n(US) +1 470-228-1524 \nPIN: 454635920\n\nMore phone numbers\n\nEvent Name\n15 minutes with Noah\nLocation: This is a Google Meet web conference.\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps://calendly.com/events/2d967ebc-01de-4a9d-bd5d-0c0ef281dc46/google_meet\n\nNeed to make changes to this event?\nCancel: https://calendly.com/cancellations/3d99c822-ddaa-4d9b-9f3d-cd7adf76fb5d\nReschedule: https://calendly.com/reschedulings/3d99c822-ddaa-4d9b-9f3d-cd7adf76fb5d\n\nWhen\n\nFriday 17 Apr 2026 \u22c5 4pm \u2013 4:15pm (United Kingdom Time)\n\nLocation\n\nGoogle Meet (instructions in description)\nView map\n\nGuests\n\nNoah Parker\n- organiser\n\nandrew@encord.com\n\njames.watson@encord.com\n\nView all guest info\n\nReply for andrew@encord.com\n\nYes\n\nNo\n\nMaybe\n\nMore options\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "485021224149",
+"subject": "Your daily Gong: Opportunities you have today [Apr 14th]",
+"text": "GONG You have 5 external meetings today \nPhenikaa-X \n$50K \u2022 Evaluation \u2022 Close date: Jul 31\n9:30 AM Encord <> Phenikka X | PoC discussion \nPrepare with Gong AI \nPrevious call with this account: \nEncord // Phenikaa - demo | Apr 9, 2026\nCall brief: Max and James from Encord, along with Jesse and Loc, discussed Encord's annotation platform and its potential to address Phenikaa-X's scalability challenges with their current annotation workflow. Phenikaa-X will provide Encord with sample 3D data for a trial run of the platform, scheduled for the week of April 20th, preceded by a business case discussion on April 14th. Encord will provide trial logins for a small group of Phenikaa-X annotators to test the platform's capabilities. \nAmbu \n10:45 AM Hoddan Osman and James Sweeney \nPrepare with Gong AI \nMobileye \n$20K \u2022 Qualification \u2022 Close date: Oct 31\n2:00 PM Encord x Mobileye | Post Tech AD meet \nPrepare with Gong AI \nForterra \n$1.22M \u2022 Closed won \u2022 Close date: Apr 09\n3:00 PM Encord <> Forterra | Cloud Integration Sync \nPrepare with Gong AI \nPrevious call with this account: \nForterra <> Encord - Order Form Language Sync | Apr 2, 2026\nCall brief: Ulrik and Leo from Encord discussed Forterra's concerns about the termination for cause clause in the MSA, agreeing to revised language, and addressed QA processes and the onboarding of new sensors. Forterra expressed satisfaction with the proposed changes and Encord's capabilities, paving the way for potential approval of the agreement. Both parties expressed enthusiasm for a long-term partnership and a possible in-person meeting. \nMANUS\u2122 \n$30K \u2022 Qualification \u2022 Close date: Jun 30\n3:30 PM Encord x Manus | Platform Demonstration \nPrepare with Gong AI \nPrevious call with this account: \nEncord x Manus | Mar 31, 2026\nCall brief: Moritz, James, Andrew and Matt from Encord discussed a potential partnership with Manus to create a joint go-to-market strategy, leveraging Manus' hardware for data collection and Encord's software for annotati"
+},
+{
+"id": "485024313583",
+"subject": "Re: Encord - next steps ahead of trial access",
+"text": "Hi James,\n\nCould you please share with me the invitation meeting link again. I was not\nable to find it\n\nThank you!\n\nLoc\n\nV\u00e0o Th\u1ee9 2, 13 thg 4, 2026 va\u0300o lu\u0301c 19:19 James Sweeney <\njames.sweeney@encord.com> \u0111\u00e3 vi\u1ebft:"
+},
+{
+"id": "485024835789",
+"subject": "Re: Encord in Tokyo",
+"text": "Hello Winnie,\n\nThank you for your suggestion.\nHowever, unfortunately, Yokoi san will be at Kakezan the whole week, so he\nwon't be able to meet in Tokyo next week.\n\nBest,\nTomoko"
+},
+{
+"id": "485031053542",
+"subject": "Re: Seif from Encord Checking In",
+"text": "Hi Seif,\nunfortunately tomorrow is a bit full for me.\nWhat about next Friday 12-12:30?\n\nBest regards,\nEdda\n\n---------\n\nEdda Boccia, PhD\nBiomedical Engineer\nRadiomics G-Step Core Research Facility\nFondazione Policlinico Universitario A.Gemelli IRCCS\nRoma"
+},
+{
+"id": "485035127012",
+"subject": "Re: Robert - dinner in Munich/ deal outcome next week",
+"text": "Thanks for the invite, Kat. We have a newborn at home so unfortunately I cannot make that happen.\n  R\n\n// from mobile\n\nRobert Fink\nHelsing GmbH | Chief Technology Officer\nhelsing.ai<https://helsing.ai>\n\n[cid:signature_0ea757d8-654f-4897-90cc-36eb115b30a9.png]\n\nATTENTION: This message is confidential and intended only for the designated recipient(s) named above. If you are not the named recipient of this email message or their representative, you are hereby notified that any notice, dissemination, distribution, or copying of the content of this message is prohibited. Please contact the sender of the email message in such an event."
+},
+{
+"id": "485035735256",
+"subject": "Michelin & Encord | Trial support: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nMichelin & Encord | Trial support \nMichelin \u2022 Apr 14, 2026 \u2022 6 minutes \nEncord: Kamil Mouthon \u2022 Customer: Ramesh Panchatcharam + 2 more \nGo to call \nGenerate follow-up email \nKey points 1. Problem Description: Akash and Binit encountered a timeout error while running the `erojsonupload.py` script, which is preventing them from proceeding with their work. \n2. Troubleshooting Efforts: Akash and Binit attempted to resolve the issue by using their agent in VS Code, unsetting the proxy, trying both `uv run` and direct Python execution, and experimenting with uploading fewer levels, but the error persists. \n3. Next Steps: Kamil will share the recording internally with his engineering team for feedback, ensure Max or Skander is available for a follow-up tomorrow, and try to provide a solution via Slack or Teams to unblock Akash and Binit. \nNext steps 1. Akash will drop the screenshot of the error in the loop/chat. \n2. Kamil will report back internally to his engineering team with the recording and feedback regarding the `erojsonupload.py` script issue. \n3. Kamil will try to find out the answer to the `erojsonupload.py` script issue and send the response over Slack or Teams. \n4. Kamil will ensure that Max or Skander is present for the catch-up meeting tomorrow to address the `erojsonupload.py` script issue. \nWant to know something specific about the call? Ask anything\nInteraction tips Longest Customer Story 35 seconds \nBelow range \nTry to let your customer to speak for longer \nAssociated deals Michelin \nAmount: $100,000 \nCall stage: 637221050 \nClose date: Dec 31, 2026 \nParticipants \nEncord\nKamil Mouthon (host) \u2022 Commercial Account Executive \nMichelin\nRamesh Panchatcharam \u2022 Producting Marketing Manager-tc&2w \nBinit Bhagat \u2022 General Manager \nAkash Das \nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed be"
+},
+{
+"id": "485038366939",
+"subject": "Encord <> Phenikka X | PoC discussion: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Phenikka X | PoC discussion \nPhenikaa-X \u2022 Apr 14, 2026 \u2022 32 minutes \nEncord: James Sweeney \u2022 Customer: Loc Duy \nGo to call \nGenerate follow-up email \nKey points 1. Meeting Agenda: James outlined the meeting agenda: demo feedback, testing plan for next week, and a discussion on Encord's licensing and commercial model. \n2. Key Concerns: Loc expressed interest in understanding how Encord handles hundreds of labelers for scalability and its pricing model. \n3. Primary Problem: James confirmed that Loc's main challenge is the latency experienced with their in-house tool when exceeding 20 labelers, and Encord could potentially support 100 concurrent labelers. \n4. Annotation Project: Loc stated that they are not currently annotating the 50 hours of sequences but are preparing the pre-labeling process, aiming for high accuracy before human labelers correct them. \n5. Project Timeline: Loc intends to start the annotation project within the current month and complete the 50 hours of sequences within two to three months, indicating a readiness to move forward with Encord quickly if the trial is successful. \n6. Scope of Engagement: Loc confirmed that the initial focus for Encord would be 3D device labeling, with VLA (humanoid robotics) potentially being considered in the next three months. \n7. Trial Structure: James proposed a three-day, hands-on testing period next week, with sessions on Monday, Tuesday, and Wednesday, emphasizing Encord's supportive approach. \n8. Trial Logistics: The trial will be UI-driven, and while direct API connection for pre-labeling won't be included, Encord can upload any existing pre-labels Loc provides. \n9. Labeler Volume: Loc currently has 100 part-time annotators (students) working a minimum of 20 hours per week, with potential to scale to 150-200, or even 500-600 for data collection, within the first year. \n10. Commercial Model: James noted that due to the scale of Loc's operations, Encord would prepare a custom "
+},
+{
+"id": "485050114260",
+"subject": "Encord & Photoroom | DataRoom Reverse Demo: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & Photoroom | DataRoom Reverse Demo \nPhotoroom \u2022 Apr 14, 2026 \u2022 58 minutes \nEncord: Kamil Mouthon + 1 more \u2022 Customer: Roman Frigg \nGo to call \nGenerate follow-up email \nKey points 1. Photoroom's Culture & Roman's Role: Roman introduces himself as working on Photoroom's data and machine learning platform, building datasets and tools, and highlights the company's fast-paced culture. \n2. Encord's Value Proposition: Kamil outlines that Photoroom's Data Room requires significant maintenance and outsourced annotations (Sama) face bottlenecks, suggesting Encord can centralize workflows and increase annotation throughput. \n3. Business Urgency for Product Fidelity: Roman explains the critical need for \"product fidelity\" in AI image editing, requiring custom, detailed annotations and flexible tooling to avoid detail deterioration, which is a major focus for their ML team. \n4. Data Room's Curation Capabilities: Roman demonstrates Data Room's UI, showcasing text search, image similarity, filtering by various attributes (e.g., resolution), faceted search for data distribution, and the ability to define custom attributes and latent types (like segmentation masks). \n5. Data Room's Data Organization (Datasets, Groups, Relationships): Roman details how Data Room manages datasets, smaller \"groups\" of related images (e.g., multiple views of a product), and relationships between images, which are crucial for training editing models. \n6. Data Scale & Infrastructure: Roman states Photoroom operates with half a billion to a billion images, with Data Room currently supporting this scale using OpenSearch and S3 vector buckets for cost-effective storage. \n7. Post-Training Curation & Annotation: Kamil inquires about post-training curation for edge cases or model errors, to which Roman responds that while some user data provides signals, detailed annotations might be needed for verification, golden sets, or small training sets, but not millions of images. \n8. "
+},
+{
+"id": "485060662510",
+"subject": "Hoddan Osman and James Sweeney: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nHoddan Osman and James Sweeney \nAmbu \u2022 Apr 14, 2026 \u2022 45 minutes \nEncord: James Sweeney \u2022 Customer: Hoddan Mohamed \nGo to call \nGenerate follow-up email \nKey points 1. Current Tool Limitations: Hoddan explained Ambu's existing in-house annotation tool, used for three years, is not FDA validated and lacks necessary logs and regulatory compliance for medical devices. \n2. Urgent Need: Ambu is actively seeking a replacement annotation tool and a new data server system, with an aggressive timeline to have both in place by early June. \n3. Data Scale: Ambu currently has around 1,300 clinical videos, each 2-10 minutes long at 30 frames per second, totaling approximately 7 million frames, with more data expected in the future. \n4. Annotation Requirements: The first project requires bounding box annotations with temporal context, while the second project needs segmentation masks, potentially using pixel-based automatic identification. \n5. Internal Alignment: The project has strong internal alignment, with the CTO and CEO aware of its importance for Ambu's AI initiatives, and Hoddan is leading the evaluation process. \n6. Encord's Video Strength: James highlighted Encord's strength in video annotation, noting its origin in the medical sector and its ability to handle native video playback without decomposing into frames, which speeds up labeling and prevents misalignment issues. \n7. Automated Labeling: Hoddan confirmed Ambu currently uses manual annotation but is interested in future automation. James will demonstrate how Encord supports both manual correction and automated pre-labeling while maintaining quality. \n8. Keyframe & Consensus Workflow: Hoddan emphasized the need for indicating keyframes for annotators and a robust consensus workflow with tracked corrections and exportable logs, which was a gap in their current tool. \n9. Competitive Landscape: Ambu has also spoken with V7, but they are unsure if V7 can provide the customized features needed,"
+},
+{
+"id": "485063974112",
+"subject": "Re: Invite to AI Leaders dinner in Bellevue, May 4th",
+"text": "Hey Will,\n\nThanks for the invite - I will be at a wedding in Chicago that weekend, so\nI can't make this one. But please keep me posted on other events in the PNW\nas they come up - as well as progress on the agent catalog and agent\ndeployment products.\n\nCheers,\nCJ"
+},
+{
+"id": "485080137921",
+"subject": "Re: Encord Intro via Michael Letterio - Data Visualization/Curation Front-End",
+"text": "Hi Kamil,\n\nLet me share the test criteria.\n\nCategory\nDetails\nCloud Region\n- East US\nSDK Scenarios\n- Search datasets (by tag, by natural language)\n- Search images within a dataset (by tag, by label, by natural language)\n- Add images and apply labels via SDK\n- Label 1M samples via SDK \u2014 measure throughput/speed\nData Import\n- Maximum number of images uploadable at once via UI\n- Convenience of data upload through UI\n- Image upload speed\n- How to import data in a labeling format not natively supported by Encord\nData Export\n- Download speed\n- Convenience of data export\n- How to export data in a labeling format not natively supported by Encord\nData Access Control\n- Per-user dataset access restriction\n- Per-user cloud storage access restriction\nData Browsing\n- Natural language search\n- Other search capabilities for datasets or images\n- Dataset-level search\n- Image-level search\nAnnotation Editing\n- Per-sample tagging\n- Per-dataset tagging\n- Per-sample labeling methods\nAdding Data to Existing Datasets\n- How to append new data to an already-existing dataset\nLabeling Assistant\n- Assisted segmentation labeling (e.g., auto-segmentation tools to reduce manual effort)\nScalability\n- Browsing and downloading without performance degradation at large image counts\nData Backup\n- Backup strategy and support for dataset backups\nMultiple Cloud Storage Connections\n- Can multiple cloud storage accounts/buckets be connected simultaneously?\nMultiple Annotation Imports per Dataset\n- Can multiple annotation sets be imported into a single dataset?\nVersion Control\n- Dataset and annotation versioning support\nData Visualization\n- Available data visualization features\n\nAnd regarding the data,\ncould you please prepare two datasets for the following pages?\n\n  *\nhttps://www.robots.ox.ac.uk/~vgg/data/text/\n     *\nYou can download data via the link Download section\n  *\nhttps://cocodataset.org/#download\n     *\n2017 Train images [118K/18GB]<http://images.cocodataset.org/zips/train2017.zip>\n2017 Val images [5"
+},
+{
+"id": "485087034607",
+"subject": "Re: Encord chat - breast imaging",
+"text": "Hi Laura,\nThank you for your message! Do you have availability to meet today Tuesday 4/14?\n\nI am interested in learning how Encord might be able to help us with mammography, 2D and 3D tomosynthesis, for image annotation.\n\nBest,\nHana"
+},
+{
+"id": "485089724635",
+"subject": "The daily Gong: Your team\u2019s opportunities today [Apr 14th]",
+"text": "GONG Your team has 10 external meetings today Largest 5 deals \ud83e\udd29 \nPhotoroom \n$75K \u2022 Evaluation \u2022 Close date: Jun 30\n10:00 AM Encord & Photoroom | DataRoom Reverse Demo \nAndrew Bell \nTwelve Labs \n$40K \u2022 Renewal Default \u2022 Close date: Jan 16\n6:30 PM TwelveLabs & Encord \n(Not set to record) Winnie Zhu \nEvolv Technology \n$35K \u2022 Validation \u2022 Close date: Apr 30\n2:30 PM Encord & Evolv | Trial Support \nZainab Mahmud \nMANUS\u2122 \n$30K \u2022 Qualification \u2022 Close date: Jun 30\n3:30 PM Encord x Manus | Platform Demonstration \nAndrew Bell \nNeutrinos \n12:00 PM Intro call : Neutrinos x Encord \nKatie Mannion \nAnd also with Cord, TELUS + 2 more (total $0)\nView calendar \nMonday\u2019s recap \n18 deals ( 5 calls, 59 emails)\n5 highlighted deals \ud83e\udd29 \nInstacart \n$80K \u2022 Evaluation \u2022 Close date: Jun 22\nEncord & Instacart | POC Kick off | 23m\nJames Golby \nCall brief: Max and James from Encord discussed platform access and initial feedback with Sora's team, focusing on slow load times. They identified a potential solution for image loading and agreed to explore options for data integration and pre-labeling workflows. The team will proceed with testing the platform, with separate sessions scheduled for annotation workflows and pre-labeling/data curation. \nTools for Humanity \n$75K \u2022 Evaluation \u2022 Close date: Jul 31\nEncord & TFH | Next steps | 39m\nHugo Mayne \nEmails | 2 received\nCall brief: Skander and Kamil from Encord, along with Nishad, Constantin and Ashima from Tools for Humanity, discussed Tools for Humanity's data annotation and labeling needs, focusing on batch labeling, data curation, and security requirements for a potential migration to Encord's platform. Tools for Humanity is evaluating Encord to streamline their labeling pipeline, improve data visualization, and address scalability challenges with a large influx of data, with data security being the primary concern. The next steps involve Tools for Humanity providing sample data and task specifications for a trial, and Encord addressing data privacy "
+},
+{
+"id": "485092773054",
+"subject": "Your daily Gong: Opportunities you have today [Apr 14th]",
+"text": "GONG You have 4 external meetings today \nCognex Corporation \n$75K \u2022 Evaluation \u2022 Close date: Jul 31\n8:00 AM Encord & Cognex | Trial Scoping \nPrepare with Gong AI \nPrevious call with this account: \nEncord & Cognex | Trial Scoping | Apr 14, 2026\nCall brief: Kamil and Max from Encord, along with Hyungyu from Cognex Corporation, discussed the scope and logistics of an upcoming trial of Encord's data management tools, focusing on performance, scalability, and ease of use compared to Voxel51. The trial will involve testing with both Encord's pre-loaded data and Cognex's own data, with a focus on UI and SDK functionality, and will inform Cognex's decision between Encord and Voxel51 in early May. \nMichelin \n$100K \u2022 Validation \u2022 Close date: Dec 31\n9:30 AM Michelin & Encord | Trial support \nPrepare with Gong AI \nPrevious call with this account: \nMichelin & Encord | Trial support | Apr 14, 2026\nCall brief: Kamil from Encord, along with Ramesh, Binit and Akash from Michelin, discussed a timeout error Akash encountered while running the erojsonupload.py script, which is blocking their progress. Kamil will share the issue with the Encord engineering team and ensure someone is available at their next meeting to address it, providing a solution via Slack or Teams if necessary. \nPhotoroom \n$75K \u2022 Evaluation \u2022 Close date: Jun 30\n10:00 AM Encord & Photoroom | DataRoom Reverse Demo \nPrepare with Gong AI \nPrevious call with this account: \nEncord & Photoroom | DataRoom Reverse Demo | Apr 14, 2026\nCall brief: Kamil and Max from Encord, along with Roman from Photoroom, discussed Photoroom's need for improved annotation tooling and workflows for product image editing, with a focus on product fidelity. Photoroom is seeking a solution to replace their current data room and outsourced annotation process, and Encord presented its platform as a potential end-to-end solution. The next steps involve a trial scoping session with key stakeholders at Photoroom to establish success criteria and test E"
+},
+{
+"id": "485093617863",
+"subject": "RE: Invite - AI Leaders Dinner in Rio @ ICLR - Apr 24",
+"text": "Hi Laura,\n\nI could use the link to register indeed, I also received a confirmation email recently.\n\nBest regards,\nEdu"
+},
+{
+"id": "485098959085",
+"subject": "Nir Sancho and James Watson | Encord: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nNir Sancho and James Watson | Encord \nTreeX \u2022 Apr 14, 2026 \u2022 29 minutes \nEncord: James Watson + 1 more \u2022 Customer: Omri Zur + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. TreeX Current AI State: Noam explains TreeX uses drones for \"in the wild\" image analysis, currently having two models (segmentation and detection) that need improvement for accuracy and capabilities. \n2. Specific Labeling Requirements: Noam details the need for fine-resolution segmentation (millimeter-based) to understand tree structure and relationships between parts, requiring new labels and improved models. \n3. Data Volume and Curation: Noam states TreeX has tens to hundreds of thousands of video frames but plans to label a high-quality subset (a few thousand) using a sampling technique from selected videos. \n4. Current Labeling Tool Issues: Noam mentions they initially used CVAT, which is time-consuming, and they seek automation for reliability and consistency. \n5. Encord Platform Capabilities: James highlights Encord's platform for data curation and labeling, emphasizing its native video support, ability to find frames of interest, and identify diverse datasets based on model performance or specific behaviors. \n6. Data Integration: James explains Encord can stream data directly from TreeX's S3 buckets, retaining only labeling metadata unless embeddings are run, which involves Encord's processing. \n7. Labeling Services: James confirms Encord offers labeling services with junior labelers (approx. $12-13/hr) and more senior labelers (approx. $22-23/hr), with the option to resource specialized teams if needed. \n8. Specialized Labeling Knowledge: Noam clarifies that their labeling process requires agricultural knowledge to semantically differentiate tree parts, which is not a simple task. \n9. Pricing and Engagement Models: James explains Encord's software is typically an annual subscription, ranging from $30,000 to $250,000 per year depending on support and "
+},
+{
+"id": "485108242681",
+"subject": "Re: Answers to questions from our previous call",
+"text": "Thanks. So if I assign with the API, I should assign the desired permission\nfirst? Eg I want to set myself as admin and rest of Flock ML tracking team\nas team manager, I submit mine first and then add tracking team (which\nincludes me also)?\n\nNikil Ragav\nLead ML Systems Engineer\n\n[image: linkedin] <https://www.linkedin.com/company/flock-safety>\n\n[image: instagram] <https://www.instagram.com/flocksafety/>\n\n[image: facebook] <https://www.facebook.com/flocksafety>\n\n[image: youtube] <https://www.youtube.com/c/FlockSafety>\n\n[image: icon] flocksafety.com\n\n[image: App Banner Image] <https://flocksafety.com>\n\n[image: __tpx__]"
+},
+{
+"id": "485115097327",
+"subject": "Re: Archetype Materials",
+"text": "Hi Winnie,\n\nLook forward to connecting and jumping in to help.\n\nThank you,\n\nWayne"
+},
+{
+"id": "485116031168",
+"subject": "Re: Densitas <> Encord - Sync",
+"text": "Thanks Seif.\n\nOne thing I'd like to point out to you guys that might help - I have a folder in Index (test_folders/UTIL-201-test-DATA-110) that is an example of our current toolchain doing a DICOM + PNG upload and automated file grouping. The PNGs are still 16-bit, but the file layout is how we currently intend to do future uploads.\n\nHope that helps!\n\nThanks,\nJoel\n\nJoel Richards\n\nSoftware and Integration Developer\n\njoel.richards@densitashealth.com\n\nWebsite<http://www.densitas.health/> | <https://twitter.com/densitas> Twitter<https://twitter.com/densitas> | LinkedIn<https://www.linkedin.com/company/densitas-inc->"
+},
+{
+"id": "485116954843",
+"subject": "Encord & Evolv | Trial Support: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord & Evolv | Trial Support \nEvolv Technology \u2022 Apr 14, 2026 \u2022 37 minutes \nEncord: Kamil Mouthon + 2 more \u2022 Customer: Elizabeth McAnally + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Introductions: Kamil introduced Zainab, who recently joined Encord, and Elizabeth and Matthew introduced themselves and their roles at Evolv Technology for Zainab's benefit. \n2. Annotation Trial Progress: Matthew reported that the annotation trial was going well, having distributed invites and tested workflows and annotation tools with Elizabeth and another ML engineer for EO camera data. \n3. Annotation Workflow Validation: Matthew and Elizabeth confirmed that the annotation workflows, ontologies, and label editor met their requirements for the trial. \n4. Label Export Options: Matthew inquired about label export, and Max explained that it can be done via the UI, SDK, or integrated into a wider pipeline using agents for automated conversion to YOLO format and S3 bucket export. \n5. Curation Features Overview: Max demonstrated Encord's curation capabilities, including exploring data, filtering by image quality metrics or custom metadata, and visualizing data distribution using embedding plots. \n6. Metadata Handling & Collections: Matthew asked about attaching metadata to already labeled images for specific use cases like identifying unhealthy systems. Max explained that Encord uses \"collections\" within the platform for grouping, as it does not write back to the raw data's metadata. \n7. Post-Training Curation & Prediction Analysis: Max showed how to re-import predictions to compare them against labels, visualize failure points, and analyze performance with a confusion matrix, including handling hierarchical ontologies. \n8. Model Impact Assessment: Matthew asked about features similar to Galileo's, which assess an image's impact on model performance. Max clarified that Encord focuses on curation and annotation, and such \"what if\" analysis typicall"
+},
+{
+"id": "485120900334",
+"subject": "Re: AIAH- chat",
+"text": "Hi Laura,\n\nFriday 1 PM works for me.\n\nMany thanks.\n\nSanil Baweja\n(925) 487-2366\nsanil.baweja@gmail.com"
+},
+{
+"id": "485124891852",
+"subject": "Re: Encord/Zipline - Renewal",
+"text": "thanks stand by!"
+},
+{
+"id": "485125522661",
+"subject": "Encord x Manus | Platform Demonstration: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord x Manus | Platform Demonstration \nMANUS\u2122 \u2022 Apr 14, 2026 \u2022 48 minutes \nEncord: Matt Tang + 2 more \u2022 Customer: Maarten Witteveen \nGo to call \nGenerate follow-up email \nKey points 1. Meeting Objective: Matt recaps the goal of creating joint datasets, launching MANUS\u2122's new egocentric data capture sets, and utilizing Encord's platform for high-quality annotation of this data. \n2. Platform Demonstration: Max outlines the demonstration, covering the annotation flow, workflow creation, optimization, automation, the annotation editor (single/multi-view, sensor data), data tracking, and analytics. \n3. Workflow Structure: Max explains that annotation projects comprise datasets, ontologies, and configurable workflows, which can include human-led annotation/review, QA steps, and automation stages integrated via API. \n4. Annotation Workforce: Matt emphasizes the platform's flexibility, allowing Encord's annotators to handle initial stages and MANUS\u2122's staff to manage review stages, with resources available for various configurations. \n5. Sensor Data Annotation: Maarten inquires about annotating tabular sensor data (skeleton, position, rotation) produced by MANUS\u2122's gloves, alongside egocentric video data. \n6. Multimodal Data Visualization: Max confirms the platform's ability to visualize and sync sensor data (converted to video streams or displayed as tabular data) alongside egocentric video, addressing the challenge of combining mocap and egocentric data. \n7. Automation and Agents: Max details how automation agents can be integrated for pre-labeling, custom routing, and post-processing, with Matt adding that Encord has proprietary VLA models for robotics tasks to reduce human annotation effort. \n8. Business Model: James explains that Encord's business model involves a SaaS subscription fee and per-hour charges for annotation workforce, with volume being a significant factor in proposals. \n9. Partnership Vision: Matt proposes a strategic partners"
+},
+{
+"id": "485125683390",
+"subject": "Encord <> Forterra | Cloud Integration Sync: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nEncord <> Forterra | Cloud Integration Sync \nForterra \u2022 Apr 14, 2026 \u2022 28 minutes \nEncord: James Sweeney + 1 more \u2022 Customer: Alan Huang + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. Data Ingestion Process: Alan and Pete discuss the previous method of sharing data with James and the Encord team, noting it was uploaded to a Box account as zipped PCDs and images. \n2. Avoiding Redundant Work: Alan and Danielle express concern about performing data conversion for immediate use if a new, integrated pipeline is expected to be set up soon, suggesting it would be redundant. \n3. Encord's Data Requirements: Danielle asks about Encord's data needs and typical reception format. Oscar explains they require PCD and image files in a bucket, accompanied by a JSON file per scene for metadata and calibration. \n4. JSON File Structure: Oscar clarifies that a JSON file can represent one or multiple scenes (labeling tasks), with most teams using one per scene, and promises to send example JSON and scripts. \n5. AWS Integration Setup: Oscar outlines the steps for setting up AWS bucket integration, including granting Encord permission to list and get objects, creating a role for Encord's service account, and configuring CORS. \n6. Data Upload Workflow: Danielle asks how Encord detects new data in a single bucket. Oscar explains that Forterra would provide a JSON file, typically uploaded programmatically via Encord's SDK, to import new scenes. \n7. Initial Data Selection: James requests that the initial data pushed through the integration include a diverse range of samples representing different environments to aid Encord's annotation team training. \n8. Lidar Data Types: Pete mentions they have a backlog of Ouster lidar data but will also start pulling in FMCW 4D lidar data as soon as it's ready, potentially within the next sprint. \n9. PCD Format Definitions: Danielle requests definitions for the required PCD format, noting that adding velocity data wi"
+},
+{
+"id": "485126146279",
+"subject": "Re: Hollywood Exec Dinner Invite",
+"text": "I am more than happy to take his spot :) :)\n\nAll jokes aside, really sorry about this! The entire week has been upended\nwith rescheduling."
+},
+{
+"id": "485130739931",
+"subject": "Re: Encord x F\u00e9lix (UZ Brussel) | Surgical Video Demonstration",
+"text": "Hi Yianni,\n\nApologies, unfortunately I was unable to join the meeting. Had to operate in emergency on an urgent surgical case.\n\nWould monday afternoon 27/04 suit your agenda?\n\nBest regards,\n\nF\u00e9lix"
+},
+{
+"id": "485133134055",
+"subject": "Accepted: Eric (Encord) <>Travis (WBD)",
+"text": ""
+},
+{
+"id": "485133747442",
+"subject": "Invite - AI Leaders Dinner in Rio @ ICLR - Apr 24",
+"text": "Sure. Thanks for the invite\u00a0\n\nSent from Outlook for iOS"
+},
+{
+"id": "485134893263",
+"subject": "AIAH- chat",
+"text": "Hey Laura, \n\n Yeah, sure. I'm free any time after 11:30 tomorrow and Thursday. I'm also free the whole day on Friday. \n\n Thanks, \n\n Bien"
+},
+{
+"id": "485137834214",
+"subject": "Re: Follow up - Encord platform overview",
+"text": "Hi Joe,\n\nAdding Ben here who leads our data team and Fabian from the research/engineering side. It would be great if they can join the call.\n\nLast time we spoke to James he said you were working on video annotation. Has that been added to the platform? Any other major features that wouldn\u2019t have been a part of the product demo we saw some months ago?\n\nBest,\nJon"
+},
+{
+"id": "485138190584",
+"subject": "Accepted: Ali / Kamil",
+"text": "The information contained in this e-mail is intended only for the use of the individual or entity to whom it is addressed. The information contained in this message, including but not limited to any attachments, may be confidential. It is not intended for transmission\n to, or receipt by, any unauthorized persons. If you have received this message in error, please (i) do not read it, (ii) reply to the sender that you received the message in error, and (iii) erase or destroy the message and any attachments or copies. Any disclosure,\n copying, distribution or reliance on the contents of this message or its attachments is strictly prohibited, and may be unlawful.\n\nUnless expressly stated otherwise, nothing contained in this message should be construed as a digital or electronic signature, nor is it intended to reflect an intention to make an agreement\n by electronic means.\n\nThe information contained in this e-mail is intended only for the use of the individual or entity to whom it is addressed. The information contained in this message, including but not limited to any attachments, may be confidential. It is not intended for transmission\n to, or receipt by, any unauthorized persons. If you have received this message in error, please (i) do not read it, (ii) reply to the sender that you received the message in error, and (iii) erase or destroy the message and any attachments or copies. Any disclosure,\n copying, distribution or reliance on the contents of this message or its attachments is strictly prohibited, and may be unlawful.\n\nUnless expressly stated otherwise, nothing contained in this message should be construed as a digital or electronic signature, nor is it intended to reflect an intention to make an agreement\n by electronic means."
+},
+{
+"id": "485139479756",
+"subject": "Abgelehnt: Hugo // Karl - pre-dinner chat",
+"text": ""
+},
+{
+"id": "485139818707",
+"subject": "Re: TwelveLabs POC",
+"text": "Sounds good, just updated the invitation.\n\nThank you,\nAmie"
+},
+{
+"id": "485141352660",
+"subject": "Re: MODEX Dinner in SF this Thursday, Bruce?",
+"text": "Thank you Rachel,\u00a0\n\nI would love to join you for the conservation for physical AI. Thanks!\u00a0\n\nBruce\n\nBook\n time to meet with me"
+},
+{
+"id": "485143078086",
+"subject": "Re: [EXTERNAL] Re: Re: Re: Re: Re: Re: Re: Encord Inquiry",
+"text": "Hi Alyssa,\n\nDr. Laplante is currently looking into this. I will get back to you as soon as I have an answer.\n\nBest regards,\nAbdul"
+},
+{
+"id": "485143163087",
+"subject": "Your daily Gong: Opportunities you have today [Apr 14th]",
+"text": "GONG You have no external meetings today \ud83d\uddd3\ufe0f \nMonday\u2019s recap \n0 deals ( 2 calls, 5 emails)\nSynapps Mobile \nElias Rocha and James Sweeney | Encord | 30m\nCall brief: Kat from Encord, along with Elias from Synapps Mobile, discussed Synapps Mobile's pet translator project and how Encord's automatic annotation services could accelerate their development. Elias is seeking a solution to annotate a large volume of video data and is evaluating Encord as a potential partner, with a decision expected soon pending a proposal from Encord. While Synapps Mobile is a small, self-funded startup, they are interested in a long-term partnership with Encord if the pricing and commitment structure align with their budget and scaling needs. \nAnyscale \nAnyscale/Encord weekly (Not recorded) \nEmails | 1 received\nView all \nGet the Gong mobile app\nListen to sales calls anywhere, even offline\nYou're receiving this email because your company uses Gong's Revenue AI platform to enhance its revenue workflows. You can manage your notification preferences here. \n (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "485143920864",
+"subject": "Re: Follow up from Encord Boston Dinner",
+"text": "Hi,\nFriday will be perfect, can you do 11:00 AM EST?\nIf not Monday April 20th 9:00 AM EST/10:00/10:30/11:00?\nThanks."
+},
+{
+"id": "485146508494",
+"subject": "Sophie Ngo and Diego Bracamonte | Encord: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nSophie Ngo and Diego Bracamonte | Encord \nTELUS \u2022 Apr 14, 2026 \u2022 17 minutes \nEncord: Tony Stimpfel + 1 more \u2022 Customer: Sophie Ngo, CFA, MBA, CBV + 1 more \nGo to call \nGenerate follow-up email \nKey points 1. TELUS Introduction: Sophie and Ravit are from TELUS Ventures, supporting TELUS Digital, which specializes in data labeling and physical AI for major labs, seeking partners for contracts or capability building. \n2. Investment Interest: TELUS Ventures invests across stages (C to Z) and can consider later-stage investments, but also prioritizes finding partners for TELUS Digital. \n3. Encord Overview: Encord is a Series C company, with a platform purpose-built for computer vision tasks, including annotation and data curation for video, image, and audio, with a strong focus on physical AI and robotics. \n4. Encord's Service Scope: Encord's platform covers the entire ML ops pipeline, from data curation and indexing to annotation and post-training labeling. \n5. TELUS Digital's Approach: TELUS Digital provides end-to-end annotation and data services, primarily human-driven, using their employees or contractors for specific projects. \n6. Encord's Core Offering: Encord differentiates by focusing on its platform technology for efficient, large-scale video data labeling, smart tooling, and customizable workflows, rather than being an all-in-one data team. \n7. Automation & Human-in-the-Loop: Encord's technology supports a combination of automated and human-reviewed processes, allowing customization for specific project outcomes and QA requirements. \n8. Target Industries: Encord is strong in healthcare (surgical/hospital robotics), ag-tech, manufacturing, and ADAS/self-driving cars, excelling with long-form video data rather than text-based AI. \n9. Partnership Opportunity: TELUS seeks technology partners to deliver contracts quickly (e.g., 48-hour turnaround for sample datasets), especially in automotive and egocentric data projects. \n10. Encord's Cap"
+},
+{
+"id": "485146621134",
+"subject": "Rad Patner & Encord - intro: Call recording and analysis is ready",
+"text": "GONG \nYour call is ready \nRad Patner & Encord - intro \nRadiology Partners \u2022 Apr 14, 2026 \u2022 29 minutes \nEncord: Colin Gesik + 1 more \u2022 Customer: Hana Haver \nGo to call \nGenerate follow-up email \nKey points 1. Introductions & Encord's Focus: Colin and Laura from Encord introduce themselves, highlighting Encord's work with medical customers (hospitals, research, applied health) and noting Radiology Partners' unique position as \"radiology as a service.\". \n2. Hana's Role & Project Goal: Hana, a diagnostic radiologist specializing in breast imaging, is exploring options for displaying mammographic images with high resolution for 2D and 3D, and later, the feasibility of annotating them. \n3. Annotation Types: Hana's team would eventually want to add anatomic labels and pathologies (benign/malignant) to findings on breast imaging, across 2D, 3D, and potentially other modalities. \n4. Current Workflow: The current workflow is human-in-the-loop, serving as ground truth, with future interest in exploring automated labeling tools. \n5. Team Structure: Hana is part of a team of diagnostic radiologists within Radiology Partners focused on leveraging technology to improve radiology practice. \n6. Data Scale & Handling: Hana cannot provide specific data scale details yet, but Colin assures Encord can handle large-scale data (millions of images/DICOMs). \n7. Visualization Requirements: Hana requires the interface to mimic a clinical mammography reading station, allowing side-by-side comparison of views (right/left, two different views) and toggling between 2D and 3D acquisitions. \n8. Primary Challenge: The main challenge is achieving high-resolution visualization of subtle findings (1-3mm, low contrast) in a user interface that closely resembles clinical tools, which differ from typical annotation platforms. \n9. Volumetric Measurement & Tracking: Hana inquired about volumetric measurements and was informed Encord can use tools like Meta Sam II to create bitmasks and track objects across "
+}
+]

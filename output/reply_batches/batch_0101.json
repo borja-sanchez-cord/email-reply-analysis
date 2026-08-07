@@ -1,0 +1,402 @@
+[
+{
+"id": "335266549964",
+"subject": "Accepted: Alex/Maurizio",
+"text": "CONFIDENTIALITY NOTICE. This message is for the sole use of the intended recipient(s) and may contain confidential and/or privileged information. Any unauthorised review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please destroy all copies of the original message, including any and all attachments, and notify the sender immediately."
+},
+{
+"id": "335290699983",
+"subject": "Re: Encord/Microblink - Meeting 7th October",
+"text": "Hello Alex,\nThank you for the call. We are available at the agreed time.\n\nBest,\nHristina\n\nOn Mon, Oct 27, 2025 at 6:12\u202fPM Alex Winstone <alex.winstone@encord.com>\nwrote:\n\n-- \nHristina Nedyalkova\nML Data QA Team Lead\nMicroblink\nwww.microblink.com <https://microblink.com/>"
+},
+{
+"id": "335294590184",
+"subject": "Accepted: Encord/Microblink - Reconnect @ Tue 4 Nov 2025 3pm - 3:30pm (GMT) (alex.winstone@encord.com)",
+"text": "Encord/Microblink - Reconnect\n\nHristina Nedyalkova has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/kaf-jcdc-azp\n\nJoin by phone\n\n(GB) +44 20 3956 0784 \nPIN: 583820691\n\nMore phone numbers\n\nWhen\n\nTuesday 4 Nov 2025 \u22c5 3pm \u2013 3:30pm (United Kingdom Time)\n\nGuests\n\nalex.winstone@encord.com\n- organiser\n\nleo@encord.com\n\nHristina Nedyalkova\n\nVincenzo D'Elia\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "335319779549",
+"subject": "Re: Coffee @ Ray Summit? -MLOps",
+"text": "Sure, We can meet during the breakfast on 4th Nov (Tue)"
+},
+{
+"id": "335400681688",
+"subject": "RE: Encord/Datalogic - Quick Update",
+"text": "So it was you the +44 prefix. Tried to call back but it didn\u2019t get through.\nI had to hung up since I was in a meeting on Teams with my group.\n\nany of the suggested times are good today\nThnx\nM\n\nDatalogic INTERNAL"
+},
+{
+"id": "335641784530",
+"subject": "Re: Pricing",
+"text": "Hi Will,\n\nSince there are some variability on how companies define VPC and on prem, we want to take a more granular approach in showing what we need.\n\nYang wrote down the two integration options that could meet our requirement. We need deployment by EOY. Can you please review and provide feasibility and updated pricing proposal for both by Monday EOD?  Thanks!\n\nOption One:  The third-party annotation platform vendor will provide their containerized solution (e.g. consisting of frontend and backend containers) for deployment on our EC2 instances. Once deployed, we can explore two integration options with our existing data infrastructure: either through API integration (preferred option) , where the third-party platform can directly access our data infrastructure APIs to retrieve annotation dataset IDs and pre-signed URLs for video data access, or through manual integration by exchanging JSON files for job creation and other workflows. The specific details regarding permission groups and technical implementation can be discussed further once we confirm this as our preferred approach. The diagram below illustrates the high-level integration workflow.\n\n[3P_Annotation_Architecture.png]\n\nOption Two:  If the third-party annotation platform requires additional AWS services beyond EC2 deployment and cannot be containerized effectively, we propose creating a dedicated AWS account for the vendor's deployment needs. Amazon will maintain ownership of this AWS account while granting the vendor necessary permissions to deploy and manage their services within it.\n\n[Deployment in Ring Owned AWS account.png]"
+},
+{
+"id": "335643675896",
+"subject": "Re: Encord & Amazon (Ring) - Scheduling + Sandbox Data",
+"text": "Correct. The inference json I shared contains only frame-level class ID (human, vehicle, animal), no instance IDs. We want a demo from your tool on 1) correcting erroneous object bounding boxes if any; 2) annotating unique instance IDs (for human, vehicle) within each home.\n\nYu"
+},
+{
+"id": "335682769083",
+"subject": "Tentatively Accepted: Encord/Target RWE - Eric/Sri @ Thu 6 Nov 2025 3pm - 3:30pm (GMT) (alex.winstone@encord.com)",
+"text": "Encord/Target RWE - Eric/Sri\n\nPooja Miglani has replied \"Maybe\" to this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/oic-gmsw-xpf\n\nJoin by phone\n\n(GB) +44 20 3910 5325 \nPIN: 754380185\n\nMore phone numbers\n\nWhen\n\nThursday 6 Nov 2025 \u22c5 3pm \u2013 3:30pm (United Kingdom Time)\n\nGuests\n\nalex.winstone@encord.com\n- organiser\n\nSri Krishnan\n\neric.landau@encord.com\n\nPooja Miglani - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "335779063014",
+"subject": "Re: Thanks for coming!",
+"text": "Thanks Winnie, it was a great time! Would love to chat more! I'll keep an\neye out for your email with times.\n\nThank you,\n*Tedi Papajorgji*\nVP, Engineering\nResemble AI\nhttps://resemble.ai"
+},
+{
+"id": "335782702271",
+"subject": "Re: SF Connect: Winnie x Alex",
+"text": "That works, see you then!"
+},
+{
+"id": "335815207137",
+"subject": "Re: Encord/Motional - San Francisco",
+"text": "Hi Alex,\n     Thank you for reaching out. I am still very new to the team (joined\nabout a month ago) so I would like to understand a bit better in terms of\nwhat Encord can offer. Can we set up a demo +. tech deep dive session to\nbegin with? Please let me know if an NDA is already in place.\n\nThanks,\nQian\n\nOn Fri, Oct 31, 2025 at 9:05\u202fAM Alex Winstone <alex.winstone@encord.com>\nwrote:"
+},
+{
+"id": "335829568752",
+"subject": "Accepted: Alon / Carl  @ Tue 4 Nov 2025 10:30am - 10:55am (PST) (carl@encord.com)",
+"text": "Alon / Carl \n\nAlon Rosenberg has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/mcw-yudd-kzc\n\nJoin by phone\n\n(US) +1 417-448-0682 \nPIN: 946133259\n\nMore phone numbers\n\nWhen\n\nTuesday 4 Nov 2025 \u22c5 10:30am \u2013 10:55am (Pacific Time - Los Angeles)\n\nGuests\n\ncarl@encord.com\n- organiser\n\nAlon Rosenberg\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "335881723095",
+"subject": "Re: SF Connect: Winnie x Alex",
+"text": "Be there in 3!"
+},
+{
+"id": "336023619826",
+"subject": "Re: Encord <> Neura Robotics | PoC KO recording + Monday support session",
+"text": "Hi James,\nThank you for today's meeting and the feedback.\nWe will have an internal meeting scheduled around 17:30 on next Monday unfortunately, would it be possible to shift the time to between 16:00 and 17:00 instead? I won't be available then, but Bharath can join the session.\nHave a great weekend!\nChun-Wei Tung (Alan)"
+},
+{
+"id": "336324335816",
+"subject": "Re: Encord & Pyannote - next steps",
+"text": "Just got from vacation and going through my mailbox.\n\n@Leo \u2014 that\u2019s great news. Thanks!\n\n@Kamil \u2014 I had to cancel our meeting today because a customer meeting came up. @Antoine will look at the document/project you prepared and will get back to you asap.\n\nHerv\u00e9.\n\nLe 31 oct. 2025 \u00e0 13:47, Leo Leclercq <leo@encord.com> a \u00e9crit :\n\nHerv\u00e9,\n\nQuick update re: commercials - have been having conversations back & forth this week & now approved on a PAYG flexible approach to cover the POC, without a platform fee having to be incorporated. The Crane team were also helpful here as an FYI on pushing.\n\nHopefully this makes it a lot easier to get going - we see this as a long-term partnership so don't want to put barriers in the way of us supporting you in the earlier phases of your journey.\n\nKamil will be in touch with some light paperwork to get going on this,\n\nBest,\nLeo"
+},
+{
+"id": "336329906367",
+"subject": "Re: Exo AI tool",
+"text": "Hi Laura,\n\nGreat to hear from a fellow NUS alumni and I have to say, your note made me miss Singapore!\n\nThanks for reaching out and sharing more about Encord. I\u2019m copying our data lead, who\u2019d be happy to connect with you and explore this further.\n\nCheers\n\nDornoosh"
+},
+{
+"id": "337177932994",
+"subject": "Re: NeurIPS",
+"text": "Hi James,\n\nGoing to NeurIPS was the plan, it would be great to talk to you folks\nthere.\nHowever I am now on a business trip in China and won't be able to make it\nto the conference...\n\nThanks,\nLifeng"
+},
+{
+"id": "337299907808",
+"subject": "Re: Request for Product Training and Feature Walkthrough \u2013 Visilant",
+"text": "Hi Seif,\nThank you for getting back to me and for your flexibility. I hope your\ntravels went smoothly.\n*Thursday at 2:30 PM GMT*  works very well for me. I look forward to seeing\nyou then!\nBest regards,\nAdi"
+},
+{
+"id": "337521338561",
+"subject": "Re: Encord <> Veesion Next steps",
+"text": "Hey Kamil,\n\nThanks for the links. I'm forwarding it to the DL team and will come back\nto you if they are interested.\n\nBest,"
+},
+{
+"id": "337907788000",
+"subject": "Refus\u00e9 : Encord & Pyannote | Catch up",
+"text": ""
+},
+{
+"id": "339302708468",
+"subject": "Re: NeurIPS",
+"text": "Hi James,\n\nProbably not, other teammates are not able to go as well.\nSure, let's catch up early Dec.\n\nThanks,\nLifeng"
+},
+{
+"id": "339816241393",
+"subject": "Accepted: Tanguy / Kamil | Catch up @ Fri 14 Nov 2025 1pm - 1:30pm (GMT) (kamil@encord.com)",
+"text": "Tanguy / Kamil | Catch up\n\nTanguy Le Floch has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/ghe-npwq-krj\n\nJoin by phone\n\n(GB) +44 20 3956 6700 \nPIN: 750033959\n\nMore phone numbers\n\nHey Tanguy, setting this time for us to reconnect in November as per our chat last week. Will be good to chat through how you're thinking about curation in the upcoming roadmap then :)\n\nWhen\n\nFriday 14 Nov 2025 \u22c5 1pm \u2013 1:30pm (United Kingdom Time)\n\nGuests\n\nkamil@encord.com\n- organiser\n\nTanguy Le Floch\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "339919930567",
+"subject": "Re: Encord",
+"text": "Hey!\n\nI am looking for data annotation solutions. We can have a call and I can describe the exact task and requirements.\n\nGautam Jajoo"
+},
+{
+"id": "339944892621",
+"subject": "Accepted: Encord <> Otiv | Workshop @ Mon 17 Nov 2025 5am - 6am (GMT-8) (james.sweeney@encord.com)",
+"text": "Encord <> Otiv | Workshop\n\nZied Moalla has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/xbf-gxun-rzi\n\nJoin by phone\n\n(GB) +44 20 3956 2408 \nPIN: 757414296\n\nMore phone numbers\n\nWhen\n\nMonday 17 Nov 2025 \u22c5 5am \u2013 6am (Pacific Time - Los Angeles)\n\nGuests\n\njames.sweeney@encord.com\n- organiser\n\nZied Moalla\n\njames.watson@encord.com\n\nParia Tahan\n\nskander@encord.com\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "339968751843",
+"subject": "RE: Encord Request for 19 Tickets \u2013 Warriors vs. Suns (11/4 Tuesday)",
+"text": "Hi Alyssa,\n\nTransacted for your 9 seats and released the 2 standalone. We did not have additional seats open up so we stuck with your 9.\nI\u2019ll get your welcome message submitted \u2013 peep the jumbotron at halftime \ud83d\ude0a\n\nAdditionally, for Tickets - I\u2019ve attached instructions on how to access and transfer tickets\n\n     *   You can access them either in the \u201cGolden State + Chase Center\u201d app or online at am.ticketmaster.com/warriors\n     *   Access your tickets by using this email address\n     *   Give it 24-48 hours for tickets to show up in your account\n     *   There are no paper or print at home tickets\n     *   Mobile Instructions (For Gameday): https://www.nba.com/warriors/ticketing/mobile\n     *   Each member of the group should download the \u201cGolden State + Chase Center\u201d app to access their tickets\n     *   By purchasing group tickets, you are agreeing to our Terms and Conditions regarding Group Tickets for the 25\u2019-26\u2019 season.\n        *   They can be viewed here<https://www.nba.com/warriors/tickets/partial-plan-and-group-tickets-terms-and-conditions>.  I\u2019m happy to send you the link if this hyperlink gives you any trouble.\n\nLet me know if there is anything I can do to help.\n\nGo Warriors!\n\nTamara Achanzar\nAccount Executive, Group Sales\nGolden State Warriors\n\n415.213.4679 (office)\nwarriors.com<https://www.warriors.com/> | tickets<https://www.warriors.com/tickets> | goldenstate.com<https://goldenstate.com/connect>\n[Golden State Warriors Banner]"
+},
+{
+"id": "339970721014",
+"subject": "Re: [Non-DoD Source] Encord & US Navy",
+"text": "James,\n\nI'm tracking the 1000 PST meeting; however, my boss just told me about another meeting that wasn't on our group calendar that I need to attend.\u00a0\u00a0\n\nAny chance we could do the meeting now?\u00a0 Thanks!\n\nV/R,\n\nRyan"
+},
+{
+"id": "339998499058",
+"subject": "Re: SAM issues",
+"text": "Thanks Kamil!\n\nWill test today and see how it goes.\n\nPaddy"
+},
+{
+"id": "340011085033",
+"subject": "Re: Pricing",
+"text": "Great, thanks for the confirmation. James, let us know what questions we can answer for you."
+},
+{
+"id": "340108510409",
+"subject": "Vorgeschlagene Zeit: Encord <> Festo | Gripper AI",
+"text": "Festo SE & Co. KG\n\nJan Seyler\n\nAbteilung TN-A\n\nLeitung Advanced Develop. Analytics and Control\n\nRuiter Stra\u00dfe 82\n\n73734 Esslingen\n\nDeutschland\n\nTelefon +49(711)347-52762\n\nTelefax \n\nhttps://www.festo.com\n\nDer Inhalt dieser E-Mail und m\u00f6glicher Anh\u00e4nge sind ausschlie\u00dflich f\u00fcr den bezeichneten Adressaten bestimmt. Jede Form der Kenntnisnahme, Ver\u00f6ffentlichung, Vervielf\u00e4ltigung oder Weitergabe des Inhalts dieser E-Mail und m\u00f6glicher Anh\u00e4nge durch unberechtigte\n Dritte ist unzul\u00e4ssig. Wir bitten Sie, sich mit dem Absender der E-Mail in Verbindung zu setzen, falls Sie nicht der Adressat dieser E-Mail sind sowie das Material von Ihrem Computer zu l\u00f6schen.\n\nThis e-mail and any attachments are confidential and intended solely for the addressee. The perusal, publication, copying or dissemination of the contents of this e-mail by unauthorised third parties is prohibited. If you are not the intended recipient of this\n e-mail, please delete it and immediately notify the sender. \n\nRechtsform: Kommanditgesellschaft, Sitz: Esslingen a.N., Registergericht Stuttgart HRA 211583, Umsatzsteuerident-Nummer: DE 145339206\n\nPers\u00f6nlich haftende Gesellschafterin: Festo Management SE, Sitz: Esslingen a.N., Registergericht Stuttgart, HRB 782421\n\nVorstand: Dr. Sebastian Beck, Dipl.-Ing. (FH) Thomas B\u00f6ck (Vorsitzender), Dipl.-Ing. Gerhard Borho, Dr. Ansgar Kriwet, Dipl.-Ing. (FH) Frank Notz, Dr. Jaroslav Patka\n\nAufsichtsratsvorsitzender: Dr. Friedrich Eichiner"
+},
+{
+"id": "340154849514",
+"subject": "Re: Encord Proposal",
+"text": "Hi Jamie,\nWednesday at 1pm PT looks likely to work for all of us if you want to\ntentatively book a meeting for that time, I'll let you know if we need to\nreschedule at all. Thank you!\nBest,\nKelsey"
+},
+{
+"id": "340158787810",
+"subject": "Vorgeschlagene Zeit: Encord <> Festo | Gripper AI",
+"text": "Festo SE & Co. KG\n\nJan Seyler\n\nAbteilung TN-A\n\nLeitung Advanced Develop. Analytics and Control\n\nRuiter Stra\u00dfe 82\n\n73734 Esslingen\n\nDeutschland\n\nTelefon +49(711)347-52762\n\nTelefax \n\nhttps://www.festo.com\n\nDer Inhalt dieser E-Mail und m\u00f6glicher Anh\u00e4nge sind ausschlie\u00dflich f\u00fcr den bezeichneten Adressaten bestimmt. Jede Form der Kenntnisnahme, Ver\u00f6ffentlichung, Vervielf\u00e4ltigung oder Weitergabe des Inhalts dieser E-Mail und m\u00f6glicher Anh\u00e4nge durch unberechtigte\n Dritte ist unzul\u00e4ssig. Wir bitten Sie, sich mit dem Absender der E-Mail in Verbindung zu setzen, falls Sie nicht der Adressat dieser E-Mail sind sowie das Material von Ihrem Computer zu l\u00f6schen.\n\nThis e-mail and any attachments are confidential and intended solely for the addressee. The perusal, publication, copying or dissemination of the contents of this e-mail by unauthorised third parties is prohibited. If you are not the intended recipient of this\n e-mail, please delete it and immediately notify the sender. \n\nRechtsform: Kommanditgesellschaft, Sitz: Esslingen a.N., Registergericht Stuttgart HRA 211583, Umsatzsteuerident-Nummer: DE 145339206\n\nPers\u00f6nlich haftende Gesellschafterin: Festo Management SE, Sitz: Esslingen a.N., Registergericht Stuttgart, HRB 782421\n\nVorstand: Dr. Sebastian Beck, Dipl.-Ing. (FH) Thomas B\u00f6ck (Vorsitzender), Dipl.-Ing. Gerhard Borho, Dr. Ansgar Kriwet, Dipl.-Ing. (FH) Frank Notz, Dr. Jaroslav Patka\n\nAufsichtsratsvorsitzender: Dr. Friedrich Eichiner"
+},
+{
+"id": "340269712584",
+"subject": "Imagen <> Encord Reconnect",
+"text": "Imagen <> Encord Reconnect\n\nHey Skander, \n\nDo you mind if we reconnect toward the end of this month/early next month? Looking forward to chatting!\n\nBest,\nEric\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/vmz-tsio-xcx\n\nJoin by phone\n\n(GB) +44 20 3937 1358 \nPIN: 727023466\n\nMore phone numbers\n\nImagen <> Encord Reconnect\n\nMonday Nov 3, 2025 \u22c5 8am \u2013 8:30am (Pacific Time - Los Angeles)\n\nGuests\n\nskander@encord.com\n- organiser\n\nkamil@encord.com\n\nEric Marte"
+},
+{
+"id": "340305109220",
+"subject": "Accepted: Encord & US Navy",
+"text": ""
+},
+{
+"id": "340318319863",
+"subject": "Declined: Encord /Capital One || Weekly Call -  LOBs - Success Cadence @ Tue 11 Nov 2025 10:05am - 10:35am (GMT-8) (alex.winstone@encord.com)",
+"text": "Encord /Capital One || Weekly Call - LOBs - Success Cadence\n\nRuss Cooper has declined this invitation.\n\nJoin Zoom Meeting\ncapitalone.zoom.us/j/91613099063... \nID: 91613099063\npasscode: 222621\n\nJoin by phone\n\n(US) +1 301-715-8592 \npasscode: 222621\n(CA) +1 647-374-4685 \npasscode: 222621\n\nJoin using SIP\n\n91613099063@zoomcrc.com \npasscode: 222621\n\nJoining instructions\n\nJoining notes\n\nMeeting host: ebony.edwards@capitalone.com\n\nJoin Zoom Meeting: \nhttps://capitalone.zoom.us/j/91613099063?pwd=9en6lqkebvJXt2Wv7F4FClWZDcGxYc.1&jst=2\n\nAttachments\n\nNotes - Encord /Capita...\n\nPlease use this invite to join the Encord Discussions.\n\nWhen\n\nTuesday 11 Nov 2025 \u22c5 10:05am \u2013 10:35am (Pacific Time - Los Angeles)\n\nGuests\n\nalex.winstone@encord.com\n- organiser\n\nleo@encord.com\n\nalexandre@encord.com\n\nEbony Edwards\n\nJahanzeb Shahid\n\nJeff Spahr\n\nRuss Cooper\n\nJohanna Hsu\n\njames.sweeney@encord.com\n\nVikas Verma\n\nRyan Leslie\n\nali@encord.com\n\njames.clough@encord.com\n\nAbhay Bajekal\n\nabraham@encord.com\n\nReginald Lamson\n\nEvan Henley\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more\n\nThe information contained in this e-mail may be confidential and/or proprietary to Capital One and/or its affiliates and may only be used solely in performance of work or services for Capital One. The information transmitted herewith is intended only for use by the individual or entity to which it is addressed. If the reader of this message is not the intended recipient, you are hereby notified that any review, retransmission, dissemination, distribution, copying or other use of, or taking of any action in reliance upon t"
+},
+{
+"id": "340327352508",
+"subject": "Re: Exo AI tool",
+"text": "Thanks Dornoosh for the intro, moving you to bcc to spare your inbox.\n\nHi Laura,\nNice to e-meet you!\n\nTuesday 1.30 to 2 pm works for me.\nLooking forward to chatting with you.\n\nBest,\nMasood"
+},
+{
+"id": "340452138213",
+"subject": "Re: Encord Proposal + Next Steps",
+"text": "Hi Jamie,\n\nHope all has been well with you! So far things are going well on the Encord\nplatform.\n\nI was wondering: is it possible to onboard our old annotation services\npartner ACME AI onto the Encord platform? Objectways has been working well,\nbut we've learned from past experience that it's helpful to have a backup\ntoo.\n\nThanks,\nJeff"
+},
+{
+"id": "340542776543",
+"subject": "Re: [EXTERNAL] Re: Encord/Monogram Follow Up",
+"text": "Hi Alex,\n\nOur mornings are typically booked. It has to be in the afternoons.\n\nMonday Nov 10, 1pm CST or 3->30 CST.\nTuesday Nov 11, Thursday  13 at 9am CST, or 12noon\u2014>2pm CST\n\nIf you're unavailable, let's schedule a phone call to finalize the time.\n\nMuhammad"
+},
+{
+"id": "340577484023",
+"subject": "Re: Pricing",
+"text": "Happy Monday, Will and Nick. I want to make sure you saw this email. Let us know if you have any questions."
+},
+{
+"id": "340577588452",
+"subject": "Re: AE Position with Encord",
+"text": "Hi Leo,\n\nHope you made it to SF ok. Please see attached scenario and qualification\nbrief. Please let me know if you need any further detail or if you have any\nquestions.\n\nAlso, you mentioned you had sent an invite for 3pm London time tomorrow\nhowever I have not received anything yet - are you able to double check\nthat for me please?\n\nLooking forward to tomorrow.\n\nBest Regards,\nChris"
+},
+{
+"id": "340596458699",
+"subject": "Re: [EXTERNAL] Re: Encord/Monogram Follow Up",
+"text": "I am sorry,  our first available time is between 1pm ---> 3pm CST for Wed or Thursday.\n\nThanks,\nMuhammad"
+},
+{
+"id": "340668257507",
+"subject": "Re: [Non-DoD Source] Encord & US Navy",
+"text": "Let's do 1:30 PM PST.  Thanks!\nV/R,\nRyan"
+},
+{
+"id": "340681390284",
+"subject": "Declined: Encord x Ocrolus | Catch-up @ Thu 6 Nov 2025 7am - 7:30am (GMT-8) (yianni@encord.com)",
+"text": "Encord x Ocrolus | Catch-up\n\nZach Haehn has declined this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/mdv-bnmr-kft\n\nJoin by phone\n\n(GB) +44 20 3957 1183 \nPIN: 209564836\n\nMore phone numbers\n\nWhen\n\nThursday 6 Nov 2025 \u22c5 7am \u2013 7:30am (Pacific Time - Los Angeles)\n\nGuests\n\nyianni@encord.com\n- organiser\n\nZach Haehn\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "340744958144",
+"subject": "Re: Relo Metrics / Encord - catch up",
+"text": "Hi Laura,\n\nI appreciate you reaching out! I don't think we are in a position to resume\ntalks right now, but I will certainly keep Encord in mind for future\nprojects that make sense for us.\n\nThanks!"
+},
+{
+"id": "340750147803",
+"subject": "Accepted: NBA X Encord | Weekly",
+"text": ""
+},
+{
+"id": "340775026924",
+"subject": "Re: Pricing",
+"text": "James,\n\nPlease see my answers embedded.\n\nThanks,\nYang"
+},
+{
+"id": "340782468293",
+"subject": "Re: Pricing",
+"text": "Thanks Will for sending this over. I will circle back with the team and see when we should chat next.\n\nKellen"
+},
+{
+"id": "340823103736",
+"subject": "Re: Encord & Zoox",
+"text": "Thank you for the update Winnie. If anything changes, please let me know.\n\nAsim"
+},
+{
+"id": "340832080116",
+"subject": "Re: Encord & Agtonomy - Scheduling",
+"text": "Spruce was great! Thanks for hosting.\n\nWed at 10am works for us.\n\nElla"
+},
+{
+"id": "340901036244",
+"subject": "Re: Exo AI tool",
+"text": "Hi Laura,\nI just wanted to let you know that I was informed today I need to go on a work trip tomorrow. I\u2019ll be flying out around noon, so unfortunately I won\u2019t be able to join our call as planned.\nI\u2019m sorry for the last-minute notice and any inconvenience this might cause. Could we reschedule for next week, either Tuesday or Thursday, whichever works best for you?\nThanks!\n\nBest,\nMasood"
+},
+{
+"id": "340901113070",
+"subject": "Accepted: Encord/Motional - Data Mining Team @ Mon 10 Nov 2025 8:30am - 9:15am (GMT-8) (alex.winstone@encord.com)",
+"text": "Encord/Motional - Data Mining Team\n\nQian Zhu has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/uxe-jhcj-hrc\n\nJoin by phone\n\n(GB) +44 20 3937 0181 \nPIN: 419774217\n\nMore phone numbers\n\nWhen\n\nMonday 10 Nov 2025 \u22c5 8:30am \u2013 9:15am (Pacific Time - Los Angeles)\n\nGuests\n\nalex.winstone@encord.com\n- organiser\n\noscar@encord.com\n\nQian Zhu\n\nShiraj Sen\n\nChengjie Zhang\n\nleo@encord.com - optional\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more\n\nThis email contains information belonging to Motional AD LLC or its affiliates and may contain confidential, proprietary, copyrighted and/or privileged information. Any unauthorized review, use, reliance, disclosure, distribution or copying is prohibited. If you are not the intended recipient, immediately destroy all copies of the original email and any attachments and contact the sender by reply email."
+},
+{
+"id": "340928656576",
+"subject": "Re: Encord/Motional - San Francisco",
+"text": "Hi Alex,\n     Thank you for getting back to me with the potential demo time. Which\ntime zone are you referring to? I was assuming that you were using PT but I\ncould be totally wrong. Do you have more time slots for later this week?\n\nThanks,\nQian\n\nOn Sat, Nov 1, 2025 at 8:42\u202fAM Alex Winstone <alex.winstone@encord.com>\nwrote:"
+},
+{
+"id": "340946966772",
+"subject": "Accepted: Encord & UnitX @ Tue 2 Dec 2025 6pm - 6:30pm (GMT) (james.golby@encord.com)",
+"text": "Encord & UnitX\n\nLifeng Yan has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/fie-mxdr-xnz\n\nJoin by phone\n\n(GB) +44 20 3937 0983 \nPIN: 671611214\n\nMore phone numbers\n\nWhen\n\nTuesday 2 Dec 2025 \u22c5 6pm \u2013 6:30pm (United Kingdom Time)\n\nGuests\n\njames.golby@encord.com\n- organiser\n\nadithya@encord.com\n\nLifeng Yan\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "340946966773",
+"subject": "Proposed new time: Encord & UnitX @ Tue 2 Dec 2025 6pm - 6:30pm (GMT) (james.golby@encord.com)",
+"text": "Encord & UnitX\n\nLifeng Yan has accepted this invitation and proposed a new time:\nWed 3 Dec 2025 9:30am \u2013 10am\n\"The original time was 2am in China, proposing a new time slot. Let me know if it doesn't work.\"\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/fie-mxdr-xnz\n\nJoin by phone\n\n(GB) +44 20 3937 0983 \nPIN: 671611214\n\nMore phone numbers\n\nWhen\n\nTuesday 2 Dec 2025 \u22c5 6pm \u2013 6:30pm (United Kingdom Time)\n\nGuests\n\njames.golby@encord.com\n- organiser\n\nadithya@encord.com\n\nLifeng Yan\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "340950658261",
+"subject": "Accepted: Encord/Motional - Alex/Qian  @ Tue 4 Nov 2025 2pm - 2:20pm (GMT-8) (alex.winstone@encord.com)",
+"text": "Encord/Motional - Alex/Qian \n\nQian Zhu has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/qme-xeio-kzv\n\nJoin by phone\n\n(GB) +44 20 3910 5274 \nPIN: 704807995\n\nMore phone numbers\n\nWhen\n\nTuesday 4 Nov 2025 \u22c5 2pm \u2013 2:20pm (Pacific Time - Los Angeles)\n\nGuests\n\nalex.winstone@encord.com\n- organiser\n\nQian Zhu\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more\n\nThis email contains information belonging to Motional AD LLC or its affiliates and may contain confidential, proprietary, copyrighted and/or privileged information. Any unauthorized review, use, reliance, disclosure, distribution or copying is prohibited. If you are not the intended recipient, immediately destroy all copies of the original email and any attachments and contact the sender by reply email."
+},
+{
+"id": "340951657705",
+"subject": "RE: Aligning on Technical Requirements & Next Steps with Encord",
+"text": "Hi Alex,\nfor me it\u2019s fine to schedule the meeting on Thursday from 4:00 to 4:30 PM.\n\nThank you and see you soon,\nEnrico\n\nDatalogic INTERNAL"
+},
+{
+"id": "340952356086",
+"subject": "RE: Encord Request for 19 Tickets \u2013 Warriors vs. Suns (11/4 Tuesday)",
+"text": "Hi Alyssa,\n\nShould be in account now! Please ensure this is the Golden State + Chase Center app.\n\nGo Warriors!\n\nTamara Achanzar\nAccount Executive, Group Sales\nGolden State Warriors\n\n415.213.4679 (office)\nwarriors.com<https://www.warriors.com/> | tickets<https://www.warriors.com/tickets> | goldenstate.com<https://goldenstate.com/connect>\n[Golden State Warriors Banner]"
+},
+{
+"id": "340961396967",
+"subject": "Re: AWL + Encord",
+"text": "Dear Arisha,\n\nThank you for the follow up and the links.\nPlease let me consult with the team and get back to you with schedule.\n\nBest Regards,\nFadoua"
+},
+{
+"id": "340963202291",
+"subject": "Re: Encord/Motional - San Francisco",
+"text": "Let's talk at 2pm PT tomorrow. Thank you Alex!\n\nQian\n\nOn Mon, Nov 3, 2025 at 5:49\u202fPM Alex Winstone <alex.winstone@encord.com>\nwrote:"
+},
+{
+"id": "340995189947",
+"subject": "Re: Encord Proposal + Next Steps",
+"text": "Hi Jamie,\n\nGot it, thanks! Let me circle back about the number of seats. Just wanted\nto start by checking on the option.\n\nBest,\nJeff"
+},
+{
+"id": "341000884415",
+"subject": "Re: Encord x ICEYE | Introduction",
+"text": "Hi Yianni! Nice to meet you.\n\nThe 430 pm slot on the 12th would work better for me. Would it be ok to\nbump it one hour forward?\n\nBest regards,\nTapio"
+},
+{
+"id": "341037402350",
+"subject": "Re: Encord & Track3D - Demo",
+"text": "HI James,\n\nVery sorry for late response. Can we postpone the meeting .\n\nThanks and Regards,\n\nVineeth\n\nGet \nOutlook for Mac"
+},
+{
+"id": "341090331847",
+"subject": "Re: Encord/Motional - San Francisco",
+"text": "Hmm, I don't see the invite on my calendar yet. Did you send it to\nqian.zhu@motional.com?\n\nThanks,\nQian\n\nOn Mon, Nov 3, 2025 at 7:10\u202fPM Alex Winstone <alex.winstone@encord.com>\nwrote:"
+},
+{
+"id": "341188163783",
+"subject": "Accepted: Eric / Avinash @ Wed 12 Nov 2025 5am - 5:30am (GMT-8) (alex.winstone@encord.com)",
+"text": "Eric / Avinash\n\nAvinash Shankar has accepted this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/xty-rhrq-mjs\n\nJoin by phone\n\n(GB) +44 20 3937 1820 \nPIN: 111055767\n\nMore phone numbers\n\nWhen\n\nWednesday 12 Nov 2025 \u22c5 5am \u2013 5:30am (Pacific Time - Los Angeles)\n\nGuests\n\nalex.winstone@encord.com\n- organiser\n\neric.landau@encord.com\n\nAvinash Shankar\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "341271169223",
+"subject": "RE: MMI + Encord - CS Syncs",
+"text": "Hi Alejandra,\ncould you please provide us with the following balances of annotation hours?\n\n  *   Hours left at the renewal of our contract beginning of October\n  *   Total hours paid for this quarter\n  *   Balance of hours available until the end of the quarter\nWe would also need to know the date when the next batch of hours will be available.\nThis will help us planning the next delivery of tasks.\nAs discussed last Wednesday, it would also be helpful to receive the balance of annotation hours on a weekly basis.\nThanks!\nBest, Elena"
+},
+{
+"id": "341389646036",
+"subject": "RE: Aligning on Technical Requirements & Next Steps with Encord",
+"text": "Hi Alex,\nI will not be able to attend the meeting, but if Luigi and Maurizio are available, I will catch up with them later.\nThank you,\nEnrico\n\nDatalogic INTERNAL"
+},
+{
+"id": "341398797556",
+"subject": "Quick Reminder: Feedback Survey for Last Week\u2019s Visit",
+"text": "OFFICIAL\n\nHi all,\n\nFriendly reminder to please complete the \nfeedback survey from last week\u2019s visit. Your input is really valuable\u2014 it helps us improve the format\n and ensure the programme delivers maximum value for you.\n\nMany thanks in advance!\n\nBest,\n\nJohanna & Jane\n\nJohanna B\u00f6denauer\u00a0|\u00a0Trade Advisor \u2013 Technology and Future Mobility | DBT\n\nBritish Consulate General, M\u00f6hlstrasse 5, 81675 Munich, Germany\n\nMobile +49 15127970526 |\u00a0ECHO: 3422129\n\nEmail: - johanna.boedenauer@fcdo.gov.uk |\u00a0\n\ngov.uk/dbt\u00a0|\u00a0Twitter\u00a0|\u00a0LinkedIn\u00a0|\u00a0YouTube\u00a0|\u00a0great.gov.uk\u00a0\n\nFollow us online: www.gov.uk/fcdo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, Commonwealth & Development Office may be monitored in line with relevant\n\nUK legislation\n\nThis message contains an online form. Unless you know the sender use extreme caution in giving out sensitive information. Never share password or personal information.\n\nOFFICIAL"
+},
+{
+"id": "341438135496",
+"subject": "Declined: Encord/Datalogic - Technical Requirements & Vendor Alignment",
+"text": "CONFIDENTIALITY NOTICE. This message is for the sole use of the intended recipient(s) and may contain confidential and/or privileged information. Any unauthorised review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please destroy all copies of the original message, including any and all attachments, and notify the sender immediately."
+},
+{
+"id": "341475920075",
+"subject": "Re: Following up on overdue invoice",
+"text": "That's no problem at all Seif - I am aware that we are probably a very\nsmall part of a very big book of business you have. Friday morning 10am PT\nworks for me.\n\nRegards,\nMohan"
+},
+{
+"id": "341931501809",
+"subject": "Zugesagt: Encord <> Festo | Gripper AI",
+"text": "Festo SE & Co. KG\n\nFranziska Schwahn\n\nAbteilung TN\n\nCorporate Research and Innovation\n\nRuiter Stra\u00dfe 82\n\n73734 Esslingen\n\nDeutschland\n\nTelefon +49(711)347-52714\n\nTelefax \n\nhttps://www.festo.com\n\nDer Inhalt dieser E-Mail und m\u00f6glicher Anh\u00e4nge sind ausschlie\u00dflich f\u00fcr den bezeichneten Adressaten bestimmt. Jede Form der Kenntnisnahme, Ver\u00f6ffentlichung, Vervielf\u00e4ltigung oder Weitergabe des Inhalts dieser E-Mail und m\u00f6glicher Anh\u00e4nge durch unberechtigte\n Dritte ist unzul\u00e4ssig. Wir bitten Sie, sich mit dem Absender der E-Mail in Verbindung zu setzen, falls Sie nicht der Adressat dieser E-Mail sind sowie das Material von Ihrem Computer zu l\u00f6schen.\n\nThis e-mail and any attachments are confidential and intended solely for the addressee. The perusal, publication, copying or dissemination of the contents of this e-mail by unauthorised third parties is prohibited. If you are not the intended recipient of this\n e-mail, please delete it and immediately notify the sender. \n\nRechtsform: Kommanditgesellschaft, Sitz: Esslingen a.N., Registergericht Stuttgart HRA 211583, Umsatzsteuerident-Nummer: DE 145339206\n\nPers\u00f6nlich haftende Gesellschafterin: Festo Management SE, Sitz: Esslingen a.N., Registergericht Stuttgart, HRB 782421\n\nVorstand: Dr. Sebastian Beck, Dipl.-Ing. (FH) Thomas B\u00f6ck (Vorsitzender), Dipl.-Ing. Gerhard Borho, Dr. Ansgar Kriwet, Dipl.-Ing. (FH) Frank Notz, Dr. Jaroslav Patka\n\nAufsichtsratsvorsitzender: Dr. Friedrich Eichiner"
+},
+{
+"id": "341995967675",
+"subject": "Re: Coffee @ Ray Summit?",
+"text": "Yeah that sounds good.\n\nThanks\n\nMengliao(Mike) Wang\nGeotab\n\nManager, AI Platform\n\nToll-free\n\nVisit\n\n+1 (877) 436-8221\nwww.geotab.com\n\nX <https://x.com/geotab> | Facebook <https://www.facebook.com/Geotab> |\nYouTube <https://www.youtube.com/user/MyGeotab> | LinkedIn\n<https://www.linkedin.com/company/geotab/>"
+},
+{
+"id": "342047987941",
+"subject": "Accepted: Encord/Datalogic - Technical Requirements & Vendor Alignment",
+"text": "CONFIDENTIALITY NOTICE. This message is for the sole use of the intended recipient(s) and may contain confidential and/or privileged information. Any unauthorised review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please destroy all copies of the original message, including any and all attachments, and notify the sender immediately."
+},
+{
+"id": "342094788848",
+"subject": "Re: AE Position with Encord",
+"text": "No problem Leo.\n\nWill wait for you on the call.\n\nCheers\nChris"
+},
+{
+"id": "342105780431",
+"subject": "Re: Issue with coco json import",
+"text": "Okay, so there is basically no way to import tracks via API, regardless of\njson format?\n\nThanks,\n\n- Angela"
+},
+{
+"id": "342134623430",
+"subject": "Re: NBA Trial check in session",
+"text": "Hi James,\n\nThank you for accepting the reschedule request for today\u2019s call.\u00a0\n\nYes, we\u2019ll have the call tomorrow at the scheduled time.\n\nRegards\n\nAmit Dabli"
+},
+{
+"id": "342140254418",
+"subject": "Re: Encord",
+"text": "Hi Laura,\n\nThanks for following up! I had signed up for the trial mainly to see how the platform worked in preparation for an interview at Encord, so I don\u2019t need further help at the moment. I really appreciate your effort, though!\n\nBest,\n\nStefano\n\nSent from my iPhone"
+},
+{
+"id": "342161094887",
+"subject": "Re: NBA Trial check in session",
+"text": "Hi James,\n\nCan we reschedule today\u2019s call to Thursday, November 6 at 1:00 PM ET?\u00a0\n\nRegards\n\nAmit Dabli"
+},
+{
+"id": "342164921534",
+"subject": "Declined: Wayve X Encord | Trial support sessions  @ Tue 4 Nov 2025 8:30am - 9am (PST) (james.watson@encord.com)",
+"text": "Wayve X Encord | Trial support sessions \n\nPhilipp Renner has declined this invitation.\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/ris-eeqe-hyw\n\nJoin by phone\n\n(GB) +44 20 3956 8357 \nPIN: 830160499\n\nMore phone numbers\n\nWhen\n\nTuesday 4 Nov 2025 \u22c5 8:30am \u2013 9am (Pacific Time - Los Angeles)\n\nGuests\n\njames.watson@encord.com\n- organiser\n\nThomas Varsavsky\n\nAlia Belkhodja\n\nleo@encord.com\n\nDaniel Kondermann\n\nLars Schmarje\n\nalexandre@encord.com\n\nCaroline Hein\n\nPhilipp Renner\n\nNeal Lewis\n\njames.sweeney@encord.com\n\nricha@encord.com\n\nView all guest info\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "342219904201",
+"subject": "Re: FiDi Large Party Platter order",
+"text": "Hi. Thanks for reaching out to Schlok's - FiDi.\n\n*Issue with a DoorDash or UberEats order?* Please reach out to their support directly via their app. \n\n*Issue with a Schlok's app or website order?* Use the \"Chat with Support\" feature under Settings.  \n\n*Issue with a catering or walk-up order?* If it's urgent, please text us at 415-971-7235 for the fastest response. Otherwise, a manager will respond via email by the end of the day. \n\nPlease note that we do not accept orders via email or phone. More info about our business is below: \n\nWe are open every day from 7:30am to 3pm, or until sold out, which does sometimes happen before 3pm. Our Instagram stories @schloksbagels is updated every day if we sell out. \n\nPre-ordering goes live at 2pm for next-day orders. The rest of our bagels are available for walk-up and delivery orders (individual coffee is only available via walk-up ordering at this time on weekends, but bulk is available for pre-order). \n\nIf you\u2019re interested in a catering/larger group order, check out the Catering page on our website at www.schloks.com for our catering menu (please note, catering orders require at least 48 hours' notice). \n\nFor all other inquiries, a manager will respond during our normal hours of operation.\n\nThanks for the support!"
+},
+{
+"id": "342269252825",
+"subject": "Re: [FiDi] FiDi Large Party Platter order",
+"text": "Hi Carl,\n\nSounds good. Thanks for letting me know.\n\nBest,\nKat"
+},
+{
+"id": "342280238287",
+"subject": "Re: NDA and sample data",
+"text": "Hi James,\n\nPlease find attached a copy of our NDA\n\nThanks,\nAbhimanyu"
+}
+]

@@ -1,0 +1,402 @@
+[
+{
+"id": "150076359907",
+"subject": "Re: Tuesday's Wrap-up",
+"text": "Hey, I can meet at any time after 2pm GMT. 30 min with Orly at 3pm GMT/ 5pm\nIST works for me.\nThanks,\nDaniel"
+},
+{
+"id": "150109031621",
+"subject": "Invitation: Encord Performance Analytics, Datasets Management & Timer... @ Wed 26 Feb 2025 9am - 9:45am (GMT) (Dillon Carrico)",
+"text": "Encord Performance Analytics, Datasets Management & Timer Session \n\nJoin with Google Meet \u2013 Hi All,Encord will be presenting an overview of its performance analytics, including key productivity and quality metrics. We will also discuss dataset/projects management to ensure efficient project \n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/zbq-rjeo-rqh\n\nJoin by phone\n\n(US) +1 302-440-5943 \nPIN: 764086219\n\nMore phone numbers\n\nHi All,\n\nEncord will be presenting an overview of its performance analytics, including key productivity and quality metrics. We will also discuss dataset/projects management to ensure efficient project execution, tracking, and processing. Additionally, we will take a deep dive into the Timer functionality\u2014examining active time, annotation time, and how the timer tracks activities\u2014along with its impact on productivity measurement.\n\nFeel free to extend the invite to add the relevant people. \n\nLooking forward to the discussion.\n\nBest,\n\nHaider\n\nWhen\n\nWednesday 26 Feb 2025 \u22c5 9am \u2013 9:45am (United Kingdom Time)\n\nGuests\n\nHaider Ali\n- organiser\n\nMunawar Khan\n\nAhmad Raza\n\nHassan Ullah Shah\n\nHassan Zaidi\n\nTaha Kayani\n\nSaleem Azam\n\nZain ul Abidin\n\nAbdul Rafay\n\nUsman Shafique\n\nAlexandre Bonnet\n\nDillon Carrico\n\nSyed Ibad Hussain\n\nOscar Evans\n\nMansoor Majid - optional\n\nBarbara Zsupos - optional\n\nView all guest info\n\nReply for dillon@encord.com\n\nYes\n\nNo\n\nMaybe\n\nMore options\n\nInvitation from Google Calendar\n\nYou are receiving this email because you are subscribed to Calendar notifications. To stop receiving these emails, go to Calendar settings, select this calendar and change \u2019Other notifications\u2019.\n\nForwarding this invitation could allow any recipient to send a response to the organiser, be added to the guest list, invite others regardless of their own invitation status or modify your RSVP. Learn more"
+},
+{
+"id": "150117434591",
+"subject": "Re: Encord migration - project thread",
+"text": "Hi Dillon, \n\nThank you for summarizing the key takeaways. It was a very productive meeting. \n\n\u2022 \nI have shared the Performance Analytics invite, feel free to extend the invite, looking forward to the production discussion.\n\n\u2022 \nThis is to confirm that we have received a defective dataset. \n\n\u2022 \nPlease keep us posted about the transfer of data from V7 to Encord progress and let me know if you need anything in regards to that. \n\n\u2022 \nEncord to coordinate a weekly cadence to share visibility on Abyss\u2019 annual hours subscription usage. Encord will update Abyss with improvements to reporting dashboards.\n\n\u2022 \nAs discussed, we currently have the live visibility of subscription usage, this gives us freedom to track the projects, datasets cost, and track the quarterly, monthly, weekly consumption. We can coordinate in a weekly cadence, and in the future would like to have this visibility in the form of a dashboard. Let me know when you prioritize this dashboard working, I can mention some key things to be included in the dashboard. \n\n\u2022 \nBPO emails shared and accounts with datasets set up, the team has started working on it. \n\nLet me know if you have any questions. \n\nAppreciate the collaboration! \n\nBest,\n\nHaider\n\n-- \n\nHaider Ali\nAssistant Vendor Manager | Mechatronics Engineer\n\nM: +92 311 6521631 (PK)\nE: h.ali@abysssolutions.com.auAUSTRALIA | USA | UK | BRAZIL | UAE | PAKISTAN ABYSSSOLUTIONS.CO"
+},
+{
+"id": "150117988581",
+"subject": "Re: Tuesday's Wrap-up",
+"text": "Steffan, Oscar,\n\nI compiled a list of all the negative issues I have found to check with you\nif I might be overlooking something.\nIf that's the case, we can clarify at our meeting today.\nAlso, it would be good to know if any of the issues are planned to be\naddressed on your roadmap\n\nThank you,\nDaniel\n\n*Missing basic features:*\n\n   - No gallery view for datasets (it is possible for folders but not for\n   datasets)\n   - No dataset statistics: how many files / GB in a dataset?\n   - No operations on datasets (filter, split into subsets, statistics) - a\n   dataset is just a group of files, we need to use 1:1 matching between\n   folders and datasets because we can explore folders\n   - No direct support for setting up a project where part of the data is\n   labelled by over 1 annotator (consensus), plus annotation quality\n   statistics (workaround exists that requires setting up two projects, but\n   statistics need to be computed by us). Also, we then cannot analyse\n   statistics for the full dataset since the data is splitted by two projects\n   - No conditional validation of the annotations (requires post-processing\n   of the exported data, resulting in back and forward or eliminating invalid\n   annotations)\n   - No option for numerical inputs, only text (would be good to have\n   validation if it is integer, or define valid range, date/numeric masks, or\n   a regex)\n   - No option for annotating tags / keywords (checkbox exists but should\n   not be a good option when the number of tags is high)\n   - Difficult to track what classes were already entered when annotating\n   (no visual cues)\n   - No video level annotations (annotations are frame level, we get more\n   data than needed, and it adds a frame selection step to the annotation).\n\n*Basic features that require the Active module*, and thus require a\nlabelling project (for active to analyse) and extra compute:\n\n   - Leveraging labels from one project to create a 2nd project (e.g.\n   create a project to annotate all the ima"
+},
+{
+"id": "150202560699",
+"subject": "Re: Coffee catch up this week?",
+"text": "Hi Kamil,\n\nIt looks like I have a meeting booked at Black Sheep with Tim this Friday -\nI'll go ahead and cancel that one.\n\nWe could meet at 11am Thur 6th at Black Sheep if that works for you?\n\nCheers,\n\n<https://auravision.ai/>\nDr. Daniel Martinho-Corbishley\nCEO\n+44 789 728 6389\nLinkedIn <https://www.linkedin.com/in/danielmartinhocorbishley/> Book a\nmeeting with me <https://calendly.com/daniel-auravision/30min>\nauravision.ai"
+},
+{
+"id": "150227636470",
+"subject": "Re: Encord & Jebi",
+"text": "Hi Jamie,\n\nThank you for your follow-up.\n\nAttached, you will find the video file for testing purposes. Please note\nthat this data contains our customers' information and must be kept\nstrictly confidential. It should only be used within the scope of this demo.\n\nThank you for your understanding, and I'm looking forward to testing it.\n\nBest regards,\nMau\n\n video_unido_bk.mp4\n<https://drive.google.com/file/d/1oHyyuizeVIHU40LpORPt38G9_ZvaV-Mr/view?usp=drive_web>"
+},
+{
+"id": "150238715072",
+"subject": "Re: Encord <> Scortex | Partnership & Next steps",
+"text": "Bonsoir Kamil, \n\nApr\u00e8s avoir discut\u00e9 avec Jo\u0101on, Yann & Hugues, nous aimerions d\u00e9marrer un POC avec la solution Encord. \n\nEst ce que \u00e7a te parait possible de transformer l\u2019ordre du jour du meeting de demain  en \u00ab kick-off \u00bb du POC ? \n\nNotamment, tu avais, il me semble, \u00e9voqu\u00e9 avec Hugues la possibilit\u00e9 d\u2019avoir une personne dispo pour nous accompagner dans ce projet : ce serait top si elle pouvait se joindre \u00e0 nous demain pour d\u00e9marrer rapidement l\u2019\u00e9valuation. \n\nBonne soir\u00e9e, \n\n    Aymeric RAMBAUD\n    Product Manager\n\n    Scortex\n    Digitizing Quality Inspection\n    https://scortex.io <https://scortex.io/> - LinkedIn <https://www.linkedin.com/company/scortex> - Twitter <https://twitter.com/Scortex>\nThis message and any attachments is being sent from Scortex and may contain confidential informations. If you are not the intended recipient, please advise the sender immediately by reply e-mail and delete this message and any attachments without retaining a copy. Scortex or the author will not be liable for the message if modified."
+},
+{
+"id": "150238827739",
+"subject": "Re: Coffee catch up this week?",
+"text": "Super see you then :)\n\n<https://auravision.ai/>\nDr. Daniel Martinho-Corbishley\nCEO\n+44 789 728 6389\nLinkedIn <https://www.linkedin.com/in/danielmartinhocorbishley/> Book a\nmeeting with me <https://calendly.com/daniel-auravision/30min>\nauravision.ai"
+},
+{
+"id": "150238974175",
+"subject": "Re: [External] Re: Vendor Addition",
+"text": "Hello Kevin,\n\nI send out a calendar invite for a 1pm meeting on Friday 2/28 so that Dr. Brat and you can discuss using Encord for another project potentially.\n\nI reached out to our Research Administrator to verify if this is for ARPA-H work and her response is as follows:\n\n\"If we are initiating the PO from the funds that we are receiving on the ARPA-H, then yes we will need the forms filled out.  If Rutgers is purchasing this item directly and sending it to use then NO it is not needed.\"\n\nMy assumption is that this is for the ARPA-H, once filled out I can use that form to complete another form and submit to our research administrator. Hope this make sense.\n\nBest,\n\nJaleta \"Jay\" Ahmed\nClinical Research Coordinator II, FIRST Program\nDepartment of Surgery\nT: 617-632-7027 | C: 646-712-3372 | F: 617-632-9708\nPronouns: He/Him\n[A button with \"Hear my name\" text for name playback in email signature]<https://www.name-coach.com/jaleta-ahmed>\n[cid:1a8d67a2-77bd-4390-b848-506d66770106]"
+},
+{
+"id": "150242511077",
+"subject": "Automatic reply: EXT: GE / Encord - Nvidia GTC [Quick Hello]",
+"text": "Hi,\n\nI am on business travel, please expect delay in response.\n\nThanks\nParminder"
+},
+{
+"id": "150254223565",
+"subject": "Re: Encord <> Scortex | Partnership & Next steps",
+"text": "Salut Kamil,\n\nJe t\u2019appelle demain matin.\n\nAymeric\n\nLe mar. 25 f\u00e9vr. 2025 \u00e0 18:48, Kamil Mouthon <kamil@encord.com> a \u00e9crit :"
+},
+{
+"id": "150314407106",
+"subject": "BIDMC: Encord Meeting",
+"text": "meeting to discuss involving Encord in another project."
+},
+{
+"id": "150368721103",
+"subject": "Re: Labeling project",
+"text": "Hi Matt, sounds good, talk to you then.\n\nBest,\n\nJun"
+},
+{
+"id": "150372377788",
+"subject": "Re: [Invite] Encord Physical AI Leaders Dinner @ Kokkari SF",
+"text": "Ok great. I'm vegetarian. Thx"
+},
+{
+"id": "150389811400",
+"subject": "Re: EXT: Re: Encord Follow up + Next steps",
+"text": "Hi Nick,\nI owe you some data. Next week is difficult, can we do the week of March 10th? Preferably, later in the day?\n\nMax"
+},
+{
+"id": "150390097115",
+"subject": "RE: Encord Questions from Evident Vascular",
+"text": "Hi Eliza, thanks for the responses.\n\nKeeping the same numbering below, and adding couple more:\n\n  1.  I understand you are investigating the question.\n  2.  The instructions you provided appear to be instructions for the annotators, rather than a method to turn off auto-annotations. Is that correct? If so, is there a way to turn off auto-annotations as an Admin or Manager?\n  3.  I think the question here is, can we add annotators after a study has been started, but before the workflow is complete?\n     *   If the answer is that is now allowed, would a workaround be to add dummy users to the study, and then reassign them to real users during the study when we need to add someone?\n  4.  There are details around Step 4 in your instructions that appear to be missing. We are not able to get to Step 5 because we don't see what you are referring to in that Step.\n  5.  We have Dicom files with approximately 20 frames each. When we use them in our project, Encord always shows frame 11 when the Dicom is displayed. It is possible to select the frame that is displayed, or have it display frame 0?\n  6.  We are having problems with a Workflow Project we've created. We are using it as a test bed to understand how the Rejection appears to the Reviewer in the workflow. We are seeing what, to us, is odd, inconsistent behavior. But it maybe a gap in our understanding. I would like to have a meeting with you or someone who can help Shannon and I with this.\n\nWould 8:00 AM Pacific Time work for you on any of the days this week?\n\nAdlai\n\n[A logo with purple letters  Description automatically generated]<http://www.evidentvascular.com/>\nAdlai Shawareb\nProject Manager - Software\n Mobile: 408-921-9296\n142 Charcot Ave.\nSan Jose, CA 95131\n\"CONFIDENTIALITY NOTICE: The information contained in this electronic message may be privileged, confidential and protected from use and disclosure. If you are not the intended recipient, you are hereby notified that any review, disclosure, distribution or copy"
+},
+{
+"id": "150400999621",
+"subject": "Re: Private dining enquiry",
+"text": "Hi Charlotte,\n\nGreat! We can arrange that. For the menu, what items are you looking to\ninclude? We are flexible but stick to coursing your dinner so we need to\ndecide which small plates, pastas, mains and desserts you'd like. This may\nalso change the per person price.\n\nCheers\n\nOn Tue, Feb 25, 2025 at 7:53\u202fAM Charlotte Decaudaveine <charlotte@encord.com>\nwrote:\n\n-- \n*Jacy **Pieper*\n*General Manager*\n*Apolonia Restaurant*\n*2201 S Michigan Ave, Chicago, IL 60616*\n\n*312.363.2431*"
+},
+{
+"id": "150408083696",
+"subject": "Re: Encord & ColigoMed",
+"text": "Sure Jamie, I will check and update you"
+},
+{
+"id": "150439101632",
+"subject": "Re: EXT: Re: Encord Follow up + Next steps",
+"text": "That works."
+},
+{
+"id": "150460815577",
+"subject": "Re: Encord + AppFolio Follow up",
+"text": "Hi Nick,\nThe NDA should be sent.\u00a0 It will be coming from our procurement team.\nFor the other questions:- we usually have a security eval and compliance review\nfor data privacy.- there is usually just a questionnaire to complete on my end\ninternally.\nBest,Teddy"
+},
+{
+"id": "150488231110",
+"subject": "Re: Can we reschedule",
+"text": "Ah yes, in person! I'll make that work. See you thursday!"
+},
+{
+"id": "150488265951",
+"subject": "Re: Encord - Pilot Kickoff",
+"text": "Hi Kevin,\n\nThanks for meeting today!\n\nWould it also be possible for me to be an administrator in our Encord organization? I can make additions on behalf of Dr. Jopling (cc'd).\n\nAdditionally, could we add the following folks?\n\n  *\nSienna Wong - sienna.wong@cshs.org\n  *\nDesmond Huynh - Desmond.Huynh@cshs.org\n  *\nReid Dale - reiddale@berkeley.edu\n\nMuch appreciated.\n\nBest,\nAlan\n\n--\nAlan Brown\nProgram Manager\nDepartment of Biomedical Data Science\nStanford University"
+},
+{
+"id": "150494081224",
+"subject": "Re: [Invite] Encord Physical AI Leaders Dinner @ Kokkari SF",
+"text": "Hi Payom,\n\nThanks for the invite, and apologies for the late reply. I would be happy\nto join the event if there is still space. LMK."
+},
+{
+"id": "150495841479",
+"subject": "Your event with Kokkari Estiatorio",
+"text": "Hello Jamie,\n\nAttached is your preliminary menu to review, please let me know\nwhat you think! View Proposal \n( https://u13889636.ct.sendgrid.net/ls/click?upn=u001.AOIHV3-2B1fXfELJwZhqP-2F2cvdqAAtEIyn4BuvcxIuO335yVb4PPgaQQDYO1R1LSQn-2BcfuK1lU6LkTfm5KyJJFhw-3D-3D7I9m_UFBvlcAejhPzTES2UYK-2F0VuQ0NwDnAaLE4Xu7EuCtJyV0s07xrnnyKKomEU9cgkdheWluNSUySmG9RA7OwlCS-2FjKT5LF0UPbTrlfzD1CA8733AlgoqIl0zSHIibS-2FPkRE5gvypG-2Fr-2FOBsFc24ayCFCR50r6JFrLtU1fIPwueaanp5BFHvMp-2Bl20HG-2B2-2B-2F-2BuQdQLwHOJVP29gw-2BMnI4vYzdEA07v4P0PPdoX-2FXIjIocEsMpyW6IzIMhYZ7XgpWZe4YeHad8juSjDBUpeVXKBgiQ-3D-3D )\n\nShall I offer the same wines?\n\nWould you like to include a special welcome title to your\npersonalized menus? It is optional but something we like to offer\nto our guests.\n\nLogo?\n\nWill you prefer bottled water or will tap be okay?\n\nWho will be the host of the dinner?\n\nWould you like the server to present the check to the host or\nwould you like to provide us with a credit card to charge?\n\nAlso \u2013 can you please confirm I have noted the correct start time\nand number of guests attending?\n\nPlease let me know if there is anything else I can do to help!\n\nSincerely,\n\nBibi Bahador"
+},
+{
+"id": "150501300410",
+"subject": "Re: Physical AI dinner",
+"text": "Hi all,\n\nI would love to be there for this but won't be able to make this one!  The\ngroup looks like one I'd love to network with if there's an opportunity at\na future dinner.\n\nBest,\nEvan"
+},
+{
+"id": "150503095524",
+"subject": "Re: Encord - Deck & Demo (LinkedIn Follow Up)",
+"text": "Hi Alex,\n\nGreat to e-meet you!\n\nI\u2019m in EST time zone, so later is better.\nWill you be available on Wednesday, Feb 26th or Thursday, Feb 27th at 12pm EST (6pm CET) or later?\nFrom your slots, I\u2019m available on Thursday at 3pm CET with 30 min slot (and I feel like 30 min could be not enough).\n\nFeel free to share the invitation if any of above options work for you.\n\nBest regards,\nViktor"
+},
+{
+"id": "150510394608",
+"subject": "Re: Encord follow up",
+"text": "Hi Nick,\nI am currently not planning on attending the conference but I am happy to\njoin for dinner afterwards. Thanks for the invite.\n\nBest\nKrishna"
+},
+{
+"id": "150516796649",
+"subject": "Re: [Invite] Encord AI Leaders Dinner @ Kokkari 02/27",
+"text": "Yes, looking forward to it. No dietary restrictions.\n\nThanks,\nMichael\nMichael GreenCEOAthena Security IncOn a Mission to Save Lives\nmichael@athena-security.com\u00a0| M617.359.6600TrustComplianceIn The News"
+},
+{
+"id": "150554611911",
+"subject": "RE: [External] Re: Encord Training Data",
+"text": "Hi Skander\n\nI have few further questions. I am wondering what the features of encord annotation tool are. Please direct me if I missed something.\nDoes the tool support 3D/4D annotations? Wherein if I draw a region in 2D plane can it automatically propagate into 3D volume and also track in time? Let\u2019s say for example a catheter in an ultrasound volume.\nAnd if it supports, how accurate will that be?\n\nBest Regards\nRaja"
+},
+{
+"id": "150613595385",
+"subject": "Re: Encord <> Scortex | Partnership & Next steps",
+"text": "OK pour 10h :  http://meet.google.com/zti-vrgx-zsp\n\n    Aymeric RAMBAUD\n    Product Manager\n\n    Scortex\n    Digitizing Quality Inspection\n    https://scortex.io <https://scortex.io/> - LinkedIn <https://www.linkedin.com/company/scortex> - Twitter <https://twitter.com/Scortex>\nThis message and any attachments is being sent from Scortex and may contain confidential informations. If you are not the intended recipient, please advise the sender immediately by reply e-mail and delete this message and any attachments without retaining a copy. Scortex or the author will not be liable for the message if modified."
+},
+{
+"id": "150717441214",
+"subject": "Re: Encord - AI London Roundtable Dinner 23rd January",
+"text": "Hi Alex,\n\nAny chance we could do anytime between 3:30 and 5pm UK time on Friday? I\nwould also like Genevieve, our Chief of Staff (cc'ed), to join the call.\n\nThanks,\nMik\n\nOn Mon, Feb 24, 2025 at 2:44\u202fPM Alex Winstone <alex.winstone@encord.com>\nwrote:"
+},
+{
+"id": "150795321554",
+"subject": "Re: Encord / Conversion",
+"text": "Hey Maya,\n\nThanks so much for the introduction Payom! Pleasure to meet you Maya.\nLooking forward to adding value to Encord's inbound. Let me know if there\nis a good time to chat here: https://calendly.com/neil-conversion/demo\n\nNeil Tewari\nCo-Founder & CEO | Conversion"
+},
+{
+"id": "150796905668",
+"subject": "Re: Hi from Jamie @ Encord",
+"text": "Hi Jamie,\n\nI don\u2019t check email often but did see this come through today. I don\u2019t have much time this week but might be able to create some time next week. Wednesday the 5th between 11:30am - 2pm PST is a good slot for me if that might work?\n\nThanks,\n\nDunchadhn"
+},
+{
+"id": "150820155593",
+"subject": "AW: Further Questions on Annotations",
+"text": "Hi Steffen,\n\nHere is a quick reply to your Delivery Lead's questions:\n\n  1.\nWhat do you mean by different hands? It would be great if you could go into more detail of what he means and how it could be a time sink.\nWe want to label bounding boxes for all visible hands, but do not care about left/right or which person it belongs to. If both hands overlap it would also be fine to mark it as one.\n  2.\nWe can't provide you with a reference time at this point in time.\n  3.\n- For product bounding boxes we require consistent IDs for the same instance of the product. Two milk cartons would have different IDs, but the same milk carton should get the same ID again after being hidden and reappearing. Every other class (hand, barcode, etc.) can have a random unique ID, we could even deal with having no IDs for those.\n- For data protection regulations we have to anonymize faces in our recordings before saving. Sometimes our face detection makes errors and anonymizes products or random areas in the frames. Since we don't have those effects during inference, we don't want those frames in our training data. What we require is a way to determine those frames, which in V7 is a tag \"falsely_pixelated\" that is attached to the whole frame. Since we're not using this frame for training, we don't require (but accept) any labels for them, just to save labeling time.\n\nHope that helps. If you have any further questions, please reach out.\n\nBest regards | Mit freundlichen Gr\u00fc\u00dfen\n\nHeiko Raible\n\nComputer Vision / AI Engineer\n\nSoftware Solutions\n\nResearch & Development\n\nWanzl GmbH & Co. KGaA\n\nRudolf-Wanzl-Stra\u00dfe 4\n\n89340 Leipheim\n\nGermany\n\nHeiko.Raible@wanzl.com<mailto:Heiko.Raible@wanzl.com>\n\nwww.wanzl.com<http://www.wanzl.com/>"
+},
+{
+"id": "150837425379",
+"subject": "Re: Encord Demos follow up + next steps",
+"text": "Hey Nick,\n\nWe are still finalizing! I'll let you know if we have any changes.\n\nB"
+},
+{
+"id": "150843075797",
+"subject": "Re: Encord <> Cloudflare | Event Space",
+"text": "Hi Charlotte,\n\nThanks for reaching out. I'd be curious about hearing more about your\nmeetup and what's going to make it awesome. For context I'm just an\nEngineer at cloudflare and when I get involved in these events it comes at\nthe expense of getting my normal job done. I also have to give up my\nevening and spend time away from my furry friends (Dusty and Nora - cat and\ndog tax attached).\n\nIf you can convince me that this is a meetup I wouldn't want to miss then\nI'm happy to help out.\n\nThomas\n\n[image: image.png][image: image.png]\n\nOn Wed, Feb 26, 2025 at 1:31\u202fPM Charlotte Decaudaveine <charlotte@encord.com>\nwrote:"
+},
+{
+"id": "150879707382",
+"subject": "Re: ThetaTech <> Encord | Shivant in NYC",
+"text": "Let\u2019s get coffee at Caf\u00e9 Kitsun\u00e9 in West Village, say 10:30am Monday?\n\nMy cell is 732-595-8684\n\nhttps://g.co/kgs/aCD4KpA\n\nRobert Toth, Ph.D."
+},
+{
+"id": "150882812111",
+"subject": "Re: Encord Services contract",
+"text": "Hi Nick,\n\nSorry about the delayed response. We had our annual company kickoff yday which was an all day event (Magic Johnson was a guest speaker!) and have a together week for all of this week which is super busy times here. \n\nI reviewed the quote - I think your estimate of 75 hrs / month assumes 4500 images/month. I think we will have ~3.3K images/month which translates to 55 hours and I am hoping shifting to a pre-labeling based workflow will bring this down further. The other project I have in mind (will send representative data/instructions next week) is likely to consume ~20hr/month. I would like to:\n\n1. Setup the agreement for 75 hours/mo starting now for just internal annotations and for the next 2 quarters. Can we revisit in 6 months if we want to increase then? The reason is that several of our projects are in flux now, we still have the contract with the old vendor for the next 4 months and our roadmap is quite dynamic shifting on a 6 month rather than annual basis.\n\n2. You said that US annotators are a separate workforce anyway and we can have a separate SOW for that (I am not including hours for US data in my estimate above). Can you let me know costs for US annotations for the same project / dataset? I can give you an estimate of hours we will need for the next 6 months for that effort so we can get the paperwork done right now too and we can start sending batches of data.\n\nKalpana Seshadrinathan, Ph.D.\nHead of Deep Learning"
+},
+{
+"id": "150888096985",
+"subject": "Re: Labeling project",
+"text": "Hey all -- sorry for the last minute change; an important meeting came up\non my end. Can we push the 10am call back 30mins?"
+},
+{
+"id": "150894043330",
+"subject": "AI Leaders Dinner \u2192 Navneet will join instead of Me",
+"text": "Hi Jamie & Dillon,\n\nWe're going to pull a switcheroo today. Instead of me, Navneet Dalal, my co-founder and CEO will join the dinner at Tavarna. I am not feeling well and would like to make sure that everyone remains healthy at dinner too! \n\nI am adding Navneet to the thread above. \n\nBest Regards,\n\nMehul"
+},
+{
+"id": "150912636138",
+"subject": "Re: Encord & Mara",
+"text": "Hi Kevin,\n\nI appreciate you sending over the proposal. We're currently in crunch mode\npreparing for our demo day and will need to postpone tomorrow's call. We'll\nreach out when we're ready to proceed.\n\nThanks for your understanding.\n\nBest,\nMark"
+},
+{
+"id": "150914612472",
+"subject": "Re: Encord/Pro Sound Effects Follow Up",
+"text": "Hey Alex, \n\n I\u2019m in downtown Brooklyn. I have a window of time after 3 pm if you\u2019d have time for a late coffee or early beer, but please don\u2019t feel pressured. We can catch up when our timelines are closer.\u00a0 \n\n Timeline for us has a dependency on incoming data, which I don\u2019t have great visibility into at the moment, and is making me think we couldn\u2019t justify savings until the top of that funnel could potentially fill up and require a concerted annotation effort. However, I do think we could budget for it in 2026 if it\u2019s looking like we\u2019ll have the need and could demonstrate the cost savings. \n\n Hope that\u2019s helpful. Safe travels, and enjoy your time in NYC! \n\n Best, \n\n Brad"
+},
+{
+"id": "150920296658",
+"subject": "RE:  Re: rle string decode",
+"text": "Hello Eliza\n\nApologies for missing the meeting yesterday \u2013 I had some other fires to fight.\n\nI have a question re: queueing.\n\n  1.  I labeled a handful of studies from different patients.\n  2.  Some of those studies I skipped because they were not the correct view.\n  3.  When I finished the studies that I wanted to keep, I then reviewed and moved them to complete.\n  4.  We reviewed a handful of these completed studies with the physician to ensure we were capturing the label correctly.\n  5.  I then moved one of the studies back to Annotate; however, it seems to have reset all of the studies for this particular patient to \u2018New\u2019, though I had originally \u2018Skipped\u2019 them.  (see below)\n  6.  Now I will need to preview all of them again.  Wondering if there is a way to prevent a \u2018reset\u2019 of all the studies for a patient if they had already been viewed and skipped?\n\n[cid:image001.png@01DB8839.12FB63E0]\n\nKelly J. Shields, PhD\nLead Data Scientist, Data Science R&D\nAdvanced Analytics\nC: 804-512-8401 | O: 412-544-5739\n\n[cid:image002.png@01DB8839.12FB63E0][cid:image003.png@01DB8839.12FB63E0]"
+},
+{
+"id": "150921329868",
+"subject": "Re: Labeling project",
+"text": "I sent a calendar invite for 11am PT. Please let me know if that does not\nwork."
+},
+{
+"id": "150940531934",
+"subject": "Re: Weave Robotics <> Encord - Accelerate",
+"text": "Hey y'all,\n\nI uploaded the first pass at the instructions here\n<https://app.us.encord.com/projects/view/42066dfd-e698-4cf2-a416-8ed58eedf443/summary>.\nThey're also attached as a PDF.\n\nCan you take a look?  We can then start kicking the tires on the data that\nI've uploaded--more will be on the way soon!\n\nEvan"
+},
+{
+"id": "150941372619",
+"subject": "Re: AE Profiles",
+"text": "Thanks!\n\nRafe, good to connect again - It's been a while!\n\nPlease do share the 1st stage interview link with me and I'll be sure to use this once Leo gives the thumbs up on candidates \ud83d\udc4d\ud83c\udffd\n\nLooking forward to working with you both.\u2002\n\nNathan Da Silva\n\nSenior Talent Partner\n\nT: 07713 452 472\n\nE: nathan@getsauced.io<mailto:E:%20nathan@getsauced.io>\n\n[Logo]<https://getsauced.io/>\n\nConfidentiality Note: This e-mail and any attachments are confidential and may be protected by legal privilege. If you are not the intended recipient, be aware that any disclosure, copying, distribution or use of this e-mail or any attachment is prohibited. If you have received this e-mail in error, please notify us immediately by returning it to the sender and delete this copy from your system. Thank you for your cooperation."
+},
+{
+"id": "150943667397",
+"subject": "Re: Hi Dipak - I'm in the G Meets, is now still a good time?",
+"text": "Hi Jamie,\n\nSorry I thought I moved the meeting to tomorrow at 10:30 am PST. Can we\nmeet tomorrow at 10:30?\n\n[image: image.png]"
+},
+{
+"id": "151066342596",
+"subject": "RE: Redlines for Encord MSA",
+"text": "Hi Nick \u2013 please see attached.\n\nLet us know when we can expect the other documents for review.\n\nThanks!\n\nPaul\n\nPaul Gagnon, LL.M.IP\nAssoci\u00e9, avocat, Co-Leader, Technologies et intelligence artificielle | Partner, Lawyer, Technology and Artificial Intelligence Co-Lead\nT. +1-514-397-6879 | C. +1 514-236-2525 | F. +1-514-397-8515\nvCard<https://vcard.bcf.ca/vcards/paul.gagnon@bcf.ca.vcf> | bcf.ca<https://www.bcf.ca/>\n\n [https://vcard.bcf.ca/images/BCF_SignatureCourriel_Logo_2019-04-23.png]\n\nBCF Avocats d\u2019affaires | BCF Business law\nMontr\u00e9al<https://mtloffice.bcf.ca/> : 25e \u00e9tage, 1100 boul. Ren\u00e9-Levesque Ouest, Montr\u00e9al (Qu\u00e9bec) H3B 5C9\nQu\u00e9bec<https://qcoffice.bcf.ca/> : Complexe Jules-Dallaire, T1, 2828, boul. Laurier, 12e \u00e9tage, Qu\u00e9bec (Qu\u00e9bec) G1V 0B9\n\nInscrivez-vous \u00e0 notre infolettre<https://communication.bcf.ca/l/682813/2020-02-19/dnr6h> | Subscribe to our newsletter<https://communication.bcf.ca/l/682813/2019-03-11/fvdt>\n\nMembre de MERITAS, pr\u00e9sence juridique mondiale | Member of MERITAS, Law Firms Worldwide\nAvis: Ce message est confidentiel et pourrait \u00eatre prot\u00e9g\u00e9 par le secret professionnel. Si vous n\u2019\u00eates pas le destinataire, veuillez informer l\u2019exp\u00e9diteur imm\u00e9diatement, supprimer ce message et en d\u00e9truire toute copie. | Notice: This message is confidential and may be subject to attorney-client privilege. If you are not the addressee, please inform the sender immediately, delete this message and destroy all copies."
+},
+{
+"id": "151174310113",
+"subject": "Re: Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi Skander,\nThank you for reaching out and sorry for the late reply.\nI've cc'd Ilan, our Algorithms team manager.\n\nAll the best,\n\u1427"
+},
+{
+"id": "151185838300",
+"subject": "Re: Encord // Miratlas",
+"text": "Hi  Skander,\n\nWe have postpone our project of images segmentation so we will not need to have an anotation solution right now.\nLet's keep in touch for the future.\n\nBest regards,\nGuillaume"
+},
+{
+"id": "151201474779",
+"subject": "Re: Cloudfactory / Encord",
+"text": "Hey Leo,\nOk, we can move the meeting to next week, but we need to progress on the\nopen opp and Zipline.\nCan you connect us to the relevant people for those?\n\nRegarding dates for next week, I will respond with some options shortly.\n\nKind regards\n\nTristan Rouillard\n\nVP Machine Learning Solutions\n\nCloudFactory\n[image: mobilePhone] +49 (172) 8420534 <+49+(172)+8420534>\n[image: emailAddress] tristan.rouillard@cloudfactory.com\n[image: website] www.cloudfactory.com\n\n<https://www.hubspot.com/email-signature-generator?utm_source=create-signature>"
+},
+{
+"id": "151241174242",
+"subject": "Re: Encord - AI London Roundtable Dinner 23rd January",
+"text": "Hi Alex,\n\nI don't see the updated invite in my calendar (I still see the original\ninvite for today) - could you add me too please? genevieve@moonvalley.com\n\nMany thanks,\nGenevieve\n\nOn Wed, Feb 26, 2025 at 4:07\u202fPM Alex Winstone <alex.winstone@encord.com>\nwrote:\n\n-- \n\nGenevieve Simpson\n\nChief of Staff (AI)\ngenevieve@moonvalley.com\n\nThe imagination research company"
+},
+{
+"id": "151250162928",
+"subject": "Re: Encord",
+"text": "Hey Nick,\nLet\u2019s meet Monday next week. I am slammed per all the planning for our public announcement.\n\nCan you meet at 17 CET?\n\nBest,\nEd"
+},
+{
+"id": "151276469457",
+"subject": "Re: Redlines for Encord MSA",
+"text": "Hi Nick - thanks for the update. I think our ability to sign off and discuss on the document will be somewhat limited. Would it be more efficient to give us the day to review with the (geo distributed) Invisible team and speak tomorrow?\n\nPaul\n\nPaul Gagnon, LL.M.IP\nAssoci\u00e9, avocat, Co-Leader, Technologies et intelligence artificielle | Partner, Lawyer, Technology and Artificial Intelligence Co-Lead\nT. +1-514-397-6879 | C. +1 514-236-2525 | F. +1-514-397-8515\nvCard<https://vcard.bcf.ca/vcards/paul.gagnon@bcf.ca.vcf> | bcf.ca<https://www.bcf.ca/>\n\n [https://vcard.bcf.ca/images/BCF_SignatureCourriel_Logo_2019-04-23.png]\n\nBCF Avocats d\u2019affaires | BCF Business law\nMontr\u00e9al<https://mtloffice.bcf.ca/> : 25e \u00e9tage, 1100 boul. Ren\u00e9-Levesque Ouest, Montr\u00e9al (Qu\u00e9bec) H3B 5C9\nQu\u00e9bec<https://qcoffice.bcf.ca/> : Complexe Jules-Dallaire, T1, 2828, boul. Laurier, 12e \u00e9tage, Qu\u00e9bec (Qu\u00e9bec) G1V 0B9\n\nInscrivez-vous \u00e0 notre infolettre<https://communication.bcf.ca/l/682813/2020-02-19/dnr6h> | Subscribe to our newsletter<https://communication.bcf.ca/l/682813/2019-03-11/fvdt>\n\nMembre de MERITAS, pr\u00e9sence juridique mondiale | Member of MERITAS, Law Firms Worldwide\nAvis: Ce message est confidentiel et pourrait \u00eatre prot\u00e9g\u00e9 par le secret professionnel. Si vous n\u2019\u00eates pas le destinataire, veuillez informer l\u2019exp\u00e9diteur imm\u00e9diatement, supprimer ce message et en d\u00e9truire toute copie. | Notice: This message is confidential and may be subject to attorney-client privilege. If you are not the addressee, please inform the sender immediately, delete this message and destroy all copies."
+},
+{
+"id": "151279824078",
+"subject": "Re: Encord x AI Demo Days - Sponsorship opportunity",
+"text": "Hi Charlotte,\n\nThanks for the update. I really appreciate your help with sponsorship and PM intro!\n\nI can share the SF speaker lineup if that\u2019d be helpful. Also let me know if budget is a consideration. I'm sure we can find a way to make it work, whether for SF, London, or both. FYI, we\u2019re also organizing an event in Paris later this year if that\u2019s something your team\u00a0wants to explore.\n\nBest,\n\nMarie-Caroline\n\n( https://stackone.com/ )\n\nMarie-Caroline Pasquier\n\nFounders Associate\n\nMobile: +44 7380 333 198\n\nEmail: mc@stackone.com\n\nBook a meeting ( https://app.reclaim.ai/m/marie-caroline-stackone/flexible-quick-meeting )"
+},
+{
+"id": "151279888585",
+"subject": "RE: Conf call",
+"text": "Hi Steffan,\n\nIs there any news about the proposition that you suggested to send to me ?\n\nCordialement , Best Regards, \u062a\u062d\u064a\u0627\u062a\u064a ,\n\nMohamed EL BADA\n\nGSM : 00 212 6 66 96 08 26\n\nDirecteur Technique"
+},
+{
+"id": "151279971529",
+"subject": "Re: Connect w/ David Nukrai",
+"text": "Hi Skander,\n\nThanks for reaching out! Sounds interesting, I would love to chat.\nOn monday I am available 15:00 to 18:00 (IST).\nPlease let me know if it works for you.\n\nBest,\nDavid"
+},
+{
+"id": "151285865720",
+"subject": "Re: Encord & Verobotics",
+"text": "Thank you for the call, it was very interesting.\nMy lead algorithms team is on vacation next week, can we postpone it to\nthe following week?\n\nThanks,\nOmer"
+},
+{
+"id": "151337970909",
+"subject": "Re: Encord AI Leaders Dinner in NYC",
+"text": "Awesome! Thanks!\n\nJonathan D. Gough, Ph.D.\nChief Scientist & Senior Director AI/ML\nConverge Technology Solutions Corp."
+},
+{
+"id": "151338106054",
+"subject": "Re: Encord <> Target RWE | Intro",
+"text": "Hi Charlotte,\n\nI checked my team\u2019s availability and it looks like we all have Monday, March 3rd at 10:00-10:30 am EST available. Does that time work for you? If so, please go ahead and send a meeting invite\nI have cc\u2019ed all who should be included on the call.\n\nLooking forward to chatting.\n\nBest,\nAlex Rieger\nFull Stack Designer\n\narieger@targetrwe.com<mailto:ahammarskjold@targetrwe.com>\nC: (484) 905-2110\n\n[Logo  Description automatically generated]"
+},
+{
+"id": "151482347755",
+"subject": "Re: Encord <> Conservation X Labs | Demo",
+"text": "Hi Charlotte,\nGreat to chat with you and Leo. Thanks again for taking the time!\n\nWould Wednesday at 7:30am PST work for a demo, rather than 9:00 on Tuesday?\n\nHere are some Wild Me data sets you can use for the demo:\nhttps://lila.science/datasets/beluga-id-2022/\nhttps://lila.science/datasets/leopard-id-2022/\n\nCheers,\nKirk"
+},
+{
+"id": "151496650967",
+"subject": "Re: Encord Project",
+"text": "Hi Jamie,\n\nThanks for the update. I'm available for tomorrow's session and will cover\nAnalytics & reporting.\n\nBest,\nTim"
+},
+{
+"id": "151498968293",
+"subject": "Re: Encord migration - project thread",
+"text": "Hi, Dillon and Team,\n\nThank you for summarizing the key takeaways. \n\n\u2022 \nThe subtraction issue video was shared with you, however, the team is not facing any issues right now. \n\n\u2022 \nI will be finalizing the export sheet template and will share it with you next week. We can start a discussion on that side as well. \n\n\u2022 \nThank you for directing us to the Support team. While we are in close coordination in google chat, we will start reaching out to the support team soon. \n\n\u2022 \nAs discussed, can you please let us know how we can measure the enclosed area in an image? This is something we do in our defects workflow. As you mentioned, bitmask/brush pixels are with reference to the screen. Can we get the relation between brush pixels and image pixels? For instance, will a 10 px bitmask/brush size cover 100 px of image area when we apply a single stroke? \n\nThanks again, and see you soon. \n\nBest,\nHaider\n\n-- \n\nHaider Ali\nAssistant Vendor Manager | Mechatronics Engineer\n\nM: +92 311 6521631 (PK)\nE: h.ali@abysssolutions.com.auAUSTRALIA | USA | UK | BRAZIL | UAE | PAKISTAN ABYSSSOLUTIONS.CO"
+},
+{
+"id": "151500724463",
+"subject": "Re: Tonight - NYC AI Leaders Dinner",
+"text": "Hello James,\nI hope you are doing well.\nMy apologies, for I won\u2019t be able to attend the dinner this evening due to an unexpected family matter. I truly appreciate the invitation and regret missing the amazing opportunity to connect with everyone.\nI hope the event goes wonderfully, and I look forward to catching up soon. Please do pass along my regards to the attendees.\nThanks,\n\nRabia\n\nRabia Haq, Ph.D.\n\nProgram Director, Artificial Intelligence\nrhaq@3drlabs.com<mailto:rhaq@3drlabs.com>\n757.831.5456\n\n3DR Labs\nYour virtual lab down the hall\n[Image]<https://44102462.fs1.hubspotusercontent-na1.net/hubfs/44102462/3DR%20Labs%20Video%202023e-no%20AHRA.mp4>[Image]<https://twitter.com/3drlabs>[Image]<https://linkedin.com/company/3drlabs>\n\n[Image]<https://3drlabs.com/>\nThe largest, most respected 3D\nmedical image post-processing\n\nlab in the nation\nLearn more 3drlabs.com<https://3drlabs.com/>"
+},
+{
+"id": "151505338567",
+"subject": "Re: Il Buco Showroom Dinner Selections - Thursday, February 27th (6:30-11:30)",
+"text": "Hi James,\n\nWe can set the table for 9 on each side with one head at each end unless\nyou prefer 8 on each side with 2 heads at each end.\n\nBest,\nTammie\n\n*Tammie Dessanti | Events Coordinator*\n*212-533-1932*\nilbuco.com\n\nOn Thu, Feb 27, 2025 at 4:14\u202fPM James Sweeney <james.sweeney@encord.com>\nwrote:"
+},
+{
+"id": "151507429584",
+"subject": "Re: Encord <> Curemetrix Partnership",
+"text": "Hello Shivant,\n\nThank you, we really appreciate the consideration! We also appreciate all\nthe support your team has provided and hope we can continue having a\nmutually beneficial partnership. Yes, we would like to move forward with\nthe 24 month agreement with access to 30 seats for use on the Annotate\nplatform for a total price of $39,500.\n\nCan you also confirm that we'll pay quarterly?\n\n- Rita P."
+},
+{
+"id": "151513485516",
+"subject": "Re: Encord - Pilot Kickoff",
+"text": "All good, thanks so much for your help!\n\n--\nAlan Brown\nProgram Manager\nDepartment of Biomedical Data Science\nStanford University"
+},
+{
+"id": "151514751171",
+"subject": "Re: Encord | Event Space Query",
+"text": "Hi Charlotte,\n\nThanks for the email!\n\nHow many people and what timing and set up would you need? I'll see if a\nroom is available.\n\nCatering will come at a small cost too - can share when I have more details.\n\nBest,\nArabella\n\nOn Thu, Feb 27, 2025 at 12:44\u202fPM Charlotte Decaudaveine <\ncharlotte@encord.com> wrote:"
+},
+{
+"id": "151518941419",
+"subject": "Re: Connect w/ David Nukrai",
+"text": "Sounds great! See you then!\n\n Skander Fourati <skander@encord.com>:"
+},
+{
+"id": "151552309480",
+"subject": "Re: Encord AI Leaders Dinner in NYC",
+"text": "Hi Skander,\n\nI wanted to confirm that this event is still happening. Also, can you send me the address?\n\nThanks!\nJonathan\n\nJonathan D. Gough, Ph.D.\nChief Scientist & Senior Director AI/ML\nConverge Technology Solutions Corp."
+},
+{
+"id": "151554088154",
+"subject": "Re: Can we reschedule",
+"text": "Tomorrow is much better! I'm in twin peaks and can walk to muni and meet you close to you around 11 if youre free."
+},
+{
+"id": "151572529387",
+"subject": "RE: Redlines for Encord MSA",
+"text": "Hi Nick,\n\nSorry \u2013 I was under the impression you\u2019d have a more detailed write-up for Usage Data. If there\u2019s no call-home, then how will Encord access the data? And if it\u2019s only for troubleshooting, are you comfortable limiting to that scope in the MSA? If so, that\u2019d likely solve the issue.\n\nPaul\n\nPaul Gagnon, LL.M.IP\nAssoci\u00e9, avocat, Co-Leader, Technologies et intelligence artificielle | Partner, Lawyer, Technology and Artificial Intelligence Co-Lead\nT. +1-514-397-6879 | C. +1 514-236-2525 | F. +1-514-397-8515\nvCard<https://vcard.bcf.ca/vcards/paul.gagnon@bcf.ca.vcf> | bcf.ca<https://www.bcf.ca/>\n\n [https://vcard.bcf.ca/images/BCF_SignatureCourriel_Logo_2019-04-23.png]\n\nBCF Avocats d\u2019affaires | BCF Business law\nMontr\u00e9al<https://mtloffice.bcf.ca/> : 25e \u00e9tage, 1100 boul. Ren\u00e9-Levesque Ouest, Montr\u00e9al (Qu\u00e9bec) H3B 5C9\nQu\u00e9bec<https://qcoffice.bcf.ca/> : Complexe Jules-Dallaire, T1, 2828, boul. Laurier, 12e \u00e9tage, Qu\u00e9bec (Qu\u00e9bec) G1V 0B9\n\nInscrivez-vous \u00e0 notre infolettre<https://communication.bcf.ca/l/682813/2020-02-19/dnr6h> | Subscribe to our newsletter<https://communication.bcf.ca/l/682813/2019-03-11/fvdt>\n\nMembre de MERITAS, pr\u00e9sence juridique mondiale | Member of MERITAS, Law Firms Worldwide\nAvis: Ce message est confidentiel et pourrait \u00eatre prot\u00e9g\u00e9 par le secret professionnel. Si vous n\u2019\u00eates pas le destinataire, veuillez informer l\u2019exp\u00e9diteur imm\u00e9diatement, supprimer ce message et en d\u00e9truire toute copie. | Notice: This message is confidential and may be subject to attorney-client privilege. If you are not the addressee, please inform the sender immediately, delete this message and destroy all copies."
+},
+{
+"id": "151576801473",
+"subject": "Re: Encord <> Nexar",
+"text": "Thank you, Leo.\n\nCould you change this to our IL entity instead please?\n\nNexar Ltd\nHaRakevet 58\nTel Aviv\nTel-Aviv-Jaffa\n6777021\nIsrael"
+},
+{
+"id": "151597242567",
+"subject": "Re: Nick Rajpal invited you to work together in Slack",
+"text": "I\u00a0only see the one to this email"
+},
+{
+"id": "151599179992",
+"subject": "Re: LA Dinner late March",
+"text": "Hey Nick,\n\nGood to hear from you! The dinner sounds awesome, I'd definitely be\ninterested, but I will say my schedule is a bit hectic toward the end of\nMarch as we have few engagements we're working on pushing through but would\nlove to make it work \ud83d\ude0a My co-founder is also in LA though it depends on\nhis travel schedule as well.\n\nFundraising is going well, we're going to start off with a bridge round\nright now which we've had solid interest for. We have some exciting work\nwe're doing and we'd love to have better case studies and stories to tell\nfor our B round that can excite investors on top of everything else \ud83d\ude0a\n\nHow have things been for you?\n\nBest,\nRichard"
+},
+{
+"id": "151614066928",
+"subject": "Re: Encord & ColigoMed",
+"text": "Hi Jamie,\nDoes 8AM PST, Thursday (06-Mar-25) suit your calendar for this discussion?\n\nRegards\nKrishna\n\nOn Wed, Feb 26, 2025 at 7:38\u202fAM Krishnakumar Janakiram <\nkjanakiram@coligomed.com> wrote:"
+},
+{
+"id": "151625129187",
+"subject": "Re: [External] Re: Vendor Addition",
+"text": "Hi Kevin,\n\nThis is not for ARPA-H. We will discuss tomorrow.\n\nHowever, the vendor integration will need to be established for ARPA-H so will be useful for other projects.\n\ng"
+},
+{
+"id": "151705373912",
+"subject": "RE: Encord <> RAPP | Next Steps",
+"text": "Hey both,\n\nHope all is good.\n\nThanks for the chat.\n\nCan I just check that you do auto-tag assets as they enter your platform as well, and then enable users to adjust / refine them in the platform \u2013 is that right \u2013 so similar to how we are ingesting assets and running our AI recipe over the assets to auto-tag you do a similar thing?\n\nIs that right?\n\nThanks,\n\nAndrew Rowe\nChief Marketing Sciences Officer\n[RAPP]\nWe stand up for individuality<https://www.rapp.com/about/diversity/>\nFloor 4, Bankside 3, 90 Southwark Street, London SE1 0SW\nM: +44 7841346711<tel:+44%207841346711>\nRAPP.COM<http://www.rapp.com/>\n[Campaign Agency of the Year 2023 |  UK Agency Of the Year 2023 & 2022 | Forrester Wave Leader 2022 Marketing & Content]"
+},
+{
+"id": "151709415649",
+"subject": "Re: Asensus <> Encord | Shivant in NYC",
+"text": "Great - see you both soon\n\nThanks,\nBrian"
+},
+{
+"id": "151747421400",
+"subject": "Re: Inquiry About Moving S3 Bucket to Another AWS Account",
+"text": "+ Surajit/Bharathi\n\nOn Fri, Feb 14, 2025 at 1:54\u202fAM Diarmuid McGonagle <support@encord.com>\nwrote:"
+}
+]

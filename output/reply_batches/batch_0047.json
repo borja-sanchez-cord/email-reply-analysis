@@ -1,0 +1,402 @@
+[
+{
+"id": "215755414722",
+"subject": "RE:  Re: New role, same Alyssa - Reconnecting at Encord!",
+"text": "Hi,\n\nJack forwarded me his meeting on Tuesday 6/10 \u2013 I will be attending that if that\u2019s okay.\n\nDo you still want an another meeting?\n\nThank you!\n\nNicholas"
+},
+{
+"id": "215761245423",
+"subject": "Re: Encord Active Trial with Iterative - Intro to Mohammad",
+"text": "Hi Leo,\n\nThis is great, and thank you for your support. Absolutely, more than happy\nto catch up later after the end of the trial. My calendar:\nhttps://calendly.com/haft\n\nBest,\nMohammad"
+},
+{
+"id": "215763028185",
+"subject": "Re: Noctal x Encord",
+"text": "sounds good thx!"
+},
+{
+"id": "215769214152",
+"subject": "Re: Attending CVPR | quick coffee?",
+"text": "We do, but it might be easier if you share which ones you'll be attending\nand I can confirm where we will be :)\n\nBest,\nMatija\n\nLuxonis.com <http://luxonis.com/> | DepthAI Documentation\n<https://docs.luxonis.com/en/latest/> | Store <https://shop.luxonis.com/>\nWant early access to new products? Join our free Innovation Lab\n<https://www.luxonis.com/innovation?utm_source=footer&utm_medium=email&utm_campaign=innovation>\nto\nget early access to hardware and software products. You will also get the\nopportunity to shape core software solutions built by our development team\nfor your use."
+},
+{
+"id": "215769235688",
+"subject": "You've been assigned 3 Contacts",
+"text": "You've been assigned 3 Contacts\nShowing 3 out of 3 contacts: \nCONTACT \nSimon Klenk\nsimon@se3.ai\nCONTACT \nGowtham Senthil\ngowtham@se3.ai\nCONTACT \nDaniel Cremers\ndaniel@se3.ai\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "215777535191",
+"subject": "Re: Encord Evaluation",
+"text": "Jamie - here's a more thoughtful and organized set of followup questions,\nto make it easier for both of us.  chat soon.  cheers\n\n1. Recommended Format for Stitched Day-Long Videos\n\n   -\n\n   Our native recordings are MP4 (H.264 + AAC), and each 1-hour chunk can\n   be up to ~3GB.\n   -\n\n   For a single stitched camera stream, we\u2019re looking at up to ~36GB per\n   day.\n   -\n\n   What format/container/codec do you recommend for optimal performance on\n   your platform? Would you suggest sticking with MP4, or are there advantages\n   to HLS, .mkv, H.265, etc.?\n\n2. Performance with Large Files\n\n   -\n\n   How well does Encord handle large stitched files (30\u201340GB)?\n   -\n\n   Any performance thresholds or known limitations around file size we\n   should keep in mind?\n   -\n\n   Will annotators experience performance issues or sync drift with\n   multi-camera review on long, high-resolution videos?\n\n3. Multi-Camera Synchronization at Scale\n\n   -\n\n   With up to 8 camera views per day (potentially >250GB total), how does\n   Encord\u2019s editor handle:\n\n   -\n\n      Synchronized playback, scrubbing, and fast-forwarding?\n      -\n\n      Switching between main camera views?\n\n   -\n\n   Have you tested performance with this number of large, synchronized\n   streams?\n\n4. Streaming vs. Caching Behavior\n\n   -\n\n   Does Encord stream directly from S3 in real time, or do you cache\n   locally?\n   -\n\n   If streaming, is there support for buffering, seek indexing, or adaptive\n   bitrate?\n\nOn Thu, Jun 5, 2025 at 9:54\u202fAM Alex Vorobiev <avorobiev@nsightsurgical.ai>\nwrote:"
+},
+{
+"id": "215790691519",
+"subject": "Re: Concentrix regroup and demo",
+"text": "Hi Steffan,\n\nThanks for the response. I have gone for 3pm instead as that's the best time for the bulk of the team.\n\nHope that works. I have added you to the invite.\n\nCheers,\nDave\n\nDavid Elliott\n\nDirector of Technology \u2013 Trust and Safety\n\n(UTC) WFH \u2013 UK\n\n +44 (0) 7775 227673<tel:+447775227673>\n\nconcentrix.com<http://www.concentrix.com/>"
+},
+{
+"id": "215797731523",
+"subject": "Re: Encord Evaluation",
+"text": "Appreciate it!"
+},
+{
+"id": "215797786827",
+"subject": "Vacation Re: Invite: AI Execs Dinner in Zurich Altstadt",
+"text": "I will be on vacation from June 2nd to June 13th and will reply to your message on my return.\n\n-- \n\nSylvain Alarie\n\nVP of Engineering\n\nsylvain@daedalean.ai\n\n+33 6 38 11 81 49\n\nDaedalean AG, CHE-346.576.217\n\nAlbisriederstrasse 199, 8047, Zurich, Switzerland\n\n+41 445 524 056\n\nDaedalean.ai | LinkedIn | YouTube"
+},
+{
+"id": "215799681245",
+"subject": "Re: Highmark - Encord | MIS follow up",
+"text": "Hi Team! Can you please let us know if there are any other data format\noptions?\n\nOn Wed, Jun 4, 2025 at 2:30\u202fPM Lakshmi Bobba <lakshmibobba@google.com>\nwrote:"
+},
+{
+"id": "215800338663",
+"subject": "Re: Encord - document extraction pipelines and tooling",
+"text": "Thank you Nick, moving you to BCC\nHi Winnie, these times work for me:\n- 2 PM PT Friday\n- 12:00 PM PT Monday\n- 3 PM PT Monday\n- 9 AM PT Tuesday"
+},
+{
+"id": "215884570816",
+"subject": "Re: Hi from Jamie @ Encord",
+"text": "Awesome Jamie, thanks for giving me this summary. I totally understand you\ncan't get $12k approved, but as I alluded during our last call, that's the\nnumber that it will take for me to champion the deal with my CEO right now.\nI'd still love to work together, so let's plan to circle back about another\ndeal in 6 months or so when we're feeling the pain point more acutely.\n\nBest,\nLiam"
+},
+{
+"id": "215887223028",
+"subject": "Re: Attending CVPR | quick coffee?",
+"text": "Hey\n\nDear Charlotte,\n\nThank you for reaching out and for the invitation to connect during CVPR.\nUnfortunately, I won't be able to attend the conference in Nashville this\nyear.\n\nI appreciate you thinking of me and Skylab Technologies, and I am sorry\nthat our paths won't cross at this event. Perhaps there will be another\nopportunity to connect in the future to discuss the exciting work both our\nteams are doing in computer vision and multimodal model development.\n\nThank you again for the invitation to your happy hour as well.\n\nBest regards,\n*Hardik Uppal*\n*https://www.captura.io <https://www.captura.io>*\n\n*[image: facebook icon] <https://www.facebook.com/capturaio> [image:\nlinkedin icon] <https://www.linkedin.com/company/capturaio/>  [image:\nCaptura.io - Make more] <https://www.captura.io>*\n\nOn Thu, Jun 5, 2025 at 1:48\u202fAM Charlotte Decaudaveine <charlotte@encord.com>\nwrote:"
+},
+{
+"id": "215893619952",
+"subject": "Re: Hi from Jamie @ Encord",
+"text": "Hey Jamie,\n\nI've resigned from Mendaera. Please use my personal email for all\nfuture correspondence <harshakmohan@gmail.com>\n\nThanks,\nHarsha"
+},
+{
+"id": "215938088173",
+"subject": "RE: [Invite] Encord's CVPR AI Leaders Fireside Chat & Dinner - 06/14",
+"text": "Hi Charlotte,\n\nMany thanks.\n\nPls just visit our poster presentation, we are happy to chat \ud83d\ude0a\nOtherwise, your colleagues can contact me over Linkedin and we can meet and chat, I will be at the CVPR for the entire duration...\n\nBest,\nOnay"
+},
+{
+"id": "215938195664",
+"subject": "Re: CVPR this year?",
+"text": "Hi James,\n\nI appreciate the invitation, I checked with the team and it doesn't seem\nlike any of us will be attending CVPR this year. Would have loved to stop\nby.\nLet's continue to stay in touch.\n\nBest,\nDaniel L"
+},
+{
+"id": "215942438094",
+"subject": "Re: NDA signature",
+"text": "Hi,\n\nSorry, I've should have explained better. We received two Docusingns:\n\n  *\nOne with my info and the info of your CEO\n  *\nAnother one blank\n\nSince I don't have the legal power to sign the NDA, I referred the blank one to my legal team for signature. Once they sign it, they will send it to your CEO for signature (if that works).\n\nOtherwise, I can send you the email and information of our legal representative to \"restart\" the process.\n\nBest,\n\nJuan Ignacio Bravo\n\nHead of GeoAI\n\n[A green letter and a black background  Description automatically generated]\n\nt:    +34 671674303\n\ne:   juan-ignacio.bravo@xoople.com<mailto:juan-ignacio.bravo@xoople.com>\n\nw:  www.xoople.com<http://www.xoople.com/>\n\nMake the best decisions on Earth\u2122"
+},
+{
+"id": "215943110859",
+"subject": "Re: Encord - document extraction pipelines and tooling",
+"text": "9 AM wednesday works"
+},
+{
+"id": "215943131384",
+"subject": "Re: Coffee @CVPR'25? Working w/ Synthesia & Captions",
+"text": "Hi Winnie,\n\nI am not going to CVPR this year.\n\nThanks,\nYixin"
+},
+{
+"id": "215944627407",
+"subject": "RE: [EXT] [Encord] Request for Mutual NDA and Demonstration of DevOps AI Tool",
+"text": "Micron Confidential\n\nHi James,\n\nDue to shifting priorities and the urgency of other projects, we have decided to pause changes and continue with our current tools and processes for the time being. We will revisit this discussion if needed once our existing commitments are addressed. I appreciate your understanding \u2013 Micron operates in a dynamic environment, and plans can evolve quickly.\n\nThank you,\nDiana\n[cid:image001.png@01DBD5FD.1AB82700]\nDiana Moser\nshe/her pronouns\nSR GLOBAL CATEGORY SUPPLIER MANAGER\nGlobal Indirect Procurement\nOffice +1 (208) 368-3628\ndianamoser@micron.com<mailto:dianamoser@micron.com>\n\nMicron Technology, Inc. CONFIDENTIAL: This email and any files transmitted with it are confidential and intended solely for the use of the individual/s or entity to whom they are addressed. If you have received this transmission in error, any use, reproduction or dissemination of this transmission is strictly prohibited. If you are not the intended recipient, please immediately notify the sender by reply e-mail and delete this message and its attachments, if any.\n\nThis email and any attachments contained within may contain confidential and proprietary information.\n\nMicron Confidential"
+},
+{
+"id": "215944839365",
+"subject": "Re: Encord - CVPR coffee + Happy Hour",
+"text": "Thanks Winnie\n\nMy preferred name is Abner Ayala\n\nAcevedo is my second surname.\n\n*Abner Ayala Acevedoayala.acevedo@gmail.com <ayala.acevedo@gmail.com>*"
+},
+{
+"id": "215945300195",
+"subject": "RE:  Re: Re: New role, same Alyssa - Reconnecting at Encord!",
+"text": "Friday \u2013 noon ish is perfect.\n\nThoughts there?\n\nNicholas"
+},
+{
+"id": "215953633470",
+"subject": "Re: Encord dinner",
+"text": "Hi Nick,\n\nThanks for hosting the event! It was a great night talking to other Seattle\nbased startups and also hearing more about Encord.\nAnd yes, I have some time next week to chat. Wednesday or Thursday I have\nmost of the day free.\n\nCheers,\n\n*Jack Collins*\nAI Research Scientist\nM. 206.816.4590\nE. jack@co.bot\n\nCollaborative Robotics  I  www.co.bot\n2250 W alsh Ave, Santa Clara, CA 95050"
+},
+{
+"id": "215957775605",
+"subject": "Re: Attending CVPR | quick coffee?",
+"text": "Hi Charlotte,\nHappy to meet you too, and thank you for reaching out. I\u2019ve just the invitation.\n Looking forward to learning more about your offerings and connecting at CVPR.\nSee you soon at booth #1123!\nBest regards,\n Anne Marthe Sophie Ngo Bibinbe"
+},
+{
+"id": "215970609388",
+"subject": "Re: Invite: AI Execs Dinner in Zurich Altstadt",
+"text": "Hey Shreya,\n\nthanks for the invite but im already committed somewhere else. \nSome other time hopefully. \n\nThanks anyway, \nSimon"
+},
+{
+"id": "215973414128",
+"subject": "Re: Heads of Research Dinner | CVPR'25 | 14 June",
+"text": "Thank you so much, Winnie!\n\nI would really love to come, but I'll be flying back on the 14th to be back\nin LA for my birthday on the 15th :-)\n\nI hope all is going well in your new position, and maybe see you in\nNashville a little earlier in the week!  :-D\n\nPaul"
+},
+{
+"id": "216054138090",
+"subject": "Your Friday tasks: 30 due today",
+"text": "Shreya, you have 30 tasks due today\nTask highlights \n0 to-dos \n30 calls \n0 emails \nCall contact to follow up\nFederico Wyrwal\nCall contact to follow up\nArda Duezceker\nCall contact to follow up\nDjordje Miladinovic\nView all due today\nThis email was created at 06:01 Learn more \nManage tasks on the move with the HubSpot mobile app. \nThis email was sent to shreya@encord.com because the notification Task daily digest is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Task daily digest email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216070679788",
+"subject": "Re: Appalux <> Encord",
+"text": "+Akbar\u00a0\n\nHi Steffan,\n\nIt is a pleasure speaking with you. To emphasize our renewed focus on AI-driven labeling, we\u2019ve rebranded as AARTIC AI.\n\nThank you for giving us the opportunity to join Encord's data\u2010labeling vendor pool. I\u2019ve attached our updated comprehensive Documentation Packet that includes:\n\n1. Company Profile\n\n2. Case Studies\n\n3. Standard Operating Procedures\n\n4. Process FAQs\n\nPlease let me know if Matt Tang requires any additional information. We are very excited to partner with Encord and streamline your annotation pipeline. Eagerly looking forward to the next onboarding steps.\n\nThank you,\n\nMatt\nhttps://aartic.ai/services/computer-vision/ \n\n---- On Thu, 29 May 2025 14:36:27 +0600 Matt Tilton <matt.tilton@appalux.com> wrote ---\n\nHi Steffan,\n\nYes, let's do 9:30 am BST tomorrow. Apologies for the inconvenience. Please send me the invite again. Thanks.\n\nRegards,\n\nMatt\n\n---- On Thu, 29 May 2025 14:27:06 +0600 Steffan Jones < mailto:steffan@encord.com > wrote ---\n\nHi Matt,\u00a0\n\nI can't speak now as I have a call on the half hour. Could you do 9:30am BST tomorrow?\n\nBest,\n\nSteffan"
+},
+{
+"id": "216095385848",
+"subject": "Re: Coffee w/Encord @CVPR",
+"text": "Hi Kamil,\n\nIf there is still a space, my colleague, Takeharu can also join the dinner?\n\nBest,\nShota"
+},
+{
+"id": "216335582394",
+"subject": "Re: Encord Accelerate",
+"text": "Hey Alex,\n\nGood to hear!\n\n  1.\nNot all of the data needs to be annotated year 1, but a big amount of the CT:s asap for the aortic product would be great.\n  2.\nAround 5 datasets, but this will vary and is not certain yet.\n  3.\nCompletely manually I think the annotation time is around 20 minutes per CT. With the help of our agent(after first scans), the time would be closer to 5-10 minutes and hopefully getting shorter as the model is improving.\n  4.\n The ultrasound scans are simpler to annotate, usually only static 2D pictures. Around 5-10 minutes manually, faster with agent/sam help.\n\nTalk soon!\n\nBest,\nOnni"
+},
+{
+"id": "216372532437",
+"subject": "Automatic reply: Attending CVPR | quick coffee?",
+"text": "Thank you for your email. Mark Finegan is no longer employed with iRobot. Please forward your correspondence directly to the following contact for assistance and support.\n\nPing Lu\nplu@irobot.com\n\nThank you,\niRobot Corporation\n\nThis e-mail message and any files attached may contain information that iRobot Corporation considers confidential and/or proprietary or may later designate as confidential and proprietary. If you are not the intended recipient, please contact the sender and delete the email immediately. Unauthorized use or distribution is strictly prohibited."
+},
+{
+"id": "216372551900",
+"subject": "Automatic reply: [Invite] Encord's CVPR AI Leaders Fireside Chat & Dinner - 06/14",
+"text": "Thank you for your email. Clement Wong is no longer employed with iRobot. Please forward your correspondence directly to the following contact for assistance and support.\n\nRoger Neumann\nrneumann@irobot.com\n\nThank you,\niRobot Corporation\n\nThis e-mail message and any files attached may contain information that iRobot Corporation considers confidential and/or proprietary or may later designate as confidential and proprietary. If you are not the intended recipient, please contact the sender and delete the email immediately. Unauthorized use or distribution is strictly prohibited."
+},
+{
+"id": "216390593749",
+"subject": "You've been assigned 73 Contacts",
+"text": "You've been assigned 73 Contacts\nShowing 5 out of 73 contacts: \nCONTACT \nLutz Graefe\nlutz.graefe@claas.com\nCONTACT \nIngo Kirchbeck\ningo.kirchbeck@claas.com\nCONTACT \nThiebaud Rusterholtz\nthiebaud.rusterholtz@claas.com\nCONTACT \nPierre Noyer\npierre.noyer@claas.com\nCONTACT \nXi Chen\nxi.chen@claas.com\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216406875335",
+"subject": "[Lever] Ilaria Occhiolini declined the invite for Christian Kabrich's interview",
+"text": "Ilaria Occhiolini declined the invite to Christian Kabrich's interview.\nChristian Kabrich\nHiring Manager Interview\nFri, 6/06/25 PST\nIlaria Occhiolini\n9:15 - 9:50 am PDT PST\nSuper Day\nView candidate\nUnsubscribe from these emailsChange notification settings\nlever.co (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216412563668",
+"subject": "[Lever] Leo Leclercq completed feedback about Christian Kabrich",
+"text": "Leo Leclercq completed feedback about Christian Kabrich.\nChristian Kabrich\nSuper DaySales Lead\nCandidate Owner: Dillon Carrico\n6/06/25\nOverall score\n3 - Hire\nRating\n3 - Hire\nInterview Feedback\nFrom first conversation, was quite impressed with Christian. \nPro's:\n-seems to run a positive sales organization and pointed to folks who have followed him due to this (would be good to speak to one of these) - this is important especially with way founders are @ Encord as counter balance \n-has done 5-50 journey and can learn from this \n-seems data focused & drive accountability here \n-hard working, open to starting early with uk office \"5am guy\" \nPotential concerns:\n-didn't seem to have wider strategic view of market - data focus was very much in weeds of team metrics not a broader view of market analysis etc. \nPros\nCons\nView feedback\nUnsubscribe from these emailsChange notification settings\nlever.co (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216487952617",
+"subject": "Automatic reply: [EXT] Plan for CVPR",
+"text": "Thank you for your message!\nI am currently on annual leave, returning on June 16th.\n\nBest regards, Marja-Liisa"
+},
+{
+"id": "216490207466",
+"subject": "Re: [EXTERNAL] Plan for CVPR",
+"text": "Hi Kyle,\n\nThanks so much for reaching out!\n\nMy team and I won't be attending CVPR this year.\n\nHopefully, we can connect another time.\n\nBest,\n\nMahdi Safarnejad, PhD (he/him)\n\nHead of AI & Data\n\nDigital first care and research made easy for 50,543,609 Huma(ns)\n\nFDA 510(k)\n<https://www.huma.com/resources/us-fda-510k-classii-regulatory-clearance-configurable-samd-disease-management>,\nEU/MDR Class IIb\n<https://www.huma.com/resources/huma-awarded-eu-classiib-software-as-a-medical-device>\nand Saudi FDA Class C\n<https://www.huma.com/blog-post/saudi-fda-class-c-regulatory-certification>\nclearance\n\nFunding to date $300 million\n<https://www.huma.com/press-release-series-d-launches-huma-cloud-platform-genai>"
+},
+{
+"id": "216490743995",
+"subject": "You've been assigned 18 Contacts",
+"text": "You've been assigned 18 Contacts\nShowing 5 out of 18 contacts: \nCONTACT \njoseignacio.gonzalez@intuitivo.com\nCONTACT \nNicolas P\nnico@intuitivo.ai\nCONTACT \nCarla\ncarla.virhuez@intuitivo.com\n+54 9 11 6591-4789\nCONTACT \nCarla Virhuez\ncarla.virhuez@intuitivo.ai\nCONTACT \nTomas Grosskopf\ntomas@intuitivo.com\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216497273055",
+"subject": "Re: Attending CVPR | quick coffee?",
+"text": "Hi Shreya,\n\nThanks for reaching out. Unfortunately, I won\u2019t be attending CVPR this year.\n\nHave a great time at the conference!\n\nBest,"
+},
+{
+"id": "216497420479",
+"subject": "Automatic reply: Attending CVPR | quick coffee?",
+"text": "Thank you for your email. James Gregson is no longer employed with iRobot. Please forward your correspondence directly to the following contact for assistance and support.\n\nJustin Shriver\njshriver@irobot.com\n\nThank you,\niRobot Corporation\n\nThis e-mail message and any files attached may contain information that iRobot Corporation considers confidential and/or proprietary or may later designate as confidential and proprietary. If you are not the intended recipient, please contact the sender and delete the email immediately. Unauthorized use or distribution is strictly prohibited."
+},
+{
+"id": "216498346207",
+"subject": "Re: New role, same Alyssa - Reconnecting at Encord!",
+"text": "Business Use\n\nThanks James.\n\nAlyssa,\nPlease include Prady Panigrahi (added on cc.) in our next meeting. He leads our Digital Twin work for production systems.\n\nPrady,\nThe use case below is a commercial application but it would be good to connect with those involved on the P&G side.\nSynthetic Data Generation with Neurolabs & Encord Active<https://encord.com/customers/neurolabs-customer-story/>\n\nRegards,\n\nSteve Varga\n\nPrincipal Scientist - AI/ML Systems\n\nProcter & Gamble www.pg.com<http://www.pg.com/>  (DS3-1Y9)\n\n8700 Mason-Montgomery Rd\n\nMason, OH 45040\n\n+1 513-622-4873\n\n[cid:8a272f47-23fd-497d-b38f-121f50a35eca]\n\nIndustrial Data and Analytics\n\n'If we knew what it was we were doing, it would not\n\nbe called research, would it?' - Albert Einstein\n\nContents of this transmission and all attached contents are\n\nsubject to P&G Confidentiality and Non-Disclosure agreements.\n\n[Online Booking Tool: Steve Varga<https://outlook-sdf.office.com/bookwithme/user/e7623947078f4274bfd511d3235f3114@pg.com/meetingtype/I9daDGQAWkKhdtgXgYFWTw2?anonymous&ep=mlink>]"
+},
+{
+"id": "216499097800",
+"subject": "Re: Encord <> Neurons | Invitation for Doogesh to join our next webinar",
+"text": "Hi Frederik & Annabel,\n\nThanks for the interesting chat today!\nAs requested, I have gathered some material that might be relevant for the\nslides:\n\n   - Neurons AI Tech Paper\n   - AI Tech slides\n   - Sales deck (branding material)\n   - Neurons knowledge base\n   <https://knowledge.neuronsinc.com/neurons-ai-scores-and-models>\n   (contains further information about metrics and data collection\n   methodologies)\n\nPlease let me know if you require any other information.\nHave a great weekend ahead!"
+},
+{
+"id": "216502741217",
+"subject": "RE: New role, same Alyssa - Reconnecting at Encord!",
+"text": "Business Use\n\nThanks Steve for looping me in - & Hello all - I am Prady - looking forward to connecting with you... will check out the videos...\n\nThank You!\n\nPrady\nPradeepta Panigrahi (He/Him)\n\nSenior Engineer | PS - P&E\niDNA - Vision, AI & Digital Twins\nP&G Gillette | South Boston\n\n[cid:image001.png@01DBD6C4.E171B060]"
+},
+{
+"id": "216511027405",
+"subject": "Re: Heads of Research Dinner @CVPR 2025 | 14 June",
+"text": "Thanks for the invite. This sounds like a really interesting event.\nUnfortunately this is at the same time as when Aurora is hosting a small\nevent so I will not be able to make it."
+},
+{
+"id": "216521938135",
+"subject": "Re: Encord // Path Robotics Catch Up",
+"text": "Hey Skander,\n\nSorry to delay things again. I think it would be best to postpone until the\nend of July.\nWe are too busy wrapping up H1 and waiting until July will give us a better\nidea of what perception projects are on the roadmap and what our annotation\nneeds across teams might be.\nAgain, we are mainly interested in 3D annotation of point clouds,\nsegmentation of images, and labeling quantitative features of images (like\nselecting specific points, measurements between features, etc.)\nTruthfully, we are currently looking to change our labeling platform,\nhowever I do think it's good to stay in the know of what other platforms\noffer in case the need arises.\n\nBest,\nChris"
+},
+{
+"id": "216546962623",
+"subject": "Re: Visilant & Encord | Next steps",
+"text": "Friday is best for me because I'll be back in the U.S. Nakul if that\ndoesn't work for you, I'm fine if you take this call on your own. From my\nstandpoint, my requirements are that we can move image data securely from\nAzure and get labels in a standard way. If it does those 2 things, I defer\nto your judgement on a UI to make labelling easy for doctors.\n\nBest regards,\nJordan"
+},
+{
+"id": "216549928129",
+"subject": "Re: Encord",
+"text": "Hey Jamie. No real update on our end, so we should postpone. I don't think\nit makes sense to keep something on the books at this time. We'll reach\nback out once we start developing momentum on this project. Sound good?\n\n*Alex Hassan*\n\n*Vice President, Product*\n\nMendaera, Inc.\n\n(M) 734-478-2573"
+},
+{
+"id": "216564001986",
+"subject": "Re: Quick Question",
+"text": "Hi Jamie,\n\nThank you for the recording.\n\nBryan confirmed with me that he is able to attend our meeting on Monday. He\nalso would like to know about pricing and trials during our meeting.\n\nWe are looking forward to the meeting on Monday.\n[image: Engrain] Taylor Naiman\nTechnical Content Writer, Customer support\nEngrain.com <https://engrain.com/>"
+},
+{
+"id": "216566503658",
+"subject": "Re: Encord/H Company - Agentic Annotation Demonstration",
+"text": "Hello Alex,\n\nThank you for your email!\n\nWe've re-assessed our annotation needs and will not be needing them for the\ntime being. We might be interested in such services further down the line,\nbut it won't be the case for the next few months.\n\nThank you for taking the time to walk us through your platform and your\nsolutions.\n\nBest,\nMarc Thibault"
+},
+{
+"id": "216570139887",
+"subject": "New comments on the contact \"Ali Sheikhshab Ali\"",
+"text": "Laura M. left a comment on a note on the contact Ali Sheikhshab Ali\nNew comment on this activity\nLaura M. \u2022 Fri, 6 Jun 2025 17:00\nNEW \nthe person changed jobs and now is no longer with our client\nView comment\nThis email was sent to dillon@encord.com because the notification Comments on activity you're involved in is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Comments on activity you're involved in email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216570823901",
+"subject": "Automatische Antwort: [EXTERNAL] [Invite] Encord's CVPR AI Leaders Fireside Chat & Dinner - 06/14",
+"text": "Sehr geehrte Damen und Herren,\n\nvielen Dank f\u00fcr Ihre Nachricht.\nDerzeit kann ich nicht umgehend auf Ihre Nachricht reagieren. Ab dem 23.06.2025 werde ich dies gerne nachholen. Da Ihre E-Mail nicht weitergeleitet wird, k\u00f6nnen Sie sich gerne an meine Kolleginnen und Kollegen wenden. Als Ansprechpartner steht Ihnen Herr Dr. Walter Linzenbold (walter.linzenbold@erbe-med.com) und Herr Yannick Daniel (yannick.daniel@erbe-med.com) zur Verf\u00fcgung.\n\nFreundliche Gr\u00fc\u00dfe\n\ni.A. Marc R\u00f6ttig\nAbteilung Basic Technologies, Teamlead Computervision & Data Science\n\nKontakt: Tel +49 7071 755-0, marc.roettig@erbe-med.com\nErbe Elektromedizin GmbH, Waldh\u00f6rnlestra\u00dfe 17, 72072 T\u00fcbingen, Deutschland\n\nBe green, keep it on the screen.  social responsibility.\n\nEnglisch:\n\nDear Sir or Madam,\n\nThank you for your email.\nAt present I cannot respond immediately to your message. I will respond after 22th of June 2025.\nAs your email will not be forwarded, feel free to contact one of my colleagues.  Dr. Walter Linzenbold (walter.linzenbold@erbe-med.com) and  Yannick Daniel (yannick.daniel@erbe-med.com) are available as a point of contact.\n\nKind regards\n\nMarc R\u00f6ttig\nDepartment Basic Technolgies, Teamlead Computervision & Data Science\n\nContact me: Phone +49 7071 755-0, marc.roettig@erbe-med.com\nErbe Elektromedizin GmbH, Waldhoernlestrasse 17, 72072 Tuebingen, Germany\n\nBe green, keep it on the screen.  social responsibility."
+},
+{
+"id": "216585243857",
+"subject": "Re: Heads of AI Research Dinner | CVPR'25 | 14 June",
+"text": "Sure, no problem.\n[image: Intrinsic]\n*Kartik Venkataraman**Director, Head of Perception (R&D), Intrinsic*\nkartikvp@intrinsic.ai | intrinsic.ai\n\nThis email may be confidential or privileged. If you received this\ncommunication by mistake, please don't forward it to anyone else, please\nerase all copies and attachments, and please let me know that it went to\nthe wrong person. Thank you."
+},
+{
+"id": "216589534448",
+"subject": "Re: Thank you from Ulrik @ Encord",
+"text": "Hi Ulrik, Dillon: Thank you for inviting me to be part of this esteemed group. I thoroughly enjoyed the conversation and the cuisine. Great hosts and a wonderful dinner!\n\nBest regards,\n\nShriram\u00a0\n\nGet Outlook for iOS"
+},
+{
+"id": "216592395480",
+"subject": "Re: Coffee w/Encord @CVPR",
+"text": "Hi, Kamil\nThank you for inviting us to your dinner at CVPR2025.\n\nI don't have any dietary restriction. Thank you for asking.\nLooking forward to seeing you soon.\n\nBest,\nTakeharu\n\n--------------------------------------------------------------\n\u3000\u6797\u3000\u5cb3\u6674 (Takeharu HAYASHI)\u3000\n\u3000\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e\u3000\u30b3\u30cd\u30af\u30c6\u30a3\u30c3\u30c9\u30ab\u30f3\u30d1\u30cb\u30fc\n\u3000\u30b3\u30cd\u30af\u30c6\u30a3\u30c3\u30c9\u5148\u884c\u958b\u767a\u90e8 InfoTech\n\u3000\u3012100-0004 \u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u5927\u624b\u753a1-6-1 \u5927\u624b\u753a\u30d3\u30eb6F\n\u3000e-mail\uff1atakeharu_hayashi_ab@mail.toyota.co.jp\n--------------------------------------------------------------\n\u672c\u30e1\u30fc\u30eb\u30fb\u6dfb\u4ed8\u8cc7\u6599\u306b\u6a5f\u5bc6\u4e8b\u9805\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002\u3000\n\u53d6\u6271\u3044\u306b\u306f\u5341\u5206\u3054\u914d\u616e\u9802\u304f\u3068\u5171\u306b\u3001\u8ee2\u9001\u30fb\u6d41\u7528\u306f\u3054\u9060\u616e\u304f\u3060\u3055\u3044\u3002\u3000\nThis e-mail and any attachments are confidential information.\nPlease handle with care, and do not transfer or copy the mail or the attachments."
+},
+{
+"id": "216594205921",
+"subject": "Re: [Invite] Encord's CVPR AI Leaders Fireside Chat & Dinner - 06/14",
+"text": "Hi Charlotte\n\nThank you so much for your follow up, and I am really sorry for late\nresponse was supper busy week.\n\nUnfortunately I will not attend CVPR this year. If you have similar event\nplease let me know.\n\nBest Regards\n\nMoneer Alitto | Co-founder & CTO | IDWise\nCompany Website:  www.idwise.com\nMobile / WhatsApp : +44 7478 475 430\nSocial Media:  IDWise on LinkedIn\n<https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8c838TW1VK1yV59hl3kW7_k2841CXdp3VQ0pvS1GTVgyW2dykg77Nx7Y7101?te=W3R5hFj4cm2zwW4mKLS-3ZWVWBW3K2-zv1JxwY5W1Lw3rh45LM6yF1Lyyk5Pd3L1&si=8000000006138315&pi=a5dbb30e-ce13-4351-f66c-cef2ecccfdb5>\n\n*IDWise Ltd is registered* in England and Wales No: 13096460\n*Registered Office Address*: 71-75 Shelton St, Covent Garden, London WC2H\n9JQ\nIDWise\u00ae is a registered trademark of IDWise Ltd, in the UK (UK00003572612)\nand the EU (018511041)\n*UK VAT Registration No:* GB382274094\n*(ICO) Registration*: ZB182501 (Information Commissioner Office - UK Data\nProtection Regulator)\n\nOn Fri, 6 Jun 2025 at 18:15, Charlotte Decaudaveine <charlotte@encord.com>\nwrote:"
+},
+{
+"id": "216619928781",
+"subject": "Re: Thank you from Ulrik @ Encord",
+"text": "Yes, thank you to Ulrik and Dillon, and all the guests for a very interesting and enjoyable evening.\n\nGavin."
+},
+{
+"id": "216641992895",
+"subject": "You have been made the Inbound BDR Owner of the contact \"aryaman@comulate.com\"",
+"text": "You have been made the Inbound BDR Owner of the contact \"aryaman@comulate.com\"\nCONTACT \naryaman@comulate.com\nView Contact\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "216659265766",
+"subject": "Re: Plan for CVPR",
+"text": "Hi Kyle,\n\nSorry for the late reply.\n\nUnfortunately, I won\u2019t be attending CVPR this year.\nMay I ask if this message was intended as a personal follow-up or directed\nto Nota Inc. as a whole?\nIf it\u2019s the latter, I\u2019d be happy to forward it to the relevant colleagues\nfor further contact.\n\nWishing you a great time at the event and safe travels!\n\nBest regards,\nKyunghwan\n\nOn Thu, Jun 5, 2025 at 9:03\u202fPM Kyle McCarthy <kyle.mccarthy@encord.ai>\nwrote:\n\n-- \n\nKyung Hwan Shim\n\nNota Inc. l AI Research Engineer / NetsPresso Core Research l +82 10 3413\n3213 l nota ai <http://www.nota.ai/>\n\nSeoul Office / Research Institute : 16F Parnas Tower, 521, Teheran-ro,\nGangnam-gu, Seoul, Republic of Korea\n\nDisclaimer: This e-mail message and its attachments contain information\nthat may be privileged or confidential and is the property of Nota Inc.\nThis message is only intended for the person to whom it is addressed;\ntherefore, if you are not the intended recipient, please note that you are\nnot authorized to read, print, retain, copy, disseminate, distribute, or\nuse this message or any part thereof. If you received this message in\nerror, please notify the sender immediately and delete this message.\n\n\ubcf8 \uba54\uc2dc\uc9c0\uc640 \ucca8\ubd80\ud30c\uc77c\uc5d0\ub294 \uc8fc\uc2dd\ud68c\uc0ac \ub178\ud0c0\uc758 \uae30\ubc00\uc815\ubcf4\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \uba54\uc2dc\uc9c0\ub294 \uc624\uc9c1 \uc218\uc2e0\uc790 \uc815\ubcf4\uc640 \uc77c\uce58\ud558\ub294 \ub300\uc0c1\uc744 \uc704\ud55c \uac83\uc785\ub2c8\ub2e4.\n\ub9cc\uc57d \uc218\uc2e0\uc790\uc5d0 \ud574\ub2f9\ud558\uc9c0 \uc54a\uc73c\uba74 \uba54\uc2dc\uc9c0 \ub610\ub294 \uadf8 \uc77c\ubd80\ub97c \uc77d\uace0, \uc778\uc1c4\ud558\uace0, \uc18c\uc9c0\ud558\uace0, \ubcf5\uc0ac\ud574\uc11c \ud37c\ud2b8\ub9ac\ub294 \uac83\uc744 \uae08\uc9c0\ud574 \uc8fc\uc2ed\uc2dc\uc624. \uc774 \uba54\uc2dc\uc9c0\ub97c\n\ubc1b\uace0 \uc218\uc2e0\uc790\uac00 \uc798\ubabb\ub41c \uac83\uc744 \ud30c\uc545\ud588\ub2e4\uba74, \uc989\uc2dc \ubc1c\uc2e0\uc790\uc5d0\uac8c \uc54c\ub9ac\uace0 \ubaa8\ub4e0 \ub0b4\uc6a9\uacfc \ucca8\ubd80\ubb3c\uc744 \uc0ad\uc81c\ud574 \uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4."
+},
+{
+"id": "216818293986",
+"subject": "Re: Encord",
+"text": "Hi Winnie, Nick,\n\nThank you for the invite to the executive dinner on Saturday, June 14th.\nUnfortunately, I have a flight back that day. I\u2019ll be at CVPR during the\nweek and would be glad to connect beforehand if possible.\n\nBest,\nUgur"
+},
+{
+"id": "217531381956",
+"subject": "Re: [EXTERNAL] Re: Thank you from Ulrik @ Encord",
+"text": "Plus one to all of this. Hard to beat a great dinner with such esteemed company discussing one of the hottest topics of our lifetime. I personally learned a lot and would love to stay in touch and pick your\n collective brains as we go down this AI journey.\n\nThanks Ulrik and Dillon!\n\nFrom:\nGavin Miller <gmiller@adobe.com>\n\nDate: Friday, June 6, 2025 at 4:00\u202fPM\n\nTo: \"Revankar, Shriram\" <Shriram.Revankar@dolby.com>, Dillon Carrico <dillon@encord.com>, Sebastian Thrun <sthrun@gmail.com>, \"linux4ritwik@gmail.com\" <linux4ritwik@gmail.com>, \"dhruv@yutori.ai\" <dhruv@yutori.ai>, \"ivan.poupyrev@archetypeai.team\" <ivan.poupyrev@archetypeai.team>,\n \"stefan@nauto.com\" <stefan@nauto.com>, \"Baggelaar, Bill\" <Bill.Baggelaar@dolby.com>, \"hui@humain.ai\" <hui@humain.ai>, Anantha Kancherla <anantha.kancherla@gm.com>, \"chenli@wndrco.com\" <chenli@wndrco.com>\n\nCc: Ulrik Hansen <ulrik@encord.com>\n\nSubject: [EXTERNAL] Re: Thank you from Ulrik @ Encord\n\nATTENTION:This email originated from outside\n of GM.\n\nYes, thank you to Ulrik and Dillon, and all the guests for a very interesting and enjoyable evening.\n\nGavin.\n\nFrom:\nRevankar, Shriram <Shriram.Revankar@dolby.com>\n\nDate: Friday, June 6, 2025 at 12:00\u202fPM\n\nTo: Dillon Carrico <dillon@encord.com>, Sebastian Thrun <sthrun@gmail.com>, Gavin Miller <gmiller@adobe.com>, linux4ritwik@gmail.com <linux4ritwik@gmail.com>, dhruv@yutori.ai <dhruv@yutori.ai>, ivan.poupyrev@archetypeai.team <ivan.poupyrev@archetypeai.team>,\n stefan@nauto.com <stefan@nauto.com>, Baggelaar, Bill <Bill.Baggelaar@dolby.com>, hui@humain.ai <hui@humain.ai>, anantha.kancherla@gm.com <anantha.kancherla@gm.com>, chenli@wndrco.com <chenli@wndrco.com>\n\nCc: Ulrik Hansen <ulrik@encord.com>\n\nSubject: Re: Thank you from Ulrik @ Encord\n\nEXTERNAL: Use caution when clicking on links or opening attachments.\n\nHi Ulrik, Dillon: Thank you for inviting me to be part of this esteemed group. I thoroughly enjoyed the conversation and the cuisine. Great hosts and a wonderful dinner!\n\nBest regards,\n"
+},
+{
+"id": "217544046782",
+"subject": "Re: [EXTERNAL] Hi from Ulrik @ Encord",
+"text": "Hey Ulrik, It was great running into you and thank you for having me over at Encord AI Dinner!\n\nYes, lets catch up!\n\nFrom:\nUlrik Hansen <ulrik@encord.com>\n\nDate: Friday, June 6, 2025 at 12:32\u202fPM\n\nTo: Anantha Kancherla <anantha.kancherla@gm.com>\n\nCc: Dillon Carrico <dillon@encord.com>\n\nSubject: [EXTERNAL] Hi from Ulrik @ Encord\n\nATTENTION:This email originated from outside\n of GM.\n\nHi Anantha,\n\nI hope you\u2019re doing well.\n\nThanks again for joining the dinner last night \u2014 it was a pleasure meeting you!\n\nSmall world with Luc - we\u2019ve been working with him since our seed round in 2021. Coincidentally we\u2019re now also supporting Woven on their ADAS stack, helping with data management, indexing, visualization, and curation through our platform.\n\nWe\u2019re continuing to evolve the platform to better serve use cases like yours, and I\u2019d love to learn more about the challenges you're tackling and how you're thinking about the future.\n\nLet me know if you'd be open to catching up.\n\nCheers,\n\nUlrik\n\nCord Technologies. Inc (dba. Encord)\n\n2261 Market St. #4217\n\nSan Francisco, CA 94114, United States of America\n\nThis email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error,\n please notify the sender immediately by replying to this email and delete it from your system. Please do not copy, distribute, or take action based on the contents of this email if you are not the intended recipient. Any unauthorized use or disclosure of this\n email's contents is strictly prohibited.\n\nThis email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they\n are addressed. If you have received this email in error, please notify the sender immediately by replying to this email and delete it from your system. Please do not copy, distribute, or take action based on the contents of this email if you are not the intended\n "
+},
+{
+"id": "217714394359",
+"subject": "RE: Controp-Encord questions",
+"text": "Hi Seif Thanks for your answers,\nCould you please then make tomerg@point-ai.com<mailto:tomerg@point-ai.com> an internal user but not an administrator.\nAs for the issue of seeing analytics, I think having annotators/reviewers unable to see analytics is perfect for us, we will just give them the analytics that pertain to their work.\nThanks,\n\n[image002.gif]\nItamar Aron\nData & ML Engineer\n\nDirect: +972-9-769-8227<tel:+972-9-769-8227>\nMobile: 052-5970058<tel:052-5970058>\nwww.controp.com<http://www.controp.com/>\n\n[followus.PNG]<https://www.linkedin.com/company/controp-precision-technology-ltd./?viewAsMember=true>"
+},
+{
+"id": "218028313825",
+"subject": "Your  export \"Mine\" has been delivered",
+"text": "Your export \"Mine\" has been delivered\nExport Type\nVIEW\nExport Name\nMine\nRecords Exported\n260\nDate\n06/08/2025 04:24 PM\nThis download link will expire in 30 days.\nDownload\nThis email was sent to shreya@encord.com because email notifications are turned on in your account. \nDo you want to change your email preferences? \nGo to your notification preferences \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218117343480",
+"subject": "You've been assigned 3 Contacts",
+"text": "You've been assigned 3 Contacts\nShowing 3 out of 3 contacts: \nCONTACT \nChris Keenan\nchris.keenan@clearview-intelligence.com\nCONTACT \nChris Barnes\nchris.barnes@clearview-intelligence.com\nCONTACT \nAndre Gaio\nandre.gaio@tekever.com\n+447521405031\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218200423657",
+"subject": "Contact reconversion by submitting on HubSpot Form \"Single Email Form\"",
+"text": "Contact reconversion by submitting on HubSpot Form \"Single Email Form\"\nSubmitted through API on page: /video/\nemail:\nkcleary@childrensnational.org\nView in HubSpot\nCONTACT \nKevin Cleary\nCOMPANY \nChildren's National Hospital\n+1 888-884-2327\nRevenue:1000000000\nCompany size:10000\nIndustry:Hospital & Health Care\nLocation:Washington, DC\nThis email was sent to dillon@encord.com because the notification Form submission is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Form submission email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218236076265",
+"subject": "Your  export \"All contacts\" has been delivered",
+"text": "Your export \"All contacts\" has been delivered\nExport Type\nVIEW\nExport Name\nAll contacts\nRecords Exported\n39\nDate\n06/08/2025 09:17 PM\nThis download link will expire in 30 days.\nDownload\nThis email was sent to shreya@encord.com because email notifications are turned on in your account. \nDo you want to change your email preferences? \nGo to your notification preferences \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218323706054",
+"subject": "You've been assigned 2 Contacts",
+"text": "You've been assigned 2 Contacts\nShowing 2 out of 2 contacts: \nCONTACT \nSudhir Suman\nsudhir.suman@akridata.com\nCONTACT \nTroy Hartter\ntroy.hartter@akridata.com\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218390633678",
+"subject": "Re: Hi from Ulrik @ Encord",
+"text": "Vlada can coordinate a call for us and include our BD and AI leads. Vlada let\u2019s shoot for 30 next week given how much is going on this coming week.\u00a0\n\nStefan Heck\n\nCEO & Founder"
+},
+{
+"id": "218754192627",
+"subject": "Your Monday tasks: 21 due today",
+"text": "Shreya, you have 21 tasks due today\nTask highlights \n0 to-dos \n21 calls \n0 emails \nCall contact to follow up\nVaibhav Sawhney\nCall contact to follow up\nRonny Panier\nCall contact to follow up\nHagen Muenkler\nView all due today\nThis email was created at 06:01 Learn more \nManage tasks on the move with the HubSpot mobile app. \nThis email was sent to shreya@encord.com because the notification Task daily digest is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Task daily digest email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218768905429",
+"subject": "Re: AI Execs Dinner @ CVPR with former Meta VP of AI",
+"text": "Not in the US , so I can't join."
+},
+{
+"id": "218769886443",
+"subject": "RE: Follow-up: Encord <> Datalogic Trial Alignment",
+"text": "Hi Alex,\n\nJust a couple of questions:\n\nIn case after the first three years we need to switch to another tool, is it possible to export the whole Datalogic\u2019s Encord database ? In which format ?\n\nHow do we link metadata and images in practice ? (The latter stored in our blob storage)\n\nI suppose the Encord backend is managing a portion of Datalogic\u2019s blob storage for the purpose of storing images, probably through an S3 interface.\nFor example, in case a user has images + metadata to upload I figure he does so using the UI and that the system takes care of routing the images to our blob store + create linked metadatas \u2013 is my picture right ?\nIs there a way to create metadata for a set of images already residing on the blob storage ?\nIs there a way to bulk-load images or change a metadata field for many images at once ?\n\nRegards\n\nMaurizio\n\nDatalogic INTERNAL"
+},
+{
+"id": "218770917579",
+"subject": "Re: Plan for GTC - or if you're in the city? 11/12.06",
+"text": "Hi Shreya,\n\nI won\u2019t be attending VivaTech myself, but my manager, Alexey Salmin, will\nbe speaking at the AWS Theater on Thursday, June 12 at 4:30 PM.\n\nFeel free to connect with him during the event if you're around \u2014 I\u2019m sure\nhe\u2019d be happy to chat.\n\nBest,\nHugo"
+},
+{
+"id": "218771168483",
+"subject": "You have been made the Company owner of the company \"PromoCat\"",
+"text": "You have been made the Company owner of the company \"PromoCat\"\nCOMPANY \nPromoCat\n+31 50 210 2810\nView Company\nThis email was sent to shreya@encord.com because the notification Company assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Company assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218771714262",
+"subject": "You have been made the [Deprecate] CA Contact Owner of the contact \"Jannik Wirtz\"",
+"text": "You have been made the [Deprecate] CA Contact Owner of the contact \"Jannik Wirtz\"\nCONTACT \nJannik Wirtz\njannik.wirtz@caterra.org\nView Contact\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218772712677",
+"subject": "You've been assigned 13 Contacts",
+"text": "You've been assigned 13 Contacts\nShowing 5 out of 13 contacts: \nCONTACT \nBjorn Van Den Akker\nbjorn@klippa.com\n+44 330 828 0642\nCONTACT \nMiruna Pop\nmiruna@klippa.com\n+44 330 828 0642\nCONTACT \nYeelen Knegtering\nyeelen@klippa.com\n+44 330 828 0642\nCONTACT \nJeroen Kant\njeroenkant@klippa.com\n+44 330 828 0642\nCONTACT \nLucas Bos\nlucas@klippa.com\n+44 330 828 0642\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218772915415",
+"subject": "You've been assigned 2 Contacts",
+"text": "You've been assigned 2 Contacts\nShowing 2 out of 2 contacts: \nCONTACT \nEthan Ngam\nethan@spaitial.ai\nCONTACT \nKatja Schwarz\nkatja@spaitial.ai\nView in HubSpot\nThis email was sent to shreya@encord.com because the notification Contact assigned to you is turned on in the account encord.com (Hub ID: 25381551) \nDo you want to stop receiving these emails? \nTurn off Contact assigned to you email notifications. \nHubSpot, Inc.\n2 Canal Park\nCambridge, MA 02141 (Some rich styles were removed because this email is too large)"
+},
+{
+"id": "218773289208",
+"subject": "Re: Catch-up tomorrow",
+"text": "Hi James,\n\nThanks for checking! there hasn't been any significant change on our side.\n\nI think its best if we move this even further down the year, sorry\nabout that.\n\nBest,\n\nJaime\n\n*Jaime Pulido Fentanes, Ph.D *| HEAD OF SOFTWARE SOLUTIONS\nSAGA ROBOTICS LTD // THORVALD\nGTech Building, Firth Road\nLincoln LN6 7AA\n\n website <http://www.sagarobotics.com/> | facebook\n<https://www.facebook.com/sagarobotics/?fref=ts> | youtube\n<https://www.youtube.com/channel/UCx2QEQ_b4IC2XeM_8FLB7Vw> | map\n<https://maps.app.goo.gl/iJ2uw386pFG4gz1P9>"
+},
+{
+"id": "218779949266",
+"subject": "Re: Encord/Flipkart Trial Kick Off",
+"text": "Hi Alex,\n\nChecked with the team, there are no major queries for today\u2019s discussion.\n\nRegards,\nNithin Chandran\n\nOn Mon, 9 Jun 2025 at 1:26\u202fPM, Alex Winstone <alex.winstone@encord.com>\nwrote:\n\n-- \n\n*-----------------------------------------------------------------------------------------*\n\n*This email and any files transmitted with it are confidential and \nintended solely for the use of the individual or entity to whom they are \naddressed. If you have received this email in error, please notify the \nsystem manager. This message contains confidential information and is \nintended only for the individual named. If you are not the named addressee, \nyou should not disseminate, distribute or copy this email. Please notify \nthe sender immediately by email if you have received this email by mistake \nand delete this email from your system. If you are not the intended \nrecipient, you are notified that disclosing, copying, distributing or \ntaking any action in reliance on the contents of this information is \nstrictly prohibited.*****\n\n\u00a0****\n\n*Any views or opinions presented in this \nemail are solely those of the author and do not necessarily represent those \nof the organization. Any information on shares, debentures or similar \ninstruments, recommended product pricing, valuations and the like are for \ninformation purposes only. It is not meant to be an instruction or \nrecommendation, as the case may be, to buy or to sell securities, products, \nservices nor an offer to buy or sell securities, products or services \nunless specifically stated to be so on behalf of the Flipkart group. \nEmployees of\u00a0the Flipkart group of companies are expressly required not to \nmake defamatory statements and not to infringe or authorise any \ninfringement of copyright or any other legal right by email communications. \nAny such communication is contrary to organizational policy and outside the \nscope of the employment of the individual concerned. The organization will \nnot accept any liability in respe"
+},
+{
+"id": "218779993279",
+"subject": "Re: Got 15 mins today?",
+"text": "Hi James,\n\nSorry for the delay on this, just back from a few days off and working through a backlog. I'll get back to you on this later today. Email will be easier today.\n\nThanks,\nMatt"
+},
+{
+"id": "218811612378",
+"subject": "RE: Will BAE be at CVPR this year?",
+"text": "This email may contain proprietary information of BAE Systems and/or third parties.\n\nHi James,\n\nApologies for the delayed reply; last week was a bit hectic.\n\nUnfortunately none of the team will be at CVPR this year; we were unable to fit it in both time and budget wise.\n\nRegards,\n\nDr Jake Deane\nResearch Scientist \u2013 Computer Vision\nDigital Intelligence\n\nM:  +443300484840\nNotice of Planned Leave:"
+}
+]

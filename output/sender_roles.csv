@@ -1,0 +1,68 @@
+sender_local,verdict,confidence,style,modal_title,team_ca,n_openers_G30,analysis_role,ca_class
+thao,marketing_or_growth,high,templated_blast,Growth,False,10304,marketing_or_growth,not_ca
+winnie,ca_like_outbound_rep,high,one_to_one_pitch,"Partnership Lead (also ""ML Data Ops @ Encord"", ""Physical AI ",False,2703,ca_like_outbound_rep,fallback_ca
+annabel,marketing_or_growth,high,event_invite_blast,Content Manager,False,2308,marketing_or_growth,not_ca
+james.sutton,marketing_or_growth,high,templated_blast,"Growth at Encord (one email also shows ""AI/ML Ops"")",False,1561,marketing_or_growth,not_ca
+laura.zhu,ca_like_outbound_rep,high,one_to_one_pitch,AI/ML Partnerships,True,1551,ca_like_outbound_rep,confirmed_ca
+james.golby,ca_like_outbound_rep,high,mixed,"Partnerships (also ""AI // ML // Computer Vision / Multimodal",True,1342,ca_like_outbound_rep,confirmed_ca
+james.sweeney,ca_like_outbound_rep,high,one_to_one_pitch,Partnerships Manager @ Encord / Technical PM @ Encord (also ,True,1286,ca_like_outbound_rep,confirmed_ca
+skander,ca_like_outbound_rep,high,one_to_one_pitch,AI // ML // Computer Vision @ Encord (Harvard | Columbia),False,1271,ca_like_outbound_rep,fallback_ca
+carl,marketing_or_growth,high,event_invite_blast,"none seen (signature is just ""Carl Bager"" with contact block",False,1268,marketing_or_growth,not_ca
+chloe,marketing_or_growth,high,event_invite_blast,none seen,False,978,marketing_or_growth,not_ca
+charlotte,ca_like_outbound_rep,high,one_to_one_pitch,"Technical Project Lead (also Partnerships Manager, Commercia",False,864,ca_like_outbound_rep,fallback_ca
+george.bf,marketing_or_growth,high,event_invite_blast,Senior Growth Manager,False,774,marketing_or_growth,not_ca
+shreya,ca_like_outbound_rep,high,mixed,Computer Vision/Machine Learning | Encord/Oxford,False,737,ca_like_outbound_rep,fallback_ca
+frederik,marketing_or_growth,high,templated_blast,ML Lead,False,621,marketing_or_growth,not_ca
+jamie,ca_like_outbound_rep,high,mixed,none seen (signature is name + company address only),False,600,ca_like_outbound_rep,fallback_ca
+rose,marketing_or_growth,high,event_invite_blast,Growth @ Encord,False,585,marketing_or_growth,not_ca
+sara,ca_like_outbound_rep,medium,templated_blast,"Manager (also ""AI/ML Ops"" cover line in two emails)",False,498,ca_like_outbound_rep,fallback_ca
+kat,ca_like_outbound_rep,high,one_to_one_pitch,"AI // ML (also ""Medical AI @"" once)",True,464,ca_like_outbound_rep,confirmed_ca
+alex.winstone,post_sales,high,customer_success_or_account_mgmt,Account Director,False,464,post_sales,not_ca
+leo,leadership,high,mixed,Head of Sales (later Vice President of Sales),True,429,leadership,not_ca
+kamil,ca_like_outbound_rep,high,one_to_one_pitch,Commercial Associate - Team Lead (also Commercial Lead / Com,True,387,ca_like_outbound_rep,confirmed_ca
+albira,marketing_or_growth,high,templated_blast,"AI/ML Ops (also ""AI Content Strategist"" in signature block)",False,363,marketing_or_growth,not_ca
+adithya,ca_like_outbound_rep,high,one_to_one_pitch,GTM | AI/ML (Adi Ramesh),False,356,ca_like_outbound_rep,fallback_ca
+steffan,leadership,medium,mixed,Director of Partnerships,False,332,leadership,not_ca
+yianni,ca_like_outbound_rep,high,templated_blast,AI // ML // Computer Vision,True,289,ca_like_outbound_rep,confirmed_ca
+nick.mesic,post_sales,high,mixed,Senior Account Executive,False,285,post_sales,not_ca
+kyle,ca_like_outbound_rep,high,mixed,GTM — AI / ML / Computer Vision,False,281,ca_like_outbound_rep,fallback_ca
+shivant,post_sales,high,customer_success_or_account_mgmt,Strategic Account Manager (one older email: Technical Custom,True,281,post_sales,not_ca
+andrew,ca_like_outbound_rep,high,one_to_one_pitch,AI / ML / Computer Vision,True,277,ca_like_outbound_rep,confirmed_ca
+nick,leadership,high,mixed,Head of US / Director / Head of Physical AI (Nick Rajpal),True,274,leadership,not_ca
+payom,ca_like_outbound_rep,high,mixed,"Commercial Associate (alternating with ""US GTM"")",False,228,ca_like_outbound_rep,fallback_ca
+seif,post_sales,high,customer_success_or_account_mgmt,Senior Customer Success Manager,False,226,post_sales,not_ca
+colin,ca_like_outbound_rep,medium,mixed,Account Executive,True,215,ca_like_outbound_rep,confirmed_ca
+moritz,ca_like_outbound_rep,high,one_to_one_pitch,Physical AI & Robotics,True,215,ca_like_outbound_rep,confirmed_ca
+nicolaj.peters,marketing_or_growth,medium,templated_blast,Growth Strategy Operations Analyst (body sign-off cover titl,False,203,marketing_or_growth,not_ca
+james.watson,ca_like_outbound_rep,medium,one_to_one_pitch,GTM,True,189,ca_like_outbound_rep,confirmed_ca
+alyssa,post_sales,high,customer_success_or_account_mgmt,Account Manager,True,183,post_sales,not_ca
+arisha,post_sales,high,customer_success_or_account_mgmt,Customer Success Manager,True,179,post_sales,not_ca
+joe.turner,ca_like_outbound_rep,high,one_to_one_pitch,AI / ML / Computer Vision,True,178,ca_like_outbound_rep,confirmed_ca
+william,post_sales,medium,mixed,"none seen (signature is name + company address only, no role",True,172,post_sales,not_ca
+hugo,ca_like_outbound_rep,high,one_to_one_pitch,ML Technical Partnerships,True,171,ca_like_outbound_rep,confirmed_ca
+callum,ca_like_outbound_rep,high,one_to_one_pitch,AI / ML,False,167,ca_like_outbound_rep,fallback_ca
+stewart,ca_like_outbound_rep,high,one_to_one_pitch,GTM - Physical AI,True,162,ca_like_outbound_rep,confirmed_ca
+tom.kennedy,marketing_or_growth,high,event_invite_blast,"Growth Associate (body sign-off sometimes ""AI/ML Ops"")",False,156,marketing_or_growth,not_ca
+sofia,marketing_or_growth,high,event_invite_blast,"none seen (signs as ""Sofia from Encord"", no title)",False,156,marketing_or_growth,not_ca
+yuvi,ca_like_outbound_rep,high,one_to_one_pitch,"Technical PM (also ""Commercial Associate"" and ""PM"" in some s",True,155,ca_like_outbound_rep,confirmed_ca
+rachel,ca_like_outbound_rep,high,one_to_one_pitch,Physical AI @ Encord,False,143,ca_like_outbound_rep,fallback_ca
+gauri,ca_like_outbound_rep,high,one_to_one_pitch,ML Partnerships,True,142,ca_like_outbound_rep,confirmed_ca
+tim,ca_like_outbound_rep,high,one_to_one_pitch,Enabling Computer Vision & Multimodal AI Teams (Tim Kovoor),False,135,ca_like_outbound_rep,fallback_ca
+ria,ca_like_outbound_rep,high,one_to_one_pitch,"Technical PM (5 of 7 signatures; also ""Commercial Associate""",True,123,ca_like_outbound_rep,confirmed_ca
+kevin,post_sales,medium,mixed,"Director, Partnerships",False,86,post_sales,not_ca
+nick.aguilar,ca_like_outbound_rep,high,mixed,Commercial Associate,False,77,ca_like_outbound_rep,fallback_ca
+diego,ca_like_outbound_rep,high,one_to_one_pitch,Commercial Associate,True,72,ca_like_outbound_rep,confirmed_ca
+sachit,ca_like_outbound_rep,high,one_to_one_pitch,"Commercial Associate (also ""Physical AI PM"" / ""Technical PM""",True,64,ca_like_outbound_rep,confirmed_ca
+katie,ca_like_outbound_rep,high,one_to_one_pitch,AI // ML // Computer Vision,True,61,ca_like_outbound_rep,confirmed_ca
+tom.inglis,post_sales,high,other,"Account Executive (also ""Healthcare Lead"" once)",True,59,post_sales,not_ca
+laura,marketing_or_growth,high,event_invite_blast,"none seen (signed ""Sofia from Encord"", no title)",False,57,marketing_or_growth,not_ca
+dillon,ca_like_outbound_rep,medium,mixed,Strategy @ Encord,False,55,ca_like_outbound_rep,fallback_ca
+william.purvis,ca_like_outbound_rep,high,one_to_one_pitch,Special Projects Lead / Physical AI Special Projects,False,53,ca_like_outbound_rep,fallback_ca
+eliza,post_sales,high,customer_success_or_account_mgmt,Head of Customer Success,False,47,post_sales,not_ca
+precious,ca_like_outbound_rep,high,one_to_one_pitch,AI // ML // Computer Vision,False,44,ca_like_outbound_rep,fallback_ca
+kit,marketing_or_growth,high,event_invite_blast,Senior Content Manager,False,44,marketing_or_growth,not_ca
+dave.hunt,post_sales,high,customer_success_or_account_mgmt,Customer Success Manager,False,37,post_sales,not_ca
+nico.fernandez,ca_like_outbound_rep,high,one_to_one_pitch,Commercial Associate,True,32,ca_like_outbound_rep,confirmed_ca
+satchel,ca_like_outbound_rep,high,one_to_one_pitch,Commercial Associate,True,31,ca_like_outbound_rep,confirmed_ca
+eric.landau,leadership,high,one_to_one_pitch,CEO & Co-founder,False,28,leadership,not_ca
+zainab,ca_like_outbound_rep,high,mixed,AI // ML // Computer Vision,False,26,ca_like_outbound_rep,fallback_ca

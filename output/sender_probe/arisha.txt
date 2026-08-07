@@ -1,0 +1,257 @@
+SENDER: arisha
+8 sample first-touch emails
+
+--- email (subject: Fraunhofer + Encord) ---
+Hi Fraunhofer team,
+
+I hope you are well. I wanted to reach out to introduce myself as your new
+CSM, on hand to support and enable you on the Encord platform. It would be
+insightful to arrange a quick call to learn more about your current
+projects, team and highlight our new feature releases - sharing my calendar
+link <https://calendar.app.google/4fXqRaajEqgxinW7A> for you to book a
+suitable time slot.
+
+Looking forward to working together!
+
+Kind regards,
+Arisha
+
+-- 
+
+Arisha Ahmed
+
+*Customer Success Manager *
+
+Email: arisha@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Re: Pixellot + Encord) ---
+Hi Pixellot team,
+
+Hi Pixellot team, it was good speaking to you earlier this week. I wanted
+to follow up to raise your issue with uploading large videos (8-10 GB, a
+few hours long) and leveraging agents with our Support team to investigate
+further. They will be in touch with you shortly.
+
+@Support team, sharing a gong snippet
+<https://us-12330.app.gong.io/call?id=5342655154033371225&highlights=%5B%7B%22type%22%3A%22SHARE%22%2C%22from%22%3A834%2C%22to%22%3A1078%7D%5D>
+from our call for more context.
+
+For your query on leveraging automation in your review process of those
+bounding boxes annotations in video frames, I would recommend adding a webhook
+stage
+<https://docs.encord.com/platform-documentation/Annotate/annotate-webhooks-notifications>
+within the annotation workflow stage as a validation step (see screenshot
+below). You would need to create a script with relevant logic based on
+your project review requirements. Sharing some webhook validation examples,
+ensuring that all frames are labelled or include an specific attribute and
+if the file does not include those values it is sent back into the
+annotation stage with a comment for the labellers to update and then
+re-submit for review. I would be happy to discuss this further, if you have
+more questions - outlined by calendar link
+<https://calendar.app.google/i4br85ZMtjWVA3LFA>for you to book a quick
+sync.
+
+Lastly, sharing our documentation on how to re-encode videos
+<https://docs.encord.com/platform-documentation/Index/files/files-re-encoding>
+for context. In the future, please raise any questions or potential issues
+with our Support team with myself in cc. I will work with the team to help
+answer and prioritise those queries.
+
+Kind regards,
+Arisha
+
++++
+
+[image: image.png]
+
+--- email (subject: Re: Question on Encord Billing for VIDA Digital Identity) ---
+Hi Rudy and Vida Finance Team,
+
+I hope you are well. We wanted to follow up for our finance team as our
+latest monthly invoice is still outstanding. Do you have any updates on
+its status?
+
+Please let us know if you have any questions.
+
+Kind regards,
+Arisha
+
+---
+
+Arisha Ahmed
+*Customer Success Manager*
+
+Email: arisha@encord.com
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+--- email (subject: Re: Humanitas workspace in Encord) ---
+Hi Marta,
+
+Thank you for reaching out and it's great to e-meet you, Luca!
+
+I have copied in our @Support@encord.com <support@encord.com> team to
+review Luca's account. @Luca are you seeing any error messages when you try
+to log in? Any screenshots would be useful for our investigation.
+
+Also, I would suggest having a training workshop to discuss setting up your
+new projects and getting you up to speed on all the latest platform
+functionalities - sharing my calendar link
+<https://calendar.app.google/bFHLZTk3ThnaH5ET7>for you to book a suitable
+time slot.
+
+Kind regards,
+Arisha
+
+On Thu, 22 Jan 2026 at 16:46, RANZINI Marta ICH <marta.ranzini@humanitas.it>
+wrote:
+
+-- 
+
+Arisha Ahmed
+
+*Customer Success Manager *
+
+Email: arisha@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Re: Declined: Kion + Encord Sync) ---
+Hi Chirag,
+
+Thanks for letting me know - hope you have a great holiday!
+
+Kind regards,
+Arisha
+
+On Mon, 22 Jun 2026 at 14:44, Bandigedi, Chirag <
+chirag.bandigedi@kiongroup.com> wrote:
+
+-- 
+
+Arisha Ahmed
+
+*Customer Success Manager *
+
+Email: arisha@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Fruitcast + Encord Sync) ---
+Hi Mohit, 
+
+It was good speaking to you earlier this week. I wanted to share our Success Plan and outline that our renewal is in November. 
+
+On Cloud Synced Folders, I can confirm that egress cost will be relatively minimal if your bucket is based in the UK and sharing our documentation for further context.
+
+Kind regards, 
+
+Arisha 
+
+---
+
+Arisha Ahmed
+
+Customer Success Manager
+
+Email: arisha@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+
+--- email (subject: Encord Customer Success Update) ---
+Hi Children’s National Hospital team, 
+
+I hope you’re well. We’ve released some new product features that I’d love to show your team and keen to hear how your projects are progressing - sharing my meeting link for you book our call together. 
+
+Looking forward to hearing from you. 
+
+Kind regards, 
+
+Arisha
+
+---
+
+Arisha Ahmed
+
+Customer Success Manager
+
+Email: arisha@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+
+--- email (subject: Re: Encord Python 3.8 Deprecation) ---
+Hi Reeldata team,
+
+It was good speaking to you earlier. As discussed, we wanted to share the task
+agents - sequential runner documentation
+<https://docs.encord.com/agents-documentation/Task-Agents/Execution/Sequential-Runner#performance-considerations>
+and outlined some possible parameters for your review:
+
+   - storage_item: Annotated[StorageItem, Depends(dep_storage_item)],
+   - frame: Annotated[NDArray[np.uint8], Depends(dep_single_frame)]
+
+Additionally, we recommend passing in the task_batch_size of at least 10.
+You may need to play with the optimal amount depending on the Signed URL
+timeout & how long each iteration takes.
+
+   - runner(refresh_every=3600,task_batch_size=1, max_tasks_per_stage=None)
+
+Please do reach out if you have any questions.
+
+Kind regards,
+Arisha
+
+On Mon, 29 Sept 2025 at 13:19, Diarmuid McGonagle <diarmuid@encord.com>
+wrote:
+
+-- 
+
+Arisha Ahmed
+
+*Customer Success Manager *
+
+Email: arisha@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://www.linkedin.com/company/encord-team/about/>
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*

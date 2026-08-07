@@ -1,0 +1,402 @@
+[
+{
+"id": "342309083357",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "342458607832",
+"subject": "Aditi - Encord",
+"text": "Hi Aditi,\n\nHope all's well and thanks for your interest in Encord. I saw you're\nchecking out Encord workspace - curious if you have some project in mind or\njust exploring.\n\nI'd love to better understand what you're building and how we can help.\nSuggesting some times to align on your labeling requirements:\n\n   - Wed 12 Nov, 9-9.30am or 1-1.30pm\n   - Thu 13 Nov, 11-11.30am or 1-1.30pm\n\nLet me know which of those times work best and I can send over a meeting\ninvite accordingly.\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342459089133",
+"subject": "ML Ops - SMP Robotics",
+"text": "Hi Sergey,\n\nLoved seeing SMP's robots patrolling different terrains and navigating in\ndifferent weather conditions in Australia, impressive work! Wanted to reach\nout as we work with Boston Dynamics, Woven (Toyota) on similar perception\nmodels for ADAS use cases.\n\nQuick context, Encord started out in smart surveillance working with LVT,\nflock safety etc, and now help physical AI teams like Fox robotics and\nNimble manage and label multimodal data (image, video, 3d point cloud) at\nscale.\n\nWould love to hear your thoughts on improving training data quality as you\nscale. I'm flexible Tue-Thu next week if you have 30min.\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342462770371",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "342462926037",
+"subject": "AI/ML pipeline at ADT",
+"text": "Hi Jesse,\n\nI saw you chair the AI Governance Council at ADT and lead automation\ninitiatives - curious if tooling assessment is on your radar.\n\nWe recently helped LVT and Flock Safety streamline training data pipelines\nand integrate AI agents into workflows to boost productivity and model\naccuracy. Many smart camera and surveillance teams hit limits when\nreal-world data outgrows tools like Voxel51 - billions of CCTV frames and\nedge cases become tough to manage. That's why teams are shifting from multi\n-tool stacks (CVAT, Voxel 51, Segments + Services) to Encord, consolidating\nworkflows across curation, annotation, QA, and model eval.\n\nQuick context: Encord supports 200+ AI teams (Boston Dynamics, Thinking\nMachines Lab, Protex, Voxel, etc) to automate annotation and improve\ntraining data quality at scale, especially for VLA/VLM and GenAI use cases.\n\nI imagine you're all set but open to exploring what's out there so you know\nyour options. I'm flexible Tue - Thu in the coming weeks for a quick chat.\n\nCheers,\nLaura\n\n--\n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342484690144",
+"subject": "Re: VIDA <> Encord | Monthly Partnership Syncs",
+"text": "Hi Jeff,\n\nThank you for letting us know - hope you have a safe journey!\n\nI will cancel our sync for tomorrow and our next sync will be on Thursday\n4th December. I have outlined our provisional agenda below for your review.\nPlease let us know if there are any additional topics you'd like to\ninclude.\n\nProposed Agenda\n\n   - Touch base on new user management functionality - ability to remove\n   users with numerous project assignments in the UI\n   - Share the latest SDK best practices\n   - Review your platform activity and discuss your project updates/plans\n   for EoY and early 2026\n   - Share our new platform feature releases relevant to Vida projects\n\nKind regards,\nArisha"
+},
+{
+"id": "342490197240",
+"subject": "Encord - New User Management Roles",
+"text": "Hi Traffic Group team,\n\nWe're introducing new roles in Encord! \ud83d\ude80\n\n   - *Workforce Manager role*: To help users inside of your organisation\n   onboard Annotators to projects and groups - but without giving them any\n   admin privileges\n   - *Tasker role*: An annotator-level organisation role with an improved\n   tasker interface. A more streamlined interface to get started with your\n   work for annotators\n\nThese two new roles come as part of a new ambition to make life simpler in\nthe Encord platform for Annotators, as well as some updates on our user\nmanagement and organisation-level roles.\n\nYou can read more in our documentation here\n<https://docs.encord.com/platform-documentation/General/general-org-settings#user-roles>\n and here\n<https://docs.encord.com/platform-documentation/General/general-org-settings#adding-and-removing-users>.\nCheck\nout the screenshot below to see the Tasker interface \ud83d\uddbc\ufe0f.\n\nPlease let us know if you have any questions around user management and\norganisation roles in Encord.\n\nKind regards,\nArisha\n\n+++\n\n[image: image.png]\n\n-- \n\nArisha Ahmed\n\n*Customer Success Manager *\n\nEmail: arisha@encord.com\n\nWebsite: www.encord.com | LinkedIn: Encord\n<https://www.linkedin.com/company/encord-team/about/>\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342494720241",
+"subject": "Encord",
+"text": "Hi Philip, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "342494731495",
+"subject": "Encord & Raven - Demo request",
+"text": "Hi Raven,\n\nThanks for requesting more information on the Encord website. I took a look\nat Sesame and it definitely seems like we could help with a few of your use\ncases \u2013 I\u2019d love to learn more about your specific requirements.\n\nI\u2019ve tentatively set up time for Monday 10th at 1 pm, but here are a few\nother slots that might work (PT):\n\n   - Wednesday 5th: from 2 pm onwards\n   - Monday 10th: 1.30 pm, 3 pm, 3.30 pm, or 4 pm\n   - Tuesday 11th: 9 am, 9.30 am, 12 pm, 12.30 pm, 2 pm, or 2.30 pm\n\nLet me know what suits you best.\n\nBest,\nJames\n\n-- \nJames Golby\nAI // ML // Multimodal AI @ Encord\nSan Francisco | London\n[image: https://encord.com/]\nCord Technologies Inc (dba. Encord) | 832 Sansome Street, San Francisco,\nCalifornia\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342496615615",
+"subject": "Encord",
+"text": "Hi Kim, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "342505719004",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Sebastian, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nThao Nguyen\nGrowth\n\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) |\u00a0832 Sansome St.,\u00a0San Francisco, CA 94111\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x4RW2MTy6k3_X4fHW3bcdlV1Bxh72W2PQShC2z_t4TW3f_D702CKfCMW3g7v6F2FJ_WLW1BLVxc2PQTNJW4rfNLn4krZHdW4hnPjt2qFc3qW4pgPfN3LHL-VW30LjbJ3JXXW4W25m95d3dnZ3cW49K1zd3z1jx3W3ZDT-s41FjWrW2FBlpc38khyCW4cPpPt2FBRztW30v24r3jlZGSW1Z9CLg47knKjW2Yr22J3Hcw_-W1Ssjd_2r15KdW49DTml2WrK30W2TRkxS34FhCcW4t7Gxq2qS3CHW2nQf5S3Q-BvvW3BLKwf2YwFdxW24WBZs3NGNX8W30nZ_W3_rcXCW3DNC7X2xB7FlW4mywRj2xXr_3W2TgKjQ2sNZLXW2YgLxv4kBV7nW214y4c3gyxZ2W3LS65P2PSWmpW3BWPyG4kvrzsW2PtZqS385DtKW2MwsL92YhF3nW3b4wpw4hMpCjW2PWnk12YHkXj0"
+},
+{
+"id": "342510689508",
+"subject": "Jaka - worth a catch-up?",
+"text": "Hey Jaka - hope all's well,\n\nGreat to see things are going well at Sunrise at the moment & noticed the\nteam is growing quickly,\n\nWondering if it's worth having a quick catch-up - as seems like you could\nbe scaling annotation / curation pipelines?\n\nHappy to share more on our recent updates - including the LiDAR suite & VLA\nannotation support,\n\nLet me know if this would be interesting & can suggest some times for the\ncoming weeks,\n\nJames Sweeney\n\n*GTM*\n\n*London* | www.encord.com\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342516071664",
+"subject": "Foresight <> Encord",
+"text": "Hi Adrian,\n\nHope you're doing well! Loved your recent LinkedIn post on the demo vs\nproduction gap for computer vision teams - challenges with edge cases from\nRWD are brutally real.\n\nWe've been helping teams like SwingVision, Hudle and Spiideo tackle data\nbottlenecks around multi-angle video, motion-tracking, sensor fusion,\nedge-case annotations, and real-time performance feedback. Given your\nlaunch of GC3S with Bushnell and PuttView integration, I'm curious how you\napproach data pipelines and prioritize scenarios for training/fine-tuning\nyour models.\n\nWould you be open to a quick catch up with the Encord team next week? We're\nflexible Tue - Thu mornings PT.\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342549503202",
+"subject": "Encord",
+"text": "Hi Pavan, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "342562582772",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "342562887896",
+"subject": "Encord - New User Management Roles",
+"text": "Hi Reshape Biotech team,\n\nWe're introducing new roles in Encord! \ud83d\ude80\n\n   - *Workforce Manager role*: To help users inside of your organisation\n   onboard Annotators to projects and groups - but without giving them any\n   admin privileges\n   - *Tasker role*: An annotator-level organisation role with an improved\n   tasker interface. A more streamlined interface to get started with your\n   work for annotators\n\nThese two new roles come as part of a new ambition to make life simpler in\nthe Encord platform for Annotators, as well as some updates on our user\nmanagement and organisation-level roles.\n\nYou can read more in our documentation here\n<https://docs.encord.com/platform-documentation/General/general-org-settings#user-roles>\n and here\n<https://docs.encord.com/platform-documentation/General/general-org-settings#adding-and-removing-users>.\nCheck\nout the screenshot below to see the Tasker interface \ud83d\uddbc\ufe0f.\n\nPlease let us know if you have any questions around user management and\norganisation roles in Encord.\n\nKind regards,\nArisha\n\n+++\n\n[image: image.png]\n\n-- \n\nArisha Ahmed\n\n*Customer Success Manager *\n\nEmail: arisha@encord.com\n\nWebsite: www.encord.com | LinkedIn: Encord\n<https://www.linkedin.com/company/encord-team/about/>\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "342564970687",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Christian, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nThao Nguyen\nGrowth\n\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) |\u00a0832 Sansome St.,\u00a0San Francisco, CA 94111\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2w_QW3QNmyt36fLXhW1_r73B4hd1pfW21bRnk4tpl_bW30h_0K1QDHrJW2RDG9W4phBrrW3yN6gH1VqwL-W43Bc_J24_cJJW4ctQb73y-nCrW49yMTZ2-zQqTW2CNvN12WtpF1W1QtN4M2RPSRbW1SBSqb2KRLZxW1BJTYr2FDWT5W4px3qZ3gmvGpW3H7l622CYGszW3d3xFd3yYjM9W2RPVBx43SM3yW47s_6w2CMjYwW2KCGYz2FsFVyW2Kn9wW49z4NyW32qsk82MQDR0W1XtFb91_9M1dW1LCRj83ZCfPtW2HyrBG3d2fQZW3XYlGT3LNp8cW3DLrRv3Kb46gW1Vq3q14cjFXHW4kwb_n3G-9BqW3LTmgF4rFyCYW2q_rhv3K5S4kW21rkN62WhlL1W4csB8q30lYlXW2HF6qb3JPrfxW4kf78K2zWmwMW3QS2773F0TsgW1ZvbtG4prrt30"
+},
+{
+"id": "342660572355",
+"subject": "Re: Encord contracts (MSA/DPA)",
+"text": "Hi Daniel,\n\nPleasure to meet you. I'm reattaching the proposal I shared following our\nsuccessful trial, during which Patrick and the Data Ops team validated\nEncord.\n\nHere's a brief summary of how Encord helps address the key challenges your\nteam identified with your current vendor:\n\n   -\n\n   *Overcome LBU and data volume constraints* to streamline data imports\n   and reduce operational overhead.\n   -\n\n   *Advance annotation and HITL workflows* to improve your document\n   classification, model evaluation, and manual transcription efficiency.\n   -\n\n   *Enhance workflow automation and model evaluation* through robust drag\n   and drop pipelines, label augmentation with pre-labeling, and agentic\n   workflows with task or editor agents.\n   -\n\n   *Enable scalability through SDK integration*, ensuring production-ready\n   annotation and evaluation pipelines with consistent performance across\n   multimodal datasets.\n\nThe proposal I presented to Patrick reflects a *discounted platform fee*\n with:\n\n   -\n\n   *Unlimited data uploads, annotations, and pre-labels*\n   -\n\n   *Unlimited API keys* for programmatic users to export data\n   -\n\n   *Five permanent user seats* (with the flexibility to right-size as you\n   scale)\n\nI'm sharing the Order Form, which includes a hyperlink to our Terms &\nConditions. It's great to see that your security team has already accessed\nour Trust Center.\n\nLet's connect on next steps. Are you available tomorrow, 1:30pm PST? By\nthen, I should also have an update about the Cloud Marketplace.\n\nKind Regards\n\nAlyssa Fleming\n\nAccount Manager"
+},
+{
+"id": "342769333449",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "343123161291",
+"subject": "Encord - New User Management Roles",
+"text": "Hi MMI team,\n\nWe're introducing new roles in Encord! \ud83d\ude80\n\n   - *Workforce Manager role*: To help users inside of your organisation\n   onboard Annotators to projects and groups - but without giving them any\n   admin privileges\n   - *Tasker role*: An annotator-level organisation role with an improved\n   tasker interface. A more streamlined interface to get started with your\n   work for annotators\n\nThese two new roles come as part of a new ambition to make life simpler in\nthe Encord platform for Annotators, as well as some updates on our user\nmanagement and organisation-level roles.\n\nYou can read more in our documentation here\n<https://docs.encord.com/platform-documentation/General/general-org-settings#user-roles>\n and here\n<https://docs.encord.com/platform-documentation/General/general-org-settings#adding-and-removing-users>.\nCheck\nout the screenshot below to see the Tasker interface \ud83d\uddbc\ufe0f.\n\nPlease let us know if you have any questions around user management and\norganisation roles in Encord.\n\nKind regards,\nArisha\n\n+++\n\n[image: image.png]\n\n-- \n\nArisha Ahmed\n\n*Customer Success Manager *\n\nEmail: arisha@encord.com\n\nWebsite: www.encord.com | LinkedIn: Encord\n<https://www.linkedin.com/company/encord-team/about/>\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343123947766",
+"subject": "Withings + Encord",
+"text": "Hi Withings team,\n\nI hope you are well. We wanted to share our latest platform releases with\nyour team.\n\n   - *Ontology Improvements* - ability to archive classes\n   <https://docs.encord.com/platform-documentation/Annotate/annotate-ontologies/annotate-working-with-ontologies#edit-ontologies>,\n   include additional attributes / nested ontologies and review version\n   history\n   <https://docs.encord.com/platform-documentation/Annotate/annotate-ontologies/annotate-working-with-ontologies#view-edit-history>\n\n   - *View Mode\n   <https://docs.encord.com/platform-documentation/Annotate/annotate-projects/annotate-manage-annotation-projects#view-tasks>*\n   - option to easily review files without self-assignment in the project\n   queue\n   - *UI creation of Data Groups\n   <https://docs.encord.com/platform-documentation/Index/data-groups/index-data-groups#create-data-groups>*\n   - collating files with the option of different file types (images, videos,\n   text files/PDF) into a single group within the labelling editor\n\nAlso, I noticed that your platform activity has decreased recently. I\u2019d\nlove to understand more about your project progress - whether you're\ncollecting new data, planning additional work, or expecting more annotation\nsoon. Happy to schedule a quick call to discuss further - sharing my calendar\nlink <https://calendar.app.google/1isNQbNBqRJZvrps6>.\n\nKind regards,\nArisha\n\n-- \n\nArisha Ahmed\n\n*Customer Success Manager *\n\nEmail: arisha@encord.com\n\nWebsite: www.encord.com | LinkedIn: Encord\n<https://www.linkedin.com/company/encord-team/about/>\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343834868949",
+"subject": "NBA - SMT - data curation",
+"text": "Hi Bala,\n\nHope November has been treating you well sir! Thought of SMT while watching\nthe Breast Cancer Awareness Game between the Warriors and Suns at Chase\nCenter last night.\n\nWe've recently rolled out some exciting updates on Encord for sports\nanalytics, including smart (natural language) search to quickly surface\nedge cases like bad weather across image, video, and audio data. I remember\nyou'd mentioned this area as a potential synergy in your chats with my\ncolleagues Leo and Skander last year.\n\nAppreciate things must be super busy on your end - would it make sense to\nloop in your data curation team for a quick intro call? Grateful to be\npointed in the right direction.\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343836339437",
+"subject": "Re: AI buyers & builders",
+"text": "unsubscribe\n\nOn Wed, 5 Nov 2025 at 08:46, James Strachan <\njames.strachan@getpivot5admedia.com> wrote:\n\n-- \nJamie Shelton\nCord Technologies. Inc (dba. Encord)\n832 Sansome St.\nSan Francisco, CA 94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343836485879",
+"subject": "Re: Encord - CIO/CDO Leadership Group",
+"text": "Thanks Jared - when is this event?"
+},
+{
+"id": "343859827927",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "343861509369",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "343861541059",
+"subject": "Re: did mahi work out?",
+"text": "No, we are not.\n\nOn Wed, 5 Nov 2025 at 08:14, Kareem Yakubu <kareem.y@meetfundlevel.com>\nwrote:\n\n-- \nJamie Shelton\nCord Technologies. Inc (dba. Encord)\n832 Sansome St.\nSan Francisco, CA 94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343893912824",
+"subject": "Re: Veriff <> Encord",
+"text": "Hi Hubert,\n\nThank you, very much appreciate it! I'll send out an invite now. Looking\nforward to chatting in a few weeks.\n\nBest,\nEric\n\nOn Wed, 5 Nov 2025 at 13:32, Hubert Behaghel <hubert.behaghel@veriff.net>\nwrote:\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343926033644",
+"subject": "Encord",
+"text": "Hi Dmitry, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "343928969416",
+"subject": "Re: Invoice INV-0103 from Cord Technologies Inc. for Nimble Robotics, Inc.",
+"text": "Hi Simon,\n\nLooping in @Finance <finance@encord.com> who can help with this."
+},
+{
+"id": "343930793184",
+"subject": "great to chat",
+"text": "Hi Michael,\n\nGreat to talk just now! Attaching a video of our VLA workflow with agents +\ncaption rephrasing and task phase annotation:\n\nhttps://www.loom.com/share/5eea8091f062466a8639aa1ae031d37f\n\nWould love to connect with your AI team, even if it's just to exchange\nlearnings as I know you said you have built out your own internal tool. If\nyou can forward me to the right person, I can schedule a call.\n\nBest,\nCarl\n\n-- \n\nWith gratitude,\n\nCarl Bager\n\nSpecial Projects\n\nCell: +1 (415) 494-7717 <+14154947717>\n\nEmail: carl@encord.com\n\nWebsite: www.encord.com | LinkedIn: Encord\n<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3lTW3fsLjX5Vq7fMW2s9JLT6sW8rFW20Pbp64JV3S0VKxt916pn-KrW3CRSnw4rh_NHW5xMsM-2N3pjNW4mGJlm6J-Ym8W2C3mSJ6-_nVsW4R0kXx19vWgKV2wXDQ6hWdQzW2c70Ts4-pZgHW2JfD_86LzygbN4YVHm2ZB_z0W6cmPHh5xtBNkW8NnPyG4H1wtSW6KF8Jf4rYD9wW8v1LsF5TTzGvW6BlWk07tkdrkN2p-4504YpRhW45qSFS6C0KlJW7FcHNz2XTc1QW1P9RC-2nQNz3N13xzkR49TQRW558pgn19ZvQhf5dLnlx04>\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343932433609",
+"subject": "Re: Boosted inbound 217% in 4 months",
+"text": "not interested\n\nOn Wed, 5 Nov 2025 at 07:21, Keith Gill <\nkeith@gofractionalgrowthmarketinghq.com> wrote:\n\n-- \nJamie Shelton\nCord Technologies. Inc (dba. Encord)\n832 Sansome St.\nSan Francisco, CA 94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343939558605",
+"subject": "Re: Invoice due today: Rays placement",
+"text": "Thanks Jack -  adding @Michelle Dan <michelle@encord.com>"
+},
+{
+"id": "343945254109",
+"subject": "Re: Lara Acosta // Partnership with Encord",
+"text": "no"
+},
+{
+"id": "343956438250",
+"subject": "Re: Upper Middle <> Encord",
+"text": "unsubscribe\n\nOn Wed, 5 Nov 2025 at 06:03, Ashley Davis <\nashley.davis@getuppermiddlemediaad.com> wrote:\n\n-- \nJamie Shelton\nCord Technologies. Inc (dba. Encord)\n832 Sansome St.\nSan Francisco, CA 94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343956644052",
+"subject": "Re: Encord & Activision",
+"text": "Sure!\n\nOn Wed, 5 Nov 2025 at 09:37, Carreiro, Louis <Louis.Carreiro@activision.com>\nwrote:\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "343962037469",
+"subject": "Encord<>Zenown",
+"text": "Alex,\n\nGood to meet you today - it was great to further confirm the overlap\nbetween your requirements and Encord's functionality. As requested, you can\naccess the recording here\n<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jll2-6qcW7Y8-PT6lZ3nMW8ySxb_13bHKCW6CNv2T7Kxx7FW3MvgK269CCd1W2WRLs84NxrFBW97pC151L1pvgW8B1_c35ZQfqJW8Xx84H5VRhM9N4DwfJ-LXZRqW8CQx495kZMrWW323XRt6Qh9j7W82jsR65GP7DlW96k1mB1Y4PW5MrSSYRf5Ph7W82Yn4k8S22FSW77SwsF7w_ySgW7CFJCW2nwZYsW50rL3Z34xB8dW6R76kx1kLDGwW5VbVv67KnjzwW4DBb6m3PsysFW7VWMXN44Z-zFW6ZBd9K1b_QtbW41-NPR8-hw2JW8Bjsj53Ng-mKW6MY7-V1VH4qlVd3-PS10G_Pmf3kxH0C04>\n.\n\nWorth noting that the additional features we saw would require a Full\nPlatform package. Pricing for that starts around the $45k a year mark.\n\nYou have a lot on right now so we will take your lead on the timing and\nnext steps, but we are very excited about the value Encord can deliver\nZenown and look forward to moving this forward.\n\nBest,\n\nSteffan\n\n-- \n\nSteffan Jones\n\nDirector of Partnerships\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "344258708720",
+"subject": "professorX - Tensor Robocar",
+"text": "Hi Jay,\n\nHuge fan here - been following AutoX since you were hiring in Singapore. I\njust moved from Singapore to SF, and it's exciting Tensor Robocars'\nprogress here in the States - congrats on the Lyft partnership!\n\nI wanted to reach out as I imagine things are moving fast given your\nscheduled delivery by the end of 2026. with hundreds of robocars streaming\nfrom thousands of cameras and sensors - syncing, labeling, and QAing all\nthat multimodal data can get tricky fast. We're seeing lots of AV/ADAS\nteams shift from multi-tool stacks (CVAT, Voxel 51, Segments + external\nservices) toward a single data platform like Encord to consolidate\nannotation, QA, and model eval. And we provide labeling services as well!\n\nQuick context: Encord is a SF-based data layer scale up ($50M Series B\nbacked by Nex47 & YC) supporting leading physical AI teams like Boston\nDynamics and Physical Intelligence. We are very familiar with ADAS/road\nsafety vision models working closely with Woven by Toyota (video annotation\n& LiDAR visualisation), Nexar, and Motive.\n\nWould love your feedback on what we've built. How's your calendar looking\nlike next week for a quick chat?\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships Lead\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "344302964983",
+"subject": "Encord<>Simhawk",
+"text": "Hi all,\n\nIt was good to speak yesterday and explore how Encord can be your platform\nof choice to replace V7.\n\nI will put some time in the diary next week to go through a more in-depth\ndemo. I believe Rony will send the exact complex workflow you currently\nhave in V7, along with a few example images, as an example\n\nBest,\n\nSteffan\n\n-- \n\nSteffan Jones\n\nDirector of Partnerships\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "344305013981",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Hassan, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x4QW2KpmqR2vzsYQW34mmYW1BgvSQW1XsMls41QRRYW3VWqbV4hvft9W45P7Hr4crG_ZW212SJ42-kTHbW2sSjNm49LkPrW2MWJs830HqWhW1Vg3XK4tdhyvW2Kz3LG2TgJ3PW36tPgH3NNYDJW3fYJnR32rJX4W1Znmtp2YPC5dW4fxtH647Tc4cW3H7KzB3grkjsW3C7fRC32ljV_W2PPzzh2nZ909W2Whq7k1S595jW2RQK9T22TlsCW2y26sw25jDg8W4md15-3dpp5-W4kn6Sz47DjPgW38CGsf3BTHljW32nNKd1LlHNBW2YxrYN3d1tMBW41GxdD49yJV5W1_df6f1Q2Y6QW49jSgZ3bcfX2W47SLfB4tDrgWW3gffVr3FbRZLW23gnRz4pr3WXW3BPZLY2HpxMyW4mFvFT4fvsbJW1Q3jCt32gZl0W2nF1Zp3F5tC10"
+},
+{
+"id": "344481827029",
+"subject": "Fwd: [External] Invitation: Coffee? @ Wed 5 Nov 2025 2pm - 3pm (GMT-8) (patrick.colville@scotiabank.com)",
+"text": ""
+},
+{
+"id": "344658515159",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Loukm\u00e8ne, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x9hW2Rknpr45Y40-W3_rG0z45z6v6W1W-zFR349PH1W3_Z-kp3XLSNVW2Yps4w4rmWZqW1SwGDC21kVNhW348TQP2qWm0NW1Zt0Fr2CwTyxW2KnBmm41KqBXW1Z44Z52zx1kNW41WqH11_jthkW2WqmQJ1R_j4pW2-kQVC41GV-vW2MVs5y3LBKrQW41pSsc20ZT4fW1Q3J7z34pnQBW2KDT1f1ZvGqCW2sSMh01QbNWWW2y4zp-43yz5LW4rDgrC4cwQqjW2xXrWt1YZwS6W24W8NM3F6LRDW41FKkZ3C9qZxW2xZ7_D1V9CHtW4hqXq01-YsHDW2sRwct2p1kYlW3W3_Lw1BNzBfW2v-z1v1L6_WGW3R5F3P1Z0lZjW2CqQjV2RN62pW3JFXBR4t5BkLW1VpCXM3gtmdbW3W3cMf2FzzlZW1Bm4Tg3P51Z7W47vChT1VqWc0W3XN-Kd3j7jtGW4ph-C71L6gnS0"
+},
+{
+"id": "345464663228",
+"subject": "Encord",
+"text": "Hi Gabriel, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "345645299932",
+"subject": "Encord - trial",
+"text": "Hi Khisa-Lee,\n\nThanks for reaching out and your interest in Encord's workspace. You're at\nthe right place - we work with leading drone companies like Zipline and\nSkydio on their data annotation projects. We've got the tooling in place &\nwould love to discuss more how Encord can help with your data annotation\nneeds at Lone Star Drone.\n\nProviding some times for a quick chat (PT):\n\n   - Tue 11 Nov: 9-9.30am\n   - Wed 12 Nov: 9.30-10am\n   - Thu 13 Nov: 11.30-12pm\n\nLet me know which works best for you and I can send over an invite.\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "345648279791",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "345672913102",
+"subject": "Encord Platform Access",
+"text": "Hi team,\n\nHope you're all having a good week so far.\n\nI understand that funding has been difficult to put together after trying\nto identify multiple sources for a long term partnership with Encord. It\nsounds like there's still some potential but, until there's clarity on\nthat, we'll need to pause access to the platform.\n\nWe'll provide time for you to get existing data + labels out - let us know\nif you have any questions on how to do this.\n\nWill you be able to get what you need out of the platform by next Monday?\n\n-- \n\nKind Regards,\n\nNick Mesic\n\nSenior Account Executive\n\nEmail: nick.mesic@encord.com | (310) 904-2028\n\nWebsite: www.encord.com | LinkedIn: Encord\n<https://www.linkedin.com/company/encord-team/about/>\nAddress: 832 Sansome Street, San Francisco, CA\n[image: ltp|17623599754426522]\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "345673538809",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "345674253503",
+"subject": "Re: Reschedule",
+"text": "Hi Nick - no worries. Wednesday next week works - I have a call prior at\n10:30am so I put in 11am instead - let me know in case that doesnt work.[image:\nltp|17624608353091765]\n\nLooking forward to catching up!\nWinnie"
+},
+{
+"id": "346131525881",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Brian, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2wWVW3dxySJ4psh62W1Lrglh21kqRtW2xyrhh4kDW8xW3V_1Cf4cs4sHW2MBb_N1_jVqFW257SK04kfV_hW47WDKd1_djX8W4mmXNY2Hzjc1W2y1jG24cssMsW3dkKCK3bytDkW1Ly6FS2-fGj9W1Z49Cn38hc9CW38rtrk3P8pdvW4rvBZQ4hJS3KW1ZrdTR2MFwRfW2-lklp1_h_nWW4pyPX-32HF_BW1BnQ742vBRk_W3_tmFv2WN_5lW4pt80g2KVxJLW3jrvfr3CglZlW1Q4XwQ1NDT_4W1TZV4Y2RV0ScW3GLJxJ38vV8QW2sZyP032y6W8W2v_PMM3X_9N2W2RKCwB213PTJW1NsMSv41-Fw9W2H-0p42nXTlsW2RL4dX2WhR4_W1L7TPb3gnPK6W3XJqxt2HT6TrW1--7mV2TMWmlW32hlT13XXvXRW3j07z341QSDpW2-FvrC3GVBj90"
+},
+{
+"id": "346468281583",
+"subject": "Encord",
+"text": "Hi An, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "346503400661",
+"subject": "Encord Proposal",
+"text": "Hi Evan, Yifei & Adit,\n\nI've *attached* the proposal that we presented earlier this week - both\npricing options (fee per user or per annotation hour) outlined. Option 1 is\nbased on 10 initial users and Option 2 is based on 20,000 platform hours as\ndiscussed with the team.\n\nNick mentioned that back in the day we offered a YC discount of  ~30%. This\noffer has not been available for a few years since we've matured as a\nbusiness, but CK is working on pricing with Adit directly.\n\nKind regards,\n\nAdi\n\nAdi Ramesh\n\nGTM | AI/ML\n\n[image: image.png]\n\nLinkedIn: Encord\n<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3l6VXy4mv5RpjQzN4nrmMSySk40W4LGmqy5f_4nHW6GNmnr1-bB9JW5xWd1j1RybvdW711yR62gG8rsW2drD3v54FGV6W7f3wYg3DLvjdV3NXDp3Qrv4LW4PjHv28p-xQqW4tYmD_8fBd3nW1Y-67t3477s6W2CvlMH3rZ-XvW89LwXb3KhnVTW3s518q2wcv98W3mFfyg6RhnLCW4X32w55V_X6BW876qSJ5Z_mpnF609cDKq-JmW33_p77190jxpW4zD1dD1Y4fJ0W3JKXfR1gY_tZf6fYd7q04>\n  | Number: + (415) 940-8990\nReg Address: 832 Sansome St, 4th Floor, San Francisco, CA 94111\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "346538752232",
+"subject": "Lina<>Steffan Sync @ Fri, 7 Nov 2025 7:00am \u2013 7:30am (GMT-08)",
+"text": "Hi Lina,\n\nI'm on the line - does this time still suit? I'll be back in the UK on\nMonday if a better time suits.\n\nBest,\n\nSteffan\n\n-- \n\nSteffan Jones\n\nDirector of Partnerships\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "346551754976",
+"subject": "Re: Brainomix <> Encord",
+"text": "Hi Brainomix and Cogito team,\n\nI hope you are well.\n\nWe wanted to introduce our latest *Data Group functionality* to\ncollate multiple files and file types (images, video, text/PDF, DICOM and\naudio) in a single labelling editor canvas. This will replace the DICOM\nstudies functionality from mid next week onwards. Therefore, I have\nincluded a detailed Loom video\n<https://www.loom.com/share/98c1b814677845d49a5968f65460d624> on how to\ncreate this new data format in the platform. Also, have attached our\ndocumentation on setting up data groups via the UI\n<https://docs.encord.com/platform-documentation/Index/data-groups/index-data-groups>\nand SDK\n<https://docs.encord.com/sdk-documentation/index-sdk/sdk-data-groups#create-data-groups>\nfor further context.\n\nLastly, the product team shared that the global classification feature of\napplying a label to the entire data group will be released by the end of\nthis year. I will keep you updated on its progress.\n\nPlease let us know if you have any questions - always happy to have a quick\ncall <https://calendar.app.google/PEv3mSXR86zj2rpM8> to answer any queries.\n\nKind regards,\nArisha"
+},
+{
+"id": "346776669398",
+"subject": "Encord",
+"text": "Hi Jaan, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "346817751268",
+"subject": "Re: I need this receipt, Steffan :((((",
+"text": "done!"
+},
+{
+"id": "346826302665",
+"subject": "Re: Netflix & Encord.AI",
+"text": "Hi Scott - I've attached our mNDA for you to review. Once reviewed, can you\nshare signatory information so I can coordinate for signature accordingly.\n\nEqually happy to use your version - in which case can you share and I can\nget our legal team to review accordingly.\n\nBest,\nWinnie"
+},
+{
+"id": "346858086632",
+"subject": "Re: General Atlantic <> Encord - Intro",
+"text": "Hi Mellisa,\n\n11/18 at 11AM ET works for me, thank you.\n\nBest,\nEric\n\nOn Wed, 5 Nov 2025 at 19:35, Mellisa Lachman <mrajrup@generalatlantic.com>\nwrote:\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "346877743335",
+"subject": "Encord",
+"text": "Hi Richard, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "346912595146",
+"subject": "Encord",
+"text": "Hi Juan, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "346991495360",
+"subject": "Encord",
+"text": "Hi ped, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "346997810366",
+"subject": "Encord",
+"text": "Hi Eugin, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "347007546586",
+"subject": "Encord",
+"text": "Hi Mark, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "347011522785",
+"subject": "Alex - Encord",
+"text": "Hi Alex,\n\nThanks for your interest in Encord - you're at the right place! We've got\nthe tooling in place & would love to discuss how we might help you,\nespecially regarding video annotation and objective detection/tracking use\ncases.\n\nI'm flexible Tue to Thu PT if you've got 20min to chat.\n\nCheers,\nLaura\n\n-- \n\nAI/ML Partnerships\n\n[image: image.png]\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) | 832 Sansome St., San Francisco, CA\n94111, United States of America\n\n-- \n*This email and any files transmitted with it are confidential and intended \nsolely for the use of the individual or entity to whom they are addressed. \nIf you have received this email in error, please notify the sender \nimmediately by replying to this email and delete it from your system. \nPlease do not copy, distribute, or take action based on the contents of \nthis email if you are not the intended recipient. Any unauthorized use or \ndisclosure of this email's contents is strictly prohibited.*"
+},
+{
+"id": "347034892509",
+"subject": "Encord",
+"text": "Hi Joe, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "347234275559",
+"subject": "Encord",
+"text": "Hi Om, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "348462587098",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Adam, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nThao Nguyen\nGrowth\n\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) |\u00a0832 Sansome St.,\u00a0San Francisco, CA 94111\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2wWWW3VM2kK4rrj4mW3GQRYG1QlMQ5W1L7Yjh3Xy56nW4htjtz45MvpgW20ZWJY1QfGtTW1_f8nP3T1lhKW1Q5Qmm2F-d4VW1LqXbm47xhCxW3DLrv041D4F9W3ZtYD-2xyS7bW1Lmwbg364ClKW45xrlW1Njp80W23gPYS3zkX7GW4hGNjJ4mkXTSW2WLvYq2MPTsRW43rGww2WLZ9pW4hH60b3dnZTjW4tkDkL21230KW2YfyJh3LWVwmW2zt_qv2YGWLFW3LPFGK1BJnMNW1Zdxky1Qy4PTW3g9C552p5TlsW2KWWlH2PCf42W3QSxtr2-bMNvW41Dsp21BF4nTW2nRrsQ4fxYZjW2r5fq83g97TMW4rvGQZ3VNkSMW2w4s014kx0WpW3X_Hbw1QwpvjW4ftbBz2Mw1myW2ThwNY2Kr3JPW2RKKWL1Xv1rZW4psjl-3g2tyXW30bZ1q2MRY2GW3-11X32FzvtB0"
+},
+{
+"id": "348472140019",
+"subject": "Encord",
+"text": "Hi Alexander, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "348553734374",
+"subject": "Re: Kluster - Time to Book Your First QBR",
+"text": "Thanks Freya.\nhttps://meetings-eu1.hubspot.com/leo-leclercq/30-minute-meeting-with-leo-encord-3\n\ncal link above is probably easiest!"
+},
+{
+"id": "349109862587",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "349689827549",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "349723590856",
+"subject": "Encord",
+"text": "Hi Mehrab, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest,"
+},
+{
+"id": "349845802219",
+"subject": "Encord",
+"text": "Hi Selina, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there\u2019s anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week? \n\nBest, \n\nSara Schein\nManager\n\nLinkedIn: https://www.linkedin.com/in/sara-schein/ I www.encord.com: http://www.encord.com/\n22-25 Eastcastle St, W1W 8DE, London"
+},
+{
+"id": "349952321725",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Cameron, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2w_HW3_F5SG3djpYjW3dxXdQ3STx9yW3jlzl2257409W3bblw94kt-mWW2zYxs02p7vnxW3GXgg62xy511W2RN5Wb3dzD8nW2Mpd263D_DR0W1BDg_Z2p2VCvW38gpDq38hzd8W1LCWYn1BKKScW4hCWQj43VQ6gW2MC1kR32krMgW3JRw0y3dvsYQW2vYtGR41S2NSW2F_nd14pbFQpW4kfvhk23gNxxW2CSlyr1SyLDvW2WLX3K32DLYNW365nBn2y4GCfW30G6M647kTfMW43Tyr33ZVxCjW24-kHy4pn8cSW22WqzQ3W0DsVW32gY_F1Vtjd8W232J2_3BM2ljW2sQ_nY3z22jtW1Qg9hZ2YskcXW3g99T-45mlqgW2WL4tw4cGnKgW1X8_243JRY5zW2PtZCk4cs2WdW3zdWcX3M1wKNW1Xx3m_3ZYw3bW4pjQmH49gn0-W4ffZqZ1Q6C_mW2r7h7y34n5xv0"
+},
+{
+"id": "349974096118",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Maggie, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x4_W1Lp_P93Zt7ZDW4kBTVC2nFt_RW2CtQ2m4p9PhqW4mKhVV3z7wbCW4p7fr93DXWdXW1--8w12HSNPQW2r16Sp4rv-GVW4rnrp-2vQmnNW2CZ9Ry4fr3NfW4pncbT1YZvgkW3P0rB44hL6PMW1LmzDF2t2B3GW3LHPll1ZfNYrW4rrJkf4rjzmRW4kmnsc4tfzFcW2Rxc8q34yMS0W34GZ441Zmy7CW3ZVdfm2H-RcgW3BPzpX2MF5J-W4pymsZ2xQGDyW4hPn9X2Mv-G1W3gc9q44pbFLXW4cMgNG2KDsfjW3bb0Yr4005PnW4fFGL449SBrWW1T_Yqf34gl3xW2PQtQv32B-D2W236pwk4htlXZW306Ssn2p3M6bW2zXfxh2WL5KqW4cGPWQ368fsgW2sZxLL3FbqSGW383vhf4cs2rZW1L93X94t7k4ZW22Tlgy45MtVvW41ZmjK1NFg8tW3QP_fZ36yZbXf3hYX1G04"
+},
+{
+"id": "349981362413",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Tristan, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x59W3___zb2My6m1W2PFdPV3SSm8nW2zKtbX3HcXP2W2KSWR42nGJjwW30D0r_21lJXsW3bbTHZ1Y-LkHW4r9ZdR3LWnYdW4kBQK43j6WZyW1_9nxs2pbnq0W2MGmzh4cGh4bW2s_Cvn4tzCPnW3bg6K63QQtN7W2MwrMq3NCTf2W2KWqbt2Tslj0W3LTkNB38dJKmW2r4lNs2qQ0-DW2xzmNs1NFmfwW3C7j183XznG7W3VJF7G3K5v0lW2CKC2t3j7GN_W3bjGc-1XsM4SW1Zs8Mq1BNDQYW23n-9J32JQYCW3Fg5CM30t9t1W47nkCv1_jR98W36d5313JH8jNW237MrW4tppDmW21kvYw3d8zCzW4kBTK31Xbd1dW2WGnk13D_GjjW2WGhzW4hq4hxW41TRc52z--YzW3ZSwb42sRVvjW24W7VH4myXlbW49vQxr1BN9NFW3dx4Rj1YZtmPW234QnD231pVr0"
+},
+{
+"id": "350053365987",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Charu, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2wWTW1Lfdvq3ZNRV2W2RNb9c4pyHCfW47kvSv3LTP9xW47QCCS2s_CHnW23hGLG2PWvL_W4r7VcL4fxTB4W2HtNVV3hZhS6W3VXGmF4cLxzZW3dsht-2MCTyGW1BqT9N1W-tFLW3LNp3943Kf9fW45FNty49rsdsW2CxKsP3NWGvgW30BSfb34BMSdW49mP0p43JrFbW2D0VrT3D_bFkW4ctK9L2FDrztW3JSLzf4fHP1MW2FFcKv3C9RnhW3y_8j14hKkknW1NzY0432nl5dW2WDKHg1V7tddW4fQvfM1QrG2JW3b2YT42Ycp-zW41n8wk3_KfQVW41sG-03P6LwlW2WjfDK2p2yl4W2y2_P52TxXVcW2PyG6G47vZm5W2KQp593S-LXsW3b2tSv1QDKclW4cdTPG2-pCNkW32bMph2pbp-_W1BCsdz1ZvGvWW3JR1c91NgmNrW1LkrVF3CcVkTf1BN6wc04"
+},
+{
+"id": "350055199935",
+"subject": "Thought this might be up your alley",
+"text": "Hi Karin, \n\nWe\u2019re running a short 20-minute masterclass next week that dives into advanced LiDAR annotation workflows. \n\nIf you or your team are working with 3D data, especially point clouds for perception models, it could be worth your time. We\u2019ll show some fast ways to label LiDAR with less manual work using Encord. \n\nNot a webinar, not a sales pitch \u2014 just a solid walkthrough for folks doing real annotation at scale. \n\nYou can save your spot here: https://encord.com/webinar/product-masterclass-labeling-lidar/?utm_source=annabel+outbound+&utm_medium=email&utm_campaign=Aug+Product+Masterclass+. \n\nCheers, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x05W4rzn7D2Mws_CW2sxJVZ2CCs1rW41DpM12FFfKzW21nnl33DXWqRW3T6jLQ2zvmTBW4mmxCH2CP0XVW4fK28k3yZ8H8W1NyNvF3SKJ60W25hRf33NQdCXW2t3Qrv2HGkjBW3dtdcn3yWB93W3dv0rC3gcD22W2Wxjq14rwW5jW2PS8cN3Fch-TW2FYWDV4mJmNbW47NFc23JVMPFW1SgP7q327T7sW2-bkqx4p7LpNW3dr-9h32BcJ_W4mb15_3Kd5fKW1QBCl_2zZkhSW41zYWT49NlRvW3P4dBp4mlHD4W257sQg2KxvFSW3z00X23QDV96W2x_-Hm4hxcs2W3Qzx822nPr6NW3yN-5Z4kkKRRW1L6Cj33_K9ZbW1ScRVB3j5yY2W4mm8Hy43YKbDW1SBQGS4tpnY1W4kkKbW2sLsKgW4pH18G3NPRj1W1N3TVy3VxXv6f4tf2F104"
+},
+{
+"id": "350066129098",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Chris, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2wX8W4hxGSy2z-cdmW3jtzxw45x1M-W45vnb8367wwbW1ShZ8W43WdbZW3SKHlh4hPqK-W4cJqsM3XZ5GDW1Lgx1N34HP1cW2zPBBf2YG4vnW49yH2L3K2txsW2FKQlV4tj2DmW2zYs3C1BpbbcW3T5V332CtnGNW1_9lJp2Pl6fKW1-VwCp2RsvnFW1LFvQ_1St-MjW38D0N82HRx6GW3g0VxX2qQsCFW3Xxgh12-p93_W2CJlQ83Vz3y5W1BCqXP4rkpSmW4ckTHm2Cws2wW4p9P6r4r7Y0KW2Pyjfx4rw08tW4fRdKZ2HHzVNW38zY6d3FdZTXW4tp1lR2WL6zGW3VHP2F2-lFGvW4kCg5p3g23xCW4chMyF36d03JW3Hbg6H3M7h_jW43N5NC4hdSsyW3SYN3V49S8r3W1-Y2-H3ZHLppW2vBM714tGcqHW2FD4dC1Lhjx9W3C39741BsYbqW2zG7jS3Y24L30"
+},
+{
+"id": "350066133199",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Andrew, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nThao Nguyen\nGrowth\n\nSan Francisco | London\nCord Technologies. Inc (dba. Encord) |\u00a0832 Sansome St.,\u00a0San Francisco, CA 94111\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x8KW4ck2TL2RNzsPW3Cjwhz3yL0knW2TBmc23V_TKLW4kB2bl2PwG83W2YmmFD1Nyg0qW4mJtLG3V-ZcsW2HpCZj4hnS2nW2vNnF33SytfTW3M2jLS45QTRsW3JXtp-1NtbxVW2sF5CQ4kl6BgW2MNbp93_sZ8QW2p2wMy3QD27NW3SR4NB4fcp8JW2WtJBY2vSZfWW3JYFxs3b5rhpW3VK31-3F7_fhW3bvzFB2RR0ByW4mB-2K4t5bg1W3NWcC53g8fXsW2qWSFl4mblShW1Lg_SK3J-S2nW250nMs3GRJ6SW1R_qcY32hSrTW3bd2N11V24slW3Y1J2r3dj2hxW2Ws4HD2YhypSW3DXWxb3yQbnwW1Qb0XG1Zw2jDW43T-9h3BQlKMW2KQQhw30pprDW3KcFjJ4pDrjHW49J7Kk2-ljMkW1Lp7qD3GFFY4W43PRzV3dr6DmW2MML10384NzvW34vrYv2-Gl970"
+},
+{
+"id": "350075142333",
+"subject": "Quick question on CV edge cases",
+"text": "Hi Michal, \n\nI\u2019ve been speaking with ML teams recently, and a common theme keeps coming up: models that look great in testing often stumble in production because of edge cases (rare scenarios, data shifts, or annotation gaps). \n\nOur team is chatting about how to actually spot where models are failing and ways to prioritize what data to label so you\u2019re not wasting effort or engineering resources. \n\nWould you be open to joining? I think as someone working in this space, it could be valuable. \n\nFeel free to learn more or grab a spot here: https://encord.com/webinar/sept-masterclass/?utm_source=annabel+outbound&utm_medium=email&utm_campaign=Sept+Masterclass! \n\nBest, \n\nContent Manager\n\nEmail: annabel@tryencord.com\nWebsite: www.encord.com: http://www.encord.com/ | LinkedIn: Encord: https://www.linkedin.com/company/encord-team/about/\nAddress: Eastcastle St, London W1W 8DE\n\n-- \nIs this email not relevant to you? Click here: https://d2-bdL04.eu1.hs-sales-sub.com/preferences/en/manage?data=W2nVjwf3Y2x0lW1XbbPV3K54qMW1XbD_44fvpz8W3jkKNj3JJn71W2B0KYZ3bzmtXW4ft_ld3QZnPNW2FMwrZ3BYx2PW34vQN_3Cc5hLW3NTYJ32WHxWnW23ftLz3_rjdnW25fmH83dwGFQW4cHBvY4mJrthW4fB1MR2RNx4HW2RDfY91L5kpnW41YVq1219w-CW2RzMhx3Xy0L-W2Kz85H3gcK27W2HCmf92y2tHmW4tfyHG4rg8rtW34jQHV4fjV06W38t_323QQV_sW1BLYHs2z_PbTW2r1xPX2KNQSMW23rsqT3Hbd6LW217r4d1Bpz_yW3LRj633bgCf7W1BfcYj41-9trW2nHzLn47R3QLW2vxWMF3bd07hW3b2srJ1SfxV7W49Vb9R4cxFbsW257Zfg4kfxMhW3jvngh34D1M4W2YDw392zHpKWW215sNH3SDcrGW3gwTlR219ZNkf3QCc5704"
+}
+]

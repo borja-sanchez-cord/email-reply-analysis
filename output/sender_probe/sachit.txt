@@ -1,0 +1,276 @@
+SENDER: sachit
+8 sample first-touch emails
+
+--- email (subject: Re: KUKA x Encord demo) ---
+Hi all,
+
+Following on from the demo last week, wanted to share the recording:
+https://us-12330.app.gong.io/e/c-share/?tkn=880pus1ygucb19s7puo74r7ef
+
+I've also put in a placeholder for 25th August to catch up. If anything
+comes up from your internal debrief in the meantime then happy to chat.
+
+Kind Regards
+
+Sachit Shenai
+
+Physical AI PM
+
+*Encord *
+
+London / San Francisco / New York
+
+--- email (subject: Follow-on from ST Engineering discussions) ---
+Hi Ryan,
+
+I've been speaking to some members of the ST Engineering team, and thought
+it would be worth sending you this email.
+
+At Encord, R&D groups like Honda Research Institute and Toyota's Woven
+Planet use us to compress the data-side of the research loop: curating
+multimodal datasets, annotating perception data, and iterating model evals
+without standing up bespoke pipelines per project.
+
+For ST Engineering's R&D portfolio (drone swarms, autonomy, defense AI),
+the time we typically save is on the unglamorous middle: getting raw flight
+and sensor data into a state where it's ready to train and re-train on.
+Researchers spend more time on the model, less on the data plumbing.
+
+Happy to walk through how it's set up at peer R&D groups. Worth 20 mins?
+
+Kind Regards
+
+Sachit Shenai
+
+*Physical AI PM*
+
+*Encord *
+
+London / San Francisco / New York
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: The data-layer question behind VLAs and world models) ---
+Hi Wilson,
+
+I've been speaking to some members of the ST Engineering team, so thought
+it would be worth speaking to you too.
+
+At Encord, we sit underneath the physical-AI stack as the data layer
+(collection, curation, multimodal annotation, eval) for teams training VLA
+models, world models, and embodied agents.
+
+If you're scanning frontier bets for ST Engineering's 3–5 year roadmap, the
+question worth pressure-testing is: how will ST capture, curate, and align
+the petabyte-scale multimodal streams that VLA and world-model training
+will demand? Most groups discover the data layer is the rate-limiter on
+capability, not the model side.
+
+Happy to share what we're seeing across frontier-research groups (Toyota
+Research, Forterra, and others) without a pitch.
+
+Kind Regards
+
+Sachit Shenai
+
+*Physical AI PM*
+
+*Encord *
+
+London / San Francisco / New York
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Encord's EMM-1 dataset for Eureka Robotics) ---
+Hi Duy Le,
+
+I spoke to Bac Nguyen yesterday, who suggested reaching out to you about
+Encord and how we could optimise your multimodal data annotation pipelines,
+the same way we do for Boston Dynamics and Pickle Robot.
+
+Thought I'd share the release of EMM-1
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3kMW3DCkPq7vXHBBW1MqyL25YfTmnW1zmwjJ4YT2YRVybvln7NRqYdW10DgvN14QY18W7sPfSc8f9wR_W7b8WTS3vp0JhW13gNZL44r6LgW31KBvY6vyvMFW6cMCSd5SqBrfW5kVfR844DXvKW3VDZTp4KhcJCW5bcMWl7_bWtpW90lvxR4p7zQ2W79XjR15R07w3W2sHwvF4rP-KrW2rJhgw48jqgDW7sCm_n1wjccXN2lgjRrP-3_rW7zjkBz4XJYXgW4LNbY-3RHmvMW9d6qng6lpBnkf1PDbJY04>
+- the world's largest open-source multimodal dataset, with 107 million
+image, video, text, audio and point cloud embeddings. I think it might be
+relevant to some of the work you're doing at Eureka Robotics.
+
+Our engineering team has been building out dataset curation and label
+validation tooling specifically for physical AI teams at this stage of
+scale - we'd love to get your take on what we've shipped.
+
+Would you be open to a quick 15-minute chat to take a look, see if there's
+any overlap, and share some honest feedback?
+
+Kind Regards
+
+Sachit Shenai
+
+Commercial Associate
+
+[image: image.png]
+
+Email: sachit@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3mpW5Xwm9981Fl6cW11RMpx1lNyv2VH5FFY72XD41W8WzTX32Ss4gpW35sR0N127NqCW1Zdzcw8xKdn3N3zS5hqQWdBCW3bnk1t70vBtDW74KNHM31KtdSW7xvXFB2Yd-94W6JnBxV4YRXcBW3d3Bml6rh57gW88Ggxd8pSwvjW3YVhZX2P2LV_W10NkrV8zjbvlW6MXBJj8-sByPW5KMtp96ThWqmW1mH-Bg1JCn4RW3sfSRf832PTQW5SkD8j6Mgz4HW2yYtRz7PLhXHW9lf_dR4txWDXW3ZKrN07c8fZpW95Gz374cln2xf5c_XW-04>
+
+Reg Address: 12 Macklin Street, London WC2B 5NF
+
+-- 
+*This email and any files transmi
+
+--- email (subject: Re: Encord X MTC) ---
+Hi Mohamed,
+
+Thanks for your email. Happy to schedule an intro and demo call, however
+prior to doing so, would you be able to share more information on the
+project? We don't normally work on a project-by-project basis, and instead
+operate on a yearly subscription model, so would like to ascertain if this
+is something feasible for the MTC before progressing please.
+
+Kind Regards
+
+Sachit Shenai
+
+Physical AI PM
+
+*Encord *
+
+London / San Francisco / New York
+
+On Tue, 21 Jul 2026 at 09:43, Mohammed Begg <Mohammed.Begg@the-mtc.org>
+wrote:
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please notify the sender 
+immediately by replying to this email and delete it from your system. 
+Please do not copy, distribute, or take action based on the contents of 
+this email if you are not the intended recipient. Any unauthorized use or 
+disclosure of this email's contents is strictly prohibited.*
+
+--- email (subject: Vivid Machines' annotation pipeline) ---
+Hi Pegah,
+
+Saw Vivid Machines is building plant-level CV at scale: annotating for
+disease, pests, and fruit counts across variable outdoor conditions is a
+serious labelling challenge when rare cases matter most.
+
+We worked with Pollenize
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jll2-6qcW7Y8-PT6lZ3nsN5Mz9MjhXVMgW74vnll7zsqjWW4QQlVQ8sVXHXW9fZLRx4TqgKtW84yFLP8M0SZfW8T3n4m4DwRxBN15lsyqc6B-WW4CFpWX5f4RFbW7tgMr72pKl7KW2XhL8j5TZL1LW71Kfcv7WRmDPVCVKH31CTqyhW5r8sBP3JGByqW7s1lk-61cZD_W70Rn4l2s9DQ2W8Vsk-F1RBZJpW18r7s36KbZ-4W1tHSd_5W67X3W62ZFt26fb7kxW5PydSD8fDS4bW3--hMG4VchVsW6hgxDQ4l34QBW1g7JcR2W7yZ6W180ljc7j9NvrW3GDKNR6zf-llW23Qf034yCpdlf1L-tB204>
+on a similar agtech CV pipeline. They cut labelling costs by 60-80% on
+high-complexity annotation using Encord. We also have a deep-dive on CV in
+agriculture
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3kYW14DRwR9kgzSVW6YM0CN3rVntfMyFq68TPYHpN6gTgLC1KWhdW74ptyK88zwn2N8HzYd3fqvzlW5wqmBC81_XtnW6KgYjm6j6GRjW8F1LFY6GbSjtW2ZVcbG6pRgbYW4SLJ9m6pZwrwW5W9t7s4lwMzYW4CDblJ3HlrBnN5kYqMhG6RnGW61_Tnz4pZTGhW5SbDSF7KjKjWW8HDkSZ1QrB9NW3lKGYR2f0NL1W6XrsFD8D2zBLW41trHL6XksVXW4S_LlJ5XVWc_W4xxnCb63jKcgW6NxxX13JNsx8W5Sf5V846-Mz0f6V734H04>
+worth a read.
+
+Worth a quick 15 minutes to see if there's any overlap?
+
+Kind Regards
+
+Sachit Shenai
+
+Commercial Associate
+
+[image: image.png]
+
+Email: sachit@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3lCW5Cjbt55V1jtVW1wzTT67RMVWwW444l-b9lPsC1W5JTklZ2PY7scW2PZXBT6qtyh7W2QCsZ-8_HVHhMmmP6MGhxRpW48vVvS66sRd7W29Qcrl2mLHHnW4RdLgs3BlhKxW11-bpS6Qk-bHVZvgq47bk66hW7XP6Bk9dNrjkW2XdPG57vzb5XW6GNVPQ6ZZlm5W3fW5yb6Vr2CtW900l-x2jMctsW3-R0d037gZZ0W4S5gdS4_P4jnW3Fyxp62W50F4Vtn4V-8wq0hCW13F
+
+--- email (subject: Encord follow-on from call) ---
+Hi Vishaal,
+
+Looking forward to our chat on Monday. Ahead of it, wanted to share some
+context on Encord and why I think there's a fit with the work you're doing
+at UR / Teradyne.
+
+Encord is a development platform for multimodal AI. Teams use us to
+annotate, curate, and evaluate training data across images, video, point
+clouds, and depth: the modalities that sit at the core of robot perception.
+Given your focus on grasp pose estimation, IMO segmentation, and surface
+reconstruction, a few things tend to resonate with research engineers
+working on similar problems:
+
+   1. Multi-view and 3D-native labeling. Native support for synchronized
+   RGB-D, LiDAR, and multi-camera rigs, with 3D cuboids, point cloud
+   segmentation, and surface annotation: useful when ground truth has to be
+   consistent across views.
+   2. Closing the learning-from-interaction loop. Workflows for ingesting
+   interaction data, surfacing high-uncertainty or failure cases, and routing
+   them back into labeling or active learning queues.
+   3. Data curation at scale. Embedding-based search and quality metrics to
+   find edge cases (rare objects, unusual grasps, occlusions) inside large
+   unlabeled robotics datasets.
+   4. Model evaluation. Comparing model versions on slices of data, e.g.,
+   performance by object category, lighting, or scene complexity, without
+   rebuilding eval harnesses each time.
+
+Happy to walk through how a few teams working on manipulation and
+perception are using the platform, such as Fox Robotics and Dexterity.
+
+Kind Regards
+
+Sachit Shenai
+
+*Technical PM*
+
+[image: image.png]
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3pWW32N7j-5J3tT9W67HwjP4gnW8WW4xn5Zv4pndjsW13VS7b7Ghg4qN8qwzjFY-g2LW5fX5F94Z1G
+
+--- email (subject: Boston Dynamics' multimodal data management solution) ---
+Hi Hung,
+
+We recently released EMM-1
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/JkM2-6qcW6N1vHY6lZ3kwW13T6-l7JNLrQW74x0tn3-P9CvW8K5Myl425d4VW3-Wgp44ByTrbW7fF5_m8dxZLGVTJtJM1yvYY6V9pDYp69RMVrW5lDpXC19Lkq9W7K7p9t8f9c-hW7wc_Q98myLkzW6My5fR6p3RtFW34F6m58-1mn9VjPVVm4zgvVdW1Xb8c894RxwGW6VYlxZ7n3XwvW1wJVQ46SMbyKW4JW04P5P_lblW3wGr0d6xbb8VW7Kf4yW7nFHKhW7RDxgX32jT_KW1vtl7P20MhcCN5bd7SlgCK0Zf8BxQHd04>
+-
+the world's largest open-source multimodal dataset, with 107 million image,
+video, text, audio and point cloud embeddings - and thought it might be
+relevant given the vision and 3D data challenges behind HA-HA robotic
+systems.
+
+Our team has been building dataset curation and label tooling specifically
+for visual AI teams at this stage of scale - we're working with teams like
+Boston Dynamics and 1X, and would love to get your take on what we've
+shipped.
+
+Would you be open to a quick 15-minute chat to take a look, see if there's
+any overlap, and share some honest feedback?
+
+Kind Regards
+
+Sachit Shenai
+
+Commercial Associate
+
+[image: image.png]
+
+Email: sachit@encord.com
+
+Website: www.encord.com | LinkedIn: Encord
+<https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F+23284/d2-bdL04/Jl22-6qcW7lCdLW6lZ3nXW1JHCG85FZKFpW95t3728jYQdsW69KRKZ8YbxNBW8CNwSM27-fpRW1vkcFV1bFlbqMgtM0yG3312W9crndn3PCNqLW8YCmrz1HKZxwW31fzFM1vrK5PW1tgfQZ1MtbXhW12j9jl1cJVFRW6L7hBD2pnYtkW6GFMYh4FgHVqW2Pp9cg1dD8JHW1F6l255GByWBW2YYchh74N_F0W2B1GxV5Hkr48W4N591z8x7YddW2L9GGg5zjmjtW3z9dF58vZ0hnW4hJ7W-86j9j3W9dkL3X3GfD84W5kw42x6HL8YSW8pFDrz2vl299f8DZzRM04>
+
+Reg Address: 12 Macklin Street, London WC2B 5NF
+
+-- 
+*This email and any files transmitted with it are confidential and intended 
+solely for the use of the individual or entity to whom they are addressed. 
+If you have received this email in error, please no
