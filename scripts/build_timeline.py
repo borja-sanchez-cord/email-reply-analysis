@@ -1,17 +1,18 @@
-"""Step 2a — normalise the raw universe into two tables (no eligibility decisions here).
+"""Step 2a — normalise the raw universe into three tables (no eligibility decisions).
 
 Outputs:
-  data/emails_norm.parquet   one row per email engagement, cleaned fields
-  data/touches.parquet       one row per (outgoing email × external To-recipient)
+  data/emails_norm.parquet   one row per email engagement, cleaned + flags
+  data/touches.parquet       one row per (true outbound email × external To-recipient)
+  data/inbound.parquet       one row per inbound email (both capture routes, deduped)
 
-Decisions made here (mechanical, documented):
-  - The "to" field is semicolon-separated and may contain display names
-    ("Jane Smith <jane@co.com>; bob@x.io") — parsed with a real address extractor.
-  - Internal domains are found from evidence: domains that appear as *senders* of
-    outgoing mail at scale. Printed for review, then hard-coded after inspection.
-  - Warm-up traffic flagged by subject markers (from the reused pulling machinery).
-  - Nothing is dropped except exact-duplicate engagement ids; all flags are columns,
-    so every later filter is explicit and auditable.
+Semantics per docs/03_data_model_discoveries.md:
+  - Internal sender domains: encord.com, encord.ai, tryencord.com, cord.tech.
+  - Apollo logs inbox mail as direction=EMAIL with subject markers
+    "[Apollo] [Email] [<<]" / "Email: <<"  (inbound)   and ">>" (outbound).
+  - Inbound = external INCOMING_EMAIL + external Apollo-inbound, deduped on
+    (from_email, normalised subject, timestamp bucket ±1h).
+  - Touches = internal-sender outbound (NOT inbound-logged, NOT warmup) exploded
+    to external To-recipients.
 """
 import glob
 import gzip
@@ -19,7 +20,6 @@ import json
 import os
 import re
 import sys
-from collections import Counter
 
 import pandas as pd
 
@@ -27,15 +27,15 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 
 WARMUP_MARKERS = ("lemwarmup", "lemwarm", "amplemarketwarmup", "warmupemail")
-
 ADDR_RE = re.compile(r"[A-Za-z0-9._%+\-']+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}")
+INTERNAL_DOMAINS = {"encord.com", "encord.ai", "tryencord.com", "cord.tech"}
 
-# Set after inspecting sender-domain distribution (printed by this script).
-INTERNAL_DOMAINS = {"encord.com", "cord.tech"}
+APOLLO_IN = re.compile(r"^(\[Apollo\] \[[^\]]+\] \[<<\]|Email: <<)\s*")
+APOLLO_OUT = re.compile(r"^(\[Apollo\] \[[^\]]+\] \[>>\]|Email: >>)\s*")
+APOLLO_ANY = re.compile(r"^(\[Apollo\] \[[^\]]+\] \[[^\]]+\]|Email: (<<|>>))\s*")
 
 
 def parse_addrs(raw):
-    """Extract lowercase addresses from a semicolon-separated field with display names."""
     if not raw:
         return []
     return list(dict.fromkeys(a.lower() for a in ADDR_RE.findall(raw)))
@@ -58,7 +58,6 @@ def main():
                     "from_email": (p.get("hs_email_from_email") or "").lower().strip(),
                     "to_raw": p.get("hs_email_to_email") or "",
                     "to_raw2": p.get("hs_email_to_raw") or "",
-                    "cc_raw": p.get("hs_email_cc_email") or "",
                     "thread_id": p.get("hs_email_thread_id"),
                     "message_id": p.get("hs_email_message_id"),
                     "source": p.get("hs_object_source"),
@@ -74,33 +73,72 @@ def main():
     df["is_warmup"] = subj_l.apply(lambda s: any(m in s for m in WARMUP_MARKERS))
     df["to_addrs"] = (df["to_raw"] + ";" + df["to_raw2"]).apply(parse_addrs)
     df["from_domain"] = df["from_email"].str.split("@").str[-1]
+    df["is_internal_sender"] = df["from_domain"].isin(INTERNAL_DOMAINS)
+    df["apollo_inbound"] = df["subject"].str.match(APOLLO_IN)
+    df["apollo_outbound"] = df["subject"].str.match(APOLLO_OUT)
+    df["subject_clean"] = df["subject"].str.replace(APOLLO_ANY, "", regex=True)
 
     print(f"{len(df)} emails after dedup")
-    print("\ndirection counts:")
-    print(df["direction"].value_counts(dropna=False).to_string())
-    print("\nsource counts:")
-    print(df.groupby(["source", "source_detail"], dropna=False).size().to_string())
-    print("\ntop 25 outgoing sender domains:")
-    out_mask = df["direction"].isin(["EMAIL", "FORWARDED_EMAIL"])
-    print(df.loc[out_mask, "from_domain"].value_counts().head(25).to_string())
-    print(f"\nwarmup-flagged: {df['is_warmup'].sum()}")
-    print(f"outgoing rows with zero parsed recipients: "
-          f"{(out_mask & (df['to_addrs'].str.len() == 0)).sum()}")
+    print(f"apollo_inbound={df.apollo_inbound.sum()}  apollo_outbound={df.apollo_outbound.sum()}")
 
-    df["is_internal_sender"] = df["from_domain"].isin(INTERNAL_DOMAINS)
-    dfx = df.drop(columns=["to_raw", "to_raw2"])
-    dfx.to_parquet(os.path.join(DATA, "emails_norm.parquet"), index=False)
+    # ---- inbound table ----
+    inc_a = df[(df["direction"] == "INCOMING_EMAIL") & ~df["is_internal_sender"]].copy()
+    inc_a["route"] = "mailbox_sync"
+    inc_b = df[(df["direction"] == "EMAIL") & df["apollo_inbound"]
+               & ~df["is_internal_sender"]].copy()
+    inc_b["route"] = "apollo_log"
+    inbound = pd.concat([inc_a, inc_b], ignore_index=True)
+    # dedup across routes: same sender, same normalised subject, same hour-bucket
+    norm_subj = (inbound["subject_clean"].str.lower()
+                 .str.replace(r"^(re|fwd?|aw)\s*:\s*", "", regex=True)
+                 .str.replace(r"\s+", " ", regex=True).str.strip().str.slice(0, 60))
+    bucket = inbound["ts"].dt.floor("2h").astype("int64")
+    key = inbound["from_email"] + "|" + norm_subj + "|" + bucket.astype(str)
+    inbound["dedup_key"] = key
+    before = len(inbound)
+    inbound = inbound.sort_values("route", ascending=False)  # keep mailbox_sync first? no:
+    # prefer mailbox_sync rows (they carry thread_id); sort so mailbox_sync kept
+    inbound["route_rank"] = (inbound["route"] != "mailbox_sync").astype(int)
+    inbound = (inbound.sort_values(["dedup_key", "route_rank"])
+               .drop_duplicates("dedup_key").drop(columns=["route_rank", "dedup_key"]))
+    print(f"inbound: {before} rows -> {len(inbound)} after cross-route dedup "
+          f"({(inbound['route'] == 'mailbox_sync').sum()} mailbox_sync, "
+          f"{(inbound['route'] == 'apollo_log').sum()} apollo_log)")
+    inbound = inbound.drop(columns=["to_raw", "to_raw2"])
+    inbound.to_parquet(os.path.join(DATA, "inbound.parquet"), index=False)
 
-    # touches: outgoing email × external To-recipient
-    t = df[out_mask & df["is_internal_sender"] & ~df["is_warmup"]].explode("to_addrs")
-    t = t.rename(columns={"to_addrs": "recipient"}).dropna(subset=["recipient"])
+    # ---- emails_norm ----
+    df.drop(columns=["to_raw", "to_raw2"]).to_parquet(
+        os.path.join(DATA, "emails_norm.parquet"), index=False)
+
+    # ---- touches ----
+    out_mask = (df["direction"].isin(["EMAIL", "FORWARDED_EMAIL"])
+                & df["is_internal_sender"] & ~df["is_warmup"] & ~df["apollo_inbound"])
+    t = df[out_mask].explode("to_addrs").rename(columns={"to_addrs": "recipient"})
+    t = t.dropna(subset=["recipient"])
     t["rcpt_domain"] = t["recipient"].str.split("@").str[-1]
     t = t[~t["rcpt_domain"].isin(INTERNAL_DOMAINS)]
+    # channel: how this send reached the prospect
+    t["channel"] = "other"
+    t.loc[t["source"] == "EMAIL", "channel"] = "mailbox"
+    t.loc[(t["source"] == "INTEGRATION"), "channel"] = "sequencer"
     t = t[["email_id", "ts", "recipient", "rcpt_domain", "from_email", "owner_id",
-           "source", "source_detail", "subject", "thread_id", "status", "bounce_msg"]]
+           "source", "source_detail", "channel", "subject_clean", "thread_id",
+           "status", "bounce_msg"]]
+    # dedup: same send captured twice (mailbox sync + Apollo >> log)
+    nsub = (t["subject_clean"].str.lower().str.replace(r"\s+", " ", regex=True)
+            .str.strip().str.slice(0, 60))
+    tb = t["ts"].dt.floor("2h").astype("int64")
+    t["dedup_key"] = t["from_email"] + "|" + t["recipient"] + "|" + nsub + "|" + tb.astype(str)
+    before = len(t)
+    t["ch_rank"] = t["channel"].map({"mailbox": 0, "sequencer": 1, "other": 2})
+    t = (t.sort_values(["dedup_key", "ch_rank"]).drop_duplicates("dedup_key")
+         .drop(columns=["dedup_key", "ch_rank"]))
+    print(f"touches: {before} -> {len(t)} after cross-route dedup")
+    t = t.sort_values(["recipient", "ts"]).reset_index(drop=True)
     t.to_parquet(os.path.join(DATA, "touches.parquet"), index=False)
-    print(f"\ntouches (outgoing, internal sender, external To-recipient, non-warmup): {len(t)}")
     print(f"distinct recipients: {t['recipient'].nunique()}")
+    print(t["channel"].value_counts().to_string())
 
 
 if __name__ == "__main__":
