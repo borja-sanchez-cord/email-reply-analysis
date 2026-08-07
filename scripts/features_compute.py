@@ -21,10 +21,15 @@ import sys
 import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from text_clean import html_to_text, strip_quoted, split_signature
+from text_clean import html_to_text, strip_quoted, split_signature, unwrap, tidy
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
+
+UNSUB_TAIL = re.compile(
+    r"(is this email not relevant to you|prefer fewer emails from me|"
+    r"this email and any files transmitted with it are confidential).*",
+    re.I | re.S)
 
 URL_RE = re.compile(r"https?://[^\s<>\)\]]+", re.I)
 SENT_SPLIT = re.compile(r"[.!?]+[\s\n]")
@@ -39,15 +44,36 @@ ROLE_WORDS = re.compile(
 
 
 def clean_body(p):
+    """Return (body_text, fmt) where body_text is the message body (quoted trail,
+    signature and unsubscribe footer removed, hard wraps joined) and fmt counts
+    formatting markup **inside the body only**.
+
+    Formatting is measured on the HTML rendering with offset tracking: signature
+    blocks carry logo <img> tags and bold contact lines, and counting those as
+    body formatting inflated has_bold to 77% and n_images to 75% of all emails
+    (audit finding, 2026-08-07).
+    """
+    html = p.get("hs_email_html") or ""
+    fmt = {"n_images": 0, "n_bullets": 0, "bold_chars": 0, "has_html": bool(html)}
+
+    if html:
+        raw_html_text, meta = html_to_text(html)
+        # locate the body region within raw_html_text (offsets valid there)
+        cut_src = strip_quoted(raw_html_text)
+        cut_src = UNSUB_TAIL.sub("", cut_src)
+        body_part, _sig = split_signature(cut_src)
+        # body_part is a prefix of raw_html_text up to whitespace normalisation;
+        # use its length as the offset threshold (conservative: quoted-trail and
+        # signature removal only ever shorten the prefix)
+        limit = len(body_part)
+        fmt["n_images"] = sum(1 for o in meta.get("images", []) if o < limit)
+        fmt["n_bullets"] = sum(1 for o in meta.get("bullets", []) if o < limit)
+        fmt["bold_chars"] = sum(n for o, n in meta.get("bold_runs", []) if o < limit)
+
     text = p.get("hs_email_text") or ""
-    meta = {}
-    if not text.strip() and p.get("hs_email_html"):
-        text, meta = html_to_text(p["hs_email_html"])
-    else:
-        # links/format signals from html when available even if text exists
-        if p.get("hs_email_html"):
-            _, meta = html_to_text(p["hs_email_html"])
-    return strip_quoted(text), meta
+    if not text.strip() and html:
+        text = html_to_text(html)[0]
+    return strip_quoted(tidy(text)), fmt
 
 
 def norm_name(s):
@@ -68,39 +94,67 @@ def personalisation_stripped_hash(body, first, company):
     return hashlib.md5(t.encode()).hexdigest(), len(t)
 
 
+
+
 def featurize(rec, contact):
     p = rec["properties"]
     subject = p.get("hs_email_subject") or ""
     raw_body, meta = clean_body(p)
+    raw_body = UNSUB_TAIL.sub("", raw_body)  # audit finding: footers survive signature split
     body, signature = split_signature(raw_body)
+    # audit finding: hard-wrapped plaintext made lines look like sentences and
+    # truncated questions at the wrap point — unwrap before any text measurement
+    body = unwrap(body)
 
     first = norm_name(contact.get("firstname"))
     company = norm_name(contact.get("company") or contact.get("organisation_name"))
-    if len(first) < 2:
+    # audit findings: 2-letter names ("Or") match prose; short common-word companies
+    # ("Speak") match verbs. Names need >=3 chars + word boundaries; single short
+    # company words require the capitalised form in the original text.
+    if len(first) < 3:
         first = ""
     if len(company) < 3:
         company = ""
+    company_needs_case = bool(company) and (" " not in company) and len(company) <= 6
 
-    words = re.findall(r"[A-Za-z0-9''\-]+", body)
-    paragraphs = [x for x in re.split(r"\n\s*\n", body) if x.strip()]
-    sentences = [s for s in SENT_SPLIT.split(body) if s.strip()]
+    # n_links BEFORE removing urls (body has signature stripped already)
+    n_links = len(URL_RE.findall(body))
+    # all word/sentence/question features are computed with URLs collapsed to a
+    # single token — otherwise long tracking URLs inflate word counts and their
+    # '?' query strings get counted as questions (audit finding, 2026-08-07)
+    body_t = URL_RE.sub("[LINK]", body)
 
-    # real questions: '?' sentences in body (signature/footer excluded by split),
+    words = re.findall(r"[A-Za-z0-9''\-\[\]]+", body_t)
+    # paragraphs: blank-line-separated blocks with >=4 words (skips stray single-line
+    # artefacts from html rendering)
+    paragraphs = [x for x in re.split(r"\n\s*\n", body_t)
+                  if len(x.split()) >= 4]
+    # sentences: split on ./!/? followed by space-or-newline OR on newlines that end
+    # a >=4-word line (emails often use bare linebreaks as sentence ends)
+    sent_chunks = re.split(r"(?:[.!?]+\s+|\n+)", body_t)
+    sentences = [s for s in sent_chunks if len(s.split()) >= 3]
+
+    # real questions: question sentences (URLs already collapsed; signature stripped;
+    # body unwrapped so a question is never cut at a line wrap),
     # not matching unsubscribe-footer phrasing
-    q_sents = [s.strip() for s in re.split(r"(?<=\?)", body) if s.strip().endswith("?")]
-    q_sents = [q for q in q_sents if not FOOTER_QUESTION_MARKERS.search(q)]
+    q_sents = [s.strip() for s in re.split(r"(?<=[.!?])\s|\n", body_t)
+               if s.strip().endswith("?")]
+    q_sents = [q for q in q_sents if not FOOTER_QUESTION_MARKERS.search(q)
+               and len(q.replace("[LINK]", "").strip()) > 2]
     first_q = q_sents[0] if q_sents else ""
 
     g = GREETING_RE.match(body)
     greeting_style = g.group(1).lower() if g else ("name_only" if first and
                      body.lower().startswith(first) else "none")
-    greeting_has_name = bool(first and g and first in (g.group(0) or "").lower())
+    # greeting zone = the whole first line (multi-name greetings: "Hi A, B and C,")
+    first_nl = body.find("\n")
+    greeting_zone = body[:first_nl if first_nl > 0 else len(body)].lower()
+    greeting_has_name = bool(first and g and
+                             re.search(rf"\b{re.escape(first)}\b", greeting_zone))
 
-    body_after_greeting = body[g.end():] if g else body
+    body_after_greeting = body[len(greeting_zone):]
     bl = body.lower()
 
-    links = URL_RE.findall(body)
-    n_links = max(len(links), len(meta.get("links", [])))
 
     h, tlen = personalisation_stripped_hash(body, first, company)
 
@@ -112,18 +166,30 @@ def featurize(rec, contact):
         "n_questions": len(q_sents),
         "first_question_words": len(first_q.split()) if first_q else 0,
         "n_links": n_links,
-        "n_bullets": meta.get("n_bullets", 0) + len(re.findall(r"^\s*[•\-\*]\s+\S", body, re.M)),
+        # max, not sum: when the body text came from the HTML rendering the "• "
+        # markers are the same <li> elements the markup counter already saw
+        "n_bullets": max(meta.get("n_bullets", 0),
+                         len(re.findall(r"^\s*[•\-\*]\s+\S", body, re.M))),
         "has_bold": meta.get("bold_chars", 0) > 0,
         "n_images": meta.get("n_images", 0),
+        "has_html": meta.get("has_html", False),
         "subject_chars": len(subject),
         "subject_words": len(subject.split()),
         "subject_is_question": subject.strip().endswith("?"),
-        "subject_has_name": bool(first and first in subject.lower()),
-        "subject_has_company": bool(company and company in subject.lower()),
+        "subject_has_name": bool(first and re.search(rf"\b{re.escape(first)}\b",
+                                                     subject.lower())),
+        "subject_has_company": bool(company and (
+            re.search(re.escape(company[0].upper() + company[1:]), subject)
+            if company_needs_case
+            else re.search(rf"\b{re.escape(company)}\b", subject.lower()))),
         "greeting_style": greeting_style,
         "greeting_has_name": greeting_has_name,
-        "name_beyond_greeting": bool(first and first in body_after_greeting.lower()),
-        "mentions_company": bool(company and company in bl),
+        "name_beyond_greeting": bool(first and re.search(
+            rf"\b{re.escape(first)}\b", body_after_greeting.lower())),
+        "mentions_company": bool(company and (
+            re.search(re.escape(company[0].upper() + company[1:]), body)
+            if company_needs_case
+            else re.search(rf"\b{re.escape(company)}\b", bl))),
         "mentions_role_words": bool(ROLE_WORDS.search(body)),
         "has_signature_block": bool(signature),
         "template_hash": h,
