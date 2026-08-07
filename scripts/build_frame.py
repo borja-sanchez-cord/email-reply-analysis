@@ -88,6 +88,14 @@ def main():
     P = P[~P["empty_body"].fillna(True)]
     waterfall.append(("body not empty", len(P)))
 
+    # Safety net on top of the thread-based exclusion (rules/type_classifier_protocol.md):
+    # the type classifier flags text that reads as mid-conversation. Threads with no
+    # thread_id recorded can slip past the structural check; 4% of cold pitches and 75%
+    # of "other" are flagged this way. Excluded from the analysis corpus, counted here.
+    n_reply_like = int(P["is_reply_like"].fillna(False).sum())
+    P = P[~P["is_reply_like"].fillna(False)]
+    waterfall.append((f"not reply-like text (-{n_reply_like})", len(P)))
+
     P["year"] = P["opener_ts"].dt.year
     P.to_parquet(os.path.join(DATA, f"frame_G{G}.parquet"), index=False)
 
