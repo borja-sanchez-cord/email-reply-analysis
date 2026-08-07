@@ -106,8 +106,15 @@ QUOTE_STARTERS = [
 ]
 
 
+#  "On Thu, 13 Feb 2025 at 13:02, Someone\n<addr> wrote:"  — the header often wraps
+#  across two or three lines, so it must be matched on the joined text, not line by line.
+MULTILINE_QUOTE_RE = re.compile(
+    r"\n\s*On .{0,200}?\bwrote\s*:", re.S | re.I)
+
+
 def strip_quoted(text):
     """Cut everything from the first quoted-trail marker onward; drop '>' lines."""
+    text = MULTILINE_QUOTE_RE.split(text or "", maxsplit=1)[0]
     lines = (text or "").splitlines()
     out = []
     for i, ln in enumerate(lines):

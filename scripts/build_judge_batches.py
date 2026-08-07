@@ -28,7 +28,39 @@ OUT = os.path.join(ROOT, "output")
 
 URL_RE = re.compile(r"(https?://|www\.)[^\s<>\)\]]+", re.I)
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+\-']+@[A-Za-z0-9.\-]+")
-UNSUB_RE = re.compile(r"(is this email not relevant to you|prefer fewer emails from me).*", re.I | re.S)
+UNSUB_RE = re.compile(
+    r"(is this email not relevant to you|prefer fewer emails from me|"
+    r"this email and any files transmitted with it are confidential).*", re.I | re.S)
+DATE_RE = re.compile(r"\b20\d\d[-/]\d\d[-/]\d\d\b")
+
+
+def build_sender_vocab():
+    """Every token that could identify the SENDER — the judge must never see who
+    wrote the email (rules/judge_rubric.md, rule 1). Built from the owner records
+    (first/last names, email local parts) plus the sender locals seen in the data."""
+    vocab = set()
+    owners = json.load(open(os.path.join(DATA, "owners.json")))
+    for o in owners:
+        for k in ("firstName", "lastName"):
+            v = (o.get(k) or "").strip()
+            if len(v) >= 3:
+                vocab.add(v.lower())
+        em = (o.get("email") or "").lower()
+        if em:
+            for part in re.split(r"[._@]", em.split("@")[0]):
+                if len(part) >= 3:
+                    vocab.add(part)
+    roles = pd.read_csv(os.path.join(OUT, "sender_roles.csv"))
+    for local in roles["sender_local"]:
+        for part in re.split(r"[._]", str(local)):
+            if len(part) >= 3:
+                vocab.add(part.lower())
+    vocab.discard("encord")
+    vocab.discard("cord")
+    return vocab
+
+
+SENDER_VOCAB = None
 
 
 def redact(text, first, company):
@@ -36,31 +68,60 @@ def redact(text, first, company):
     body, _sig = split_signature(text)
     body = URL_RE.sub("[LINK]", body)
     body = EMAIL_RE.sub("[EMAIL]", body)
+    body = DATE_RE.sub("[DATE]", body)
     if first and len(first) >= 2:
         body = re.sub(re.escape(first), "[NAME]", body, flags=re.I)
     if company and len(company) >= 3:
         body = re.sub(re.escape(company), "[COMPANY]", body, flags=re.I)
+    # residual sender identity (signature blocks that survived the split)
+    for tok in SENDER_VOCAB:
+        body = re.sub(rf"\b{re.escape(tok)}\b", "[SENDER]", body, flags=re.I)
+    body = re.sub(r"(\[SENDER\][\s,|]*){2,}", "[SENDER] ", body)
     return body.strip()
 
 
+def prune_common_words(vocab, texts, max_share=0.02):
+    """Drop name tokens that are also ordinary English.
+
+    Some reps share a surname with a common word (an owner surnamed "Short" turned
+    "a short call" into "a [SENDER] call"). Any token appearing in more than
+    `max_share` of emails is treated as vocabulary, not identity, and left alone —
+    measured from the corpus itself rather than a hand-written stoplist.
+    """
+    from collections import Counter
+    c = Counter()
+    for t in texts:
+        for w in set(re.findall(r"[a-z]{3,}", t.lower())):
+            c[w] += 1
+    n = max(1, len(texts))
+    kept = {v for v in vocab if c[v] / n <= max_share}
+    dropped = sorted(vocab - kept)
+    if dropped:
+        print(f"  not redacted (too common to be identity): {dropped}")
+    return sorted(kept, key=len, reverse=True)
+
+
 def main():
+    global SENDER_VOCAB
     rescore = "--rescore" in sys.argv
 
+    # Judge every eligible CA opener, independent of the type classifier: judging and
+    # typing are separate blind passes, and filtering to cold_pitch/event_invite at
+    # analysis time keeps the two from depending on each other's completion.
     roles = pd.read_csv(os.path.join(OUT, "sender_roles.csv"))
     ca = set(roles[roles["ca_class"].isin(["confirmed_ca", "fallback_ca"])]["sender_local"])
     P = pd.read_parquet(os.path.join(DATA, "pushes_G30.parquet"))
     S = P[(P["in_study"]) & (P["channel"] == "mailbox") & (P["exclusions"] == "")
           & (P["sender_local"].isin(ca))]
-    types = pd.read_parquet(os.path.join(DATA, "type_labels.parquet"))
-    tmap = dict(zip(types["email_id"], types["type"]))
-    S = S[S["opener_id"].astype(str).map(tmap).isin(["cold_pitch", "event_invite"])]
     ids = set(S["opener_id"].astype(str))
 
     cj = pd.read_parquet(os.path.join(DATA, "opener_contact_join.parquet"))
     cmap = {str(r["email_id"]): (r.get("firstname") or "", r.get("company") or "")
             for _, r in cj.iterrows()}
 
-    items = []
+    # pass 1: collect the raw bodies (needed to decide which name tokens are
+    # actually ordinary English before anything is redacted)
+    raw = []
     with gzip.open(os.path.join(DATA, "bodies_openers.jsonl.gz"), "rt") as f:
         for line in f:
             r = json.loads(line)
@@ -70,14 +131,23 @@ def main():
             text = p.get("hs_email_text") or ""
             if not text.strip() and p.get("hs_email_html"):
                 text, _ = html_to_text(p["hs_email_html"])
-            text = strip_quoted(text)
+            raw.append((r["id"], p.get("hs_email_subject") or "", strip_quoted(text)))
+    SENDER_VOCAB = prune_common_words(build_sender_vocab(), [t for _, _, t in raw])
+
+    items = []
+    if True:
+        for r_id, subj_raw, text in raw:
+            r = {"id": r_id}
+            p = {"hs_email_subject": subj_raw}
             first, comp = cmap.get(r["id"], ("", ""))
-            subj = p.get("hs_email_subject") or ""
+            subj = subj_raw
             subj = URL_RE.sub("[LINK]", subj)
             if first:
                 subj = re.sub(re.escape(first), "[NAME]", subj, flags=re.I)
             if comp and len(comp) >= 3:
                 subj = re.sub(re.escape(comp), "[COMPANY]", subj, flags=re.I)
+            for tok in SENDER_VOCAB:
+                subj = re.sub(rf"\b{re.escape(tok)}\b", "[SENDER]", subj, flags=re.I)
             body = redact(text, first, comp)
             if not body.strip():
                 continue
