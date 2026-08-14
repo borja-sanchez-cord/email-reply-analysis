@@ -118,3 +118,15 @@ The §1 baselines (15.95% / 9.46% on n=14,769) are superseded — see §9.3.
 - Run any analysis before `pytest` is green and the frame invariants hold (§5.5).
 - Look at 2026 results before the 2025 findings are written down and committed. The
   holdout is pre-registered in `rules/eligibility_and_analysis_rules.md` §9.
+
+## Operator decisions, 2026-08-14
+
+- **Relabel scope: the broken bucket only.** 4,030 `other_human` replies, 51 Fable
+  batches. The other 6,927 human replies are NOT relabelled — those intents agree at
+  96% and there is no reason to touch them. Saves ~$140 against relabelling all 10,957.
+- **The tighter cut was offered and rejected.** Relabelling only the 1,552 frame-linked
+  `other_human` replies (20 batches) would leave the reply labels half-fixed, and which
+  replies "matter" shifts when the frame is rebuilt — the same class of mess as §9.2.
+- **`interested` stays a real outcome.** Dropping it was offered as the largest saving
+  and explicitly rejected: "dont save on replies, that matters". §1 stands — every
+  finding carries both numbers.
