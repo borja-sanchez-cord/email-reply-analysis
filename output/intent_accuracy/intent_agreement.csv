@@ -1,0 +1,451 @@
+id,sample,a_intent,a_interested,b_motion,b_interested,b_next_step,b_wants
+121590482131,primary,asks_question,True,asks_for_information,True,True,"Asks the recipient to explain how their 1-3 GB .svs image files can be handled in Encord, since that format is not on the supported list, and links an example file."
+121630065896,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Asks the recipient to find a new time slot for the demo since the proposed week falls on the Lunar New Year holiday, noting they are happy to push it back even to next quarter."
+124498365664,primary,other_human,False,redirects_to_colleague,True,True,Asks the recipient to add Ravi Lambi (rlambi@dori.ai) to the meeting invite as well.
+124674938045,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Proposes 3:30pm tomorrow as the time for their meeting.
+125174080747,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Agrees that tomorrow works for the proposed meeting.
+125315615986,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Proposes connecting at 8 PM PST / 9:30 AM IST.
+125553415374,primary,not_now,False,defers_to_later,False,False,Is not asking for anything now; says they will not be available at the scheduled time and will get back on it.
+125755591904,booster,asks_question,True,asks_for_information,True,True,Asks whether the 5 licenses are floating or single-seat.
+126176061670,primary,not_now,False,defers_to_later,False,False,Says he cannot attend the dinner because he is out of London and asks to be considered for the next one.
+127887833293,booster,referral,True,redirects_to_colleague,True,False,Is not asking for anything; says he forwarded the NDA details and his colleagues will connect with the recipient soon.
+128080871660,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Says this week is not possible and proposes Monday 3 February in the morning as an alternative meeting time.
+128788259029,primary,not_interested,False,declines,False,False,Is not asking for anything; declines the dinner invitation.
+130684557560,booster,referral,True,redirects_to_colleague,True,True,Says he does not know who would oversee such meetings and tells the recipient to try contacting the company's marketing team instead.
+131710956776,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Asks whether the recipient is available Thursdays at 9 AM, offering to find a different time if not."
+133979990217,primary,referral,True,redirects_to_colleague,True,True,"Tells the recipient the credit-card details can be given over the phone and hands the relationship over to her colleague Jacy Pieper, who will assist going forward."
+134860332274,primary,asks_question,True,asks_for_information,True,True,Says they cannot attend due to a previous commitment and asks who else is coming to the meetup.
+134963863783,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; affirms they will do their best to get her.
+135389916395,booster,asks_question,True,acknowledges_only,False,False,Is not asking for anything; thanks the recipient for setting up the next meeting and writes up the demo questions together with the answers already given.
+136294900932,primary,not_now,False,defers_to_later,False,False,Is not asking for anything now; suggests reconnecting in a month or so when their usage ramps up and they expand their data team.
+136610716892,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; confirms they have no dietary restrictions and thanks for the invitation.
+137107895522,primary,asks_question,True,asks_for_information,True,True,"Asks the recipient to accept the coordination-group invite, assist with uploading their sample data and labels, and give initial platform access to six named team members."
+138418459894,primary,other_human,False,defers_to_later,False,False,Is not asking for anything now; thanks for the clarification and says they will regroup with their team and possibly set up a discussion later.
+138857767134,primary,not_interested,False,asks_for_information,True,True,"Asks whether the dinner is in London, noting he will be in the States those days and so cannot make it."
+139079027909,booster,wants_materials,True,requests_document_or_demo,True,True,Asks to be told more about pricing before their upcoming meeting.
+139944036568,primary,other_human,False,asks_for_information,True,True,"Asks how they would get the annotation JSONs back and how long the example labeling task would take Encord's annotators, while sharing a demo video and pricing objections."
+140435224773,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Proposes a call at 5 PM and shares the episode files plus the language annotations to use for the labeling task.
+140649542849,booster,asks_question,True,asks_for_information,True,True,Asks whether moving their annotated projects to another AWS account can be automated so they do not have to do each project individually.
+140809695442,booster,wants_materials,True,requests_document_or_demo,True,True,"Asks the recipient to skip the meeting and email all the update details instead, and to pass along the active supplier number if available."
+141728366831,booster,asks_question,True,asks_for_information,True,True,"Asks for confirmation that statistics like average annotation time per episode can be measured, and if so commits to the discussed $10K/$20K deal and expects an updated proposal."
+142388180180,primary,not_now,False,defers_to_later,False,False,Is not asking for anything now; defers the engagement to the second half of the year due to other product priorities.
+143730962663,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; just says thank you.
+144445392107,primary,asks_question,True,asks_for_information,True,True,"Asks whether their outstanding markups can be assumed accepted, and if not, asks the recipient to route an updated copy of the agreement."
+145154850000,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Says none of the earlier times work and proposes three specific slots next week (Wed 2/26 2pm PT, Thu 2/27 10:30am PT, Fri 2/28 noon PT)."
+145317373173,primary,asks_question,True,asks_for_information,True,True,Asks for recommendations on how to add per-image custom metadata (date collected and robot state) for their S3-uploaded images.
+147413552346,primary,asks_question,True,asks_for_information,True,True,Asks for Encord's Google Workspace customer ID so he can allow-list the domain and finish the storage bucket setup.
+148623696117,primary,other_human,False,acknowledges_only,False,False,"Is not asking for anything; informs the organizer she is vegetarian (dairy ok, no meat or fish) and thanks for the invite."
+149438137586,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Says they can do next week and are on US West Coast time, inviting the recipient to schedule accordingly."
+149496223982,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Confirms Wednesday the 26th at 1:30pm works for him, notes he does not work Fridays, and says open-source data is fine if it includes several resampled series."
+149675651297,booster,asks_question,True,asks_for_information,True,True,Asks the recipient to explain Encord's positions on liability and deliverables and to check internally on the Usage Data definition and call-home functions ahead of tomorrow's discussion.
+149928716519,booster,asks_question,True,requests_document_or_demo,True,True,Asks for an update on the Zipline account and for test-account access for Alex to evaluate another prospective account.
+150879707382,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Proposes coffee at Cafe Kitsune in the West Village at 10:30am Monday and shares his cell number.
+151552309480,booster,asks_question,True,asks_for_information,True,True,Asks for confirmation that the dinner is still happening and for the venue address.
+151709415649,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; says he looks forward to seeing them both soon.
+152249874657,primary,other_human,False,acknowledges_only,False,False,"Is not asking for anything; explains they would not be charged until after the dinner service, so no refund would be needed."
+153634191582,primary,not_interested,False,declines,False,False,Is not asking for anything; states he is currently not interested in working with Encord.
+153710138563,primary,other_human,False,requests_document_or_demo,True,True,"Asks the recipient to create everyone copied on the email as platform users with Perla, Aya, and himself as reviewers, and points to a shared folder with the POC instructions and sample data."
+154038039780,booster,asks_question,True,asks_for_information,True,True,Asks for confirmation that the credit-usage update will arrive weekly and requests that the remaining credit balance be included in it.
+155142934755,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Asks his colleague Sarah to find an hour for an Encord demo with him and Ross Dean about two weeks after he returns from a conference.
+155305605315,booster,referral,True,redirects_to_colleague,True,True,"Gives the go-ahead to reach out to Francesco Muscaridola to arrange a 30-minute call, and suggests resyncing next week about the demo since he is busy."
+155603215585,primary,other_human,False,requests_document_or_demo,True,True,"Asks the recipient to add his email (jun@tumeke.io) to the Tumeke account so he can create the project himself, noting the processed clips are uploading to S3 today."
+155937753279,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; just thanks Alex.
+156018149581,primary,not_now,False,defers_to_later,False,False,Is not asking for anything actionable; asks for a few days to weeks to discuss internally and says she will write back.
+156033564866,primary,other_human,False,proposes_or_accepts_meeting,True,True,Accepts the invitation to speak at the event and offers to provide more information in the run-up.
+156040917227,primary,asks_question,True,asks_for_information,True,True,"Asks for the number of hours actually spent annotating on a monthly basis, given the SOW's 6000 hours and rollover clause, and says payment will be sorted soon."
+156061095111,primary,not_now,False,declines,False,False,Is not asking for anything; says he is on PTO next week and therefore not available.
+156541053160,primary,other_human,False,asks_for_information,True,True,"Asks the recipient to look in the Teams chat for the meeting to find the video recording, since he cannot get a link or download, and to tell him if that fails."
+156618577134,booster,referral,True,redirects_to_colleague,True,True,Says he cannot attend and points to his colleague Krunal Patel (krunal.patel1@ocado.com) as an excellent guest to invite instead.
+157321468151,primary,not_now,False,defers_to_later,False,False,"Is not asking for anything now; says he will be ready to schedule a demo soon, cannot attend the 27th, and is happy to speak on another occasion."
+157573931257,booster,wants_materials,True,requests_document_or_demo,True,True,Asks Encord to provide a W-9 (or W-8 if applicable) to complete their supplier approval process.
+159633788096,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Says Tuesday will not work and asks whether Skander is available Wednesday between An's panel ending at 3 PM and 4:30 PM, requesting a suggestion."
+160232877261,booster,referral,True,redirects_to_colleague,True,False,"Is not asking for anything; says he will not be there but colleague Nathan from their sales team will be, unsure whether that is appropriate."
+161491471549,primary,not_interested,False,declines,False,False,Is not asking for anything; informs them they have decided not to renew the contract for next year because the Shapes product is on hold.
+161497297134,booster,asks_question,True,asks_for_information,True,True,Asks whether there will be a screen he can share his slides on at their session in a couple of hours.
+162196073706,booster,asks_question,True,requests_document_or_demo,True,True,Clarifies what he means by the program and asks whether Encord can demonstrate the analysis software using the camera footage he provided.
+163819735246,primary,asks_question,True,asks_for_information,True,True,Asks whether Encord spoke with the clinical informatics group about the PoC and asks them to share that feedback if they have it.
+166632933605,primary,not_interested,False,defers_to_later,False,False,Says they cannot accommodate the request at this time but asks to be kept in mind for future gatherings.
+166715854025,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; confirms he has no dietary restrictions.
+166716404946,primary,asks_question,True,asks_for_information,True,True,Asks what Encord's plan is for one-off questions and whether there is a Service Questions package they can purchase.
+166723448047,booster,wants_materials,True,asks_for_information,True,True,Asks Encord to provide a legal team point of contact and its official address with contact number so a PIA can be put in place before further discussions.
+167238981833,booster,asks_question,True,asks_for_information,True,True,Asks for clarification on how factoring in the withholding tax makes the pricing fall within budget.
+167332142278,booster,asks_question,True,asks_for_information,True,True,"Asks whether the team has considered supporting API tokens, OAuth, or ssh-agent for SDK authentication, and suggests the docs at least recommend a dedicated Encord SSH key."
+167614027976,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; says they are reviewing everything now and will reach out if they have questions.
+167712501965,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; just expresses thanks.
+167718534345,primary,other_human,False,acknowledges_only,False,False,Is not asking for anything; just says thanks.
+168302801134,booster,wants_materials,True,requests_document_or_demo,True,True,Asks Skander to share the recording of today's meeting.
+169792160978,primary,other_human,False,redirects_to_colleague,True,True,"He asks his colleague Stefan Schaal, whom he loops into the thread, whether Stefan would be interested in attending as a panelist or regular guest; he asks nothing of the original sender."
+169910664387,booster,referral,True,redirects_to_colleague,True,True,"She introduces Jimmy Wang, Foxconn's Director of AI, as the best person for Payom to explore collaboration with going forward."
+170141668598,primary,referral,True,redirects_to_colleague,True,False,"He says he won't attend ISC West and will forward Winnie's information to their AI development group to assess, asking nothing of her."
+170514490614,primary,other_human,False,defers_to_later,False,False,He asks Charlotte to keep him posted on future events rather than requesting anything now.
+171116078317,primary,asks_question,True,asks_for_information,True,True,He reports that he cannot change the service user's role once it is in the team list and wants Manjeet to tell him how to fix it.
+171185281272,primary,other_human,False,acknowledges_only,False,False,"He tells the recipient they probably don't need to attend the meeting and offers to pass along any pertinent notes afterwards, asking nothing."
+171218668790,booster,asks_question,True,asks_for_information,True,True,"They ask what payment installment options are available, specifically whether a two-year $44K/year term could be paid monthly, before they sign."
+171740886238,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He says he can't meet next week and proposes meeting on 4/17 at 9:30 Pacific instead.
+171777847505,booster,wants_materials,True,proposes_or_accepts_meeting,True,True,He says he'd like to join the April 15 event and asks Winnie to send the full details.
+173338789086,booster,wants_materials,True,requests_document_or_demo,True,True,"He asks Steffan to send a proposal/contract containing the specific terms he lists (June 1 start, one-year duration, platform cost, a dedicated labeler, hourly rates, and quality guarantees)."
+174185990372,primary,referral,True,redirects_to_colleague,True,False,They tell James there is no need for him to do it because Christian is driving the process on their behalf.
+174259724474,primary,other_human,False,acknowledges_only,False,False,"They just thank the sender and say they are looking forward to the event, asking for nothing."
+174949160160,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He asks them to accept the Monday 1pm invite he sent (or suggest another time) and to tell him who else from their side should be added.
+175646503108,primary,wants_materials,True,requests_document_or_demo,True,True,She asks Seif to share the full terms of the support package so they can weigh the decision.
+175912388855,booster,referral,True,redirects_to_colleague,True,False,"He thanks James and copies in colleagues who may wish to join the demo, asking nothing explicitly."
+176746541285,booster,wants_materials,True,requests_document_or_demo,True,True,He asks Alex to share the slides Alex presented when they met last Friday.
+176882827496,primary,other_human,False,declines,False,False,"Harsha declines the event invitation via a calendar response, noting only that they can call his cell if they need him."
+177557160136,primary,other_human,False,acknowledges_only,False,False,"He says he will get going on the vendor setup and keep Nick posted, asking nothing of him."
+177673258223,primary,asks_question,True,asks_for_information,True,True,She asks Matt and Santiago to have their team annotate 5-10 videos for her review and to tell her whether the ontology can be changed to bounding boxes or the project must be redone.
+177696348390,primary,wants_call,True,proposes_or_accepts_meeting,True,True,She confirms everything is fine and accepts the proposed call at 5PM IST tomorrow.
+178187575501,booster,referral,True,redirects_to_colleague,True,True,She loops in Charles Andersen of Burro and asks Skander to follow up with him directly about the details.
+178302346484,primary,wants_call,True,proposes_or_accepts_meeting,True,True,They give Maya their availability on Friday afternoon or Monday and ask her to pick the time that works best.
+178766755063,primary,not_now,False,defers_to_later,False,False,He asks to wait until Henri is back before continuing.
+183743252679,booster,asks_question,True,asks_for_information,True,True,She asks Skander what the topic of discussion for the dinner would be.
+183845818583,primary,wants_call,True,proposes_or_accepts_meeting,True,True,They offer tomorrow morning for the catch-up and ask the sender to confirm what time works best.
+184762492140,primary,wants_call,True,proposes_or_accepts_meeting,True,True,They apologize for the delay and ask to meet Monday morning instead.
+187752549571,primary,other_human,False,asks_for_information,True,True,He reports the project setup work completed on their side and asks Shivant whether anything else is needed from their end.
+188060770552,primary,other_human,False,acknowledges_only,False,False,They just thank Skander and ask for nothing.
+188370163953,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He asks James to send times that work for a virtual meeting this week so he can give his feedback.
+188565818559,booster,wants_materials,True,requests_document_or_demo,True,True,"He accepts the pricing, hands the renewal to Sudhanshu for legal review, and asks for a Word version of the service agreement that their legal team can redline."
+188897734884,booster,wants_materials,True,requests_document_or_demo,True,True,He says they chose another vendor for outsourced labeling and asks Alex for ballpark per-seat pricing for internal labeling.
+190363657425,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He agrees to a call and offers tomorrow (Friday) 1:30-2pm PT.
+191000919278,booster,wants_materials,True,requests_document_or_demo,True,True,She asks Steffan to send their pricing package after the meeting.
+192878630087,primary,not_now,False,defers_to_later,False,False,"She says she must miss the discussion due to training and will check with their tech leads Jeff and Tai about the materials, asking nothing of Alex for now."
+192958962906,primary,not_now,False,defers_to_later,False,False,He says they are only starting to explore a solution and will schedule a call themselves once they decide it is warranted.
+194127825093,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He tells Skander he has booked a call slot in Skander's calendar for Tuesday next week.
+194816625858,booster,referral,True,redirects_to_colleague,True,False,"He thanks Kamil for the invitation and says he will forward it to his team, asking nothing."
+195742961870,primary,other_human,False,proposes_or_accepts_meeting,True,True,He asks James to share back the fully executed agreement and to start conversations with the DataOps team about using their current labeling job as a pilot.
+196056941784,primary,not_interested,False,declines,False,False,"He declines the SF mixer because he cannot make it up on the 15th, asking for nothing."
+196113689824,primary,wants_call,True,proposes_or_accepts_meeting,True,True,She asks to join the May 29 dinner if the invitation is still available.
+198751197404,booster,wants_materials,True,requests_document_or_demo,True,True,He asks for a bank confirmation that Encord owns the account and a signed copy of the attached Appendix 3b as the final onboarding step.
+199601104097,primary,other_human,False,acknowledges_only,False,False,"She thanks Winnie for the mixer invite and says she enjoyed the event, asking for nothing."
+204112587998,booster,asks_question,True,asks_for_information,True,True,He asks whether Encord is ISO 27001 certified and asks to cover the data-handling question in today's meeting.
+204857822442,booster,referral,True,redirects_to_colleague,True,True,"He asks Shivant to route the order form to Mike Mast, their finance director, for signature instead of him."
+205233578188,booster,wants_materials,True,requests_document_or_demo,True,True,He asks Alex to share a high-level view of the commercials so they can start discussions with procurement and finance.
+205886049466,primary,not_interested,False,declines,False,False,"He declines the dinner invitation, saying he won't be able to make it."
+206535634146,booster,wants_materials,True,requests_document_or_demo,True,True,"He asks Nick to put together documentation (ideally a diagram and a one-pager) covering secure data transfer, local data-control measures in India and the UK, and the deletion/cache-cleaning process."
+209816600788,primary,not_interested,False,declines,False,False,"He says he is not at CVPR this time and that his company is edge-focused, effectively declining the coffee and asking nothing."
+209953703144,primary,other_human,False,none_of_these,False,True,"He explains why the ops team was not included in the call, offers to add their POCs if needed, and provides the requested list of users with roles."
+210960773369,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He accepts the rescheduled call at 4 PM CET tomorrow.
+211055150274,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"He asks Nick to rebook the meeting for next week, since the booked slot conflicts with their all-hands, and to send the MNDA beforehand."
+211082541281,primary,other_human,False,requests_document_or_demo,True,True,"She asks Steffan to fill out and sign Section C, after which Rockwell will sign as well."
+211091485897,primary,not_interested,False,declines,False,False,He declines the CVPR dinner invitation because of other travel commitments.
+213186843884,primary,not_interested,False,declines,False,False,He says he is not going to CVPR this year and asks for nothing.
+213433072826,primary,not_now,False,defers_to_later,False,False,"He cancels today's meeting, says they will keep their current annotation stack for now, and will reconnect only when new relevant tasks open up."
+213656765634,booster,wants_materials,True,requests_document_or_demo,True,True,He asks Kamil to send the pricing they are still waiting on before they proceed with a trial.
+213748400338,booster,wants_materials,True,asks_for_information,True,True,"He asks Alyssa to walk him through where Encord excels and its differentiators, particularly the multimodal capabilities."
+214835295478,primary,other_human,False,acknowledges_only,False,False,"He replies only 'Thank you' to Dillon's dietary-requirements question, asking for nothing."
+215006411962,primary,wants_materials,True,requests_document_or_demo,True,True,"They ask Alyssa to send the seat form, a quote for 1-5 Encord annotators, and an explanation of how that process works."
+215727673544,primary,other_human,False,declines,False,False,"They say neither they nor anyone from OpenAI is heading down this year, asking for nothing."
+215957775605,primary,wants_call,True,proposes_or_accepts_meeting,True,True,She says she has accepted the invitation and looks forward to connecting at CVPR booth #1123.
+216498346207,booster,referral,True,redirects_to_colleague,True,True,He asks Alyssa to include Prady Panigrahi in their next meeting and points Prady to the relevant customer story.
+219108152551,primary,other_human,False,none_of_these,False,True,"He tells Kamil they expect to need 6 accounts including 3 annotators at this stage, with no further ask."
+219180689628,primary,other_human,False,acknowledges_only,False,False,She just thanks Winnie and asks for nothing.
+219562492134,primary,other_human,False,requests_document_or_demo,True,True,"He confirms they want to renew on the same terms as last year and asks Leo to proceed with the proposal, checking whether anything else is needed from them."
+220829743317,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He thanks Skander and confirms he will see him on Friday.
+221241597167,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He accepts the proposed meeting time and asks that Timothy Kline be added to the invite as optional.
+221372283120,primary,not_now,False,defers_to_later,False,False,He says he is attending CVPR only virtually and loosely suggests connecting after the conference when time allows.
+221905562838,booster,asks_question,True,proposes_or_accepts_meeting,True,True,"She confirms tomorrow's call, answers their questions inline, and asks what needing more than 30 weekly video hours would look like."
+222635440327,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He confirms he can make the proposed 3pm CEST time.
+223374695642,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He asks Kamil to start the call five minutes late at 10:20am EST because he is running behind.
+223731354827,primary,other_human,False,redirects_to_colleague,True,True,She asks Winnie to also invite her colleagues Dewei and Dilip to the July 2 meeting.
+223754051817,booster,referral,True,redirects_to_colleague,True,True,"They loop in Elise to handle the legal review, asking nothing else."
+224848130293,primary,referral,True,redirects_to_colleague,True,True,"He points to Ram, their Director of AI, as the one running or planning the evaluation and asks Ram to give an update."
+224871488698,primary,wants_call,True,proposes_or_accepts_meeting,True,True,He accepts the proposed slot and asks that Georg and Florian from Scandit be included in the invite.
+225011528925,primary,asks_question,True,requests_document_or_demo,True,True,The writer asks the recipient to update the contract to a 1-year term and send it for DocuSign.
+226542245112,primary,not_interested,False,declines,False,False,The writer informs the recipient that no further demonstrations are needed and asks for nothing.
+227217808608,booster,asks_question,True,asks_for_information,True,True,The writer asks whether the recipient is in touch with Olgert Denas or Naveed Farooqi.
+228868770039,booster,referral,True,redirects_to_colleague,True,True,"The writer says their company no longer needs annotation tools and suggests reaching out to former CTO Martin Bagge, who might be interested."
+236467005676,primary,asks_question,True,asks_for_information,True,True,The writer asks whether there is room to negotiate the price and contract and whether a mobile app exists.
+236488030422,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms the pitch on their side and asks what times work best to schedule.
+237351666928,primary,not_interested,False,declines,False,False,"The writer says their needs have not changed because they manage with in-house tools, and asks for nothing."
+241308589249,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer proposes an hour-by-hour agenda for their meeting and asks to be told if anything needs adapting.
+242605031667,primary,not_now,False,proposes_or_accepts_meeting,True,True,The writer asks to postpone their meeting until next Friday because the commercial discussion has not progressed.
+243025225975,primary,other_human,False,none_of_these,False,True,The writer reports having added the requested account as a user and asks for nothing further.
+246344560876,primary,not_interested,False,declines,False,False,"The writer informs the recipients that after reassessing priorities they will not move forward with the opportunity, asking for nothing."
+247427149037,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer agrees to chat on Friday at 11am.
+248069517560,booster,wants_materials,True,requests_document_or_demo,True,True,"The writer recaps action items and asks the recipient to send a tiered quotation and labeling-efficiency estimates, ideally by July 25."
+248258490590,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer asks to be signed up for the event.
+249679215813,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms the 5pm meeting today.
+253383504078,primary,not_interested,False,declines,False,False,"The writer says they already passed the information to the potentially interested people and assumes those people decided against switching, asking for nothing."
+254026379465,booster,wants_materials,True,requests_document_or_demo,True,True,The writer checks in on open questions and asks to receive the quotation by tomorrow.
+255142627543,booster,asks_question,True,asks_for_information,True,True,The writer asks how the recipient would like the recordings sent or shared before the meeting.
+255236903127,primary,referral,True,redirects_to_colleague,True,True,"The writer loops in colleague Eliott, who leads business development, to continue the conversation about the Actions product."
+260957566187,booster,asks_question,True,asks_for_information,True,True,The writer asks whether the recipient has reviewed BHI 2025 as a potential sponsorship or exhibition venue and offers to answer questions.
+263818682597,primary,wants_call,True,proposes_or_accepts_meeting,True,False,The writer says their team wants a deeper talk and will send available time slots to align another meeting.
+264073250001,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms that 5:30 works.
+264929704141,primary,wants_materials,True,requests_document_or_demo,True,True,The writer asks for an idea of costs and says they politely decline without it.
+264977513690,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer offers Thursday 11am-12pm or 2pm-3pm MST for the meeting.
+266826844372,primary,other_human,False,none_of_these,False,True,The writer asks to be invited to a Slack workspace so they can send representative data and ontologies.
+267029608687,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks for a quotation for platform usage by the end of Monday to meet their budget deadline.
+269040752847,primary,not_now,False,defers_to_later,False,False,"The writer says the cooperation is still under management consideration and that they will share any update they learn, asking for nothing now."
+269224885488,primary,not_interested,False,declines,False,False,The writer declines the invitation because they are not in town.
+271190667490,booster,wants_materials,True,requests_document_or_demo,True,True,The writer describes their annotation project and asks for the pricing structure for annotation services at their scale.
+272044308692,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer proposes Tuesday at 11am.
+277490455771,primary,referral,True,acknowledges_only,False,False,"The writer thanks the recipient for a gift and mentions another surgeon may be interested soon, asking for nothing."
+280737905902,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms a 30-minute session today works.
+281099012296,primary,other_human,False,requests_document_or_demo,True,True,The writer provides a couple of videos they would like tested out.
+281473880267,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer proposes October 6 for the meeting.
+281572229323,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer asks whether the recipient can still join today's meeting or would rather pick another time.
+281793295604,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer offers Friday at 12:30 and asks the recipient to confirm it works.
+282275382503,primary,wants_materials,True,requests_document_or_demo,True,True,The writer shares example robot videos and scoring guidelines and asks the recipient to share the labeller pricing menu before tomorrow's call and demonstrate pre-labeled instruction import.
+284310750413,booster,asks_question,True,asks_for_information,True,True,The writer asks whether the sent emails contain 'lemwarmup' in the subject.
+284928447684,booster,referral,True,redirects_to_colleague,True,True,"The writer prefers to skip the demonstration while on-site and provides a colleague's email, kebo@trifork.com, as the contact."
+285587600628,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks to be sent a credit card payment link or bank account details so they can proceed with payment.
+285618785492,primary,other_human,False,none_of_these,False,True,The writer reports the invoice is paid and asks that finance include the Stripe link with every future invoice.
+285997794509,booster,asks_question,True,asks_for_information,True,True,The writer asks how the function was intended to be used.
+286015766753,booster,asks_question,True,asks_for_information,True,True,"The writer reports that click-drag labeling does not work as in the demo video and shares a recording, seeking help with the issue."
+286017754361,booster,wants_materials,True,requests_document_or_demo,True,True,The writer agrees to start with a 3-month deal and asks the recipient to send the key commercial documents such as the NDA and service agreement.
+286456274152,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks the recipient to share the image-editing part of the snippet and to give access to colleague Sebastian.
+286677049560,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"The writer confirms they look forward to speaking on Monday, asking for nothing else."
+288969614570,primary,other_human,False,redirects_to_colleague,True,True,The writer asks the recipient to also add daniel@medra.ai to the event.
+289781939389,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer proposes 11:30 on Thursday because today's schedule is full.
+289873053903,primary,not_interested,False,declines,False,False,The writer says a 12-month commitment is not feasible now and asks only to keep in touch for the future.
+290145937617,booster,wants_materials,True,requests_document_or_demo,True,True,The writer says they will get the proposal reviewed and asks whether a .docx version is available.
+292139939016,booster,asks_question,True,asks_for_information,True,True,The writer asks whether annotators can still find a specific previously worked image that is no longer in their queue.
+293053045962,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms 12PM and says they will set up the meeting and share a Teams invite.
+293108312303,booster,referral,True,redirects_to_colleague,True,True,"The writer supplies another contact's email address, henry@cultivarium.org, to be added."
+293148452051,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer asks to hop on a quick virtual call to meet.
+293546227913,primary,asks_question,True,asks_for_information,True,True,The writer asks for a progress update and for the Hero and Animated banner results to be delivered this week.
+293714323671,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer informs the recipient that a meeting invitation has been sent for 4:15 PM PKT today.
+301646779623,primary,not_now,False,declines,False,False,"The writer says both of them will be away at a company offsite that week and cannot make it, asking for nothing."
+301656368373,booster,referral,True,proposes_or_accepts_meeting,True,True,The writer says they are forwarding the invite to their CEO and confirms the talk tomorrow.
+302913352893,primary,other_human,False,none_of_these,False,True,The writer sends a signed copy to pass along and asks the recipient to request access to their POC document folder.
+309009871070,booster,wants_materials,True,asks_for_information,True,True,The writer asks for information on how the recipient would support Rime so they can take it to their co-founder Brooke.
+309428306148,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer proposes meeting at the Andytown near the recipient's office at 9:30am tomorrow.
+310239572170,booster,asks_question,True,asks_for_information,True,True,The writer asks whether the recipient's team has follow-up questions and whether the NDA got signed on their end.
+312939684059,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer asks to move the demo to Wednesday or Friday because of a scheduling conflict.
+313005506788,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer accepts the dinner invitation and says they will be happy to attend.
+314139280593,primary,other_human,False,declines,False,False,"The writer apologizes and cancels their attendance tonight because work will run late, asking for nothing."
+314207161560,primary,other_human,False,none_of_these,False,False,The writer shares an example script using encord-agents for the team to have on hand and asks for nothing.
+314806682840,primary,other_human,False,acknowledges_only,False,False,"The writer thanks the recipient and says the recording has been forwarded to two colleagues, asking for nothing."
+316078842095,primary,other_human,False,defers_to_later,False,False,The writer says they are interested in joining the dinner but cannot confirm yet.
+316801059044,booster,asks_question,True,asks_for_information,True,True,"The writer asks who the onsite point of contact for paying the final bill will be, or whether to charge the card on file."
+319555194056,primary,other_human,False,requests_document_or_demo,True,True,The writer asks for a demo on two specific datasets and asks whether those work for the recipient.
+321115177170,primary,other_human,False,asks_for_information,True,True,The writer answers menu questions and asks the recipient to pick which two desserts to offer so an estimate can be sent.
+328304987357,primary,asks_question,True,asks_for_information,True,True,The writer says a 600K upfront credit fits best and asks whether the credit expires and whether computing embeddings themselves would halve credit consumption.
+328360206582,primary,wants_materials,True,requests_document_or_demo,True,True,The writer asks that the order form be sent to Matt with them cc'ed.
+330589197501,primary,other_human,False,proposes_or_accepts_meeting,True,True,"The writer agrees with the plan, says they may send some issues or pain points before the meeting, and looks forward to the discussion."
+331642366140,primary,other_human,False,declines,False,False,The writer declined the demo invitation and directs the recipient to a separate email for details.
+333481634005,primary,other_human,False,asks_for_information,True,True,"Jane asks the cohort recipients to follow up with their new contacts, complete the programme feedback survey, share up to five Baden-Wurttemberg companies for introductions, and register for the upcoming events."
+333574199487,booster,wants_materials,True,requests_document_or_demo,True,True,Ryan asks Winnie to send Encord's pricing structure and trial licenses so his team can evaluate the platform before revisiting the paused NDA.
+333729592527,booster,wants_materials,True,asks_for_information,True,True,"Edouard asks Shreya to share the dinner attendee list so he can identify Richard, the marine-drone attendee living in Puerto Rico."
+340961396967,primary,other_human,False,defers_to_later,False,False,Fadoua is not asking Arisha to do anything yet; she says she will consult her team and come back with a schedule.
+343926995144,booster,asks_question,True,asks_for_information,True,True,Carlos asks Shivant to clarify whether there is flexibility to cancel 10 users for the second year of their contract.
+351890367694,primary,other_human,False,none_of_these,False,True,Jonas asks James to review the attached NDA with the legal team's adjustments and then sign it.
+354424085739,booster,wants_materials,True,asks_for_information,True,True,"The writer demands a direct human answer about whether Encord can show models and data for the listed detection tasks, rather than automated emails."
+354480458941,primary,asks_question,True,asks_for_information,True,True,Elena asks Sumair and Alejandra to reply with feedback on using all annotation hours for the named project and how many additional videos to prepare.
+355114324164,primary,other_human,False,acknowledges_only,False,False,"Abby is not asking for anything; she confirms she sees the invite, notes Steve accepted, and wishes them a good meeting."
+355938548923,booster,asks_question,True,asks_for_information,True,True,"The writer complains they cannot find a phone number on the website, effectively asking to be given a number to call."
+359936718030,primary,other_human,False,acknowledges_only,False,False,Ben is not asking for anything; he apologizes for missing the meeting and says he looks forward to continuing the discussion.
+360435233017,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Nicole agrees to the proposed delay of the meeting to Friday.
+361429977298,primary,other_human,False,acknowledges_only,False,False,Sam is not asking for anything; he thanks Laura for the resources and says he will follow up only if he has questions.
+361576093928,primary,asks_question,True,asks_for_information,True,True,The writer says the shared Slack channel will not work and asks whether email or another option is possible and who manages the labelling team so feedback can go to them directly.
+362888461526,booster,asks_question,True,asks_for_information,True,True,Sadeq asks Laura to share the dinner's agenda or format so he can judge whether he can contribute and benefit.
+366341108978,primary,other_human,False,asks_for_information,True,True,Jagruthi asks Arisha to confirm that onboarding the new readers from November 25/26 through December 2/3 IST works as the temporary user-increase window.
+367494977723,primary,other_human,False,requests_document_or_demo,True,True,Yu asks the vendor to deliver the DM and DA tutorial videos by November 26 and to support the December 1-2 onboarding sessions so the pilot timeline holds.
+368490963184,primary,other_human,False,none_of_these,False,True,"Lakshman tells Seif they have approval to go with split invoices, implicitly asking him to proceed on that basis."
+369394272503,primary,not_interested,False,declines,False,False,Spandana declines the December 2nd dinner invitation and says she will only reach back out if her circumstances change.
+369929542856,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Amit asks James to reschedule the weekly call to next Wednesday while they finish preparing the POC artifact packages.
+369933631690,booster,referral,True,redirects_to_colleague,True,True,Sudarshan tells Winnie that Rishabh and Akshat are still the right people to speak to about this even though they will not be at NeurIPS.
+371049445594,primary,asks_question,True,asks_for_information,True,True,Bruno asks Shivant whether a higher discount on the complete package is possible if they extend the contract to three years instead of two.
+375498171623,primary,wants_materials,True,requests_document_or_demo,True,True,"Bruno asks Shivant to draft the proposal and send it via DocuSign with himself, Sandra, and Tiago as signers."
+375694641345,primary,other_human,False,acknowledges_only,False,False,Emanuele is not asking Annabel for anything; he reports he is passing her request to his marketing team after the Thanksgiving break.
+375953843432,booster,referral,True,redirects_to_colleague,True,True,"Emanuele introduces Lisa, MMI's marketing communications director, to Annabel so the two of them can take the request forward together."
+376379713755,primary,other_human,False,requests_document_or_demo,True,True,Bruno asks Shivant to send the DocuSign document directly to Tiago's email address because it never reached him.
+377550201064,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer tentatively offers Thursday 2pm as a time that might work.
+377667292365,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Spandana says her calendar opened up and asks Winnie whether there is still a spot for her at tonight's dinner.
+379972938988,primary,wants_materials,True,requests_document_or_demo,True,True,The writer asks to be sent the materials from today's meeting.
+380227959025,primary,other_human,False,acknowledges_only,False,False,The writer is not asking for anything; they confirm they know the meeting place and look forward to meeting in person.
+383677127878,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Amber asks Shivant to set up a call next week to discuss the additional modality demo.
+385862520023,primary,other_human,False,acknowledges_only,False,False,Corentin is not asking Sara for anything; he reports he already has a call scheduled with Olivia tomorrow afternoon.
+385874026707,booster,wants_materials,True,proposes_or_accepts_meeting,True,True,"Nicole agrees to meet tomorrow and asks Shivant or Seif to send the costs of adding Encord Index and Active to their 2026 contract, or confirm the last quote still stands."
+391251564776,primary,other_human,False,redirects_to_colleague,True,True,The writer asks the recipient to add Sudarshan to the meeting as well.
+392131865798,primary,not_now,False,defers_to_later,False,False,Krishna tells Kat they are busy with end-of-year work and will need to schedule the trial in Q1 instead.
+392536413376,booster,referral,True,defers_to_later,False,False,"Daniel says they are still happy with Roboflow and asks for nothing now, cc'ing their new robotics head Aditya so they can reach back out if they outgrow it."
+393685539051,primary,referral,True,redirects_to_colleague,True,True,Bill says he cannot make it and asks Winnie to confirm whether his Gracenote colleague Nandita can attend in his place.
+399199631554,booster,referral,True,redirects_to_colleague,True,True,"Ale says he and Pietro cannot attend CES and asks whether their colleague Stefano Dafarra, who works on the relevant AI topics, can join instead."
+402696543481,primary,other_human,False,proposes_or_accepts_meeting,True,True,"Sampreeth confirms the planned CES meeting and says he will see them there, asking for nothing further."
+406556046546,primary,asks_question,True,asks_for_information,True,True,"The writer asks Manjeet how to step through series in a 1x1 layout, whether there is a next-series keyboard shortcut, and whether series can be displayed in a specified order by type."
+408400659698,booster,referral,True,defers_to_later,False,False,"Rotem asks Leo to wait while he syncs with Ben, who is driving the partnership on their side and recently met an Encord founder."
+408403031281,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Idriss tells Andrew he is available now and asks him to join the call at the provided Google Meet link.
+408574554300,primary,other_human,False,acknowledges_only,False,False,The writer is not asking for anything; they say they will get started and will reach out only if questions come up.
+410214169846,booster,referral,True,redirects_to_colleague,True,True,"The writer introduces William to Ciara Aguilar, who will own the contract and process going forward."
+411295200444,primary,wants_call,True,proposes_or_accepts_meeting,True,True,John says he is unavailable the next two weeks and proposes a call at 11am or 12pm Eastern on Tuesday the 20th.
+414327925955,primary,other_human,False,requests_document_or_demo,True,True,Claudia shares a representative 30-second video and asks to see the audio interaction in the UI as well.
+414472712426,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Matt accepts the dinner invitation, says he will accept the calendar invite, and adds Austin to the thread since Austin is available and keen to join."
+415592625401,booster,referral,True,redirects_to_colleague,True,True,"The writer loops in Aaron Rogan and shares Ferenc Szeli's and his assistant's contact details, asking Encord to say whether it can help."
+415803812074,booster,asks_question,True,asks_for_information,True,True,Takuya updates Steffan on the public-information trial plan and asks him to provide the listed security-review information needed for an eventual purchase.
+416030534895,primary,referral,True,redirects_to_colleague,True,True,CJ says he cannot attend and asks Winnie whether it is OK to check if his senior product research manager can attend the dinner to represent them.
+416039472347,primary,not_interested,False,declines,False,False,Nick declines the dinner invitation because he will be out of town and asks for nothing.
+421334037740,primary,other_human,False,acknowledges_only,False,False,Alex is not asking for anything concrete; he thanks James for the interview and says he looks forward to hearing about next steps.
+421439916240,booster,wants_materials,True,requests_document_or_demo,True,True,Rajinikanth asks James to share the signed NDA copy and provide Encord's legal name so he can verify it in their records.
+421533181143,booster,referral,True,redirects_to_colleague,True,True,Jerry points Winnie to Maryam Bandari as the best contact and shares her email address.
+425370741986,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer agrees to meet and asks the recipient to send over some proposed times.
+425922664693,booster,asks_question,True,asks_for_information,True,True,Takuya shares the trial timing and evaluation criteria and asks Steffan to recommend public driving datasets both vendors could be evaluated on.
+426234599653,booster,referral,True,redirects_to_colleague,True,True,"The writer asks the recipient to send the insertion order to their CFO Eduardo, who is cc'd on the thread."
+426294411491,booster,referral,True,redirects_to_colleague,True,True,"Pedro asks Hugo to contact his colleague Fabio about this instead, noting Fabio is only testing different software."
+427734619366,primary,other_human,False,acknowledges_only,False,False,Simon is not asking for anything; he confirms he has reached out to the contacts and will connect with them shortly.
+431069663427,booster,asks_question,True,proposes_or_accepts_meeting,True,True,Roma says the 18th is unavailable and asks Laura whether the 17th or the 19th would work for her event.
+433859431650,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Lukas confirms that Thursday works for the proposed meeting.
+434606919901,booster,asks_question,True,none_of_these,False,True,Mina says she has signed the order form and asks Arisha to counter-sign and to confirm whether any other procedures or documents are needed to finalize the agreement.
+435081470147,booster,referral,True,redirects_to_colleague,True,True,Rob says he is too sick to travel and asks Winnie to send the event invite to his cc'd colleague Maryam Bandari so Persona AI is represented.
+436600161470,primary,not_now,False,defers_to_later,False,False,"Bill asks to cancel today's meeting, fall back to monthly touch-bases, and have Winnie check back in with him in late February."
+436708702456,primary,other_human,False,acknowledges_only,False,False,The writer is not asking for anything; they thank the recipient for understanding an unplanned situation at home.
+436768653500,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Salome accepts rescheduling and offers next Tuesday at 3:30 pm for the call.
+436912525523,booster,referral,True,redirects_to_colleague,True,True,"Eoin gives Winnie Ajay's email address so she can contact or invite him, and says he will see her later."
+439560236271,booster,wants_materials,True,requests_document_or_demo,True,True,"Olle asks Leo to send information tomorrow on platform costs and on annotation workforce size and pricing, even if only ranges."
+441729417422,booster,referral,True,redirects_to_colleague,True,True,"Sean says dummy data will not work for them and asks that his colleague Luis, now added to the thread, be included in the upcoming meeting."
+441854096592,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer asks whether the recipient could meet 10:45 to 11:15 am PT on Thursday.
+442755747060,primary,other_human,False,acknowledges_only,False,False,David is not asking for anything; he confirms he received the link.
+450153276657,primary,not_now,False,defers_to_later,False,True,Avi asks James to push the catch-up out by another couple of weeks because they have not yet managed to discuss the PoC internally.
+450233816284,booster,asks_question,True,asks_for_information,True,True,"Farnaz asks Steffan whether classification fields can include checkboxes or radio buttons, whether images can be grouped and labelled collectively, and whether metadata can be attached and displayed on images."
+450251810035,primary,other_human,False,proposes_or_accepts_meeting,True,True,"The writer says they are too booked for a call and proposes connecting at the event instead, briefly describing their data responsibilities."
+450336009417,primary,asks_question,True,proposes_or_accepts_meeting,True,True,Binit asks whether Skander is available tomorrow so they can get access and set up the integration sooner.
+451371307205,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"The writer asks to move the demo call to later in the evening, around 8pm PST, so more of their India-based team can join."
+452585682106,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms he will attend tomorrow's meeting at 14:00 GMT and asks for nothing further.
+455520234692,booster,asks_question,True,requests_document_or_demo,True,True,The writer asks whether the quote would change for 5 users instead of 10 and requests a revised quote if it does.
+456765284544,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks the recipient to send screenshots or a preview-site link so their legal team can see how the quote will be used.
+457446548723,booster,asks_question,True,asks_for_information,True,True,"The writer asks what considerations Encord would offer for working alongside an unstructured content repository, and loops in a colleague supporting him."
+457478428874,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms that Tuesday at 12pm works for the meeting.
+457899343052,booster,asks_question,True,asks_for_information,True,True,The writer asks whether Encord can load mcap video data with h265/hevc encoding and offers to share proto definitions if needed.
+459537094863,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer confirms Monday at 9:30 works for her and asks for nothing else.
+461665971413,primary,asks_question,True,asks_for_information,True,True,The writer asks the recipient to answer a list of compliance and efficiency questions about Encord's capabilities and to clarify which subscription plans include those features.
+461672737991,primary,asks_question,True,asks_for_information,True,True,"The writer asks the recipient to confirm that the enterprise plan includes engineering support, project management, and SLA coverage so he can justify it internally."
+462927936726,primary,other_human,False,proposes_or_accepts_meeting,True,True,"The writer shares his main priorities for annotation tooling ahead of the demo and confirms the conversation tomorrow, asking for nothing specific."
+463215517889,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"The writer asks whether their meeting can start 30 minutes earlier, at 9:00 GMT on Thursday 26 Feb, or otherwise proceed as originally scheduled."
+463520767171,booster,referral,True,redirects_to_colleague,True,False,"The writer loops a colleague, Vladyslav Yanovych, into the thread for alignment and asks the recipient for nothing."
+463763661036,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks the recipient to send a revised renewal order form reflecting the reduced scope so he can issue the PO.
+463967918322,booster,referral,True,redirects_to_colleague,True,False,"The writer introduces her CFO, Jason, into the thread so he can engage going forward, and asks the recipient for nothing specific."
+464668041434,primary,asks_question,True,asks_for_information,True,True,The writer asks the recipient to confirm whether the vegetarian meal count should now be two instead of one.
+464762369273,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer offers Friday 9:30am or Monday 11:30am PT as times the recipient can pick for the call.
+465267346619,booster,wants_materials,True,requests_document_or_demo,True,True,"The writer asks the recipient to share the materials and a recording from today's onboarding session, noting which colleagues will attend in his place."
+465712893134,primary,wants_materials,True,requests_document_or_demo,True,True,The writer says he cannot attend the live session and asks the recipient to share the recording after the event.
+468472372424,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer offers to be free for a call in about 15 minutes.
+470960941256,booster,referral,True,redirects_to_colleague,True,True,"The writer loops in their annotation manager, Abinisha, as the person who can provide the details the recipient needs."
+471463813319,primary,other_human,False,asks_for_information,True,True,The writer asks the recipient to make sure their scheduled Friday meeting does not clash with any other customer visits the recipient has planned.
+472318794951,primary,not_interested,False,requests_document_or_demo,True,True,The writer ends discussions for now but asks the recipient to share pricing for Encord's annotation services for possible future interest.
+472890124536,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer says he will try to attend the proposed new demo time and asks for the recording if he cannot make it.
+476221606100,primary,other_human,False,acknowledges_only,False,False,"The writer informs the team he will be on leave from 11 to 25 March, returning 26 March, and asks for nothing."
+476322049260,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer confirms he accepted the dinner invite and reports he has no dietary requirements.
+477113539798,booster,asks_question,True,proposes_or_accepts_meeting,True,True,The writer asks for clarification on how Encord Index handles embeddings for their 1 million frames and requests a short session on the topic in the coming weeks.
+477134441686,booster,referral,True,redirects_to_colleague,True,True,The writer declines the GTC event for himself and tags his team members who will be in SF for the recipient to engage instead.
+477264841971,primary,other_human,False,asks_for_information,True,True,The writer explains he is still chasing his CEO's signature and asks whether the signature request link stays active without expiring.
+477419992276,booster,referral,True,redirects_to_colleague,True,True,The writer loops in Jasmine as the person who will assist the recipient with their inquiry.
+477799120078,primary,referral,True,redirects_to_colleague,True,False,"The writer thanks the recipient for the clarification and says a colleague, Mythri, will reach out for further processing, asking nothing."
+478128226494,booster,referral,True,redirects_to_colleague,True,True,"The writer says he is too busy and asks the recipient to talk to his manager, Nishant Desai, instead."
+478161310920,primary,other_human,False,acknowledges_only,False,False,The writer expresses enthusiasm and asks for nothing.
+478297672897,booster,asks_question,True,asks_for_information,True,True,The writer asks whether any SAM3 documentation exists beyond the page already linked.
+478319192278,primary,not_now,False,proposes_or_accepts_meeting,True,True,The writer cancels the scheduled demo because something urgent came up and says the meeting will need to be rescheduled.
+478801693889,primary,other_human,False,none_of_these,False,False,"The writer updates the recipient on the agreed commercial terms and says he will report back after an internal call so they can then build a schedule, asking nothing yet."
+479171159228,primary,other_human,False,none_of_these,False,True,The writer provides a specific example of the syncing issue for the team to investigate and offers clarification if it is unclear.
+479495635154,primary,other_human,False,requests_document_or_demo,True,True,The writer asks the recipient to quote against the attached file as the final spec.
+479737999600,booster,asks_question,True,asks_for_information,True,True,The writer asks whether they should include the attached slides in their outreach or leave materials out.
+479768068325,booster,referral,True,proposes_or_accepts_meeting,True,True,"The writer asks the recipient to coordinate a demo time directly with his colleagues Thomas and Jon, suggesting an earlier slot in the week of March 30th."
+479898580200,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks for Alex to show the labeling workflow in the merged point cloud view and for confirmation that the 1pm EST meeting with their CTO is on leadership's calendar.
+479997306043,booster,referral,True,redirects_to_colleague,True,True,The writer connects the recipient with Orest as the engineering point of contact going forward and notes the customer kickoff is Wednesday.
+480596607200,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer accepts any of the proposed Thursday times for the meeting.
+480644819164,booster,asks_question,True,asks_for_information,True,True,The writer lists the file formats they typically use and asks whether the non-Ansys files would still be helpful to share.
+480729835708,primary,not_now,False,defers_to_later,False,False,The writer says he cannot confirm attendance yet because of unsettled travel and will confirm next week.
+480744835271,booster,wants_materials,True,proposes_or_accepts_meeting,True,True,"The writer asks for sample data and the explanatory video for evaluating curation, and proposes the next meeting on March 31 from 8:30 to 9:00 AM JST."
+480935456959,booster,asks_question,True,asks_for_information,True,True,The writer agrees to add a guest account for the investigation and asks the recipient to confirm they will not be charged for it.
+481391413451,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks the recipient to share pricing documentation so his team can review it with management and respond with a decision next week.
+483145471164,booster,asks_question,True,asks_for_information,True,True,"The writer asks the recipient to sign the guest agreement and submit a deposit within two business days, and to answer several event-detail questions."
+483274841323,primary,other_human,False,none_of_these,False,True,The writer reports a UI bug where deleting a range shifts the timeline to the right and implicitly wants it looked into.
+483389326580,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer says he will send the images once legal clears them and asks the recipient to say if they would rather reschedule given the delay.
+483391824082,booster,referral,True,redirects_to_colleague,True,False,"The writer thanks the host for the dinner and says he has forwarded the recipient's information to the relevant colleagues, who will reach out as needed."
+483408186593,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"The writer agrees to a combined call next week, asks for times that work, requests a short practical demo using their data, and asks that the invite go to his work email."
+483514304758,primary,referral,True,redirects_to_colleague,True,True,The writer says his schedule is too tight to chat and directs the recipient to contact Sally Jesmonth about robotics data and evals.
+483937230071,booster,wants_materials,True,requests_document_or_demo,True,True,The writer describes their company's large-scale labeling needs and asks for a demo of the labeling platform along with more details.
+484343132380,primary,not_now,False,proposes_or_accepts_meeting,True,True,The writer asks to postpone the meeting to sometime in the week of April 19 while they await client feedback and make a decision.
+484692052163,booster,referral,True,proposes_or_accepts_meeting,True,True,The writer asks the recipient to run the kickoff with his team without him next week and asks his colleague Bharath to help schedule it.
+484910982341,primary,asks_question,True,asks_for_information,True,True,"The writer asks a set of infrastructure questions covering on-prem deployment, data egress, annotator data access, the on-prem stack, and setup and migration support."
+485001553105,booster,referral,True,redirects_to_colleague,True,True,"The writer points the recipient to his colleague Deokyun Kim, who will follow up directly to arrange a time to meet at booth #105."
+485192381687,primary,asks_question,True,asks_for_information,True,True,"The writer confirms the event details and asks whether seating will be open or assigned and, if assigned, whether place cards are provided or should be printed."
+485337128129,primary,other_human,False,asks_for_information,True,False,The writer says he has told Cole about tomorrow night and asks to be informed if a spot frees up.
+485481401567,primary,asks_question,True,asks_for_information,True,True,"The writer asks whether Matt means collecting robot demonstration data, whether he has active leads for such data, and why OpenArm or Franka were specified."
+485636967673,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer says she has a conflicting meeting already set and is open to rescheduling.
+485697899719,primary,other_human,False,acknowledges_only,False,False,The writer jokes that next year they should get Snoop Dogg and asks for nothing.
+486241017059,booster,asks_question,True,asks_for_information,True,True,The writer asks his colleague Zhaoliang whether they need to give the other side any additional access for this next step.
+486742970581,primary,other_human,False,acknowledges_only,False,False,The writer tells the host he will arrive 15-20 minutes late because of a work meeting and asks for nothing.
+487585402049,booster,referral,True,redirects_to_colleague,True,False,"The writer adds Lynne Starling, their procurement lead, to the thread and asks for nothing else."
+487671078083,primary,other_human,False,declines,False,False,"The writer declines tonight's dinner, saying he may have been added by accident, and asks for nothing beyond looking forward to tomorrow's cruise."
+488171070690,primary,referral,True,proposes_or_accepts_meeting,True,True,The writer asks Eric and Leo to review the thread and arrange the call.
+488273020123,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks for a quote for an Encord Starter Account for 3 engineers and offers his Calendly if a call is needed first.
+488318960843,primary,other_human,False,none_of_these,False,True,"The writer delivers the PoC domains, success criteria, and requirements that were discussed, without asking for anything new."
+488444851431,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"The writer proposes a follow-up call, suggesting this Friday afternoon, and asks which robots are integrated in the SF facility while outlining work to spec and price."
+488446607575,booster,wants_materials,True,requests_document_or_demo,True,True,"The writer asks whether there are documents to share on onboarding, SAM3 functionality, and BYOM integration, and floats a quick chat for guidance."
+488492199126,primary,not_now,False,defers_to_later,False,False,"The writer reports the proposal is still under internal review and says he will follow up when there is news, asking for nothing now."
+488534124762,booster,asks_question,True,asks_for_information,True,True,The writer asks whether the recipient will be issuing a separate invoice.
+488928678129,booster,asks_question,True,asks_for_information,True,True,"Simon asks Winnie to confirm whether three annotators is acceptable for the screening test and to confirm a date for the assessment, suggesting May 6th or 7th."
+489071945950,primary,other_human,False,acknowledges_only,False,False,Amy is not asking Winnie to do anything; she says she is still allocating resources and will send candidate profiles later today.
+489081706735,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Constantin, via a calendar notice, asks the organiser to move the sync to his proposed new time of 4pm-4:30pm on Thursday 30 April."
+489128476892,booster,wants_materials,True,asks_for_information,True,True,Jose asks Hugo to explain Encord's value proposition and how it differentiates in the market.
+489205892303,primary,asks_question,True,asks_for_information,True,True,"Zubaer asks Winnie to reschedule the test to Sunday or Monday, to explain the test format, and to keep his project address in the loop."
+489373944011,primary,other_human,False,acknowledges_only,False,False,Emily is not asking for anything; she simply says thank you.
+490149078227,booster,referral,True,redirects_to_colleague,True,False,"Ole is not asking Laura to do anything; he says he has passed her details to ORNL's drone research team, who might reach out to her."
+490689297623,primary,wants_materials,True,requests_document_or_demo,True,True,Lan asks Laura and William to send an actual demo the team can review offline before circling back.
+490734013641,primary,other_human,False,none_of_these,False,True,"The writer thanks Colin for the checklists and points out that both SAM3 links go to the same page, implying the intended second link should be sent."
+490749143287,primary,other_human,False,acknowledges_only,False,False,The writer is not asking for anything; he thanks Winnie and confirms he has already joined Slack.
+490776253634,booster,asks_question,True,asks_for_information,True,True,Erin asks Colin whether a manually triggered prelabeling script can be set up as an MVP instead of a polling automation.
+490796189891,booster,asks_question,True,requests_document_or_demo,True,True,Robbie asks Hugo to state outright what the price is for his project.
+490812127469,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Dorothy agrees to a catch-up call next Tuesday morning BST and asks Tom to arrange it.
+491111685338,booster,wants_materials,True,requests_document_or_demo,True,True,Gopalakrishnan asks Andrew to share the meeting recording while his team takes about a week to review internally.
+491370503398,primary,other_human,False,cannot_tell,,False,The message contains only a signature block with no request or content to judge.
+491411851469,primary,referral,True,redirects_to_colleague,True,False,Luca says he no longer works at Vizzia and asks the sender to contact someone else at the company instead.
+491516596433,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer confirms the call he has scheduled for tomorrow morning and asks Winnie to review the detailed findings and cost estimate he is sharing beforehand.
+491855777997,booster,asks_question,True,asks_for_information,True,True,Lynne asks Moritz to re-check the quote because she cannot see the pricing reduction he mentioned.
+491890788583,booster,referral,True,redirects_to_colleague,True,True,"KW cannot attend on the 27th, so he asks Moritz to connect with his colleagues Hensen and Jacey, and asks Carl and Hensen to check whether they can join the happy hour."
+492183692477,primary,wants_materials,True,asks_for_information,True,True,"Abhijeet asks for the check-in to cover how to configure agents for PDF annotations, including any available tutorials, and best practices for dataset and project management."
+492222061754,primary,other_human,False,acknowledges_only,False,False,Emily is not asking for anything; she simply thanks Winnie.
+492259137765,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer accepts the 26th for the meeting and asks Andrew what time works best for him.
+492932296900,booster,wants_materials,True,requests_document_or_demo,True,True,Zach asks Tony to provide the Terms of Service as a fixed document his legal team can review and sign.
+492954309818,booster,wants_materials,True,requests_document_or_demo,True,True,Zach asks for the document in Word form so legal can make their suggested changes.
+493257398510,primary,other_human,False,acknowledges_only,False,False,Harris is not asking for anything; he thanks the sender for the information.
+493870770407,primary,other_human,False,acknowledges_only,False,False,Carol is not asking Winnie to do anything; she confirms receipt of the agreement and says her side will review it and then proceed to signature.
+493950372082,primary,other_human,False,requests_document_or_demo,True,True,Evan asks Winnie to insert a sentence under Exhibit B referring fees to the relevant SOW and to re-send the agreement to Patrick for signature.
+494247663803,booster,wants_materials,True,requests_document_or_demo,True,True,The writer asks the Encord team to confirm whether they can expect the proposal this week.
+494500351181,booster,referral,True,redirects_to_colleague,True,True,The writer thanks Nick and hands the conversation to Alex Sawyer to take it from here.
+495001273555,primary,other_human,False,acknowledges_only,False,False,Peter is not asking for anything; he thanks Seif for the quick update.
+495025448177,primary,asks_question,True,asks_for_information,True,True,Ke asks Laura whether Encord offers products or services for robotics training data such as egocentric video or teleoperation data.
+495244724469,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Denise proposes meeting on Wednesday 2 June at 2pm SGT.
+495470542060,primary,other_human,False,asks_for_information,True,True,Andre asks Yuvraj to verify that the correct account email is yuvi@encord.ai rather than the .com address.
+495640151288,primary,wants_materials,True,proposes_or_accepts_meeting,True,True,Estelle offers to organise a meeting with Safran's SAI teams and asks Kamil to first send a brochure of Encord's activities that she can share with them.
+495654322374,booster,referral,True,redirects_to_colleague,True,True,Jake asks the two people he has introduced to take the conversation forward directly with each other.
+495712367865,primary,other_human,False,none_of_these,False,True,Sergio is not asking for anything; he lists the label classes to include for the COCO images so the recipient can proceed with them.
+495823873214,primary,wants_call,True,proposes_or_accepts_meeting,True,True,"Anna confirms 6/15 at 10am PT for the follow-up meeting and shares the updated v1.4 Collection Spec, inviting any questions."
+496103955702,booster,wants_materials,True,requests_document_or_demo,True,True,"Meng asks for the samples to be provided by Wednesday ahead of Thursday's weekly sample review, per the attached requirement document."
+496151180521,booster,referral,True,redirects_to_colleague,True,True,Arunabh adds his colleague Akshay to the thread to connect with Hugo further on this.
+496728624355,primary,wants_materials,True,asks_for_information,True,True,"The writer asks Kamil to email offer letters, job descriptions, salary and office details, evidence of his reports' employment, org chart confirmation, and a breakdown of his specialized knowledge for the L-1A petition."
+498265622715,booster,referral,True,redirects_to_colleague,True,True,The writer is making an introduction and points to James as the main contact if Dmitry wants to explore Encord's data mining tools further.
+498923890904,booster,wants_materials,True,requests_document_or_demo,True,True,Deon asks Joe for a progress update on the remaining high-level quotes for enterprise licensing.
+499821898953,primary,not_now,False,defers_to_later,False,False,"Max asks Yianni to postpone again because annotation software is not a priority right now, suggesting they touch base in late August."
+500027458807,primary,not_interested,False,defers_to_later,False,False,Alexandre is not asking for anything now; he says they will build the tool internally for this POC and offers to talk again once they are ready to commit more resources.
+500127039724,primary,not_interested,False,declines,False,False,David is not asking for anything; he says they have decided to build their data processing tools in house and will reach out if their needs change.
+500339669217,primary,other_human,False,acknowledges_only,False,False,Dana is not asking for anything; she thanks Joe and says she will keep in touch if anyone comes to mind.
+500375442629,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Ahmed asks Satchel to move the meeting to Thursday the 2nd at 3pm BST.
+500502644942,primary,referral,True,redirects_to_colleague,True,True,"Deepak, via a calendar decline note, says he has a conflict and that his colleague Aditya will attend in his place."
+500752244937,primary,not_now,False,acknowledges_only,False,False,Charlie is not asking Arisha to do anything; he says he still needs to discuss the signing internally with his CFO and will likely respond later this week.
+501588620504,booster,wants_materials,True,requests_document_or_demo,True,True,Dimos asks Yianni to provide a pricing catalog with approximate figures for Encord's data annotation services.
+501638761693,primary,asks_question,True,asks_for_information,True,True,Ausma agrees to the request and asks whether they would like the full name or just the first name.
+501976175863,booster,referral,True,redirects_to_colleague,True,True,"Paul declines because he is already invited to another dinner, but adds his co-founder Pierre to the loop in case he is interested."
+502466069731,primary,asks_question,True,asks_for_information,True,True,The writer asks what is considered a modality.
+502616940734,primary,wants_call,True,none_of_these,False,True,Gokul is not asking Burke to do anything further; he confirms he has sent him the invitation.
+502720992483,primary,wants_materials,True,asks_for_information,True,True,"Martin asks Shivant to summarize the problem statement, expected delivery scope, BD requester, and status for each project on slide 2."
+502810578164,primary,other_human,False,none_of_these,False,False,Meng is not asking for anything; she attaches the fully executed NDA for reference.
+502909519047,primary,other_human,False,none_of_these,False,True,"Dominique tells Nicolas a contract will arrive shortly from their Tripleseat portal and asks him to watch for it, sign it, and submit a credit card for the deposit."
+503381056752,primary,other_human,False,asks_for_information,True,True,"Joon explains how he built his annotation UI and wants Zachary to address whether Encord can match Label Studio's code-level flexibility, flagging support responsiveness as his concern."
+503484038390,booster,referral,True,redirects_to_colleague,True,True,"Sam loops in Andrew Murray, who will step up to help pull the Spot org commitment over the finish line."
+503581991133,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer pitches Jupiter AI Labs' data services and asks Tom to book a brief introductory meeting via their Calendly link.
+503642034383,primary,other_human,False,none_of_these,False,True,Ollie provides the email addresses of the team members to be involved in the trial and notes they are preparing datasets to upload.
+503769560254,primary,other_human,False,none_of_these,False,True,Calum tells Piyush he has uploaded 24 priority-100 videos to each project and asks that annotator time be split 50/50 between the RGB and IR projects once the Master Project priority videos are done.
+503994969316,booster,wants_materials,True,requests_document_or_demo,True,True,Leif asks James what Encord needs from them in order to prepare a quote for the proposal he is putting together for his CEO.
+504037318846,primary,wants_call,True,proposes_or_accepts_meeting,True,True,The writer agrees to jump on a call and loops in Beth to find a time.
+504540409069,primary,asks_question,True,asks_for_information,True,True,"Lukas asks Moritz whether anything can be done to let them join the long horizon summit, and separately asks for a recommendation of a spot to watch the World Cup final."
+505934877920,booster,referral,True,redirects_to_colleague,True,True,The writer is not asking a question; they add Maria to the thread for additional help with the S3 setup.
+506209480892,primary,wants_call,True,proposes_or_accepts_meeting,True,True,Arun confirms that Friday at 11 CST or Tuesday at 11 CST both work for the meeting.
+506549443772,primary,other_human,False,proposes_or_accepts_meeting,True,True,The writer accepts the dinner invitation and asks to be counted in.
+506857423062,primary,other_human,False,acknowledges_only,False,False,Cole is not asking for anything; he confirms he now has Trust Center access and will reach out only if further questions arise.
+507221603559,primary,other_human,False,none_of_these,False,True,R2 is not asking for anything; they report that the 16 episodes have been uploaded to the specified storage bucket.
+507765194997,booster,wants_materials,True,requests_document_or_demo,True,True,Don asks to also be sent a one-year renewal option with rate-increase limiting so he can compare options and make a decision.
+507810319551,booster,asks_question,True,asks_for_information,True,True,"Shan Mo asks George and Gauri to forward his questions to the relevant person: whether he can try 3D object annotation, what it costs, and whether the E-MM1 dataset can train 3D detection models."
+508187571412,primary,other_human,False,acknowledges_only,False,False,Gautam is not asking for anything; he reports the renewal proposal is still under review and expects to respond tomorrow.
+508275470568,primary,referral,True,proposes_or_accepts_meeting,True,True,Gary asks Yuvraj to arrange a new demo time with him and Paul Chitson through his colleague Issabella.
+508835694824,booster,asks_question,True,asks_for_information,True,True,Reign asks whether signatures will be required on the order form.

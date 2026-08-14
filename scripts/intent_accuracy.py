@@ -140,6 +140,23 @@ def main():
     print(f"\n  base rates — pass A: {pct(prim['a_interested'].mean())} interested, "
           f"pass B: {pct(prim['b_interested'].mean())} interested")
 
+    # Is the failure an artefact of sampling replies the study never uses? The sample was
+    # drawn from all human replies, but `interested` is only ever computed from replies
+    # attached to an eligible push. Checked rather than assumed — it is not an artefact.
+    try:
+        fr = pd.read_parquet(os.path.join(DATA, "frame_G30.parquet"))
+        linked = {i for s in fr["cand_reply_ids"].fillna("")
+                  for i in str(s).split(",") if i}
+        prim = prim.copy()
+        prim["frame_linked"] = prim["id"].isin(linked)
+        print("\n  --- split by whether the reply actually feeds the outcome ---")
+        for nm, sub in [("frame-linked (the population used)", prim[prim["frame_linked"]]),
+                        ("not frame-linked (never enters the study)", prim[~prim["frame_linked"]])]:
+            if len(sub):
+                report(sub, nm)
+    except FileNotFoundError:
+        print("  (frame not built — frame-linked split skipped)")
+
     print(f"\n{'=' * 70}")
     print(f"VERDICT: {pct(gate)} vs gate {pct(GATE)} -> "
           f"{'PASS — interested may be used as co-primary' if gate >= GATE else 'FAIL — revise the intent classifier and re-measure before any Layer-2 analysis'}")
@@ -148,13 +165,15 @@ def main():
     print("=== per-intent agreement (primary + booster; booster is detail only) ===")
     allr = df[df["b_interested"].notna()].copy()
     allr["b_as_a"] = allr["b_motion"].map(B_TO_A)
-    t = allr.groupby("a_intent").apply(
-        lambda g: pd.Series({
+    rows_t = []
+    for intent, g in allr.groupby("a_intent"):
+        rows_t.append({
+            "a_intent": intent,
             "n": len(g),
-            "same_interested_side": f"{pct((g['a_interested'] == g['b_interested']).mean())}",
-            "exact_intent_match": f"{pct((g['a_intent'] == g['b_as_a']).mean())}",
-        }), include_groups=False)
-    print(t.to_string())
+            "same_interested_side": pct((g["a_interested"] == g["b_interested"]).mean()),
+            "exact_intent_match": pct((g["a_intent"] == g["b_as_a"]).mean()),
+        })
+    print(pd.DataFrame(rows_t).to_string(index=False))
 
     print("\ncross-tab (rows = pass A intent, cols = pass B motion):")
     print(pd.crosstab(allr["a_intent"], allr["b_motion"]).to_string())
