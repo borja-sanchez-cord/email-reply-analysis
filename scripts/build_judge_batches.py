@@ -63,16 +63,39 @@ def build_sender_vocab():
 SENDER_VOCAB = None
 
 
+def redact_names(text, first, company):
+    """Replace the recipient's name and company, WITH WORD BOUNDARIES.
+
+    Run 2 fix (RUN2_PREREGISTRATION §5.4, over-redaction half). The original did a
+    bare re.escape substitution with no boundaries, so a recipient named "Al" turned
+    "also" into "[NAME]so" and a company called "Speak" turned "speaking" into
+    "[COMPANY]ing" — the same defect that was already fixed on the feature path
+    (features_compute.py, audit finding 5). Judges rate the text they are shown, so
+    mangled words cost real signal on polish, economy and bespokeness.
+
+    Boundaries only tighten the match, so this removes over-redaction without
+    introducing under-redaction: "\\bAl\\b" still catches the actual name.
+    Short single-word company names additionally require the capitalised form,
+    mirroring the rule already audited on the feature path.
+    """
+    if first and len(first) >= 2:
+        text = re.sub(rf"\b{re.escape(first)}\b", "[NAME]", text, flags=re.I)
+    if company and len(company) >= 3:
+        if " " not in company and len(company) <= 6:
+            cased = company[0].upper() + company[1:]
+            text = re.sub(rf"\b{re.escape(cased)}\b", "[COMPANY]", text)
+        else:
+            text = re.sub(rf"\b{re.escape(company)}\b", "[COMPANY]", text, flags=re.I)
+    return text
+
+
 def redact(text, first, company):
     text = UNSUB_RE.sub("", text)
     body, _sig = split_signature(text)
     body = URL_RE.sub("[LINK]", body)
     body = EMAIL_RE.sub("[EMAIL]", body)
     body = DATE_RE.sub("[DATE]", body)
-    if first and len(first) >= 2:
-        body = re.sub(re.escape(first), "[NAME]", body, flags=re.I)
-    if company and len(company) >= 3:
-        body = re.sub(re.escape(company), "[COMPANY]", body, flags=re.I)
+    body = redact_names(body, first, company)
     # residual sender identity (signature blocks that survived the split)
     for tok in SENDER_VOCAB:
         body = re.sub(rf"\b{re.escape(tok)}\b", "[SENDER]", body, flags=re.I)
@@ -142,10 +165,7 @@ def main():
             first, comp = cmap.get(r["id"], ("", ""))
             subj = subj_raw
             subj = URL_RE.sub("[LINK]", subj)
-            if first:
-                subj = re.sub(re.escape(first), "[NAME]", subj, flags=re.I)
-            if comp and len(comp) >= 3:
-                subj = re.sub(re.escape(comp), "[COMPANY]", subj, flags=re.I)
+            subj = redact_names(subj, first, comp)
             for tok in SENDER_VOCAB:
                 subj = re.sub(rf"\b{re.escape(tok)}\b", "[SENDER]", subj, flags=re.I)
             body = redact(text, first, comp)

@@ -355,3 +355,101 @@ provenance is disclosed here so the choice can be judged independently.
 
 Reviewed and confirmed by the operator before commit: `referral` remains inside Interested
 (§1), and the four primary hypotheses in §2 stand as listed.
+
+---
+
+## 9. Corrections found at execution time (appended 2026-08-14, after GO)
+
+§8.3 above is **wrong on the facts** and is left standing rather than edited, because
+silently correcting a pre-registration destroys the thing it exists to provide. What
+follows is the correction, with its own timestamp.
+
+§8.3 recorded "116 reply ids" and "434 type ids" outstanding. Both numbers came from
+`data/missing_reply.txt` and `data/missing_type.txt`, which turn out to contain **batch
+names, not email ids**, and to be stale snapshots taken mid-run. The authoritative check is
+the filesystem — per §5.7, recovery comes from the filesystem, not from a record of what
+agents said they did.
+
+### 9.1 Actual label state, measured from disk
+
+| | batches | ids | labelled | missing |
+|---|---|---|---|---|
+| reply | 209 / 209 present | 16,695 | **16,695 (100%)** | 0 |
+| type | 312 / 485 present | 38,793 | 24,960 (64.3%) | **13,833** |
+
+Two consequences worth stating plainly:
+
+- **No reply-label work was needed.** The reply outcome variable is complete, with zero
+  partial batches — run 1's "9 of 209 batches returned 79 of 80 labels" defect is not
+  present in the final state. §5.3's assertion is satisfied as found.
+- **`data/type_labels.parquet` was itself stale** (18,318 rows against 24,960 labels
+  present on disk). Re-running `scripts/assemble_labels.py` recovered 6,642 labels that
+  had already been produced and paid for but never assembled.
+
+### 9.2 The type gap is time-confounded, and that is the real problem
+
+The 173 missing type batches are **contiguous: `batch_0312` through `batch_0484`**. Batches
+were built in sorted-id order, and HubSpot engagement ids are near-monotonic in creation
+time, so batch order is chronological. `batch_0312` lands at 2025-10; `batch_0484` at
+2026-07.
+
+The gap is therefore not a random 36% of the corpus. It is **the end of the time range**:
+
+| frame | rows | type-null | of which 2025 | of which 2026 |
+|---|---|---|---|---|
+| G30 | 14,174 | 6,388 | 1,012 | **5,376 — every 2026 row** |
+
+`build_frame.py` applies `is_reply_like.fillna(False)`, so an unlabelled opener is silently
+assumed not-reply-like and kept. The `is_reply_like` safety net was therefore excluding
+~11% of 2025 openers and **0% of 2026 openers**.
+
+That is a differential exclusion sitting directly on the 2025-vs-2026 comparison — which is
+the pre-registered holdout test (`eligibility_and_analysis_rules.md` §9). Pilot batches in
+the missing window measured `is_reply_like` at 27–35% in cold-outreach batches, so the
+excluded share was not small. Left unfixed, the holdout would have compared a
+contamination-filtered development set against an unfiltered holdout, and any failure to
+replicate would have been uninterpretable — on top of the channel-mix confound already
+recorded in `docs/LEARNINGS_FOR_NEXT_RUN.md` Part 4.5.
+
+**Action taken:** all 173 batches are labelled, not just the ~6,500 that fall inside a
+frame. Trimming to frame rows would have typed the 2025 window corpus-wide and the 2026
+window CA-only, reintroducing a 2025/2026 asymmetry of exactly the kind this correction
+exists to remove. Instrument consistency across the time range is worth more than the
+token saving.
+
+### 9.3 Recorded baselines are superseded
+
+§1 recorded `replied` 15.95% (2,355) and `interested` 9.46% (1,397) on n=14,769. Those were
+computed with the stale type labels. After re-assembly and rebuild at G30 the eligible
+frame is **14,174** rows (the reply-like exclusion rose from 817 to 1,412), with `replied`
+15.3% and `interested` 9.0%. These will move once more when the 173 batches land, and the
+final numbers are reported in the waterfall.
+
+Both directions are downward and small, and neither is a feature-outcome relationship, so
+this does not affect §2's hypotheses. The §8.5 disclosure logic applies unchanged.
+
+### 9.4 A sixth counter defect, found in the judge redaction path
+
+`scripts/build_judge_batches.py` replaced the recipient's first name with `[NAME]` using a
+bare substitution — no word boundary, minimum length 2 — and the company likewise at
+minimum length 3. This is **the same defect as audit finding 5**, which was fixed on the
+feature path and never fixed on the judge path: a recipient named "Al" turns "also" into
+"[NAME]so", and a company called "Speak" turns "speaking" into "[COMPANY]ing".
+
+It is the over-redaction half of §5.4, and it would have degraded exactly the dimensions
+the study cares about — `polish`, `economy`, `bespokeness` — on an unknown subset of items.
+
+Fixed before any batch was built (no scores existed, so nothing is invalidated): word
+boundaries on both, and short single-word company names require the capitalised form,
+mirroring the already-audited feature-path rule. Pinned by `tests/test_blinding.py`.
+
+### 9.5 What now exists that §5 only specified
+
+| §5 requirement | Implementation |
+|---|---|
+| 5.1 regression tests, production functions, real pathological inputs | `tests/test_features.py` — 18 tests, all 5 defects, each paired with a positive control so the test cannot be satisfied by breaking the feature |
+| 5.4 automated blinding leak check that blocks launch | `scripts/check_blinding.py` — exits non-zero on any hit; imports the production redaction vocabulary rather than re-deriving it; also reports the over-redaction direction |
+| 1b intent-accuracy gate | `scripts/build_intent_accuracy_batches.py` (seed 20260814) + `scripts/intent_accuracy.py` |
+| — | `tests/test_blinding.py` — 12 tests pinning both redaction directions |
+
+Total: 30 tests, passing, committed before the frame is rebuilt.

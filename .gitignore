@@ -4,3 +4,5 @@ data/
 __pycache__/
 *.pyc
 output/judge_cache/
+.venv/
+.pytest_cache/
