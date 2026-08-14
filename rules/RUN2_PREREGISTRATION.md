@@ -428,6 +428,31 @@ final numbers are reported in the waterfall.
 Both directions are downward and small, and neither is a feature-outcome relationship, so
 this does not affect §2's hypotheses. The §8.5 disclosure logic applies unchanged.
 
+**Final numbers, all 485 type batches landed (2026-08-14):** the correction is much larger
+than the interim figures above suggested.
+
+| | §1 as recorded | interim (stale types) | **final** |
+|---|---|---|---|
+| reply-like exclusion | 817 | 1,412 | **3,509** |
+| eligible frame rows (G30) | 14,769 | 14,174 | **12,077** |
+| of which 2026 | 5,376 | 5,376 | **3,486** |
+| `replied` | 15.95% | 15.3% | **10.9%** |
+| `interested` | 9.46% | 9.0% | **6.1%** |
+
+**35% of the 2026 "cold openers" were not cold** — they were mid-conversation messages that
+the thread check missed and the untyped safety net never caught. The pre-registered baseline
+of 15.95% was inflated by roughly a third in relative terms, entirely by this contamination.
+
+This is the single largest correction in the study, and it lands on the outcome variable's
+denominator. It is also the clearest available evidence that the §9.2 defect was worth
+finding: had the 2026 window stayed untyped, the holdout would have compared a 2025 cohort
+with 11% of its contamination removed against a 2026 cohort with none of it removed.
+
+These remain marginal totals, not feature-outcome relationships, so §2's hypotheses and the
+§8.5 disclosure logic still stand unchanged. Every `type` × `year` cell is populated for the
+first time; robustness at G21 and G45 moves in step (10.8% / 11.2% replied), so the
+correction is not an artefact of the gap choice.
+
 ### 9.4 A sixth counter defect, found in the judge redaction path
 
 `scripts/build_judge_batches.py` replaced the recipient's first name with `[NAME]` using a
