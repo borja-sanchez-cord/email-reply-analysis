@@ -13,8 +13,25 @@ from what an agent reported.
 
 ## The one-line state
 
-Stage 0 (tests) done and committed. Stage 1 (labels) part-done and safe to resume.
-**No analysis has been run. No email has been judged. Zero results exist.**
+Stage 0 (tests) done and committed. Stage 1 (type labels) part-done and safe to resume.
+**The §1b gate on `interested` FAILED at 83.3% — see `docs/11_intent_accuracy_gate.md`.
+That blocks Layer-2 use of `interested` and is the first thing to deal with.**
+No analysis has been run. No email has been judged. Zero results exist.
+
+## BLOCKER: the intent gate failed — read docs/11 before anything else
+
+The whole 17-point gap is one bucket. All eight real intents agree at 96.2%; the
+`other_human` catch-all (39% of the sample) agrees at 62.9%. Fix that bucket and the
+gate reads 97.7%.
+
+The sequence in `docs/11_intent_accuracy_gate.md` is: **adjudicate the 116 disputed
+`other_human` replies first**, under a sharpened written definition, THEN re-label
+(~137 Fable batches), THEN re-measure on a **fresh seed**. Do not re-measure on seed
+20260814 — that measures the tuning, not the classifier.
+
+Two things that must not happen: tuning pass A until it agrees with pass B (pass B has
+its own errors — it called a decline containing a question mark `asks_for_information`),
+and redefining `interested` to make the gate pass.
 
 ## Exactly where to pick up
 
