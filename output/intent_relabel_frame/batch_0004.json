@@ -1,0 +1,402 @@
+[
+{
+"id": "340995189947",
+"subject": "Re: Encord Proposal + Next Steps",
+"text": "Hi Jamie,\n\nGot it, thanks! Let me circle back about the number of seats. Just wanted\nto start by checking on the option.\n\nBest,\nJeff"
+},
+{
+"id": "350653415671",
+"subject": "Re: Encord",
+"text": "Hi Sara,\n\nThanks for reaching out! Just browsing, was curious to see how the products work.\n\nBest,\nVidhi"
+},
+{
+"id": "352260308155",
+"subject": "RE: Encord",
+"text": "Hi Laura,\n\nNo worries! I just adjusted the invite. I\u2019m assuming this is still pacific time \ud83d\ude0a\n\nBest,\nBritt\n\nBrittany J. Harris \u2013 Account Executive & Customer Advocate, Southeast Region\nCustomers first, services led, results driven.\nePlus Technology inc\nC: 609-424-6785 | O: 212-401-5083\nbharris@eplus.com<mailto:bharris@eplus.com> | www.eplus.com<http://www.eplus.com/> | Connect on LinkedIn<https://www.linkedin.com/in/brittanyharris491/>\n[cid:image001.jpg@01DC52F3.EED68900]\n\n\u201cYou cannot be great without the greatness of others.\u201d"
+},
+{
+"id": "352519185612",
+"subject": "Re: Thanks for coming!",
+"text": "Thank you, chat soon!\n\n*Tedi Papajorgji*\nVP, Engineering\nResemble AI\nhttps://resemble.ai"
+},
+{
+"id": "353527267566",
+"subject": "Re: SynDiag / Encord - demo",
+"text": "Hi Laura, thanks! Francesca Salis, Syndiag's Clinical Data Manager, will\nalso join the call.\n\nTalk to you soon\nPio"
+},
+{
+"id": "353604065478",
+"subject": "Encord <> Pro Vigil",
+"text": "Encord <> Pro Vigil\n\nI'm running a little late, so please don't wait for me - start with introductions and then the annotation demo..\n\nJoin with Google Meet\n\nMeeting link\n\nmeet.google.com/yxp-qkyb-aek\n\nJoin by phone\n\n(GB) +44 20 3957 0156 \nPIN: 417208783\n\nMore phone numbers\n\nEncord <> Pro Vigil\n\nWednesday Nov 12, 2025 \u22c5 11am \u2013 11:45am (Eastern Time - New York)\n\nGuests\n\nadithya@encord.com\n- organiser\n\nskander@encord.com\n\nSatish Raj\n\nAbdul Bari\n\nLakshmi Priya Mudra\n\nNarasimhulu Merugu\n\nSurbhi Kapoor\n\nVikas Bhardwaj\n\nlaura.zhu@encord.com\n\ncolin@encord.com\n\nAtul Mantri - optional"
+},
+{
+"id": "353927753950",
+"subject": "Re: Encord & Duranta - Proposal",
+"text": "Hi William,\n\nThanks for the initial proposal.\n\nWe'd prefer the pricing to be based on seats or number of images as the\ntime per annotation depends on the fidelity of annotation we require.\nCurrently that is the model we have with SuperAnnotate as well.\n\nBest,\nGanesh."
+},
+{
+"id": "359182363872",
+"subject": "Re: [EXTERNAL]:  Re: [Invite] Happy Hour @ Neurips 2025",
+"text": "Hi Laura,\n I had not received this note. Currently, I am not aware of anyone from the company attending. However, I have received the approval for the registration on my personal email - pavangurudath6@gmail.com.\n\nThank you,\n\nPavan Gurudath\n\nAlgorithm Engineer"
+},
+{
+"id": "360832924897",
+"subject": "Re: Encord",
+"text": "Hey Laura,\nI used my personal email address when playing around with our website, but\nI'm the same Near Privman as near@encord.com. Sorry \ud83d\ude05"
+},
+{
+"id": "360871249086",
+"subject": "Re: NeurIPS - San Diego - 2 Dec",
+"text": "I will be there and interested.\n\nThanks for the invite\n\n<https://www.weave.bio/>\n\n*Umut Eser*\n\nChief AI Officer & Co-founder\n\nm / +1 (617) 893-3513\ne / umut@weave.bio\n\nw / weave.bio <https://www.weave.bio/>"
+},
+{
+"id": "362338502883",
+"subject": "Re: Encord & Glydways - In Person Demo",
+"text": "Sounds good, see you soon!"
+},
+{
+"id": "365509309629",
+"subject": "Re: ML Leaders Dinner @NeurIPS'25",
+"text": "Yes invite received.\u00a0 Thanks!\n\nLei Pan\nMember of Technical Staff\n858.775.2999\nlei@inflection.ai"
+},
+{
+"id": "368601569502",
+"subject": "Re: Encord AI leaders dinner in San Diego - NeurIPS 2025",
+"text": "Yes, no restrictions for me. Thank you!\n\n-Ted"
+},
+{
+"id": "369935698152",
+"subject": "Re: Encord <> TRI | Data & Projects Best Practices",
+"text": "Hi Shivant,\n\nFollowing up, could you please add @Huan Liu <huan@lbm.global> and @Dave\nJohnson <dave@lbm.global> to the list of people who have access to the tool?\n\nThanks,\nRares"
+},
+{
+"id": "373920279752",
+"subject": "Re: ML Leaders Dinner @NeurIPS'25",
+"text": "Hi Winnie,\n\nChange in plans - have to cancel going to NeurIPS at the last minute.\n\nMy apologies,\n\nRuslan"
+},
+{
+"id": "376374957272",
+"subject": "Re: ML Leaders Dinner - San Diego - 2nd Dec",
+"text": "Hi Winnie,\n\nHope you had a good Thanksgiving. Unfortunately I will not be able to make it to the dinner tomorrow.  I have an evening meeting with APAC and will miss the dinner.\nSorry for the last minute cancelation.\n\nThanks,\nMainak"
+},
+{
+"id": "377557539030",
+"subject": "Re: Encord <> TRI | Data & Projects Best Practices",
+"text": "Hi Shivant,\n\nThanks for the call. Here's a sample.json file. I'll paste it here too and\nwalk through our workflow:\n\n{\n  \"annotation_uuid\": \"be1c6f6a-ec0c-428e-b2ab-9e5bed557be8\",  // annotation\nUUID, should be preserved when exporting from Encord\n  \"encord_file_name\":\n\"fa2c906303cc2214124cf63fe6d7e379ef0add737c6fcd136048b96c9751129f_head_left.mp4\",\n// This points to the file inside the Encord project\n  \"encord_project_name\" : \"Test SDK initialization\",\n  \"encord_project_id\" : \"5c5ce304-6c95-404d-a59f-a518ade9c307\",\n  \"event_channels\": [\n    {\n      \"channel_uuid\": \"cfc716a5-5648-596e-84ee-359e5dfe33e8\", // This is a\nmapping from Channel_name to a UUID, and it's the same across all\nannotations for all files that have labels in this channel\n      \"channel_name\": \"Interaction\", // Maps to Encord labeling ontology\n      \"annotation_type\": \"LANGUAGE\",\n      \"events\": [\n        {\n          \"event_uuid\": \"973fcc09-fbe5-4d3c-9f10-cf3819eb417a\",  // label\nUUID, it should be preserved when exporting from Encord\n          \"description\": \"Task description 1\",  // Text description\n          \"start_frame\": 50,    // Start and end frames in the video\n          \"end_frame\": 1500\n        },\n        {\n          \"event_uuid\": \"f0b161ab-7c0f-467b-ba81-4e2dfbe1d902\",\n          \"description\": \"Task description 2\",\n          \"start_frame\": 2500,\n          \"end_frame\": 5000\n        }\n      ]\n    }\n  ]\n}\n\nWhat we're looking for via the SDK is (in order of importance):\n\n   1. We want to use the data inside the events list to initialize labels\n   between the indicated start and end frames and with values set as indicated\n   in the description field. The labels should be added within the Encord\n   Ontology indicated by the channel_name field; the type of label we've been\n   using is of Classification type.\n   2. Each event has an event_uuid. When initializing the labels, it would\n   be great if this uuid could be maintained inside Encord and preserved when\n   exporting the labels.\n   3. The en"
+},
+{
+"id": "377868900598",
+"subject": "Re: ML Leaders Dinner @NeurIPS - 2nd Dec",
+"text": "Sorry running late. Got stuck in traffic. Will be there by 7 pm!\n\nGet Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "385066366185",
+"subject": "Re: Encord - Frame Question",
+"text": "Hey Colin,\n\nThis would be different depending on the dataset but we can use our overall\nlibrary stats as a proxy for now. Average duration is ~3 min with most\nvideos between 24-30 fps.\n\nBest,\n\nJohnny"
+},
+{
+"id": "385171865830",
+"subject": "Re: Encord Call Now",
+"text": "Hey Colin, apologies! Meeting running late, I will be there at 1:10"
+},
+{
+"id": "385862520023",
+"subject": "Re: Encord x Avatar Medical Intro",
+"text": "Hi Sara,\n\nIn the end, I have a call scheduled with Olivia tomorrow afternoon!\n\nBest,\n\nCorentin"
+},
+{
+"id": "390900282611",
+"subject": "Re: Proposed new time: TRI <> Encord @ Mon 15 Dec 2025 17:30 - 17:55 (GMT) (shivant@encord.com)",
+"text": "Sorry, running a few minutes late, we'll join asap."
+},
+{
+"id": "391251564776",
+"subject": "Re: Finetuning Parsing/Extraction",
+"text": "Memes, add Sudarshan to the meeting too pls!"
+},
+{
+"id": "392497846509",
+"subject": "Re: Encord / Zefr - follow up",
+"text": "Thank you for reaching out."
+},
+{
+"id": "394198137080",
+"subject": "Re: scaling PCD annotation",
+"text": "Oops, you're right; I've added the meeting link.\nLooking forward to chatting!\n\n- John"
+},
+{
+"id": "395510921432",
+"subject": "Re: AI Leaders Dinner @CES'26",
+"text": "Sounds good. Have a great holiday ahead!"
+},
+{
+"id": "395534437582",
+"subject": "Re: AI Leaders Dinner @CES'26",
+"text": "404 on that Luma link."
+},
+{
+"id": "395791151346",
+"subject": "Re: NVIDIA & Encord AI Leaders Dinner @ CES Vegas Jan 7th",
+"text": "Thank you Laura, same to you!\n\n-- \n\nDr. Andreas Reschka\nSr. Director Product, Systems, and Safety at Pony.ai\n\nandreas.reschka@pony.ai - (650) 753-9578\n\nhttps://www.linkedin.com/in/andreasreschka/"
+},
+{
+"id": "402696543481",
+"subject": "Re: meeting at CES / Scaling VLA data ops",
+"text": "Sounds great! See you then!\nBest Regards,\nSampreeth Radha Krishna\n+1 2164132679"
+},
+{
+"id": "406431014112",
+"subject": "Re: test",
+"text": "Yep"
+},
+{
+"id": "407565976777",
+"subject": "Re: Rares / Leo in the bay",
+"text": "Awesome, thanks Leo and see you soon!"
+},
+{
+"id": "408866970862",
+"subject": "Re: scaling PCD annotation",
+"text": "Hi Moritz,\n\nI have shared a folder\n<https://drive.google.com/file/d/13pvvzauf0J5-zvfdPwssdC4hVU8Do3d2/view?usp=sharing>\nwith you, this has two ROS bags with GPS and LiDAR streams.\n\nBest,\nYashaarth"
+},
+{
+"id": "409100526825",
+"subject": "Re: scaling PCD annotation",
+"text": "Hi Moritz,\n\nHappy New Year to you too!\n\nFor the data, my team is back in full force again after the holidays. We'll\nbe syncing on getting that data to your team today.\nI've also finally had a chance to review the mDNA and it looks good. Happy\nto e-sign the document.\n\nRegards,\nJohn"
+},
+{
+"id": "409102303471",
+"subject": "Re: scaling PCD annotation",
+"text": "Signed, thank you! Yashaarth will get back to you regarding the ROS bag\nfile.\n\n- John"
+},
+{
+"id": "409114848451",
+"subject": "Re: AI Leaders Dinner @CES'26",
+"text": "Thanks Winnie. None.\n\n-T"
+},
+{
+"id": "409249599689",
+"subject": "Re: AI Leaders Dinner @CES'26",
+"text": "Confirmed with thanks"
+},
+{
+"id": "409901524191",
+"subject": "Re: Slack Channel",
+"text": "Hi Seif,\n\nGreat question, thanks for checking! Let's go with encord-walden.\n\nThanks,\nRares"
+},
+{
+"id": "411187637442",
+"subject": "Re: [Invite] Defense AI Roundtable Dinner, 11th Feb @ WEST 26",
+"text": "Hi James\u2026 good morning! Hope your week has gone well. Thanks for the outreach and invitation. Sounds like an interesting opportunity and learning more details. Will keep an eye out for that.\n\nBest,\nJon"
+},
+{
+"id": "414652348649",
+"subject": "Re: Measuring labelling team performance",
+"text": "Hello Winnie,\n\nGreat to meet you! My schedule is full but I'd be happy to answer an async\nform or questionnaire if you'd like. Thanks!\n\nBest,\nVida"
+},
+{
+"id": "416199508191",
+"subject": "Re: Measuring labelling team performance",
+"text": "Hey Winnie,\n\nGreat question! On-brand evaluation is just one type of evaluation we do,\nso this answer will be more generalized.\n\n   - We structure labelling and evaluation per project, with each project\n   tied to a specific AI feature and goal (e.g. Image to Design: how well a\n   model reconstructs a design based on an image; Design Generation: how well\n   a model generates a design based on a prompt\n      - With that, we create specific guidelines and determine dimensions\n      depending on what we want to evaluate\n   - Guidelines are designed to be explicit and operationalised:\n      - step-by-step annotation instructions or decision-tree/checklist\n      style evaluation workflows\n      - clear definitions of core principles, edge cases, and failure modes\n      - written under the assumption that labellers have no prior Canva or\n      design knowledge, so different backgrounds still converge on the same\n      decisions\n      - with real-world examples based on model outputs\n   - This approach reduces subjectivity and grey areas and encourages\n   labellers not to rely on individual taste or preference\n      - However, we do have some tasks that measure user preferences so\n      that's a different story!\n   - During labelling, the labellers are encouraged to ask questions and\n   flag ambiguities, especially as new or tricky cases emerge\n   - After the evaluation (or sometimes even as the evaluation is\n   happening), we run quality assurance loops appropriate to the task, such as\n   spot checks, peer review, or formal alignment-rate measurements\n   - Finally, guidelines are treated as living documents and are iterated\n   based on labeller feedback, recurring FAQs, and QA findings to continuously\n   improve consistency and alignment over time\n\nHope this helps, let me know if you have follow-ups \ud83e\udee1\n\nBest,\nVida"
+},
+{
+"id": "417982171343",
+"subject": "Re: AI Leaders Dinner - 28 Jan - NYC",
+"text": "Winnie - invite well received, thank you! Sounds like it'll be a great\ngathering and we're looking forward!\n\nAll the best,\nBrianna"
+},
+{
+"id": "418137013468",
+"subject": "Re: NYC Dinner - 28 Jan",
+"text": "Hi Winnie -\n\nSounds great -  I'll connect with him today and loop him in on the thread\nif he's available!\n\nBest,\n\nCJ"
+},
+{
+"id": "418137223383",
+"subject": "Re: Physical AI Panel in SF - Jan 29th",
+"text": "Hi Winnie,\n\nThank you for your invitation! There\u2019s a good chance I can make it, it is great you pinged me with this. The panel looks great and it should be an amazing event overall. Btw, do you arrange such events on a regular basis? \n\nThanks again and I\u2019m looking forward to meeting you there!\n\n\u2014 Kirill"
+},
+{
+"id": "418151941364",
+"subject": "Re: Brains, Bodies, Benchmark - Physical AI Panel",
+"text": "Hi Winnie,\n\nI see the invite in my calendar now!\n\nMay I also kindly ask for a ticket for a colleague of mine, Jacob Zietek?\nHe was a founding member of the team at Persona AI, and he built out our\nearly ML data pipeline.  He has since moved on to working at a16z in the\nBay area.  He has thought a-lot about the problems of data scalability in\nPhysical AI, and I think he would be a valuable companion for me at the\nevent.\n\nhttps://www.linkedin.com/in/jacob-zietek/\nemail: jz@16z.com\n\nIf the event is already full, then no worries whatsoever.\n\nBest regards,\nRob Effinger"
+},
+{
+"id": "418162641099",
+"subject": "Re: Brains, Bodies, Benchmark - Physical AI Panel in SF",
+"text": "Got it! Thanks."
+},
+{
+"id": "418215276733",
+"subject": "Re: Rares / Leo in the bay",
+"text": "Hi Leo,\n\nJust in case I get lost or am running late, let's coordinate via the phone\nfor the meeting later today? Do you use Whatsapp? My phone number there\nis +1 650 334 6707.\n\nThanks,\nRares"
+},
+{
+"id": "418486156487",
+"subject": "Re: Brains, Bodies, Benchmark - Physical AI Panel",
+"text": "Hi Winnie,\n\nGreat to e-meet you as well!  I don't see anything in my inbox or calendar\nyet, I checked my Spam folder and don't see anything there.\nCan you double check on your side?\n\nThanks!\nRob"
+},
+{
+"id": "418545943793",
+"subject": "Re: [EXTERNAL]  [Invite] Physical AI Panel & Mixer - SF - 29 Jan",
+"text": "I\u2019m interested.  Please let me know if I can attend and I will be there.\n\nAutonomously,\n\nBill\n\nWilliam E. Jennings\n\nK7 Chief Program Engineer\n\nKnightscope, Inc (NASDAQ: KSCP)\n305 N Mathilda Avenue\n\nSunnyvale, CA 94085"
+},
+{
+"id": "418571113664",
+"subject": "Re: AI Dinner NYC - Encord",
+"text": "Was hoping to add Himi Das on our team who's leading our GTM strategy. But\nno worries, I'm happy to represent Troveo solo :)"
+},
+{
+"id": "418985265400",
+"subject": "Re: NYC Dinner - 28 Jan",
+"text": "Hi Winnie,\n\nGood news - @Nick Boyce <nicholas.boyce@doubleverify.com> is interested in\njoining from DV to share his expertise (greater than mine!). Please see his\nattached email to coordinate the invite.\n\nBest,\nCJ\n\nOn Wed, Jan 14, 2026 at 9:56\u202fAM CJ Morello <charles.morello@doubleverify.com>\nwrote:\n\n-- \n\nCharles [CJ] Morello\nVP, AI Product Operations\n\ncharles.morello@doubleverify.com\n\n[image: photo] <https://www.doubleverify.com>\n\n600 Corporate Pointe #470, Culver City, California 90230\n\n[image: facebook] <https://www.facebook.com/DoubleVerify/>\n\n[image: twitter] <https://twitter.com/doubleverify>\n\n[image: instagram] <https://www.instagram.com/doubleverify>\n\nIMPORTANT: The contents of this email and any attachments are confidential.\nThey are intended for the named recipient(s) only. If you have received\nthis email by mistake, please notify the sender immediately and do not\ndisclose the contents to anyone or make copies thereof.\n\n[image: __tpx__]"
+},
+{
+"id": "419492767983",
+"subject": "Re: Brains, Bodies, Benchmark - Physical AI Panel",
+"text": "Ok great, and thank you!  Looking forward to it.\n\n-Rob"
+},
+{
+"id": "421458534623",
+"subject": "Re: Encord & Gracenote - CES Followup",
+"text": "Thanks Will.  Can I suggest we start with your proposal, and use that to\nseed subsequent specific discussions.\n\n-Tyler"
+},
+{
+"id": "423966168265",
+"subject": "Re: Nice to meet you today [encord/topseven]",
+"text": "Hi Kat,\n\nThank you for the conversation as well. It was interesting to learn more about what your team does and how you can support us in our development.\n\nBest regards,\nHamid\n\nHamidreza Houshiar\nHead of Computer Vision\n\n[TOPseven]\nTOP seven GmbH & Co. KG\nMeglingerstra\u00dfe 29\n81477 M\u00fcnchen\n\nMobil: +49 151 11717103\nFestnetz: +49 89 515550-389\nE-Mail: Hamidreza.Houshiar@topseven.com<mailto:Hamidreza.Houshiar@topseven.com>\nWebsite: www.TOPseven.com<http://www.TOPseven.com>\n\nSitz: M\u00fcnchen\nRegistergericht: Amtsgericht M\u00fcnchen HRA 112608\n\nKomplement\u00e4rin: TOP seven Management GmbH mit Sitz in Potsdam, eingetragen im Handelsregister des Amtsgerichts Potsdam unter HRB 34027 P, vertreten durch ihren Gesch\u00e4ftsf\u00fchrer Heiner R\u00f6ger.\n\nVERTRAULICHKEIT: Diese E-Mail ist vertraulich. Wenn Sie nicht der vorgesehene Adressat sind, benachrichtigen Sie uns bitte mittels E-Mail und l\u00f6schen Sie die Nachricht dann aus Ihrem System.\nWir bitten Sie weiter, den Inhalt dieser E-Mail weder f\u00fcr Dritte zug\u00e4nglich zu machen, noch die E-Mail auszudrucken oder f\u00fcr einen anderen Zweck zu verwenden, zu kopieren oder auf irgendeinem Medium zu speichern.\nVielen Dank f\u00fcr Ihre Kooperation."
+},
+{
+"id": "425740481759",
+"subject": "Re: Physical AI & Robotics Panel - SF - 29 Jan",
+"text": "Hi Winnie,\n\nThanks for thinking of me! This sounds very interesting!! What time is it and where? I have another event at my daughter\u2019s school on that day from 4:30 to 6 so may not be able to make it up to SF in time unfortunately.\n\nThanks,\nSachin\n\nSachin Chitta\n\nDirector of Robotics Research\n\nAutodesk, Inc.\n\nPier 9, San Francisco, CA 94111\n\nwww.autodesk.com<http://www.autodesk.com/>"
+},
+{
+"id": "425768436944",
+"subject": "Re: Physical AI & Robotics Panel - SF - 29 Jan",
+"text": "OK sounds great. Thanks, Winnie!"
+},
+{
+"id": "426662367427",
+"subject": "Re: [External] Re: AI Leaders Dinner - NYC - 28 Jan",
+"text": "Thanks, Winnie! I got the invite.\n\nRegards,\nReza"
+},
+{
+"id": "426685267187",
+"subject": "Re: Brains, Bodies, Benchmark - Physical AI Panel",
+"text": "Winnie,\n\nI thought about inviting my colleague Jacob Zietek to the meeting as well, but since he is now with a different company it probably makes sense for you to connect with him separately as you see relevant, and we can of course all talk together at the event.\n\nLooking forward to it!\nRob"
+},
+{
+"id": "427618492626",
+"subject": "Re: Covera Health <> Encord demo @ Tue, 16 Dec 2025 2:00pm \u2013 2:30pm (GMT+00)",
+"text": "Hi Kat,\n\nSorry, we have some delays as we are formalizing an internal doc while a\nfew of our members are locked-in for urgent business. We intend to send the\ndocument next week.\n\nThank you for your patience,\nMicha"
+},
+{
+"id": "427778792640",
+"subject": "Re: R.e. Encord AI Leaders Dinner Invite - Weds 28th Jan",
+"text": "Thanks, will be in NYC"
+},
+{
+"id": "431109791981",
+"subject": "Re: Brains, Bodies + Benchmarks - invite to Physical AI Panel in SF",
+"text": "Hi James,\nSounds good! I'll be there!\n\nDan\n\nOn Thu, Jan 22, 2026 at 10:13\u202fAM James Sweeney <james.sweeney@encord.com>\nwrote:\n\n-- \nDan Grover\nProduct Lead\nStandard Bots <https://standardbots.com/>"
+},
+{
+"id": "434082953415",
+"subject": "Re: Recap and Materials for Encord",
+"text": "Appreciate it! Will be sure to review everything before then :)"
+},
+{
+"id": "435376235708",
+"subject": "Re: Physical AI Panel - 29th Jan - SF",
+"text": "Hi Winnie,\n\nYes, I can attend the first half of the event.\n\nBest,\nFelix"
+},
+{
+"id": "435583071432",
+"subject": "Re: 26Feb Enquiry",
+"text": "Dear Kat,\n\nThank you for your enquiry with us.\n\nI have replied to you on our events platform. If you are happy with the offerings and wish to proceed with the reservation, kindly reply directly to that email.\n\nLooking forward to your response.\n\nKind Regards,\n\nDorina\n\nTel: + 44 (0) 020 462 80115\n\nEmail: hello@moirestaurant.com<mailto:hello@moirestaurant.com>\n\n84 Wardour Street\n\nLondon, W1F 0TQ\n\nCONFIDENTIALITY NOTICE\n\nThis e-mail is from MOI Restaurant. This e-mail and any attachments are confidential and intended for the addressee only. If you are not the intended recipient, any review, retransmission, dissemination, distribution, copying or other use of this information is strictly prohibited. If you have received this communication in error, please notify the sender and delete this e-mail and any attachments completely from your system.\n\nAlthough this e-mail and its attachments are believed to be free of any virus, it is the responsibility of the recipient to ensure that they are virus free. If you contact us by e-mail, then we will store your name and address to facilitate communications. Any statements contained herein are those of the individual and not the organisation. If you have received this message in error, please delete it and all copies from your system and notify the sender immediately by return E-mail or telephone."
+},
+{
+"id": "435806463191",
+"subject": "Re: Encord Follow-up",
+"text": "Hello Hugo,\n\nThank you for your message.I wanted to let you know that your previous email did not come through to my inbox initially due to be marked as spam, but I have now received it. \n\nI will share the information and customer story with the CourtMaster team.\n\nKind regards,\nMiguel Nunes\n\n-- \n\nMiguel Nunes\n\nCTO | Fraqtory\n\nEmail: miguel.nunes@fraqtory.com"
+},
+{
+"id": "436011263192",
+"subject": "Re: [External] Re: AI Leaders Dinner - NYC - 28 Jan",
+"text": "Hi Winnie,\n\nI got a last minute conflict for tonight that I would not make the dinner\nevent. Sorry for any inconvenience.\n\nRegards,\nReza"
+},
+{
+"id": "436115527881",
+"subject": "Re: Physical AI Panel - 29th Jan - SF",
+"text": "Hi Winnie,\n\nI think the event is full. Let me know if I will be off the waitlist.\n\nThank you,\nFelix"
+},
+{
+"id": "436136963305",
+"subject": "Re: 26Feb enquiry",
+"text": "Hello Kat,\n\nThank you for your email and interest in joining us at KOL!\n\nUnfortunately, our Chef's Table is already booked for the evening of 26th February. Is there another date/s that we can check availability for? We would love to be able to host you.\n\nWith warmest regards,\nBohdana\n\nReception Team\nKOL\n9 Seymour Street, London, W1H 7BA\n0203 829 6888\nwww.kolrestaurant.com<http://www.kolrestaurant.com>"
+},
+{
+"id": "436677283050",
+"subject": "RE: Feb/march thurs",
+"text": "Hi Kat,\n\nThank you for calling earlier, I can hold Thursday 5th of March 2026 for you on a second option. I will keep you updated if the client ahead of you wishes to confirm/cancel. The preferred date of Thursday 26th February is unfortunately no longer available.\n\nAlso please note that the room can accommodate up to 22 guests at a maximum, and if guest numbers do change the minimum spend will increase.\n\nIn the meantime, please see the below quote for the evening.\n\nSpace: Mach II\nTime: 19:30 \u2013 22:30\nGuests: 20\nFood & beverage minimum spend: \u00a35,000.00\nRoom hire charge: \u00a31,500.00\n\nThe above is inclusive of VAT and exclusive of 15% service charge.\n\nIf I may, I would suggest maybe doing your pre-dinner drinks in our Napier Railton room, which is in Brooklands bar. The Mach II dining room does not have enough space for people to have standing drinks. I have attached two photos of the space above for reference.\n\nThere would be an additional minimum spend for this space, and this would be \u00a31,000.00.\n\nLet me know your thoughts on the above, and if I can assist with any further questions.\n\nBest Wishes,\nAnna Wilson\n\n[12.Pen-London-(Black)-185x46]<http://peninsula.com/london>\nAnna Wilson, Group & Events Sales Coordinator\nThe Peninsula London, 1 Grosvenor Place, London SW1X 7HJ\nGeneral: +44 20 3959 2888 | Direct: +44 7485937461\nannawilson@peninsula.com<mailto:annawilson@peninsula.com> | peninsula.com<http://www.peninsula.com/London>\n[cid:image002.png@01DC9137.BDD2F460]<https://www.instagram.com/peninsulahotels/> [Facebook] <http://www.facebook.com/ThePeninsulaHotels>  [128128] <https://www.peninsula.com/zh-cn/global-pages/wechat-signature>  [YouTube] <http://www.youtube.com/user/ThePeninsulaHotels>  [cid:image006.png@01DC9137.BDD2F460] <http://www.linkedin.com/company/the-peninsula-hotels>\n\n[cid:image008.png@01DC9146.392D2370]"
+},
+{
+"id": "436697876716",
+"subject": "Re: Physical AI Panel - Thurs",
+"text": "Hi Winnie,\n\nThanks for your email. Apologies for not replying earlier as I was\ntraveling.\n\nIf you are still looking for questions for the panel,\n\n- what are your thoughts around proving safety for end-to-end ai models\ndeployed?\n\n- what type of safe guards are implemented and what are some industry\nstandards and best practices for that?\n\nBest regards,\n\nSudeep Fadadu"
+},
+{
+"id": "436708702456",
+"subject": "Re: [EXTERNAL] See you later!",
+"text": "Thanks for understanding.  It\u2019s a bit crazy at home right now - all came on today kinda unplanned."
+},
+{
+"id": "436884023533",
+"subject": "Re: Quick hello - Physical AI panel",
+"text": "Great!"
+},
+{
+"id": "437824912577",
+"subject": "Re: Audio AI Workshop",
+"text": "Hi Colin,\n\nThanks for keeping me in mind. Sure, please pass along the invite!"
+},
+{
+"id": "441691021554",
+"subject": "Re: Great to meet you yday",
+"text": "Likewise. Great group you got together. Would be happy to speak at your\nnext event."
+},
+{
+"id": "442427405532",
+"subject": "Re: Encord <> Troveo Partnership Introduction",
+"text": "Hi Roger,\n\nSurfing this email thread again. We're doing a leadership offsite in New\nYork and our previous conversations came up as a topic yesterday.\n\nI had a chance to review the agreement you sent over and it looks good on\nmy end. If this is a priority for you all, we're ready to get moving on it\nand start working on potential deals together.\n\nIf so, I will route it for signature via DocuSign.\n\nThx!\nMarty"
+},
+{
+"id": "442597499108",
+"subject": "Re: Encord <> Troveo Partnership Introduction",
+"text": "Great, just routed it for signature.\n\nMarty"
+},
+{
+"id": "442876535024",
+"subject": "Re: Invite: Roundtable @ Niku Steakhouse, Feb 26th - AI Leaders Dinner",
+"text": "Yes sounds interesting.\nStefan\nStefan Heck\nCEO & Founder"
+},
+{
+"id": "443249728761",
+"subject": "Re: Declined: Nick (Encord) <> Evan (Generalist AI) @ Thu 5 Feb 2026 6:45pm - 7:15pm (GMT) (winnie@encord.com)",
+"text": "Thank you!"
+},
+{
+"id": "443558801636",
+"subject": "Re: Jaden - chat",
+"text": "sg, just sent you a linkedin req"
+},
+{
+"id": "443593773277",
+"subject": "Re: Jaden - chat",
+"text": "As long as it\u2019s decaf,\n\nJust jokes, but on a real note - we don\u2019t have any ml features on our\nplatform we are an llm based platform"
+},
+{
+"id": "443828575464",
+"subject": "Re: Hey Austin || xAI x Encord x Harpoon WEST 26",
+"text": "Looking forward to seeing you there - absolutely crushed this week\n\n[blue-water-logo-mark-blue-full-color-rgb-1500px-w-72ppi.png]\nAustin Gray\nCo-Founder & CSO // Blue Water Autonomy\nblw.ai<http://www.blw.ai/> // LinkedIn<https://www.linkedin.com/in/austin-gray-52456a86/>"
+}
+]

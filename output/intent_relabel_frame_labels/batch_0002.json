@@ -1,0 +1,402 @@
+[
+  {
+    "id": "214302777578",
+    "intent": "wants_call",
+    "evidence": "Allergy to coconut"
+  },
+  {
+    "id": "214343874789",
+    "intent": "wants_call",
+    "evidence": "I don't think I have received any invite from your team"
+  },
+  {
+    "id": "214435255524",
+    "intent": "other_human",
+    "evidence": "Thank you!"
+  },
+  {
+    "id": "214780198092",
+    "intent": "wants_materials",
+    "evidence": "Edificio La Encina, Núcleo 1, Planta 3a Plaza de La Encina, 10 28760 Tres Cantos (Madrid), Spain"
+  },
+  {
+    "id": "214835295478",
+    "intent": "other_human",
+    "evidence": "Thank you"
+  },
+  {
+    "id": "214841325786",
+    "intent": "wants_call",
+    "evidence": "add me to the list"
+  },
+  {
+    "id": "214851429565",
+    "intent": "wants_call",
+    "evidence": "I try to be reasonably low carb"
+  },
+  {
+    "id": "214973100247",
+    "intent": "wants_call",
+    "evidence": "please count me in"
+  },
+  {
+    "id": "215072283849",
+    "intent": "wants_call",
+    "evidence": "I RSVP'd through Lambda already"
+  },
+  {
+    "id": "215405643971",
+    "intent": "wants_call",
+    "evidence": "I'd be interested to attend"
+  },
+  {
+    "id": "215727673544",
+    "intent": "not_interested",
+    "evidence": "Not me, and I don't believe anyone from OAI is heading down this year"
+  },
+  {
+    "id": "215893619952",
+    "intent": "other_human",
+    "evidence": "Please use my personal email for all future correspondence"
+  },
+  {
+    "id": "215942438094",
+    "intent": "referral",
+    "evidence": "I can send you the email and information of our legal representative"
+  },
+  {
+    "id": "216585243857",
+    "intent": "wants_call",
+    "evidence": "Sure, no problem."
+  },
+  {
+    "id": "216619928781",
+    "intent": "other_human",
+    "evidence": "thank you to Ulrik and Dillon, and all the guests for a very interesting and enjoyable evening"
+  },
+  {
+    "id": "217531381956",
+    "intent": "other_human",
+    "evidence": "would love to stay in touch and pick your collective brains"
+  },
+  {
+    "id": "219180689628",
+    "intent": "other_human",
+    "evidence": "Great, thank you, Winnie."
+  },
+  {
+    "id": "219197591792",
+    "intent": "other_human",
+    "evidence": "Awesome, thank you!"
+  },
+  {
+    "id": "219576185058",
+    "intent": "other_human",
+    "evidence": "I will reply to it tomorrow after speaking with other team members"
+  },
+  {
+    "id": "219578225866",
+    "intent": "wants_call",
+    "evidence": "See you later today"
+  },
+  {
+    "id": "219778901183",
+    "intent": "wants_call",
+    "evidence": "Just confirmed the invite"
+  },
+  {
+    "id": "220416136426",
+    "intent": "other_human",
+    "evidence": "I'll look out for it and connect you with those attending when that's confirmed internally"
+  },
+  {
+    "id": "220610203890",
+    "intent": "wants_call",
+    "evidence": "Thanks, me too!"
+  },
+  {
+    "id": "220614495450",
+    "intent": "wants_call",
+    "evidence": "Please add to the guest list"
+  },
+  {
+    "id": "221096437955",
+    "intent": "other_human",
+    "evidence": "His calendar shows a tentative meeting"
+  },
+  {
+    "id": "221097411822",
+    "intent": "wants_call",
+    "evidence": "Are you around ?"
+  },
+  {
+    "id": "221205251305",
+    "intent": "referral",
+    "evidence": "Please coordinate with Holly Meyer in the other email chain"
+  },
+  {
+    "id": "221619424475",
+    "intent": "asks_question",
+    "evidence": "If you have experience in preparing data for deepfake protection that would be relevant to our protection product"
+  },
+  {
+    "id": "221630750953",
+    "intent": "wants_call",
+    "evidence": "I'm looking forward to the event"
+  },
+  {
+    "id": "221650391277",
+    "intent": "wants_call",
+    "evidence": "have a follow up scheduled. Looking forward to learning more"
+  },
+  {
+    "id": "222623400169",
+    "intent": "wants_materials",
+    "evidence": "I wanted to do a free-trial test first"
+  },
+  {
+    "id": "223393198295",
+    "intent": "other_human",
+    "evidence": "Actually changed my hotel to Shangri la"
+  },
+  {
+    "id": "223400736975",
+    "intent": "wants_call",
+    "evidence": "I've already confirmed my attendance through your colleague"
+  },
+  {
+    "id": "223731354827",
+    "intent": "referral",
+    "evidence": "Please also invite my colleague Dewei and Dilip"
+  },
+  {
+    "id": "223739272430",
+    "intent": "other_human",
+    "evidence": "Thank you!"
+  },
+  {
+    "id": "224123498688",
+    "intent": "wants_materials",
+    "evidence": "Anything that could help automate/reduce cost/simplify our training/inference setup"
+  },
+  {
+    "id": "225149839563",
+    "intent": "wants_call",
+    "evidence": "Sounds good."
+  },
+  {
+    "id": "227226839289",
+    "intent": "other_human",
+    "evidence": "Received. Thank you."
+  },
+  {
+    "id": "227264452837",
+    "intent": "wants_materials",
+    "evidence": "Please find attached SF BEV guidelines"
+  },
+  {
+    "id": "227630372071",
+    "intent": "wants_call",
+    "evidence": "no dietary issues"
+  },
+  {
+    "id": "227868048591",
+    "intent": "not_interested",
+    "evidence": "unfortunately I couldn't make it"
+  },
+  {
+    "id": "230494529743",
+    "intent": "wants_materials",
+    "evidence": "Here is the fully executed MNDA"
+  },
+  {
+    "id": "231118590182",
+    "intent": "wants_materials",
+    "evidence": "Please complete the attached credit card authorization form to confirm your reservation"
+  },
+  {
+    "id": "231448558787",
+    "intent": "other_human",
+    "evidence": "Wish you all the success"
+  },
+  {
+    "id": "232086941944",
+    "intent": "asks_question",
+    "evidence": "Would you mind resharing the date?"
+  },
+  {
+    "id": "232583727304",
+    "intent": "wants_call",
+    "evidence": "Thanks, looking forward!"
+  },
+  {
+    "id": "232592700651",
+    "intent": "not_now",
+    "evidence": "I can't make it on the proposed slot... Looking forward for seeing you another time"
+  },
+  {
+    "id": "232881589448",
+    "intent": "wants_call",
+    "evidence": "I will be able to join for dinner"
+  },
+  {
+    "id": "233120262364",
+    "intent": "not_now",
+    "evidence": "If there are any future editions or a follow-up planned, I would be glad for being let known"
+  },
+  {
+    "id": "235548346581",
+    "intent": "other_human",
+    "evidence": "I pinged Kalyan with a reminder about scheduling the Encord demo"
+  },
+  {
+    "id": "236460374232",
+    "intent": "other_human",
+    "evidence": "Received. Thank you!"
+  },
+  {
+    "id": "236625076465",
+    "intent": "wants_call",
+    "evidence": "Okay let's do that!"
+  },
+  {
+    "id": "238690352369",
+    "intent": "wants_call",
+    "evidence": "see you on Monday"
+  },
+  {
+    "id": "239391742140",
+    "intent": "wants_call",
+    "evidence": "tentatively, yes, I would like to join"
+  },
+  {
+    "id": "239414031556",
+    "intent": "wants_call",
+    "evidence": "Yes will be able to make it!"
+  },
+  {
+    "id": "240460402904",
+    "intent": "other_human",
+    "evidence": "Thanks Jamie. Appreciate it."
+  },
+  {
+    "id": "240854271208",
+    "intent": "other_human",
+    "evidence": "Ok, thank you."
+  },
+  {
+    "id": "240900614359",
+    "intent": "asks_question",
+    "evidence": "Is there a deadline to RSVP?"
+  },
+  {
+    "id": "241459901684",
+    "intent": "other_human",
+    "evidence": "His calendar looks blocked at that time."
+  },
+  {
+    "id": "241460084922",
+    "intent": "other_human",
+    "evidence": "Will be in town until Wednesday the 6th"
+  },
+  {
+    "id": "245076881601",
+    "intent": "other_human",
+    "evidence": "I'll keep you updated."
+  },
+  {
+    "id": "246102351067",
+    "intent": "other_human",
+    "evidence": "That's great!"
+  },
+  {
+    "id": "247370754281",
+    "intent": "wants_call",
+    "evidence": "I'm a vegetarian. No other dietary restrictions."
+  },
+  {
+    "id": "247443705027",
+    "intent": "wants_call",
+    "evidence": "We should be good to go."
+  },
+  {
+    "id": "248186066167",
+    "intent": "not_interested",
+    "evidence": "Got a conflict."
+  },
+  {
+    "id": "248191260879",
+    "intent": "wants_call",
+    "evidence": "see you later in the year then!"
+  },
+  {
+    "id": "248247342313",
+    "intent": "wants_call",
+    "evidence": "Looking forward to it!"
+  },
+  {
+    "id": "248470947013",
+    "intent": "wants_call",
+    "evidence": "I'll plan to show up ~18:15pm."
+  },
+  {
+    "id": "249908456696",
+    "intent": "other_human",
+    "evidence": "Awesome, thanks!"
+  },
+  {
+    "id": "253256031465",
+    "intent": "not_interested",
+    "evidence": "We have a bunch of all hands meeting today"
+  },
+  {
+    "id": "253498641635",
+    "intent": "other_human",
+    "evidence": "Thank you!"
+  },
+  {
+    "id": "254624654575",
+    "intent": "not_interested",
+    "evidence": "won't be able to make it to dinner today"
+  },
+  {
+    "id": "258460846323",
+    "intent": "wants_call",
+    "evidence": "En route!"
+  },
+  {
+    "id": "258965938387",
+    "intent": "other_human",
+    "evidence": "I'll look out for you next time you make it to the Bay Area."
+  },
+  {
+    "id": "259927142614",
+    "intent": "wants_call",
+    "evidence": "I am joining the meeting"
+  },
+  {
+    "id": "260846407901",
+    "intent": "referral",
+    "evidence": "My colleagues Max, mwulf@anybotics.com, and Yi Hao, yng@anybotics.com, would also like to join the call."
+  },
+  {
+    "id": "269594550489",
+    "intent": "other_human",
+    "evidence": "Will do!"
+  },
+  {
+    "id": "270225218792",
+    "intent": "wants_call",
+    "evidence": "Yes"
+  },
+  {
+    "id": "276570767605",
+    "intent": "wants_call",
+    "evidence": "I'd love to join."
+  },
+  {
+    "id": "276798275800",
+    "intent": "wants_call",
+    "evidence": "Thanks, sounds good!"
+  }
+]

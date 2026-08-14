@@ -132,3 +132,99 @@ The defensible sequence:
 Reproduce: `.venv/bin/python scripts/intent_accuracy.py`
 Artefacts: `output/intent_accuracy/intent_agreement.csv`, `gate_result.json`,
 `sample_manifest.json` (seed 20260814).
+
+---
+
+# Resolution (2026-08-14, same day)
+
+## What was done
+
+Per §1b's pre-registered consequence — "the intent classifier is revised and re-measured".
+
+**1. The boundary was written down.** Five operator rulings appended to
+`rules/reply_classifier_protocol.md` (appended, never edited). The fifth was added only
+after the model test below exposed a shape the first four did not cover.
+
+**2. Model choice was measured, not asserted.** 5 batches (400 replies) labelled by BOTH
+Fable and Sonnet under the four rulings:
+
+| | |
+|---|---|
+| Interested-level agreement | **87.8%** |
+| Fable says interested | 56.8% |
+| Sonnet says interested | 57.5% |
+
+No capability gap. Decisive evidence came from the `evidence` field, which forces each
+agent to quote the words that decided it: **both models repeatedly quoted the SAME words
+and disagreed** — *"That would be great, thank you!"*, *"Looking forward to chatting!"*,
+*"see you then"*. 29 of 49 disagreements were one shape: **committing to a meeting that was
+arranged earlier.** The rulings had no rule for it, and neither model had a stable one.
+Hence **Ruling 5 (commitment vs acknowledgement)**, and Sonnet for the relabel.
+
+**3. Scope was cut by an order of magnitude, on the operator's insight.** Asked why
+"looking forward to it" was even being argued about — it implies acceptance already
+happened, so it is a later message in a conversation already counted. Measured: the 49
+disagreements changed the outcome of **2 of 12,077 pushes (0.02%)**, because `interested`
+is an OR across all of a push's replies and an earlier reply had already set it.
+
+Consequence: the relabel targets only `other_human` replies **attached to a study push** —
+677, not 4,030. 8 Sonnet batches, ~$7, against the $85 originally planned.
+
+## The result
+
+Of the study-linked `other_human` bucket, **62.3% was not "other" at all**:
+
+| pass A | after relabel | change |
+|---|---|---|
+| `wants_call` 3,476 | 3,749 | **+273** |
+| `wants_materials` 402 | 469 | +67 |
+| `referral` 371 | 423 | +52 |
+| `asks_question` 1,091 | 1,141 | +50 |
+| `not_interested` / `not_now` | | +34 |
+| `other_human` 4,030 | 3,554 | **−476** |
+
+Interested replies 5,340 → 5,782. **Push-level `interested` 6.0% → 6.9%** (G21 6.7%,
+G45 7.2%). `replied` is unchanged — the category layer was not touched.
+
+`interested` was **under**-counted, the worse direction: it biases every effect toward zero
+and would have produced "nothing works" conclusions from a real signal.
+
+## The check that makes it credible
+
+A one-directional correction is not evidence. Only the bucket believed to be broken was
+re-examined, which is a biased search — you find what you go looking for.
+
+So: **240 replies already labelled interested** (seed 99, study-linked) were re-read blind
+under the same rulings, by the same model, with no indication of their existing label.
+
+| | |
+|---|---|
+| stayed interested | **97.5%** (234/240) |
+| moved out | **2.5%** (6) |
+
+Against 62.3% moving in on the forward pass: a **25:1 asymmetry**. A generous model would
+move replies in both directions; this one moves them in one. The correction is real.
+
+All 6 movers are a single coherent pattern — *"I won't be at CVPR, but some colleagues may
+be"* — a decline with an unnamed redirect, correctly moved out of `referral`, which
+requires a **named** person.
+
+The reverse sample is a **validation and is not applied**. Applying a re-read of 240 of
+1,359 interested replies would leave that bucket inconsistently labelled — the exact defect
+this exercise removes.
+
+## Honest residuals
+
+- **The pre-registered gate number stands as failed: 83.3% at reply level.** It is not
+  deleted, replaced, or re-scoped. The push-level number is reported *alongside* it, with
+  the reason: `interested` is a per-push OR, so reply-level disagreement overstates
+  outcome-level disagreement. Changing what you measure after it fails is the move
+  pre-registration exists to prevent, so both numbers go in the report.
+- **~2.5% of the already-interested labels are known-imperfect** and left in place, for
+  consistency. Measured, not estimated.
+- **Non-study `other_human` replies (3,353) keep their pass-A label.** They feed no
+  outcome. Anyone re-framing the corpus (different G, different CA rule) must relabel them
+  before use.
+- **One shape still unruled:** answering event logistics (dietary needs, plus-ones) without
+  an explicit commitment phrase. 28 replies, currently split 18 interested / 6 not.
+  Immaterial, but undecided.

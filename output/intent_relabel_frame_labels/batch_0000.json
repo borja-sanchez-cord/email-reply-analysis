@@ -1,0 +1,402 @@
+[
+  {
+    "id": "155229307126",
+    "intent": "referral",
+    "evidence": "bring along Martina Rivizzigno (in CC)"
+  },
+  {
+    "id": "155966280926",
+    "intent": "other_human",
+    "evidence": "just finished a call with your colleague Steffan"
+  },
+  {
+    "id": "156033564866",
+    "intent": "wants_call",
+    "evidence": "Would be happy to speak!"
+  },
+  {
+    "id": "156133988590",
+    "intent": "other_human",
+    "evidence": "Encore merci pour l'invitation"
+  },
+  {
+    "id": "158266037473",
+    "intent": "wants_call",
+    "evidence": "I'd be happy to RSVP"
+  },
+  {
+    "id": "158328645837",
+    "intent": "wants_call",
+    "evidence": "look forward to attending"
+  },
+  {
+    "id": "158377859311",
+    "intent": "other_human",
+    "evidence": "No restrictions. And thank you for the invitation"
+  },
+  {
+    "id": "158775910614",
+    "intent": "wants_materials",
+    "evidence": "Let me know what could be possible"
+  },
+  {
+    "id": "159498612967",
+    "intent": "asks_question",
+    "evidence": "Please let me know which ones you'd like to confirm!"
+  },
+  {
+    "id": "159746689259",
+    "intent": "referral",
+    "evidence": "add 1-2 people from Nomagic to this thread"
+  },
+  {
+    "id": "159999835325",
+    "intent": "asks_question",
+    "evidence": "Anything on this James?"
+  },
+  {
+    "id": "160316104953",
+    "intent": "other_human",
+    "evidence": "We look forward to hosting your group!"
+  },
+  {
+    "id": "161635966199",
+    "intent": "other_human",
+    "evidence": "No I don't have any, thank you for asking!"
+  },
+  {
+    "id": "161699063008",
+    "intent": "other_human",
+    "evidence": "Yes that is fine"
+  },
+  {
+    "id": "162435133657",
+    "intent": "referral",
+    "evidence": "my colleague's name is Vito Azzollini"
+  },
+  {
+    "id": "162631747809",
+    "intent": "other_human",
+    "evidence": "No problem, thank you for letting me know!"
+  },
+  {
+    "id": "162659538117",
+    "intent": "other_human",
+    "evidence": "We are in the robotics section next to booth 341"
+  },
+  {
+    "id": "163507216582",
+    "intent": "asks_question",
+    "evidence": "I'd be interested to hear about the Zurich event"
+  },
+  {
+    "id": "166005662950",
+    "intent": "wants_call",
+    "evidence": "Would be excited to join nonetheless"
+  },
+  {
+    "id": "166344223986",
+    "intent": "other_human",
+    "evidence": "Definitely up for joining the next one!"
+  },
+  {
+    "id": "166364741849",
+    "intent": "asks_question",
+    "evidence": "Could you also let me know who else is attending?"
+  },
+  {
+    "id": "166602781899",
+    "intent": "asks_question",
+    "evidence": "Is that OK?"
+  },
+  {
+    "id": "166669406450",
+    "intent": "other_human",
+    "evidence": "looking forward to seeing you in London"
+  },
+  {
+    "id": "166715854025",
+    "intent": "other_human",
+    "evidence": "I have no dietary restrictions."
+  },
+  {
+    "id": "166725819633",
+    "intent": "wants_call",
+    "evidence": "I'd still like to come"
+  },
+  {
+    "id": "167289518318",
+    "intent": "wants_call",
+    "evidence": "Sounds good, thanks!"
+  },
+  {
+    "id": "167772567777",
+    "intent": "wants_call",
+    "evidence": "expect to join 5 min after scheduled start"
+  },
+  {
+    "id": "168165940455",
+    "intent": "other_human",
+    "evidence": "Thanks again for the invite. It was a great event"
+  },
+  {
+    "id": "168315775175",
+    "intent": "wants_call",
+    "evidence": "Confirming that I would like to attend on 4/15."
+  },
+  {
+    "id": "169792160978",
+    "intent": "referral",
+    "evidence": "would you be interested in attending"
+  },
+  {
+    "id": "169812883642",
+    "intent": "wants_call",
+    "evidence": "I'd be happy to attend as a normal guest"
+  },
+  {
+    "id": "170214623422",
+    "intent": "wants_call",
+    "evidence": "Sounds good, is there parking nearby"
+  },
+  {
+    "id": "170739577039",
+    "intent": "wants_call",
+    "evidence": "Looking forward to it and talking in person."
+  },
+  {
+    "id": "170742279410",
+    "intent": "wants_call",
+    "evidence": "Sounds good, thanks!"
+  },
+  {
+    "id": "171192820974",
+    "intent": "wants_call",
+    "evidence": "Received and accepted!"
+  },
+  {
+    "id": "171614996687",
+    "intent": "other_human",
+    "evidence": "Thanks Skander, have a nice weekend and speak soon!"
+  },
+  {
+    "id": "171707848914",
+    "intent": "wants_call",
+    "evidence": "talk to you then!"
+  },
+  {
+    "id": "171860626654",
+    "intent": "other_human",
+    "evidence": "We haven't found open source tooling to be very well fleshed out."
+  },
+  {
+    "id": "173002962129",
+    "intent": "wants_call",
+    "evidence": "looking forward to the event"
+  },
+  {
+    "id": "173238263028",
+    "intent": "referral",
+    "evidence": "Joel Forman here in cc would like to participate"
+  },
+  {
+    "id": "173521386704",
+    "intent": "wants_materials",
+    "evidence": "Shared this folder with you"
+  },
+  {
+    "id": "173577852113",
+    "intent": "other_human",
+    "evidence": "Thanks Payom!"
+  },
+  {
+    "id": "173993408750",
+    "intent": "wants_call",
+    "evidence": "I will be able to attend."
+  },
+  {
+    "id": "174211429584",
+    "intent": "wants_call",
+    "evidence": "Let me know if I can still join the panel and help."
+  },
+  {
+    "id": "174212842733",
+    "intent": "asks_question",
+    "evidence": "That link doesn't load for me, I get a server error message."
+  },
+  {
+    "id": "174259724474",
+    "intent": "wants_call",
+    "evidence": "looking forward to it!"
+  },
+  {
+    "id": "174829349102",
+    "intent": "other_human",
+    "evidence": "Productivity gain in hours compared to the current level."
+  },
+  {
+    "id": "174878457042",
+    "intent": "wants_call",
+    "evidence": "looking forward to it"
+  },
+  {
+    "id": "174880306405",
+    "intent": "other_human",
+    "evidence": "no further question our side at the moment."
+  },
+  {
+    "id": "174880384230",
+    "intent": "wants_call",
+    "evidence": "Perfect, that works."
+  },
+  {
+    "id": "175390577867",
+    "intent": "other_human",
+    "evidence": "happy to consider being there"
+  },
+  {
+    "id": "175390581976",
+    "intent": "referral",
+    "evidence": "would it be possible to add him to the guest list"
+  },
+  {
+    "id": "175438082240",
+    "intent": "wants_call",
+    "evidence": "Sounds good. Let's do it"
+  },
+  {
+    "id": "175471843528",
+    "intent": "wants_call",
+    "evidence": "looking forward to it!"
+  },
+  {
+    "id": "175487014093",
+    "intent": "referral",
+    "evidence": "can you please include @Henning Heine ... on the invitations"
+  },
+  {
+    "id": "175491740888",
+    "intent": "wants_call",
+    "evidence": "I'll be able to attend the event if you can provide the venue address and any registration info."
+  },
+  {
+    "id": "175498946762",
+    "intent": "referral",
+    "evidence": "+Anuj Panda <anuj@tera.earth>"
+  },
+  {
+    "id": "175951468760",
+    "intent": "wants_call",
+    "evidence": "looking forward to the event"
+  },
+  {
+    "id": "176880820471",
+    "intent": "wants_call",
+    "evidence": "I just conformed, thank you!"
+  },
+  {
+    "id": "177556646119",
+    "intent": "not_now",
+    "evidence": "don't expect to be there in mid May... One of these days we'll be in the same city"
+  },
+  {
+    "id": "177696402676",
+    "intent": "other_human",
+    "evidence": "Ignore the request, the person said he can't join."
+  },
+  {
+    "id": "177899962612",
+    "intent": "wants_call",
+    "evidence": "I will be late as the traffic is too bad."
+  },
+  {
+    "id": "178259007677",
+    "intent": "other_human",
+    "evidence": "We typically use VLMs for simple \"Yes/No\" Q&A"
+  },
+  {
+    "id": "178342865094",
+    "intent": "other_human",
+    "evidence": "looks fine to me"
+  },
+  {
+    "id": "178979854579",
+    "intent": "wants_materials",
+    "evidence": "getting this NDA in place so we can share images"
+  },
+  {
+    "id": "179487562941",
+    "intent": "other_human",
+    "evidence": "Can upload a folder from local drive or from Google Drive, either works."
+  },
+  {
+    "id": "180236292311",
+    "intent": "other_human",
+    "evidence": "our team into looked into it and are in touch with you"
+  },
+  {
+    "id": "181188181219",
+    "intent": "other_human",
+    "evidence": "Initial focus is 2D and VLM but we have a fast follow need for 3D this summer."
+  },
+  {
+    "id": "183071846623",
+    "intent": "asks_question",
+    "evidence": "Do you mind updating my email id"
+  },
+  {
+    "id": "183102823648",
+    "intent": "referral",
+    "evidence": "would love to attend the event next week if you still have space"
+  },
+  {
+    "id": "183353303274",
+    "intent": "asks_question",
+    "evidence": "Is this something you would be interested in?"
+  },
+  {
+    "id": "183788256446",
+    "intent": "other_human",
+    "evidence": "he got my details on your behalf!"
+  },
+  {
+    "id": "183832379583",
+    "intent": "other_human",
+    "evidence": "they will reach out when they begin the evaluation process."
+  },
+  {
+    "id": "183884490998",
+    "intent": "wants_call",
+    "evidence": "See you all next week."
+  },
+  {
+    "id": "184902322387",
+    "intent": "wants_call",
+    "evidence": "I look forward to the roundtable discussion next week."
+  },
+  {
+    "id": "187964526808",
+    "intent": "other_human",
+    "evidence": "We are still focused on Rayvolve and expanding its features."
+  },
+  {
+    "id": "188022143179",
+    "intent": "other_human",
+    "evidence": "We will begin to start testing out the platform and form some questions for our next meeting."
+  },
+  {
+    "id": "188060770552",
+    "intent": "other_human",
+    "evidence": "Great, thanks Skander"
+  },
+  {
+    "id": "188836000977",
+    "intent": "other_human",
+    "evidence": "trying to figure out if I can swing it"
+  },
+  {
+    "id": "188876428475",
+    "intent": "wants_call",
+    "evidence": "Yes, it works for me."
+  }
+]

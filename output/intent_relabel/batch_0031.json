@@ -1,0 +1,402 @@
+[
+{
+"id": "447497329899",
+"subject": "Re: Looking forward to meet",
+"text": "Hi James,\n\nPlease add @Artium Dashuta<mailto:artium.dashuta@seeall.ai> @Safa Samimi<mailto:safa.samimi@seeall.ai> @Gal Kimchy<mailto:gal.kimchy@seeall.ai> and @Victor Kulikov<mailto:victor.kulikov@seeall.ai> to the demo on Tuesday.\n\nThanks,\n-Ilya"
+},
+{
+"id": "447973744865",
+"subject": "Re: Encord & Deepecho",
+"text": "Hello Kamil,\n\nThank you very much for your availability and transparency. Please find\nbelow the annotation guidelines prepared by our medical annotation lead Dr.\nNoureddine and attached a file describing the labels, I will send over a\nsample task shortly.\n\n*1. to segment all anatomical structures that are visible* on each frame,\nusing the polygon tool on CVAT (please feel free to use the existing CVAT\noptions for increased efficiency, such as \"Track\" instead of \"Shape\", or\ncopy-paste/propagate between frames and adjust, as you see fit for maximum\nefficiency).\n*2. to fill in the details* on the right sidebar for relevant structures.\n*3. to annotate relevant measures* when present (cf guidelines file), using:\n- ellipses for head circumference and abdominal circumference,\n- polyline (one point on each end of the measurement) on all other measures,\n- please note that the sdp measure (single deepest pocket) is supposed to\nbe found maximum once per job, as its name suggests.\n*4. to tag standard views*, following the guidelines criteria. A standard\nview frame needs to have all green criteria and non of the red ones to be\nconsidered a standard plane and tagged as such.\n*5. to use relevant tags* for the following cases:\n- obstetric ultrasound on the first frame (number 0) of each job, and\nfilling its details,\n- \"no annotation\" for doppler frames/divided frames/M-mode/endovaginal\nprobe/3D/ and irrelevant (this latter referring to frames containing no\nstructure that is on the guidelines list),\n- duplicate frame for duplicates.\n\nThanks,\nSaad\n\n*Saad Slimani M.D.*\n\nChief Medical Officer & Co-founder, DeepEcho\n\nsaad.slimani@deepecho.io | +1(347) 397-0093"
+},
+{
+"id": "448394232052",
+"subject": "RE: Please complete your profile online by answering the 'Step 2'",
+"text": "Hello to you both,\nAs mentioned before, please complete your registration by tomorrow. If this is not done, we will not be able to validate your registration.\nBest regards\nNadia\n\n[https://storage.letsignit.com/63db678541335d8f73b45ae5/generated/effects_4ec4437316795ddb711e05fd63eb88b7cdb3b9f621012c84e4de12fe.png]\n\nChoose Paris Region\n\n2 rue Simone Veil\n\n93400 Saint-Ouen-sur-Seine\n\nNadia Belgacem\n\nCorporate Innovation Manager\n\n[https://storage.letsignit.com/63db678541335d8f73b45ae5/generated/effects_67c20e9a01e5738f24ae55298db61879bb31e6ccd5a1333107d976e9.png]\n\nInvest Paris Region\n\nnadia.belgacem@chooseparisregion.org\n\n+33 (0)6 95 51 97 75\n\nChat on Teams<https://teams.microsoft.com/l/chat/0/0?users=nadia.belgacem@chooseparisregion.org>\n\nLe contenu de cet email est confidentiel et s'adresse uniquement au destinataire indiqu\u00e9 dans le message. Il est strictement interdit de partager tout ou partie de ce message avec un tiers sans l'accord \u00e9crit de l'exp\u00e9diteur. Si vous avez re\u00e7u ce message par erreur, veuillez y r\u00e9pondre et proc\u00e9der \u00e0 sa suppression afin que nous puissions nous assurer qu'une telle erreur ne se reproduira pas."
+},
+{
+"id": "448423567587",
+"subject": "Re: Further Action Plans, Data Protection Related Queries",
+"text": "Hello \n@Steffan Jones,\n\nGood afternoon.\n\nKindly let me know on the same.\n\nAkash Venugopalan\n\nArtificial Intelligence and Automation Engineer\n\nHitachi Energy"
+},
+{
+"id": "448507099359",
+"subject": "Re: Encord extension",
+"text": "Hi Alyssa,\n\nWe are assuming \u2018no news is good news' as we haven\u2019t heard anything back\nabout Encord\u2019s position yet.\n\nIf it helps I can be more detailed about Flawless\u2019s goals with regard to a\nfuture with Encord. Just let us know what we can do to move this forward.\n\nPaul\n\nOn Wed, 4 Feb 2026 at 21:50, Paul McCourt <paul.mccourt@flawlessai.com>\nwrote:"
+},
+{
+"id": "448765373689",
+"subject": "Re: AI Leaders Dinner",
+"text": "Hey Kat\n\nNo particular requirements here. Thanks for asking\n\nSent from Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "448899000515",
+"subject": "RE: Feedback on the model evaluation and next steps",
+"text": "Dear Steffan,\n\nI just got the confirmation that for the overall number of images will not exceed 20 000. We will discuss it tomorrow if more clarification will be needed.\n\nBR\n\nKamil Przegalinski\nR&D Supply Chain Management Specialist\nMobile: +48 (889) 833779\n\n-----Original Appointment-----"
+},
+{
+"id": "448904727792",
+"subject": "Re: Fluint Business Case updates",
+"text": "Hey Ray,\n\nHope the end of quarter went well for you guys.\n\nI haven't heard back since you mentioned wanting to set up a trial in early Feb, so I'm guessing something shifted on your end. Totally fine if that's the case.\n\nA few possibilities come to mind:\n\n1. Timing changed and this isn't a priority right now\n\n2. You decided to go a different direction\n\n3. Still interested but it fell through the cracks in the post-quarter chaos\n\nIf it's 1 or 2, no worries at all. Just let me know and I can close the loop on this end.\n\nIf it's 3 and you still want to test this out before your new hire class starts ramping, I'm happy to help. Just need to know you're ready to run something in the next couple weeks and we can loop in your team.\n\nEither way, let me know where things stand?\n\nJohn Earls\nAccount Executive @Fluint"
+},
+{
+"id": "448932443355",
+"subject": "Re: Invite: AI Leaders Dinner in SF, Feb 26th @ Niku Steakhouse",
+"text": "Thanks James, I just RSVP'd as Maybe. I'll confirm with you as soon as I\nknow my final plan.\n\nNo dietary restrictions.\n\nThanks,\nBabak"
+},
+{
+"id": "449003015402",
+"subject": "Re: Emahn / Leo - Encord / SICK Sync",
+"text": "updated diagram\n\nBest regards\n\nEmahn Novid\nSoftware Engineer | Integrated Automation"
+},
+{
+"id": "449024961740",
+"subject": "Re: Audio AI Researchers Dinner Invite in SF, Feb 26th",
+"text": "Thank you, James. This is helpful. I'll be happy to reach out if we need\nhelp in this direction."
+},
+{
+"id": "449026356459",
+"subject": "Re: Booklet enquirey - quick turnaround",
+"text": "We should have your order ready for pick up by this afternoon, we'll let\nyou know as soon as we're finished. We're open until 5pm today and we're at\n530 Howard Street, just two blocks away from the Moscone Center.\n\n*Nicholas Becker *\n*Account Representative*\n\n*AlphaGraphics San Francisco Downtown*\n530 Howard Street, Ground Floor, Suite 100, San Francisco, CA, 94105\nPhone: (415) 882-9390 | Web:\nalphagraphics.com/us-california-san-francisco-us685"
+},
+{
+"id": "449069724870",
+"subject": "Re: Booklet enquirey - quick turnaround",
+"text": "Glad to hear it! Let us know if there's anything else that we can do for\nyou, we'll be happy to help.\n\n*Nicholas Becker *\n*Account Representative*\n\n*AlphaGraphics San Francisco Downtown*\n530 Howard Street, Ground Floor, Suite 100, San Francisco, CA, 94105\nPhone: (415) 882-9390 | Web:\nalphagraphics.com/us-california-san-francisco-us685"
+},
+{
+"id": "449078765769",
+"subject": "Re: AI Leaders Dinner",
+"text": "Hi Kat,\n\nHope you're well.\n\nThanks for reaching out.\n\nYes, please. I'll be interested to attend.\n\nI've registered with the URL you've shared.\n\nThanks.\n\n<https://flo.health/>\n\nVladislav Nedosekin\n\nDirector of Engineering\n\n v_nedosekin@flo.health\n\n +44 7732582943\n\n flo.health"
+},
+{
+"id": "449296216258",
+"subject": "Re: Encord S3 Setup Instructions",
+"text": "That works!\n\nAbhijeet Pise\n\n[image: -------------]\n<https://www.assent.com/> <https://www.assent.com/>[image: Assent]\n<https://www.assent.com/>\n<https://www.assent.com/blog/assent-now-certified-b-corporation>\n\nAssent Inc. Faster Intelligence. Stronger Supply Chains.\n\n1 866 964 6931 <18669646931> / assent.com <https://www.assent.com>\nBlog <https://www.assent.com/blog/> / Customer Support\n<https://www.assent.com/customer-support/> / LinkedIn\n<https://www.linkedin.com/company/assentinc/>"
+},
+{
+"id": "449520838872",
+"subject": "AI Leaders Dinner",
+"text": "Hi Andrew,\n\nThank you for the invite. I am free that evening and would be interested in attending. I've signed up on the event page.\u00a0\n\nTake care,\n\nDevin"
+},
+{
+"id": "449559889109",
+"subject": "Re: Further Action Plans, Data Protection Related Queries",
+"text": "Hello @Steffan<mailto:steffan@encord.com>,\n\nGood morning.\nThank you for confirming the same.\n\nWe look forward to further confirmation from the commercial side.\n\nBest regards,\nAkash Venugopalan\nArtificial Intelligence and Automation Engineer\nHitachi Energy"
+},
+{
+"id": "449631443160",
+"subject": "Re: Autonomy & AI Leaders Dinner in SF - Feb 26th",
+"text": "Perfect! Thanks. No dietary restrictions for me"
+},
+{
+"id": "449642857681",
+"subject": "Re: Invitation: Encord X Faculty | Demonstration @ Wed 11 Feb 2026 11am - 11:30am (GMT) (james.lewis@faculty.ai)",
+"text": "Hey James,\n\nThanks for pinging that over, forwarded on to the relevant people.\n\nWe have our standard OneNDA available here if you'd like to get that out of the way.\n\nThis email may contain confidential information and is for the intended recipient only.\nPlease visit our privacy policy for information on how we handle personal data."
+},
+{
+"id": "449880036539",
+"subject": "Re: AI Leaders Dinner",
+"text": "Hi Kat,\n\nI don't have any dietary requirements. No allergies, or food preferences.\n\nKind regards,\n\nDamjan"
+},
+{
+"id": "449883701471",
+"subject": "Re: AI Leaders Dinner confirmation",
+"text": "Got the invite. Thank\u00a0you!\n\nMax\n\nMax Ahrens, PhD\nCEO & Founder, Maihem\n\nmaihem.com ( https://maihem.com ) | max@maihem.com ( max@maihem.com )\n\nlinkedin ( https://www.linkedin.com/in/maximilianahrens/ )"
+},
+{
+"id": "450068958416",
+"subject": "RE: Encord - nice to meet + plan for demo",
+"text": "Hi James, Kat,\n\nPlease see attached the mutual NDA.  Once reviewed and signed, I will have our legal sign and return.\n\nThank you,\nPete"
+},
+{
+"id": "450079285487",
+"subject": "Re: Accepted: Annotator Check-in: Encord<>Assent @ Thu 12 Feb 2026 11:30am - 12:15pm (GMT) (steffan@encord.com)",
+"text": "They are in EAT and can make it till 6pm their time max.\n\nAbhijeet Pise\n\n[image: -------------]\n<https://www.assent.com/> <https://www.assent.com/>[image: Assent]\n<https://www.assent.com/>\n<https://www.assent.com/blog/assent-now-certified-b-corporation>\n\nAssent Inc. Faster Intelligence. Stronger Supply Chains.\n\n1 866 964 6931 <18669646931> / assent.com <https://www.assent.com>\nBlog <https://www.assent.com/blog/> / Customer Support\n<https://www.assent.com/customer-support/> / LinkedIn\n<https://www.linkedin.com/company/assentinc/>"
+},
+{
+"id": "450093995231",
+"subject": "Re: Encord & Deepgram",
+"text": "Hey, team!\n\nThanks for your patience here. Our legal team has reviewed the\ncontract/order form and has provided the following red lines in\nthe document and the following commentary. The contract itself needs to go\nthrough a process with our finance and accounting team as well -- that's\nbeen kicked off, and I'll loop back as soon as we have a timeline.\nApologies on the prolonged time frame (red tape is always a downer!)\n\nThank you for the agreement. We've made our redlines in the attached and\nwanted to share a quick summary to keep things moving:\n\n   1. Business Expectations. You'll see a few edits to clarify our business\n      expectations -- that the license should cover use of the software for\n      models that are commercially deployed (not just internal), and that any\n      data we use with the software won\u2019t be used by Encord for training or\n      similar purposes.\n      2. On deployment \u2013 just to confirm, we\u2019ll be hosting the software in\n      a VPC with strict client external integration controls. We\nunderstand that\n      means Encord won\u2019t have access to our environment, and there\u2019s no data\n      transmission, storage, or other processing by Encord -- can you confirm\n      that matches your understanding? If you have standard language you\n      typically include for this setup, happy to review and include. Given this\n      setup, we don\u2019t believe Encord would be a processor under data protection\n      laws, but we'd still like to implement a DPA and BAA on a \u201cto the extent\n      necessary\u201d basis as a good measure.\n      3. We also made some adjustments to the liability, indemnity, and\n      termination-effect provisions to bring them closer to market and strike a\n      fairer balance on both sides."
+},
+{
+"id": "450129795278",
+"subject": "RE: Meeting reminder for meeting with Moritz Buttinger at 06:00pm (CST) on Monday, February 09, 2026",
+"text": "Wonderful. I will send it out shortly. Thanks so much!\n\nSherry\nSherry A. Ladd, CESP | Sr. Executive Assistant to:\nAnne Boland Docimo, MD, MBA, UHC Clinical Services Chief Medical Officer\nJennifer (Jenn) Gatti, UHC Clinical Services Chief of Staff / VP Business Strategy & Public Affairs\nJenna Fredericksen, VP Clinical Strategy & Operations\nPort Huron, MI 48060\nOfc: (651) 414-8841 | Cell: (602) 803-3303 | Email: sherry_a_ladd@uhc.com<mailto:sherry_a_ladd@uhc.com>\n[cid:image001.png@01DC9A7A.B35CC000][cid:image002.png@01DC9A7A.B35CC000][cid:image003.png@01DC9A7A.B35CC000][cid:image004.png@01DC9A7A.B35CC000] [cid:image005.png@01DC9A7A.B35CC000] [cid:image006.png@01DC9A7A.B35CC000]\n\n\u201cYour most important work is always ahead of you, never behind you.\u201d Stephen Covey"
+},
+{
+"id": "450137424077",
+"subject": "RE: Meeting reminder for meeting with Moritz Buttinger at 06:00pm (CST) on Monday, February 09, 2026",
+"text": "Will, thank you so much for your understanding and willingness to find a time. Unfortunately, 8 am CT is the only available slot I could offer for the meeting. Your flexibility is greatly appreciated.\n\nTalya"
+},
+{
+"id": "450155055340",
+"subject": "Re: AI Leaders Dinner",
+"text": "1 vegetarian thanks!\n\nBenjamin Jones\n\nHead of Machine Learning\n\n[image: -]\n\nMotorway Online Ltd.\n12-13 Wells Mews,\nLondon, W1T 3HE\n\nmotorway.co.uk"
+},
+{
+"id": "450219526389",
+"subject": "Re: [EXT] Re: Setup Encord platform for the POC",
+"text": "Hi Steffan,\n\nFriday 13 Feb 6.30 pm I might not be available but will try to make it or update you soon.\nMeanwhile, it is important to setup user accesses on Encord asap so that we get started soon. Pls grant access the below ones:\n\n  *\nBinit Bhagat - binit.bhagat@michelin.com - Admin\n  *\nFrancois Ponchon - francois.ponchon@michelin.com - Admin\n  *\nAlexandre Derville - alexandre.derville@michelin.com - Admin\n  *\nPankaj Shegokar - pankaj.shegokar@michelin.com - Admin\n  *\nNoel Athaide - noel.athaide@michelin.com - Admin\n\nI may ask for a couple more accesses, if needed, going forward. I hope it's fine. Pls let me know if you face any challenges.\n\nBTW, I hope the MS Teams channel (recently created) for regular communications is accessible to your team?\n\nThanks, Merci,\n\nBinit BHAGAT"
+},
+{
+"id": "450221341906",
+"subject": "RE: \u30df\u30e9\u30a4\u30ba\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba \u77f3\u539f\u69d8\u306e\u3054\u76f8\u8ac7",
+"text": "\u308f\u304b\u308a\u307e\u3057\u305f\u3002\n\n\u4eca\u56de\u306f\u304a\u5ba2\u69d8\u304c\u5927\u624b\u4f01\u696d\u306a\u306e\u3067\u3001\u652f\u6255\u3044\u3084\u5951\u7d04\u306b\u3064\u3044\u3066\u5fc3\u914d\u306f\u3042\u308a\u307e\u305b\u3093\u304c\n\n\u4e00\u822c\u8ad6\u3068\u3057\u3066\u3001\u9577\u671f\u5951\u7d04\u3067\u652f\u6255\u3044\u306e\u307f\u5206\u5272\u306e\u5834\u5408\u306b\u3001\u6545\u610f\u304b\u3069\u3046\u304b\u306f\u308f\u304b\u308a\u307e\u305b\u3093\u304c\n\n\u652f\u6255\u3044\u3055\u308c\u306a\u3044\u30b1\u30fc\u30b9\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u3053\u308c\u306f\u3001\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u306e\u3088\u3046\u306a\u81ea\u52d5\u6c7a\u6e08\u306b\u306f\u306a\u3044\u5834\u5408\u306b\u591a\u3044\u3068\u601d\u3044\u307e\u3059\u3002\n\n\u65e5\u672c\u3067\u306f\u305d\u306e\u5834\u5408\u306b\u3001\u652f\u6255\u3044\u9045\u5ef6\u3068\u3057\u3066\u3001\u6bce\u670810\uff5e20\uff05\u3092\u30d7\u30e9\u30b9\u3057\u3066\u652f\u6255\u3046\u8cac\u4efb\u3092\n\n\u4f34\u3046\u3088\u3046\u306a\u5951\u7d04\u304c\u591a\u3044\u305f\u3081\u306b\u8cea\u554f\u3057\u305f\u3001\u3068\u3044\u3046\u80cc\u666f\u3067\u3059\u3002\n\n\u4eca\u56de\u306e\u30df\u30e9\u30a4\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u793e\u69d8\u306b\u306f\n\n2\u5e74\u5951\u7d04\u30671\u5e74\u305a\u3064\u306e\u3057\u306f\u3089\u3044\n\n2\u5e74\u5951\u7d04\u3067\u4e00\u62ec\u6255\u3044\n\n\u3053\u306e\u3069\u3061\u3089\u304b\u3067\u9078\u629e\u3057\u3066\u3082\u3089\u3046\u3088\u3046\u306b\u3057\u307e\u3059\u3002\n\n\u307e\u305f\u3001\n\n\u30df\u30e9\u30a4\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u793e\u306f3\u6708\u306b\u306f\u4f7f\u7528\u3057\u305f\u3044\u8981\u671b\u3092\u805e\u3044\u3066\u3044\u307e\u3059\u3002\n\nSteffan\u3055\u3093\u3068\u306e\u9023\u7d61\u304c\u6ede\u3063\u3066\u3044\u305f\u305f\u3081\u3001\u307e\u3060COS\u304b\u3089\u30df\u30e9\u30a4\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u793e\u3042\u3066\u306b\u898b\u7a4d\u3082\u51fa\u3066\u3044\u306a\u3044\u72b6\u614b\u3067\n\n\u307e\u3060\u6b63\u5f0f\u6c7a\u5b9a\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u304c\n\n\u7d99\u7d9a\u3057\u3066\u79c1\u304b\u3089\u306e\u30e1\u30fc\u30eb\u306e\u78ba\u8a8d\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002"
+},
+{
+"id": "450242857190",
+"subject": "Re: Emahn / Leo - Encord / SICK Sync",
+"text": "Thanks Leo - looking forward to the invite and meeting Justin.\n\nBest regards\n\nEmahn Novid\nSoftware Engineer | Integrated Automation"
+},
+{
+"id": "450251810035",
+"subject": "Re: [Invite] Private AI Leaders Dinner - SF - Feb 26",
+"text": "Hey Laura,\n\nI'm pretty booked this week as well and will be traveling next week too.\nLet's connect during the event? As for the work I'm responsible for data\nflywheel of our AI driver including data acquisition, mining, labeling."
+},
+{
+"id": "450718828786",
+"subject": "RE: Retrieving just \"complete\" annotations",
+"text": "The SDK as the plan is to automate it."
+},
+{
+"id": "450721829093",
+"subject": "Re: Encord <> Ouster",
+"text": "Dave is working on getting the data to you.\n\nDani Katsif\nVice President of Software EngineeringCanada\nCAN: +1 905.301.0110\n<http://ouster.com/>"
+},
+{
+"id": "450883650777",
+"subject": "RE: Encord LBG prep",
+"text": "Hi Leo,\n\nI wanted to share some more detailed background ahead of our discussion \u2013 please keep this detail in confidence between us.\n\nOver the last few months, we\u2019ve been working with Lloyds Banking Group on a major redesign of their SME, Corporate, and Complex multi\u2011entity onboarding journeys. This included a full\u2011day wavespace workshop last week with around 30 senior leaders from CIB, BCB, Data, Digital, Platforms, and Policy teams. The session focused on defining the future-state vision, agreeing priorities, and shaping the Transition State 1 (TS1) roadmap.\n\nAcross the workshop agenda \u2014 from the opening reflections, through blueprint redesign, into TS1 enablers \u2014 one theme came through repeatedly: as customer complexity increases, the onboarding journey becomes fundamentally dependent on unstructured and multimodal data.\n\nSome of the key insights from the workshop materials that reinforce this:\n\n  *   Blueprint Design Improvements highlighted the need for dynamic and adaptive onboarding pathways that evolve based on risk signals, product needs, and entity complexity. For complex corporate groups, the bank emphasised the need for a centralised client hub to surface relationships, ownership structures, and historical information \u2014 much of which currently only exists in unstructured form (documents, statements, filings, correspondence).\n  *   In a dedicated section on AI Readiness, LBG explicitly called out the need to strengthen their data infrastructure \u201crails,\u201d codify policies and procedures for LLM training, and standardise APIs and data pipelines. They acknowledged that data needed for onboarding today is scattered across siloed systems and frequently trapped in unstructured formats.\n  *   The slides on Key Transition State 1 Considerations and Enablers made the pain point even more explicit. Under \u201cData Foundations,\u201d the bank noted that they need to \u201camp up unstructured data management and data pipelines to meet needs,\u201d alongside building a single view of enti"
+},
+{
+"id": "450889004263",
+"subject": "Re: Follow up",
+"text": "Thank you, looking forward to it!"
+},
+{
+"id": "451146415329",
+"subject": "Re: Encord <> Troveo Partnership Introduction",
+"text": "Hey Roger,\n\nGreat to reconnect and looking forward to building our partnership. Working\non some volume estimates on our end and will get back to you by EOD.\n\nBest,\n\nJohnny"
+},
+{
+"id": "451211390196",
+"subject": "Re: Invite for UnitX Founders: AI Leaders Dinner in SF, Feb 26th",
+"text": "No, it's max@unitxlabs.com"
+},
+{
+"id": "451282105535",
+"subject": "Re: Encord <> Troveo Partnership Introduction",
+"text": "Hi Colin,\n\nAppreciate the quick follow-up on this! Here's a *sample*\n<https://docs.google.com/spreadsheets/d/1HGMCI2_FrpzcEhcAnBwMQ9DIlHmVvZCRi3MpMUkFPvQ/edit?usp=sharing>\nshowing\noff our Talking Heads dataset as well as our total volume estimates (see\n*Counts*).\n\nI've also cc'ed @Greg Andreacchi <greg@troveo.ai> who leads our accounts in\nthis space. He'll have more context as additional questions come up.\n\nBest,\n\nJohnny"
+},
+{
+"id": "451367109871",
+"subject": "Re: Encord OrbitAI onboarding annotators",
+"text": "done, you are now Project Admin."
+},
+{
+"id": "451417532643",
+"subject": "Re: Encord <> Ouster",
+"text": "Hi guys, we need a bit more time on the data. We haven't output PCD for\nawhile and our tooling didn't work for me right away. I expect this will be\nfixed for Monday next week. I'll let you know when I'm uploading the data.\n\nDave"
+},
+{
+"id": "451546844405",
+"subject": "Re: Encord - Interest",
+"text": "It was my pleasure! Thanks for your time! Let's stay in touch!"
+},
+{
+"id": "451571557582",
+"subject": "Re: Flikweert Vision + Encord",
+"text": "Hi Arisha,\nThanks for your summary video regarding multi-stage labeling. We tested the proposed workflow to see how well it aligns with the approach we have in mind.\n\nWhat works well:\n\n  *\nWe get close to the desired setup by having at least one annotator complete the full annotation, including the sub-defect (severity). Then, when a defect is selected (e.g., damage), at least two other annotators further refine the pre-annotated images through a consensus step. The main focus there is on severity and on validating the first annotator\u2019s work.\n\nWhat works less well:\n\n  *\nDuring consensus, previously filled-in answers remain completely visible. This increases the risk of bias, because the second assessment is not fully independent.\n  *\nConsensus is not automatic: when we configure a consensus stage, the platform still always adds a review stage (in both configurations we tried). Ideally:\n     *\nWith sufficient agreement (e.g., 75%), an item should move directly to Complete;\n     *\nWith insufficient agreement, it should automatically move to skip;\n     *\nWithout requiring an additional reviewer.\n  *\nWe need at least 3 annotators to succesfully use this approach.\n  *\nFinally, annotate 1 has limited impact on the final outcome: if step 1 selects \u201cdamage\u201d but the consensus annotators select something else, the consensus step fully overrides it and becomes decisive. For example, if annotator 1 selects damage and both consensus annotators select skip, this is correct and the image ends up as skip. However, if annotator 1 selects damage and the consensus annotators choose damage and skip, then no consensus is reached between the two consensus annotators, and annotator 1\u2019s decision does not meaningfully influence the result.\n\nIn general, we think it would be better to move toward a workflow where annotator 1 makes the initial choice in the ontology. If the choice is a defect (e.g., \u201cdamaged\u201d), the item is routed to a second annotator who starts from a blank slate (no pre-anno"
+},
+{
+"id": "451667992820",
+"subject": "Re: Following up on conversation with Nick Rajpal",
+"text": "9"
+},
+{
+"id": "451721523425",
+"subject": "Re: Harris <> Shivant",
+"text": "Sorry, my kid is sick so it is tough to schedule meetings, but just wanted to say that the ML team is really happy with Encord. \u00a0We are getting a lot of annotations done through it and it has really allowed us to do the more complicated annotations that we have wanted to do.\n\nAll the best,\nHarris Osserman\nSenior Product Manager"
+},
+{
+"id": "451721529556",
+"subject": "RE: [Invite] AI & Autonomy Roundtable @ Water Grill - 6pm",
+"text": "Hi James, thanks for the invite. See you soon!"
+},
+{
+"id": "451751022810",
+"subject": "Re: Quote on Encord x Vantor partnership",
+"text": "Good evening Thao,\n\nI must have said \"um\" or \"you know\" at least three times in that. Solid editing.\n\nHappy to run this through the appropriate channels for review. Note I'll be traveling next week for work, so ideally I can get this resolved this week for you all. If you don't hear from me on Friday, please don't hesitate to ping me.\n\nThanks!\n\nBill Tinney\n\nSr Director, Analytics & Insights (AI) Product Management and Partnerships\n\nM: 253.732.9940\n\nbill.tinney@vantor.com\n\n[Vantor]<https://www.vantor.com/>\n\n[signature_106863675]<https://www.linkedin.com/company/vantortech>\n\n[signature_2750687294]<https://www.instagram.com/vantor_tech>\n\n[signature_626827777]<https://www.facebook.com/vantortech>\n\n[signature_3668113338]<https://www.youtube.com/@vantortech>\n\n[signature_2562342942]<https://x.com/vantortech>"
+},
+{
+"id": "452351933634",
+"subject": "Re: Signatory @ Flawless",
+"text": "Alyssa, we are briefing internally, please send the Docusign to JimR in the\nmeantime so we can speed this up.\n\nPaul"
+},
+{
+"id": "452373157099",
+"subject": "Re: Our call",
+"text": "Sure, thanks for informing!\n\nRegards,\nAbhijeet Pise\n+91 9970806993"
+},
+{
+"id": "452474011849",
+"subject": "Re: Encord OrbitAI onboarding annotators",
+"text": "Thanks Shivant!\n\nI know in the meeting we said slack would work for us, but we've had a\nchange of heart.  Can we stick to email?  We're not a slack-house, and\nthink we'll struggle checking a third messaging app.\n\n<https://urldefense.com/v3/__https://d2-bdL04.eu1.hs-sales-engage.com/Ctc/5F*23284/d2-bdL04/JlF2-6qcW8wLKSR6lZ3lxW1ZG_zZ3qxpV5W4c_Ccc9b6nY4VJQl8g8HsvNlW2xrtfn8hPXkTN3qSDmjVhwk0W7qBSHc79lNhTV3vSRZ5MT1wgN2h_32rs7PD4W6w_Kgr8HwJCmF8n0Ly3KCy3W6XV2797KGwlnW96nP245rpcv2W1j46KX3gxDhHN3ZmkXthVp36W8hC7358JL1rfW9hsft84z3h5_W3b7n2j2pRr2TW1HHqjh5hnyc8W6ZyHdQ59QhWnW7PHNLf57MQqvW1xr4h74LhShxW4TmYfx1CjyF3W3XY7c910rqZwW9kwcZ38fmMtkW1vTJMr8jw04bW8xrZT284_xFLW3v6L0-8JFRfwW7lrSRj2nz7QSf4PTw0404__;Kw!!ELB4yx2gjxJSXcA!YyVWvNy0oN60U8vIypHHYkSNPR2VkIV0xGHMB1HyBaKCt24GVdbCzgy4Gs2Bf-OlxEULHnIlG2ibZXrwmUP1SQ$>\n&\nshared examples of our templates for Behaviour Cloning/VLA & standard CV\nprojects. You can use this as the backbone for future instructions. Do not\nworry too much about creating the perfect document on the first go - our\nteams are happy to help advise and evolve the document once we gather\nfeedback and experience on the project.    Please pop me a copy once\ncreated and I can share with the team & start processing the sample of\ntasks for you.\n\nWill do!\n\n- Sam Seifert (he / him\n<https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743>\n)"
+},
+{
+"id": "452475669710",
+"subject": "Re: Encord Call Today",
+"text": "Thank you!"
+},
+{
+"id": "452559925495",
+"subject": "Re: Encord & UHC -",
+"text": "Ha, Will ... you are awesome. Tayla keeps us in line! Adding her to help us find time. Tamara is out, but Shannon and I can start :)\n\nGet Outlook for iOS<https://aka.ms/o0ukef>"
+},
+{
+"id": "452619731176",
+"subject": "RE: Encord LBG prep",
+"text": "Leo,\n\nNo probs, yes was a good session with Divya and Joanna.\n\nNext step is we brief into Kevin the platform lead who help us navigate to the next meeting and understand use case priority and economic buyer for this capability.\n\nNina please can you set up a debrief next week and we can include Robyn also who is leading our reimagination work.\n\nRegards,\nPatrick."
+},
+{
+"id": "452849587406",
+"subject": "RE: Video Attempt",
+"text": "Dear Steffan,\n\nStill get this while clicking on to it:\n[cid:image001.png@01DC9D11.16119C50]\nI have requested with my school account. If it is downloadable, I can share with the members after getting access to it.\n\nBest,\nLawrence"
+},
+{
+"id": "452860888273",
+"subject": "Re: Encord <> TEKsystems",
+"text": "Thank you, Colin and Zachary. Appreciate you taking the time to give us this demo!\n\nSean Krepp  |  AI Practice Director\n\nM: +1-408-367-3814  |  skrepp@teksystems.com<mailto:chrfisher@TEKsystems.com>\n\n2833 Junction Ave Ste 200, San Jose, CA 95134 USA\n\n[A blue square with a white letter f on it  AI-generated content may be incorrect.]<https://www.facebook.com/teksystems>[A logo of a camera  AI-generated content may be incorrect.]<https://www.instagram.com/teksystems/>[A blue square with white x in it  AI-generated content may be incorrect.]<https://x.com/teksystems/>[A blue square with white letters on it  AI-generated content may be incorrect.]<https://www.linkedin.com/company/teksystems/>\n\n[TEK_Logo_RGB_FullColor.png]\n\n[Image]<https://www.teksystems.com/en/>"
+},
+{
+"id": "453028707573",
+"subject": "Re: Quote on Encord x Vantor partnership",
+"text": "Thanks, I'm working on finding the right POC to approve it, pretty sure it's on me from here. I'll try a couple other folks before I close the laptop for the evening.\n\nThanks,\n\nBill Tinney\n\nSr Director, Analytics & Insights (AI) Product Management and Partnerships\n\nM: 253.732.9940\n\nbill.tinney@vantor.com\n\n[Vantor]<https://www.vantor.com/>\n\n[signature_106863675]<https://www.linkedin.com/company/vantortech>\n\n[signature_2750687294]<https://www.instagram.com/vantor_tech>\n\n[signature_626827777]<https://www.facebook.com/vantortech>\n\n[signature_3668113338]<https://www.youtube.com/@vantortech>\n\n[signature_2562342942]<https://x.com/vantortech>"
+},
+{
+"id": "453056561358",
+"subject": "Security Assessment Request from DENSO CORPORATION",
+"text": "*\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u8abf\u67fb\u30b5\u30dd\u30fc\u30c8\u4e8b\u52d9\u5c40* (Assured\u30af\u30e9\u30a6\u30c9\u8a55\u4fa1)\n\nFeb 13, 2026, 11:06 GMT+9\nHi Steffan-san,\n\nThank you for the information.\n\nRegarding future requests to your team, we will reach out to Mustakeem\nMalik-san at musakeem@encord.com to ensure your team receives our messages.\n\nThank you again for your time and cooperation.\n\nWe look forward to working with you again.\n\nBest regards,\n\nYuko Ishikawa\nAssured, Inc.\n------------------------------\n\n\u30a2\u30b7\u30e5\u30a2\u30fc\u30c9\u30af\u30e9\u30a6\u30c9\u8a55\u4fa1\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u8abf\u67fb\u30b5\u30dd\u30fc\u30c8\u4e8b\u52d9\u5c40 | Cloud Security Assessment Support Office\n\u25a0 \u682a\u5f0f\u4f1a\u793e\u30a2\u30b7\u30e5\u30a2\u30fc\u30c9 | Assured, Inc.\n\u25a0 E-mail: support@assured.jp\n\u25a0 HP:https://assured.jp/cl\n\n\uff1cAssured\u304c\u5fd7\u3059\u300c\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30c1\u30a7\u30c3\u30af\u30b7\u30fc\u30c8\u300d\u306e\u672a\u6765\uff1e\nhttps://assured.jp/provider/message\n\nThis email is a service from Assured\u30af\u30e9\u30a6\u30c9\u8a55\u4fa1.\n\n[GG1REJ-R544W]"
+},
+{
+"id": "453373385948",
+"subject": "RE: Encord Introduction",
+"text": "Dear Steffan,\n\nI would like to have them independently. Thanks!\n\nBest,\nLawrence"
+},
+{
+"id": "453607206090",
+"subject": "Re: AI Leaders - Kolacja",
+"text": "Ch\u0119tnie. Dzi\u0119kuj\u0119 bardzo.\n\nPozdrawiam,\nAnia"
+},
+{
+"id": "453879352535",
+"subject": "RE: EY introduction - unstructured data for AI pipelines",
+"text": "Thanks Leo - it was great to meet you all as well. It was definitely an interesting discussion, we will discuss internally and get back to you.\n\nHave a nice weekend,\n\n[cid:image001.png@01DC9D0D.1A31CFC0]\n\nDivya Kesavan\nHead of Data Science\nClient Data & Analytics Platform, Business & Commercial Banking\nLloyds Banking Group - Helping Britain Prosper\nM: +44 7942741181 E: divya.kesavan-kadangode@lloydsbanking.com<mailto:divya.kesavan-kadangode@lloydsbanking.com>\nLloyds Banking Group, 4th Floor, 33 Old Broad Street, London, EC2N 1HZ"
+},
+{
+"id": "453953063132",
+"subject": "Re: Encord/Tau Robotics - Services for G1_Mobile Project",
+"text": "Hi Richa,\n\nWe have new data to label now. You can expect around 4-12 hours per day.\nWould be great if you could get started soon.\n\nBest,\nAlex"
+},
+{
+"id": "454031919331",
+"subject": "RE: UiPath <> Encord - Active Renewal 2026",
+"text": "Ok,please make sure there;s not service interruption , we'll discuss on Monday\n\nDragos Moise\nDirector, Procurement\nwww.uipath.com<http://www.uipath.com/>\n\n[cid:image001.png@01DC9D38.62441270]"
+},
+{
+"id": "454342427859",
+"subject": "Re: Brains, Bodies, Benchmark - Physical AI Panel in SF",
+"text": "I\u2019m sorry I missed this\u2026 hope it was a nice event!\n\nJeremy Fishel, PhD | Principal Researcher | Sanctuary AI\n<https://www.sanctuary.ai/>"
+},
+{
+"id": "454412419268",
+"subject": "Re: Encord/Tau Robotics - Services for G1_Mobile Project",
+"text": "Hi Alyssa,\n\nThanks for reaching out.\n\nWe\u2019re not planning to move to a minimum commitment structure and will\ncontinue under the existing pay-as-you-go agreement for the remainder of\nthe current term.\n\nBest,\nAlex"
+},
+{
+"id": "454419381447",
+"subject": "Re: Encord OrbitAI onboarding annotators",
+"text": "Hi Shivant and all,\n\nJust finished the draft for the annotation guidelines which can be found\nhere\nhttps://docs.google.com/document/d/1B28hW3d0GZ5pB1F9Inma0KBFCsDeKihHB92AfVf_mWc/edit?usp=sharing\n\nPlease let me know if any of you have any feedback on these guidelines,\nespecially for section 7 discussing deadlines, so we can kick-off a sample\nbatch.\n\nThank you,\nChristian So"
+},
+{
+"id": "455792381138",
+"subject": "Re: Encord - next steps ahead of trial access",
+"text": "Hi James,\n\nI think it makes sense.\n\nI believe that 3.c. Multi-view fusion with synchronization and calibration is LiDAR annotation and visualization.\n\nWe are interested in all modules except audio for visualization annotation, including multimodal, image, video, 3D & LiDAR, document & text, and DICOM & NIfTI.\n\nThanks,\n-Ilya"
+},
+{
+"id": "456014003412",
+"subject": "Re: Brent (FF) & Eric (Encord) intro",
+"text": "Thank you! Livia will be attending.\n\nKind regards\n\nMaddy\n\n*Maddy ShipmanExecutive Assistant to Brent HobermanExecutive Chairman &\nCo-Founder *\n07415 758 394\nArundel Street Building, 180 Strand, 2 Arundel Street, London, WC2R 3DA\n\nLinkedIn <https://www.linkedin.com/in/maddy-shipman-98787715b/> | Twitter\n<https://twitter.com/founders_forum> | Website <https://ff.co/>\n\nFounders Forum Group <https://ff.co/> - a global community and group of\nbusinesses empowering entrepreneurs at every stage of their journey. Our\nportfolio includes Founders Forum Events\n<https://ff.co/events-for-founders/our-events/>, London Tech Week\n<https://londontechweek.com/> (the UK's flagship tech event, 9-13 June\n2025), Tech Nation <https://technation.io/>, Founders Pledge\n<https://www.founderspledge.com/>, Founders Keepers\n<https://founderskeepers.co/>, Founders Law\n<https://founders-law.co.uk/>, Founders\nMakers <https://www.founders-makers.com/>, Miroma Founders Network\n<https://www.themfn.com/>, Founders HR <https://foundershr.co/>, Founders\nComms <https://www.founderscomms.co/>, Founders Health\n<https://foundershealth.co/>, Grip <https://www.grip.events/> & 01 Founders\n<https://01founders.co/>, Subscribe to Founders News\n<https://ff.co/founders-news/> for fortnightly updates.\n\n*firstminute capital <https://www.firstminute.capital/>* - $500m AUM\npre-seed & seed fund investing across Europe and the US. Backed by 130+\nunicorn founders, as well as Global CEOs, and half a dozen multi-stage\nventure funds. Backers of Wayve <https://wayve.ai/>, Storyblok\n<https://www.storyblok.com/a/storyblok-home?utm_source=google&utm_medium=cpc&utm_campaign=PA_SEA_Brand&utm_source=google&utm_medium=cpc&utm_campaign=PA_SEA_Brand&utm_keyword=storyblok&utm_match_type=%7Bmatch_type%7D&device=c&gad_source=1&gclid=Cj0KCQjwmt24BhDPARIsAJFYKk29hggNZgsRqDdGpUzGVd_LidwFgzUI7RdRv5c-BctGJDmB7cGgitkaAoXSEALw_wcB>\n and Mistral <https://mistral.ai/>.\n\n*Founders Factory* <https://foundersfactory.com/>*  - *a global Venture\nStudio "
+},
+{
+"id": "456060326112",
+"subject": "Re: Encord & Deepecho",
+"text": "Hi Kamil,\n\nYes, absolutely, here is the link\n<https://drive.google.com/drive/folders/1lKbGtf5meL6lKVgWM1zWRPnAARsrCfnL?usp=sharing>\nfor\na few samples.\n\nBest,\nLe\u00efla"
+},
+{
+"id": "456127813833",
+"subject": "Re: Reminder: your meeting Encord <> SeeAll | Catch-up is about to start",
+"text": "Hi James,\u00a0\n\nI'm in the waiting room"
+},
+{
+"id": "456153890026",
+"subject": "Re: Encord & Deepecho",
+"text": "Hi Kamil,\n\nLeila or Taha could you please upload an example of a task please?\n\nThanks\n\n*Saad Slimani M.D.*\n\nChief Medical Officer & Co-founder, DeepEcho\n\nsaad.slimani@deepecho.io | +1(347) 397-0093"
+},
+{
+"id": "456239746247",
+"subject": "Re: Encord & Deepecho",
+"text": "Hi everyone,\n\nNice to meet you via email too Kamil :)\n\nWould you mind creating an account on our CVAT platform\n<https://v2.benchtesting.deepecho.io/> and send me the email used for\ncreating the account, so I can directly assign a sample annotated video to\nyou as reference?\n\nLet me know, thank you!\n\nBest,\n\nLe\u00efla Noureddine,\nM.D., Radiologist\nMedical Team Lead @ DeepEcho"
+},
+{
+"id": "456316965056",
+"subject": "Re: Encord & Safi | Analytics onboarding",
+"text": "Thanks David,\n\nI've been letting some LLM's loose on the SDK documentation while on\nholiday today/tomorrow, so will see if I get anywhere. Seems to be tricky\nto get accurate time/label estimates as sometimes the time between first\nand last action for a single label can be quite long - I'm assuming it's\nwhen people tab out to read guidelines or do something else.\n\nLook forward to trying out the examples.\n\nBest,\n\n Website <http://safi.co/>   LinkedIn\n<https://www.linkedin.com/company/truecircle-ai/>   Blog\n<https://medium.com/@safi.co>\n*Philippe Hohlfeld* *| **AI Product Manager*\n*a:* 8 Devonshire Square, London EC2M 4YJ\n*e:* philippe@safi.co <philippe@truecircle.ai>\n*p:* +447947132239\n\nOn Mon, 16 Feb 2026 at 15:37, David Reischer <david.reischer@encord.com>\nwrote:"
+},
+{
+"id": "456378124514",
+"subject": "FW: EY introduction - unstructured data for AI pipelines",
+"text": "Leo, Justin,\n\nResponse from Divya per my weekend prompt below.\n\nWould you be able to help me prep an architectural view in advance of tomorrow\u2019s meeting given this is their current view (snip from the meet)?\n\nHow would we anticipate Encord as a virtualisation layer alongside their Pega/Filenet/KMPlatform/Sharepoints/GCP \u2013 think that could be helpful in advance of the meeting with Kevin.\n\nCheers,\nPatrick.\n\n[cid:image005.png@01DC9FD6.A37F5100]"
+},
+{
+"id": "456396618950",
+"subject": "Re: Flikweert Vision + Encord",
+"text": "Hi Arisha,\nThank you for your email and for sharing the example script. We\u2019ll test the agent and workflow you suggested this week.\nKind regards,\n\nFinn Joostens\n\nComputer Vision Engineer\n\n[Logo Flikweert Vision]<https://www.flikweertvision.nl/>\n\nM f.joostens@flikweertvision.nl<mailto:f.joostens@flikweertvision.nl>\n\nA Platte Capelledijk 1, 4306 NE, Nieuwerkerk\n\nW<https://www.flikweertvision.nl/> flikweertvision.<https://www.flikweertvision.nl/>nl"
+},
+{
+"id": "456855496896",
+"subject": "Re: Encord - RMSI | Indicative Pricing for 3D ADAS Projects",
+"text": "Hi Leo,\n\nThe ballpark would be:\n\nS.No.\nScope\nRate (US$)\n1\n3D cuboid per cuboid pricing (40 classes in ontology)\n0.06\n2\n2D linking per label pricing (40 classes in ontology)\n0.03\n3\nLidar semantic segmentation per frame pricing - assuming sequence of 50 or so frames with ~200 objects per frame (60 classes in ontology)\n235\n\nHope the above helps. I will revert tomorrow if these numbers change. Please do let me know what are your initial thoughts.\n\nBest Regards\n\nRahul"
+},
+{
+"id": "456857488629",
+"subject": "Re: Excited for the demo tomorrow!",
+"text": "Thanks, Colin!\n\nRegards-\n\nBrett"
+},
+{
+"id": "456875545795",
+"subject": "Re: Invitation: Encord & Airbnb - Check In @ Wed Feb 4, 2026 11:30am - 12pm (PST) (omar.siddiqui@airbnb.com)",
+"text": "Sounds great. See you all there"
+},
+{
+"id": "456888492262",
+"subject": "RE: Congratulations! You are selected to pitch at the Agentic AI, Data & Robotics TechMeeting on March 10, 2026 at Cisco France",
+"text": "Yes I mean February 23, sorry!\n\nI\u2019ve registered Kamil.\nYou come with him?\n\n[https://storage.letsignit.com/63db678541335d8f73b45ae5/generated/effects_4ec4437316795ddb711e05fd63eb88b7cdb3b9f621012c84e4de12fe.png]\n\nChoose Paris Region\n\n2 rue Simone Veil\n\n93400 Saint-Ouen-sur-Seine\n\nNadia Belgacem\n\nCorporate Innovation Manager\n\n[https://storage.letsignit.com/63db678541335d8f73b45ae5/generated/effects_67c20e9a01e5738f24ae55298db61879bb31e6ccd5a1333107d976e9.png]\n\nInvest Paris Region\n\nnadia.belgacem@chooseparisregion.org\n\n+33 (0)6 95 51 97 75\n\nChat on Teams<https://teams.microsoft.com/l/chat/0/0?users=nadia.belgacem@chooseparisregion.org>\n\nLe contenu de cet email est confidentiel et s\u2019adresse uniquement au destinataire indiqu\u00e9 dans le message. Il est strictement interdit de partager tout ou partie de ce message avec un tiers sans l\u2019accord \u00e9crit de l'exp\u00e9diteur. Si vous avez re\u00e7u ce message par erreur, veuillez y r\u00e9pondre et proc\u00e9der \u00e0 sa suppression afin que nous puissions nous assurer qu'une telle erreur ne se reproduira pas."
+},
+{
+"id": "456905077969",
+"subject": "Re: Encord - RMSI | Indicative Pricing for 3D ADAS Projects",
+"text": "Hi Leo,\n\nCan we please submit our rates tomorrow around 11 am? The team has scheduled a call tomorrow morning to run through the indicative prices.\n\nPlease let me know.\n\nThanks\nRahul"
+},
+{
+"id": "456915238105",
+"subject": "RE: Congratulations! You are selected to pitch at the Agentic AI, Data & Robotics TechMeeting on March 10, 2026 at Cisco France",
+"text": "Ok I will create her badge.\nShiavant, are you going to be there? Just a reminder, the profile for organizing meetings on the platform is Shivant's. Should we keep it that way?\n\n[https://storage.letsignit.com/63db678541335d8f73b45ae5/generated/effects_4ec4437316795ddb711e05fd63eb88b7cdb3b9f621012c84e4de12fe.png]\n\nChoose Paris Region\n\n2 rue Simone Veil\n\n93400 Saint-Ouen-sur-Seine\n\nNadia Belgacem\n\nCorporate Innovation Manager\n\n[https://storage.letsignit.com/63db678541335d8f73b45ae5/generated/effects_67c20e9a01e5738f24ae55298db61879bb31e6ccd5a1333107d976e9.png]\n\nInvest Paris Region\n\nnadia.belgacem@chooseparisregion.org\n\n+33 (0)6 95 51 97 75\n\nChat on Teams<https://teams.microsoft.com/l/chat/0/0?users=nadia.belgacem@chooseparisregion.org>\n\nLe contenu de cet email est confidentiel et s\u2019adresse uniquement au destinataire indiqu\u00e9 dans le message. Il est strictement interdit de partager tout ou partie de ce message avec un tiers sans l\u2019accord \u00e9crit de l'exp\u00e9diteur. Si vous avez re\u00e7u ce message par erreur, veuillez y r\u00e9pondre et proc\u00e9der \u00e0 sa suppression afin que nous puissions nous assurer qu'une telle erreur ne se reproduira pas."
+},
+{
+"id": "456925440223",
+"subject": "Re: Quote on Encord x Vantor partnership",
+"text": "Thanks Alyssa. I'll poke our legal team to see if they have any additional questions / updates after the holiday.\n\nBill Tinney\n\nSr Director, Analytics & Insights (AI) Product Management and Partnerships\n\nM: 253.732.9940\n\nbill.tinney@vantor.com\n\n[Vantor]<https://www.vantor.com/>\n\n[signature_106863675]<https://www.linkedin.com/company/vantortech>\n\n[signature_2750687294]<https://www.instagram.com/vantor_tech>\n\n[signature_626827777]<https://www.facebook.com/vantortech>\n\n[signature_3668113338]<https://www.youtube.com/@vantortech>\n\n[signature_2562342942]<https://x.com/vantortech>"
+}
+]

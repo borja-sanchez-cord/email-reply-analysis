@@ -1,0 +1,402 @@
+[
+  {
+    "id": "117218782407",
+    "intent": "wants_call",
+    "evidence": "Looking forward to the meeting!"
+  },
+  {
+    "id": "117244130527",
+    "intent": "wants_materials",
+    "evidence": "I've tried clearing the browser cache and using a different browser but I'm still seeing the same thing"
+  },
+  {
+    "id": "117256761566",
+    "intent": "other_human",
+    "evidence": "I'll forward this onto the team for their review"
+  },
+  {
+    "id": "117537543402",
+    "intent": "wants_materials",
+    "evidence": "please find the attached *NeuroCare_Testing_Data"
+  },
+  {
+    "id": "117640940769",
+    "intent": "wants_call",
+    "evidence": "I’ve just shared the invite"
+  },
+  {
+    "id": "117820180673",
+    "intent": "wants_call",
+    "evidence": "Id be happy to attend!"
+  },
+  {
+    "id": "117940207854",
+    "intent": "wants_call",
+    "evidence": "Je serai ravi de vous rejoindre si je suis à Londres ce soir-là"
+  },
+  {
+    "id": "118458079449",
+    "intent": "wants_call",
+    "evidence": "Yes, that works!"
+  },
+  {
+    "id": "118559566032",
+    "intent": "wants_call",
+    "evidence": "Yes please go ahead"
+  },
+  {
+    "id": "118627319016",
+    "intent": "wants_materials",
+    "evidence": "we’d like to propose starting with a single project"
+  },
+  {
+    "id": "118660657356",
+    "intent": "wants_call",
+    "evidence": "Sounds great"
+  },
+  {
+    "id": "118716407025",
+    "intent": "other_human",
+    "evidence": "Looking forward to hearing more about the platform"
+  },
+  {
+    "id": "119103481058",
+    "intent": "other_human",
+    "evidence": "Yes that’s correct"
+  },
+  {
+    "id": "119183144139",
+    "intent": "wants_materials",
+    "evidence": "we might consider 1 admin, 1 engineer, 4 annotators and 1 reviewer, annotating 2000 CT scans"
+  },
+  {
+    "id": "119238635722",
+    "intent": "other_human",
+    "evidence": "Thank you so much Leo!"
+  },
+  {
+    "id": "119260051705",
+    "intent": "not_interested",
+    "evidence": "I am not going to this conference"
+  },
+  {
+    "id": "119352705222",
+    "intent": "other_human",
+    "evidence": "Great, thank you!"
+  },
+  {
+    "id": "119721574639",
+    "intent": "other_human",
+    "evidence": "Thank you! Means a lot, our teams in LA are safe at the moment"
+  },
+  {
+    "id": "119872453821",
+    "intent": "other_human",
+    "evidence": "when I turn that off I can now connect. All good!"
+  },
+  {
+    "id": "121007460587",
+    "intent": "other_human",
+    "evidence": "I will do it as part of the transformation"
+  },
+  {
+    "id": "121008048314",
+    "intent": "other_human",
+    "evidence": "We now have full access to the website. Thank you for your help."
+  },
+  {
+    "id": "121009551569",
+    "intent": "not_interested",
+    "evidence": "No London, have a deal the diverted me"
+  },
+  {
+    "id": "121037958361",
+    "intent": "referral",
+    "evidence": "*Alan"
+  },
+  {
+    "id": "121054693625",
+    "intent": "referral",
+    "evidence": "Could you invite @Alan How"
+  },
+  {
+    "id": "121277730008",
+    "intent": "other_human",
+    "evidence": "Will do Skander"
+  },
+  {
+    "id": "121397267705",
+    "intent": "wants_materials",
+    "evidence": "would you be able to enable access for Mahot and Lea"
+  },
+  {
+    "id": "121543670997",
+    "intent": "referral",
+    "evidence": "would appreciate if you could add Raj and Peter to our meeting as well"
+  },
+  {
+    "id": "121550878957",
+    "intent": "wants_call",
+    "evidence": "see you then"
+  },
+  {
+    "id": "121639658700",
+    "intent": "other_human",
+    "evidence": "done"
+  },
+  {
+    "id": "121653420238",
+    "intent": "wants_materials",
+    "evidence": "Kindly download the data from this link"
+  },
+  {
+    "id": "121678263523",
+    "intent": "wants_materials",
+    "evidence": "Please  reply me with your Hugging Face Account"
+  },
+  {
+    "id": "121685375204",
+    "intent": "wants_call",
+    "evidence": "yes. please do."
+  },
+  {
+    "id": "121791399100",
+    "intent": "wants_materials",
+    "evidence": "30k a year is a significant line item"
+  },
+  {
+    "id": "122041749728",
+    "intent": "other_human",
+    "evidence": "Thank you for sharing this information."
+  },
+  {
+    "id": "122045567191",
+    "intent": "other_human",
+    "evidence": "Thanks Charlotte! Great to meet you too"
+  },
+  {
+    "id": "122235328707",
+    "intent": "other_human",
+    "evidence": "Looking forward to hearing more about these solutions."
+  },
+  {
+    "id": "122240258274",
+    "intent": "wants_materials",
+    "evidence": "sign an MSA for the current scope of work for the Pilot"
+  },
+  {
+    "id": "122319126726",
+    "intent": "wants_materials",
+    "evidence": "Let's keep the grant and pilot separate please."
+  },
+  {
+    "id": "122553514176",
+    "intent": "wants_call",
+    "evidence": "You can keep the time slot as it is."
+  },
+  {
+    "id": "122818136288",
+    "intent": "wants_materials",
+    "evidence": "We can sign by Friday, I was hoping closer to 12k with the max being 15k"
+  },
+  {
+    "id": "122877866204",
+    "intent": "wants_materials",
+    "evidence": "please send back a fully executed copy once Eric signs"
+  },
+  {
+    "id": "122903187692",
+    "intent": "wants_materials",
+    "evidence": "I can send that over for you to sign shortly"
+  },
+  {
+    "id": "122915464405",
+    "intent": "wants_call",
+    "evidence": "I would be very happy to attend"
+  },
+  {
+    "id": "122916011213",
+    "intent": "other_human",
+    "evidence": "Thankyou so much, Anjali! Appreciate you."
+  },
+  {
+    "id": "122916167917",
+    "intent": "wants_call",
+    "evidence": "Looking forward to attending."
+  },
+  {
+    "id": "122917742807",
+    "intent": "other_human",
+    "evidence": "Encord is now set up for payment."
+  },
+  {
+    "id": "122985512184",
+    "intent": "wants_materials",
+    "evidence": "Attached is the security questionnaire... If you could review it"
+  },
+  {
+    "id": "123117602033",
+    "intent": "wants_call",
+    "evidence": "No preference on the day."
+  },
+  {
+    "id": "123142114490",
+    "intent": "wants_call",
+    "evidence": "works for me and I will be there"
+  },
+  {
+    "id": "123361089757",
+    "intent": "other_human",
+    "evidence": "Yes, it works perfectly. Thank you!"
+  },
+  {
+    "id": "123717593309",
+    "intent": "wants_call",
+    "evidence": "I eat anything and everything"
+  },
+  {
+    "id": "123761434860",
+    "intent": "other_human",
+    "evidence": "confirming receipt. I'll take a look in anticipation of our meeting next week."
+  },
+  {
+    "id": "124498365664",
+    "intent": "referral",
+    "evidence": "Please add Ravi Lambi (rlambi@dori.ai) to the invite as well."
+  },
+  {
+    "id": "124600979684",
+    "intent": "wants_materials",
+    "evidence": "If you would like a quote please send over a the PDF file of each sticker"
+  },
+  {
+    "id": "124636324074",
+    "intent": "wants_call",
+    "evidence": "I have joined the meeting, but there is no one there yet."
+  },
+  {
+    "id": "124868088024",
+    "intent": "asks_question",
+    "evidence": "You read our outlook?  Security?  PANW downgrade?"
+  },
+  {
+    "id": "124979527896",
+    "intent": "other_human",
+    "evidence": "Received. Thank you will revert shortly"
+  },
+  {
+    "id": "125105778901",
+    "intent": "other_human",
+    "evidence": "Thanks for understanding!"
+  },
+  {
+    "id": "125145156805",
+    "intent": "wants_materials",
+    "evidence": "We can set a trial for Wednesday / Thursday"
+  },
+  {
+    "id": "125151897791",
+    "intent": "other_human",
+    "evidence": "I am interested in Spatial Artificial Intelligence."
+  },
+  {
+    "id": "125249234163",
+    "intent": "other_human",
+    "evidence": "Thanks Leo!"
+  },
+  {
+    "id": "125253097719",
+    "intent": "wants_call",
+    "evidence": "I'd be happy to attend if you still have a spot for me"
+  },
+  {
+    "id": "125257985249",
+    "intent": "wants_materials",
+    "evidence": "place the date on a tentative hold as well as draft a contract for your review"
+  },
+  {
+    "id": "125289636064",
+    "intent": "not_interested",
+    "evidence": "I’ve been pulled into a last minute meeting and will miss our call today."
+  },
+  {
+    "id": "125307971822",
+    "intent": "wants_call",
+    "evidence": "I will be there on the call"
+  },
+  {
+    "id": "125311626472",
+    "intent": "other_human",
+    "evidence": "Awesome, looking forward to it!"
+  },
+  {
+    "id": "125321985236",
+    "intent": "wants_materials",
+    "evidence": "a radiologist or cardiologist is preferred"
+  },
+  {
+    "id": "125532795103",
+    "intent": "other_human",
+    "evidence": "Will update accordingly and then we can set a time for the trial."
+  },
+  {
+    "id": "125572407537",
+    "intent": "wants_materials",
+    "evidence": "please go ahead and send a clean version"
+  },
+  {
+    "id": "125599877366",
+    "intent": "wants_materials",
+    "evidence": "I will send you a contract shortly"
+  },
+  {
+    "id": "125614074090",
+    "intent": "other_human",
+    "evidence": "I have not heard anything; will chase up and back to you."
+  },
+  {
+    "id": "125626290363",
+    "intent": "wants_materials",
+    "evidence": "Do review and provide your feedback on it."
+  },
+  {
+    "id": "125645201620",
+    "intent": "other_human",
+    "evidence": "Great, thanks."
+  },
+  {
+    "id": "125682279618",
+    "intent": "wants_call",
+    "evidence": "Yes, I would love to present our work on PRIME-1!"
+  },
+  {
+    "id": "125708772547",
+    "intent": "wants_materials",
+    "evidence": "Attached is a zip file containing ... 11 sample images"
+  },
+  {
+    "id": "125734825193",
+    "intent": "wants_materials",
+    "evidence": "Please confirm - other than that, no further edits from the Woven legal side."
+  },
+  {
+    "id": "125734849780",
+    "intent": "wants_call",
+    "evidence": "I'll hold in Paul's diary as a TBC."
+  },
+  {
+    "id": "125745207527",
+    "intent": "wants_call",
+    "evidence": "should be able to make at least part of it"
+  },
+  {
+    "id": "125760298197",
+    "intent": "wants_call",
+    "evidence": "yes, you or someone from your team, please!"
+  },
+  {
+    "id": "125832940758",
+    "intent": "other_human",
+    "evidence": "Thanks for the update!"
+  }
+]

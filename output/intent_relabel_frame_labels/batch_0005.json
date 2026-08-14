@@ -1,0 +1,402 @@
+[
+  {
+    "id": "443920900307",
+    "intent": "referral",
+    "evidence": "put Maryam on the invite too"
+  },
+  {
+    "id": "443970723055",
+    "intent": "referral",
+    "evidence": "Raveena Kaur will soon send the ask for the live demo"
+  },
+  {
+    "id": "444656313593",
+    "intent": "wants_call",
+    "evidence": "Yes, I would be available to attend"
+  },
+  {
+    "id": "444911942871",
+    "intent": "wants_call",
+    "evidence": "Running 3 min late"
+  },
+  {
+    "id": "445575423191",
+    "intent": "other_human",
+    "evidence": "Your order is in production, we'll notify you as soon as it's ready"
+  },
+  {
+    "id": "445850937558",
+    "intent": "wants_call",
+    "evidence": "Count me in for the dinner"
+  },
+  {
+    "id": "446009831634",
+    "intent": "wants_call",
+    "evidence": "if I'm in town, would be happy to join"
+  },
+  {
+    "id": "446019131616",
+    "intent": "wants_call",
+    "evidence": "I'm happy to join!"
+  },
+  {
+    "id": "446036884667",
+    "intent": "wants_call",
+    "evidence": "Would love to join!"
+  },
+  {
+    "id": "447322907848",
+    "intent": "wants_call",
+    "evidence": "I am interested in coming"
+  },
+  {
+    "id": "448932443355",
+    "intent": "wants_call",
+    "evidence": "I just RSVP'd as Maybe"
+  },
+  {
+    "id": "449024961740",
+    "intent": "other_human",
+    "evidence": "I'll be happy to reach out if we need help in this direction"
+  },
+  {
+    "id": "449026356459",
+    "intent": "other_human",
+    "evidence": "ready for pick up by this afternoon"
+  },
+  {
+    "id": "449069724870",
+    "intent": "other_human",
+    "evidence": "Glad to hear it! Let us know if there's anything else"
+  },
+  {
+    "id": "449078765769",
+    "intent": "wants_call",
+    "evidence": "I'll be interested to attend"
+  },
+  {
+    "id": "449520838872",
+    "intent": "wants_call",
+    "evidence": "would be interested in attending"
+  },
+  {
+    "id": "449631443160",
+    "intent": "wants_call",
+    "evidence": "No dietary restrictions for me"
+  },
+  {
+    "id": "450251810035",
+    "intent": "wants_call",
+    "evidence": "Let's connect during the event?"
+  },
+  {
+    "id": "451146415329",
+    "intent": "wants_materials",
+    "evidence": "Working on some volume estimates on our end and will get back to you by EOD"
+  },
+  {
+    "id": "451282105535",
+    "intent": "wants_materials",
+    "evidence": "Here's a sample showing off our Talking Heads dataset"
+  },
+  {
+    "id": "454342427859",
+    "intent": "other_human",
+    "evidence": "hope it was a nice event!"
+  },
+  {
+    "id": "457562133711",
+    "intent": "not_now",
+    "evidence": "I'm happy to answer any questions async"
+  },
+  {
+    "id": "458755313912",
+    "intent": "wants_call",
+    "evidence": "We're ready to move directly into the demo"
+  },
+  {
+    "id": "458832673003",
+    "intent": "wants_call",
+    "evidence": "looking forward to talking more tomorrow"
+  },
+  {
+    "id": "459770461426",
+    "intent": "referral",
+    "evidence": "forwarded your email to our infra manager"
+  },
+  {
+    "id": "462047338702",
+    "intent": "not_interested",
+    "evidence": "won't be back in time for this dinner"
+  },
+  {
+    "id": "462048918718",
+    "intent": "not_now",
+    "evidence": "look forward to hearing from you if a spot becomes available"
+  },
+  {
+    "id": "462128857304",
+    "intent": "not_now",
+    "evidence": "Will wait to hear if a spot becomes available"
+  },
+  {
+    "id": "463701122293",
+    "intent": "wants_call",
+    "evidence": "happy to join if you feel that my presence may be valuable"
+  },
+  {
+    "id": "466084099300",
+    "intent": "wants_materials",
+    "evidence": "attaching our events deck which outlines...pricing"
+  },
+  {
+    "id": "466092234975",
+    "intent": "other_human",
+    "evidence": "nice to meet you too! hope to see you around"
+  },
+  {
+    "id": "468608611541",
+    "intent": "wants_call",
+    "evidence": "I've registered"
+  },
+  {
+    "id": "468855984346",
+    "intent": "other_human",
+    "evidence": "Let's wait for him to get back to me"
+  },
+  {
+    "id": "469889172725",
+    "intent": "referral",
+    "evidence": "I can make an e-mail intro"
+  },
+  {
+    "id": "470061395152",
+    "intent": "wants_materials",
+    "evidence": "food and beverage minimum spend of $2,500"
+  },
+  {
+    "id": "470088503516",
+    "intent": "other_human",
+    "evidence": "Just wanted to check and see if you had any questions"
+  },
+  {
+    "id": "470192749764",
+    "intent": "wants_materials",
+    "evidence": "Please let me know if you are interested"
+  },
+  {
+    "id": "471476389094",
+    "intent": "wants_call",
+    "evidence": "Sounds good!"
+  },
+  {
+    "id": "472422846664",
+    "intent": "wants_materials",
+    "evidence": "if you'd like me to put together a quick proposal"
+  },
+  {
+    "id": "472545456342",
+    "intent": "wants_call",
+    "evidence": "We registered using the invite you sent"
+  },
+  {
+    "id": "473688436978",
+    "intent": "wants_call",
+    "evidence": "happy to connect for a short call"
+  },
+  {
+    "id": "474020024523",
+    "intent": "referral",
+    "evidence": "Adding Megan and Tiff to figure out my availability"
+  },
+  {
+    "id": "474084626648",
+    "intent": "wants_call",
+    "evidence": "I would love to join the dinner on the 17th"
+  },
+  {
+    "id": "474085439702",
+    "intent": "wants_call",
+    "evidence": "I would be glad to join for dinner"
+  },
+  {
+    "id": "474099093701",
+    "intent": "wants_call",
+    "evidence": "I don't have dietary restrictions"
+  },
+  {
+    "id": "474105851121",
+    "intent": "wants_call",
+    "evidence": "I'll be around 5-10 minutes late"
+  },
+  {
+    "id": "474354569410",
+    "intent": "not_now",
+    "evidence": "can see if I have anyone available to attend and get back with you"
+  },
+  {
+    "id": "475151420622",
+    "intent": "wants_materials",
+    "evidence": "see the attached deck for sample use case"
+  },
+  {
+    "id": "476133187783",
+    "intent": "wants_materials",
+    "evidence": "I'll have those photos for you of the setup there tomorrow afternoon"
+  },
+  {
+    "id": "476156485830",
+    "intent": "other_human",
+    "evidence": "Thanks, James!"
+  },
+  {
+    "id": "476370781390",
+    "intent": "wants_materials",
+    "evidence": "Please find attached our mutual-NDA template"
+  },
+  {
+    "id": "476632929495",
+    "intent": "other_human",
+    "evidence": "Right next-door I think"
+  },
+  {
+    "id": "477787633850",
+    "intent": "wants_call",
+    "evidence": "I registered Brad for the dinner"
+  },
+  {
+    "id": "478022294715",
+    "intent": "other_human",
+    "evidence": "one last check in on the 16th of April"
+  },
+  {
+    "id": "478146087161",
+    "intent": "other_human",
+    "evidence": "Awesome, thanks."
+  },
+  {
+    "id": "478294870218",
+    "intent": "wants_materials",
+    "evidence": "Here is the csv for our import data"
+  },
+  {
+    "id": "478363003092",
+    "intent": "wants_call",
+    "evidence": "at least for now I can tell you Friday will work for me"
+  },
+  {
+    "id": "478437100792",
+    "intent": "wants_call",
+    "evidence": "Looking forward to meeting the group on Tuesday"
+  },
+  {
+    "id": "478485688551",
+    "intent": "wants_call",
+    "evidence": "Perfect, thank you!"
+  },
+  {
+    "id": "478742133987",
+    "intent": "other_human",
+    "evidence": "one last check in on the 16th of April"
+  },
+  {
+    "id": "478791490790",
+    "intent": "not_now",
+    "evidence": "hope we can find another time to catch up soon"
+  },
+  {
+    "id": "479099659467",
+    "intent": "wants_call",
+    "evidence": "I will be probably late for 25 min"
+  },
+  {
+    "id": "479300590793",
+    "intent": "asks_question",
+    "evidence": "I still dont see the data loaded in the platform"
+  },
+  {
+    "id": "479431460032",
+    "intent": "other_human",
+    "evidence": "seems like no one is there"
+  },
+  {
+    "id": "479449381074",
+    "intent": "other_human",
+    "evidence": "I got the invite - thanks"
+  },
+  {
+    "id": "479533035711",
+    "intent": "other_human",
+    "evidence": "I've got the Google Meeting link from the calendar"
+  },
+  {
+    "id": "479670822091",
+    "intent": "not_interested",
+    "evidence": "Declined because I'm in focus time"
+  },
+  {
+    "id": "479720787155",
+    "intent": "wants_materials",
+    "evidence": "please submit a Private Dining Inquiry Form"
+  },
+  {
+    "id": "479830444266",
+    "intent": "other_human",
+    "evidence": "Appreciate it Colin!"
+  },
+  {
+    "id": "480044037359",
+    "intent": "other_human",
+    "evidence": "Great, thanks."
+  },
+  {
+    "id": "480120050899",
+    "intent": "other_human",
+    "evidence": "Let's stay in touch regarding our robotics initiatives"
+  },
+  {
+    "id": "480694640858",
+    "intent": "other_human",
+    "evidence": "455 Portage Ave, Suite B"
+  },
+  {
+    "id": "481800041702",
+    "intent": "wants_materials",
+    "evidence": "Here's the documentation on fine-tuning Cosmos Embed and CLIP models"
+  },
+  {
+    "id": "482301542608",
+    "intent": "other_human",
+    "evidence": "Thank you!"
+  },
+  {
+    "id": "482377683157",
+    "intent": "not_interested",
+    "evidence": "I can't make it, I'm in London for April & May"
+  },
+  {
+    "id": "482542482641",
+    "intent": "wants_call",
+    "evidence": "looking forward to the event"
+  },
+  {
+    "id": "482594848961",
+    "intent": "wants_materials",
+    "evidence": "We will share the legal agreement by the end of this week"
+  },
+  {
+    "id": "482786206943",
+    "intent": "other_human",
+    "evidence": "keep it as tentative for now"
+  },
+  {
+    "id": "482793182449",
+    "intent": "wants_call",
+    "evidence": "Happy to join"
+  },
+  {
+    "id": "482826636523",
+    "intent": "wants_call",
+    "evidence": "I will accept on her behalf"
+  }
+]

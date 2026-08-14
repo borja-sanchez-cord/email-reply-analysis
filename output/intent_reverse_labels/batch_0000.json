@@ -1,0 +1,402 @@
+[
+  {
+    "id": "118442750192",
+    "intent": "wants_call",
+    "evidence": "available before that"
+  },
+  {
+    "id": "121958867192",
+    "intent": "asks_question",
+    "evidence": "I do not know what MSA is"
+  },
+  {
+    "id": "124355267772",
+    "intent": "wants_call",
+    "evidence": "let’s do Friday 10:00 – 10:30"
+  },
+  {
+    "id": "125185633520",
+    "intent": "asks_question",
+    "evidence": "Do you handle collboration at Encord?"
+  },
+  {
+    "id": "127936008435",
+    "intent": "wants_materials",
+    "evidence": "Perhaps you have a trial so I can test it out?"
+  },
+  {
+    "id": "128723427523",
+    "intent": "wants_call",
+    "evidence": "Let us schedule a call next week on Wednesday"
+  },
+  {
+    "id": "129768477903",
+    "intent": "other_human",
+    "evidence": "I'll keep reminding him"
+  },
+  {
+    "id": "131551694029",
+    "intent": "wants_call",
+    "evidence": "Happy to join the dinner"
+  },
+  {
+    "id": "135977117889",
+    "intent": "wants_call",
+    "evidence": "Lets do an hour early then"
+  },
+  {
+    "id": "136613989584",
+    "intent": "wants_call",
+    "evidence": "Can we meet sometime next week?"
+  },
+  {
+    "id": "137133503707",
+    "intent": "wants_call",
+    "evidence": "I'll join at 10:30"
+  },
+  {
+    "id": "138412735697",
+    "intent": "referral",
+    "evidence": "Forwarding to Giovanni"
+  },
+  {
+    "id": "139010326762",
+    "intent": "referral",
+    "evidence": "Manfred our CEO is cc’d here and he will pick up the conversation"
+  },
+  {
+    "id": "143585903859",
+    "intent": "wants_call",
+    "evidence": "I can do Thursday 10am"
+  },
+  {
+    "id": "143754022122",
+    "intent": "wants_call",
+    "evidence": "Do you have any availability Thursday AM?"
+  },
+  {
+    "id": "148920386781",
+    "intent": "wants_call",
+    "evidence": "Can we move this call to Wednesday 2nd half IST?"
+  },
+  {
+    "id": "149614974190",
+    "intent": "wants_call",
+    "evidence": "Count me in. Looking forward to it!"
+  },
+  {
+    "id": "151174310113",
+    "intent": "referral",
+    "evidence": "I've cc'd Ilan, our Algorithms team manager"
+  },
+  {
+    "id": "153683225815",
+    "intent": "referral",
+    "evidence": "Our CEO, Kacper Nowicki <kacper@nomagic.ai> will is going there"
+  },
+  {
+    "id": "154729880785",
+    "intent": "wants_call",
+    "evidence": "Happy to chat"
+  },
+  {
+    "id": "154810594527",
+    "intent": "referral",
+    "evidence": "my colleague Sebastian (cc’d) will be in Chicago and is available to participate"
+  },
+  {
+    "id": "155937720550",
+    "intent": "wants_call",
+    "evidence": "would love to find a few minutes today to connect"
+  },
+  {
+    "id": "156009620669",
+    "intent": "wants_call",
+    "evidence": "would be happy to attend"
+  },
+  {
+    "id": "156364620992",
+    "intent": "wants_materials",
+    "evidence": "I need a separate demo to know more the product"
+  },
+  {
+    "id": "156406402237",
+    "intent": "asks_question",
+    "evidence": "Do you want it sent to someone else?"
+  },
+  {
+    "id": "158420122826",
+    "intent": "referral",
+    "evidence": "Please send an invitation to both myself and @Robert Brown"
+  },
+  {
+    "id": "158849836228",
+    "intent": "wants_call",
+    "evidence": "look forward to connecting at GTC. What is your schedule look like Tuesday and Wednesday?"
+  },
+  {
+    "id": "159633788096",
+    "intent": "wants_call",
+    "evidence": "Do you have any availability for a brief meeting during that time?"
+  },
+  {
+    "id": "159671741661",
+    "intent": "not_interested",
+    "evidence": "I don’t go to trade shows"
+  },
+  {
+    "id": "159759054049",
+    "intent": "wants_call",
+    "evidence": "I'll reach out next week during the conference"
+  },
+  {
+    "id": "159824522454",
+    "intent": "wants_call",
+    "evidence": "would be happy to join your team"
+  },
+  {
+    "id": "160014568641",
+    "intent": "wants_call",
+    "evidence": "Yes, I plan to be there"
+  },
+  {
+    "id": "161836662005",
+    "intent": "wants_call",
+    "evidence": "I should be able to make it. See you then!"
+  },
+  {
+    "id": "162204770517",
+    "intent": "referral",
+    "evidence": "let me add Maciek and Christian to the thread"
+  },
+  {
+    "id": "167043590372",
+    "intent": "wants_call",
+    "evidence": "I picked a time in your calendly for 16h30 CET"
+  },
+  {
+    "id": "168354730231",
+    "intent": "wants_call",
+    "evidence": "we can coordinate to find a time that suits everyone"
+  },
+  {
+    "id": "169390058687",
+    "intent": "wants_call",
+    "evidence": "We'd like to suggest Wednesday, at the same time"
+  },
+  {
+    "id": "169698508011",
+    "intent": "wants_call",
+    "evidence": "Let's shoot for April 9th"
+  },
+  {
+    "id": "169965707484",
+    "intent": "referral",
+    "evidence": "Looping Itzik my partner and CTO to take this"
+  },
+  {
+    "id": "170068582637",
+    "intent": "wants_call",
+    "evidence": "can you please send me an invite for tomorrow 2pm UK time?"
+  },
+  {
+    "id": "170141668598",
+    "intent": "not_interested",
+    "evidence": "I won't be personally present at ISC West"
+  },
+  {
+    "id": "170688471268",
+    "intent": "not_interested",
+    "evidence": "I will not be attending ISC West"
+  },
+  {
+    "id": "170701341915",
+    "intent": "wants_call",
+    "evidence": "I just sent you an invite for Friday 10am"
+  },
+  {
+    "id": "174040302785",
+    "intent": "wants_call",
+    "evidence": "may I have the google meet invite link?"
+  },
+  {
+    "id": "174043913458",
+    "intent": "wants_call",
+    "evidence": "available at 6:30pm today"
+  },
+  {
+    "id": "174108091633",
+    "intent": "wants_call",
+    "evidence": "Let’s meet the following week"
+  },
+  {
+    "id": "174211373256",
+    "intent": "asks_question",
+    "evidence": "do you guys use slack?"
+  },
+  {
+    "id": "174265838800",
+    "intent": "wants_call",
+    "evidence": "I'm keen to attend"
+  },
+  {
+    "id": "174860976337",
+    "intent": "wants_call",
+    "evidence": "Can we move the trial discussion to next week?"
+  },
+  {
+    "id": "174947690723",
+    "intent": "wants_call",
+    "evidence": "Let's do Monday the 14th please"
+  },
+  {
+    "id": "175627168971",
+    "intent": "wants_call",
+    "evidence": "available any time Friday afternoon for a chat"
+  },
+  {
+    "id": "175867301100",
+    "intent": "wants_call",
+    "evidence": "happy to attend"
+  },
+  {
+    "id": "175949454568",
+    "intent": "wants_call",
+    "evidence": "I should probably be able to make it out on Tuesday"
+  },
+  {
+    "id": "177106065646",
+    "intent": "wants_call",
+    "evidence": "Can we push the demo by a week?"
+  },
+  {
+    "id": "177108471010",
+    "intent": "wants_call",
+    "evidence": "2.45pm should work for me"
+  },
+  {
+    "id": "177168507105",
+    "intent": "wants_materials",
+    "evidence": "Legal should be countersigning today"
+  },
+  {
+    "id": "177188680911",
+    "intent": "wants_call",
+    "evidence": "Vous pouvez me compter parmis vous s'il reste des places"
+  },
+  {
+    "id": "177205734606",
+    "intent": "wants_call",
+    "evidence": "Yes, I will be there."
+  },
+  {
+    "id": "177727591631",
+    "intent": "wants_call",
+    "evidence": "I sent you a Teams invitation"
+  },
+  {
+    "id": "177870083299",
+    "intent": "wants_call",
+    "evidence": "I'm excited to meet w/ the Encord team tomorrow"
+  },
+  {
+    "id": "177875547372",
+    "intent": "wants_call",
+    "evidence": "Excite to meet up next Tuesday!"
+  },
+  {
+    "id": "181071959277",
+    "intent": "wants_call",
+    "evidence": "does 1PM next Monday work?"
+  },
+  {
+    "id": "183010171082",
+    "intent": "asks_question",
+    "evidence": "Do you guys have any track record for such applications?"
+  },
+  {
+    "id": "183907076290",
+    "intent": "wants_call",
+    "evidence": "10:30 tomorrow works for me"
+  },
+  {
+    "id": "184931392708",
+    "intent": "wants_materials",
+    "evidence": "Could you send me the following information (see attached)"
+  },
+  {
+    "id": "188896407764",
+    "intent": "wants_call",
+    "evidence": "let me know your availability later today or tomorrow morning"
+  },
+  {
+    "id": "191063085259",
+    "intent": "other_human",
+    "evidence": "Love to understand more"
+  },
+  {
+    "id": "193899190469",
+    "intent": "wants_call",
+    "evidence": "I’d love to join on May 15th!"
+  },
+  {
+    "id": "194484487398",
+    "intent": "asks_question",
+    "evidence": "Can you please remind me what his name is"
+  },
+  {
+    "id": "194907651314",
+    "intent": "wants_call",
+    "evidence": "Next Wednesday after 1.30 PM works for me"
+  },
+  {
+    "id": "194922929366",
+    "intent": "wants_call",
+    "evidence": "Can you please provide some dates/times?"
+  },
+  {
+    "id": "195607561456",
+    "intent": "wants_call",
+    "evidence": "How about weds at 1?"
+  },
+  {
+    "id": "195632925905",
+    "intent": "wants_call",
+    "evidence": "Let's try Thursday 11:00 UTC or later"
+  },
+  {
+    "id": "196056846529",
+    "intent": "wants_call",
+    "evidence": "Let's do 2 PM PST Tues"
+  },
+  {
+    "id": "196066699456",
+    "intent": "wants_call",
+    "evidence": "Sure. Could you also share any event details?"
+  },
+  {
+    "id": "196091557073",
+    "intent": "wants_call",
+    "evidence": "Would love to join if there are still spots available"
+  },
+  {
+    "id": "196140530886",
+    "intent": "wants_call",
+    "evidence": "I just accepted the invite"
+  },
+  {
+    "id": "199182561477",
+    "intent": "wants_call",
+    "evidence": "we can connect during the conference"
+  },
+  {
+    "id": "199750717666",
+    "intent": "wants_call",
+    "evidence": "5:30pm on Monday works fine"
+  },
+  {
+    "id": "203827670217",
+    "intent": "referral",
+    "evidence": "Jussi and Jose will be there, so pull their sleeve"
+  }
+]
