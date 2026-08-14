@@ -26,8 +26,9 @@ gate reads 97.7%.
 
 The sequence in `docs/11_intent_accuracy_gate.md` is: **adjudicate the 116 disputed
 `other_human` replies first**, under a sharpened written definition, THEN re-label
-(~137 Fable batches), THEN re-measure on a **fresh seed**. Do not re-measure on seed
-20260814 — that measures the tuning, not the classifier.
+**the 4,030 `other_human` replies only — 51 Fable batches** (scope confirmed by the
+operator, see "Operator decisions" below), THEN re-measure on a **fresh seed**. Do not
+re-measure on seed 20260814 — that measures the tuning, not the classifier.
 
 Two things that must not happen: tuning pass A until it agrees with pass B (pass B has
 its own errors — it called a decline containing a question mark `asks_for_information`),
@@ -112,7 +113,9 @@ The §1 baselines (15.95% / 9.46% on n=14,769) are superseded — see §9.3.
 
 - Trust `data/missing_reply.txt` or `data/missing_type.txt`. Stale, and they hold batch
   names not ids. §9.1.
-- Re-label replies. Already 100%, zero partial batches.
+- Re-run the reply **category** pass (human vs bot vs calendar…). Already 100%, zero
+  partial batches, validated at 99.0%. Note this is NOT the same as the `other_human`
+  **intent** relabel, which IS happening — see the blocker above.
 - Trim the type pass to frame rows only. That types 2025 corpus-wide and 2026 CA-only,
   reintroducing the asymmetry §9.2 exists to remove.
 - Run any analysis before `pytest` is green and the frame invariants hold (§5.5).
