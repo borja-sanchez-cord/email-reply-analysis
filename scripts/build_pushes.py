@@ -19,6 +19,7 @@ Output: data/pushes_G{G}.parquet, data/reply_candidates_G{G}.parquet
 """
 import json
 import os
+import re
 import sys
 
 import pandas as pd
@@ -27,6 +28,57 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 
 REPLY_WINDOW_DAYS = 90
+
+# --- addr-route subject verification (RUN2_PREREGISTRATION §9.6) -------------------
+#
+# The addr fallback ("any inbound from the recipient within the window") exists because
+# sequencer-era emails carry no thread_id. Unchecked, it grabbed unrelated conversations:
+# on heavily-touched contacts, 73% of addr-route replies had a subject that did not match
+# the opener ("Intro Alec & Ross" credited with a reply titled "job in sf"). Thread-route
+# matches were 100% subject-consistent, so only the addr route is gated.
+#
+# Rule: an addr-route candidate is kept only if its normalised subject matches the
+# normalised subject of ANY outgoing touch in the push (not just the opener — a reply to
+# follow-up #3 is still a reply to the push). Match = equality, or containment when the
+# shorter side is >= 6 chars. Reply prefixes (Re:/Fwd:/Automatic reply:/Accepted:, DE/FR
+# variants) are stripped first; remaining text is lowercased alphanumeric tokens, so
+# "encord & tempo" matches "[Encord <> Tempo] Labelling and Fine-Tune".
+#
+# Direction of error: conservative. A genuine reply that opens a brand-new subject line is
+# now dropped (counted and reported as cand_dropped_subject). That undercounts replied;
+# the alternative overcounted it with other conversations, which is worse for a study
+# whose outcome is "did THIS email get a reply".
+
+SUBJECT_PREFIX_RE = re.compile(
+    r"^\s*(\[[^\]]{0,30}\]\s*)?"
+    r"((re|fw|fwd|aw|sv|antw|wg|automatic reply|auto[- ]?reply|autoreply|"
+    r"out of office|ooo|accepted|declined|tentative|invitation|"
+    r"automatische antwort|abwesenheitsnotiz|r[ée]ponse automatique)\s*:\s*)+", re.I)
+
+
+def norm_subject(s):
+    s = str(s or "").strip()
+    prev = None
+    while prev != s:
+        prev = s
+        s = SUBJECT_PREFIX_RE.sub("", s).strip()
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
+def subjects_match(reply_subject, touch_subjects):
+    """True if the reply's subject ties it to any outgoing touch in the push."""
+    r = norm_subject(reply_subject)
+    if not r:
+        return False
+    for t in touch_subjects:
+        t = norm_subject(t)
+        if not t:
+            continue
+        if r == t:
+            return True
+        if len(min(r, t, key=len)) >= 6 and (r in t or t in r):
+            return True
+    return False
 
 CA_LOCALPARTS = {
     "alex.leveque", "alyssa", "andrew", "arisha", "colin", "constantin", "diego",
@@ -56,6 +108,7 @@ def main():
 
     inb_by_addr = {k: list(zip(v["email_id"], v["ts"]))
                    for k, v in inbound.groupby("from_email")}
+    inb_subject = dict(zip(inbound["email_id"], inbound["subject_clean"]))
     inb_by_thread = {k: list(zip(v["email_id"], v["ts"]))
                      for k, v in inbound.dropna(subset=["thread_id"]).groupby("thread_id")}
 
@@ -71,6 +124,7 @@ def main():
 
     pushes = []
     reply_cand_ids = set()
+    addr_audit = []   # §9.6: production's own record of every addr-route keep/drop
     study_start = pd.Timestamp("2025-01-01", tz="UTC")
 
     for (rcpt, pno), grp in touches.groupby(["recipient", "push_no"], sort=False):
@@ -98,8 +152,22 @@ def main():
                             else "reply_into_existing_thread")
 
         cands = []
+        dropped_subject = 0
         if arr is not None:
-            cands += [(a[0], a[1], "addr") for a in arr if start < a[1] <= reply_deadline]
+            touch_subjects = [s for s in grp["subject_clean"] if isinstance(s, str) and s]
+            for a in arr:
+                if not (start < a[1] <= reply_deadline):
+                    continue
+                # §9.6: addr-route candidates must be tied to the push by subject
+                kept = subjects_match(inb_subject.get(a[0]), touch_subjects)
+                addr_audit.append({"opener_id": opener["email_id"], "cid": a[0],
+                                   "reply_subject": inb_subject.get(a[0]),
+                                   "opener_subject": opener["subject_clean"],
+                                   "n_touches": len(grp), "kept": kept})
+                if kept:
+                    cands.append((a[0], a[1], "addr"))
+                else:
+                    dropped_subject += 1
         if tid is not None and tid in inb_by_thread:
             cands += [(a[0], a[1], "thread") for a in inb_by_thread[tid]
                       if start < a[1] <= reply_deadline]
@@ -138,6 +206,7 @@ def main():
             "cand_reply_route": reply_route,
             "touches_before_reply": touches_before_reply,
             "cand_reply_ids": ",".join(str(c[0]) for c in cands) if cands else "",
+            "cand_dropped_subject": dropped_subject,
         })
 
     P = pd.DataFrame(pushes)
@@ -145,6 +214,8 @@ def main():
 
     rc = inbound[inbound["email_id"].isin(reply_cand_ids)]
     rc.to_parquet(os.path.join(DATA, f"reply_candidates_{suffix}.parquet"), index=False)
+    pd.DataFrame(addr_audit).to_parquet(
+        os.path.join(DATA, f"addr_audit_{suffix}.parquet"), index=False)
 
     S = P[P["in_study"]]
     print(f"G={G}: {len(P)} pushes; {len(S)} openers in Jan2025–Jul2026")
@@ -153,6 +224,8 @@ def main():
     clean_mb = S[(S["channel"] == "mailbox") & (S["exclusions"] == "")]
     print(f"  clean mailbox openers: {len(clean_mb)}  (CA: {clean_mb['sender_is_ca'].sum()})")
     print(f"  reply candidates to classify: {len(rc)}")
+    print(f"  addr-route candidates dropped by subject check (§9.6): "
+          f"{int(S['cand_dropped_subject'].sum())} across {int((S['cand_dropped_subject'] > 0).sum())} pushes")
 
 
 if __name__ == "__main__":

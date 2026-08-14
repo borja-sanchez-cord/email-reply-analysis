@@ -468,7 +468,51 @@ Fixed before any batch was built (no scores existed, so nothing is invalidated):
 boundaries on both, and short single-word company names require the capitalised form,
 mirroring the already-audited feature-path rule. Pinned by `tests/test_blinding.py`.
 
-### 9.5 What now exists that §5 only specified
+### 9.5 The seventh defect: addr-route replies credited to the wrong conversation
+
+Found 2026-08-14, after §9.1–9.4, by the operator asking why a colleague-loop-in reply
+was attached to a coffee invite.
+
+**The defect.** Reply matching had two routes: `thread` (same thread id) and `addr` (any
+inbound from the recipient within the window — the pre-registered fallback for
+sequencer-era mail that carries no thread id, `eligibility_and_analysis_rules.md` §6).
+The fallback was never verified. Audited: **thread-route replies were 100%
+subject-consistent with their opener; addr-route replies only 27%.** 195 of 1,322
+replied=True rows (14.8%) had a first candidate whose subject did not match the opener —
+"Intro Alec & Ross" credited with a reply titled "Job in SF". Misattributions clustered on
+heavily-touched contacts (median 6 touches vs 3), i.e. people with several conversations
+running at once.
+
+**The fix** (`build_pushes.py::subjects_match`, pinned by `tests/test_reply_matching.py`):
+an addr-route candidate is kept only if its normalised subject matches the subject of any
+outgoing touch in the push. Prefixes (Re:/Fwd:/Automatic reply:/Accepted:, DE/FR variants)
+stripped; punctuation collapsed to tokens; equality or ≥6-char containment. The thread
+route is untouched. Production writes its own audit trail (`data/addr_audit_G*.parquet`).
+
+**Measured effect on the eligible frame (G30):** 3,182 addr-route decisions → 2,739 kept,
+443 dropped. Dropped: 380 calendar_bot, 50 human, 8 out-of-office, 5 other. Outcomes:
+replied 1,322 → 1,302 (10.9% → 10.8%), interested 736 → 721 (6.1% → 6.0%). G21 and G45
+move identically (−0.2pp / −0.1pp).
+
+The headline moves little because `replied` needs only one legitimate human candidate and
+most contaminated pushes also had one; most dropped candidates were calendar bots that
+never counted as human anyway. The real repair is **attribution**: which reply, which
+intent, and `touches_before_reply` now come from a reply that is actually tied to the push.
+The old matching injected other conversations' replies into exactly the per-email
+comparisons this study exists to make.
+
+**Direction of error, stated:** conservative. All 50 dropped human candidates were read
+(§5.6). The large majority are plainly other conversations (other events, live-deal
+traffic, other reps' threads). A minority — roughly a dozen — are debatable: the same
+dinner under a renamed calendar subject, or "Encord <> Tier IV" answered under
+"Encord x Tier IV | Catch-up". Those genuine replies are now missed, which understates
+`replied` slightly. The alternative overstated it with unrelated conversations; for a
+study whose question is "did THIS email get a reply", undercounting is the safer error.
+
+**Knock-on:** the committed Q2 follow-up curve was computed on the old matching and must
+be re-run before the report. The §9.3 baselines shift again, to 10.8% / 6.0% at G30.
+
+### 9.6 What now exists that §5 only specified
 
 | §5 requirement | Implementation |
 |---|---|
@@ -476,5 +520,6 @@ mirroring the already-audited feature-path rule. Pinned by `tests/test_blinding.
 | 5.4 automated blinding leak check that blocks launch | `scripts/check_blinding.py` — exits non-zero on any hit; imports the production redaction vocabulary rather than re-deriving it; also reports the over-redaction direction |
 | 1b intent-accuracy gate | `scripts/build_intent_accuracy_batches.py` (seed 20260814) + `scripts/intent_accuracy.py` |
 | — | `tests/test_blinding.py` — 12 tests pinning both redaction directions |
+| §9.5 fix | `tests/test_reply_matching.py` — 13 tests: real misattributed pairs rejected, genuine replies (incl. punctuation variants and replies to follow-up touches) still matched |
 
-Total: 30 tests, passing, committed before the frame is rebuilt.
+Total: 43 tests, passing.
