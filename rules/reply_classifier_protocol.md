@@ -67,3 +67,68 @@ below 90%, the classifier is revised and re-measured before any analysis uses it
 - Forwarded-to-colleague with commentary visible → `human` + `referral`.
 - One-word replies ("Thanks", "Received") → `human`, `other_human` unless clearly templated
   gateway text.
+
+---
+
+# Addendum: the forward-motion boundary (2026-08-14)
+
+**Appended, not edited.** The original protocol above stands unchanged; the git history is
+the proof that it was written before any reply was read. This addendum exists because the
+§1b accuracy gate FAILED and diagnosed exactly why.
+
+## Why this addendum exists
+
+`docs/11_intent_accuracy_gate.md`: two independently-worded passes over 300 replies agreed
+on Interested only **83.3%**, against a pre-registered gate of 90%. The failure was not
+spread across the taxonomy. All eight real intents agreed at **96.2%**. The `other_human`
+catch-all — 39% of the sample — agreed at **62.9%**. Resolve `other_human` and the gate
+reads 97.7%.
+
+`other_human` was never defined. It was the bucket for "human, but none of the above", and
+two careful readers split it differently. That is a **definition defect, not an accuracy
+defect**, and it is fixed by writing the boundary down, not by tuning a classifier.
+
+## The four rulings
+
+Decided by the operator on the four ambiguous shapes actually observed in the disputed
+replies. Each is stated with the case that produced it.
+
+| # | Shape | Ruling | Real example |
+|---|---|---|---|
+| 1 | **Loops in a colleague** — names or CCs someone else as the right person, or asks for them to be added | **INTERESTED** — record as `referral` | *"Please add Ravi Lambi to the invite as well."* |
+| 2 | **A concrete commercial or technical next step** — NDA signed, users to provision, POC data handed over, contract to counter-sign, pricing requested | **INTERESTED** — record as `wants_materials` unless a call is proposed, in which case `wants_call` | *"We received the signed NDA today… create everyone copied as platform users."* |
+| 3 | **A question inside a refusal** — declines, but asks something in passing | **NOT INTERESTED** — the refusal governs. Record as `not_interested`, or `not_now` if a door is explicitly left open | *"This dinner is in London? I'll be in the states so can't make it, but I appreciate the invite!"* |
+| 4 | **Bare acknowledgement** — reads and responds, asks for nothing, offers nothing actionable | **NOT INTERESTED** — record as `other_human` | *"Thanks, noted."* / *"Got it."* |
+
+## The general rule these four express
+
+> A reply is **Interested** when it hands the sender something concrete to do next: a
+> meeting to take, a question to answer, a document to send, or a named person to contact.
+> It is **not** Interested when the sender's only available next action is to try again
+> later, or nothing at all.
+
+`other_human` is now explicitly the **residual for human replies that create no next step**
+— acknowledgements, pleasantries, off-topic remarks, unclassifiable text. It is no longer a
+dumping ground for anything the taxonomy did not anticipate. A reply that creates a next
+step must be assigned the intent describing that step.
+
+## Two things this addendum must not do
+
+1. **It must not tune pass A until it agrees with pass B.** Pass B has its own errors — it
+   read ruling 3's example as `asks_for_information` purely because of the question mark.
+   Agreement with a second imperfect instrument is not accuracy.
+2. **It must not redefine `interested` to make the gate pass.** The Interested SET is
+   unchanged: `wants_call`, `asks_question`, `wants_materials`, `referral`
+   (`RUN2_PREREGISTRATION` §1, operator-confirmed). This addendum sharpens which replies
+   land in which intent — it does not move the finish line.
+
+## How it is applied and re-measured
+
+- **Scope: the 4,030 `other_human` replies only** (~51 Fable batches). The other 6,927 human
+  replies are not relabelled — their intents agree at 96.2% and there is no defect to fix.
+  Operator-confirmed scope.
+- Same model (Fable) and same blinding as the original pass: reply text only, quoted trails
+  stripped, no sight of the outgoing email, sender, date or outcome.
+- **Re-measured on a FRESH SEED.** Re-running the gate on seed 20260814 would measure the
+  tuning, not the classifier. A new sample is drawn, pass B is re-run on it, and the gate
+  must clear 90% on replies never used to write these rules.
