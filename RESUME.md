@@ -13,9 +13,10 @@ from what an agent reported.
 
 ## The one-line state
 
-Stage 0 (tests) done and committed. Stage 1 (type labels) part-done and safe to resume.
+Stage 0 (tests, 43 passing) **done**. Stage 1 (type labels, 485/485) **done**. Frames
+rebuilt at G30/G21/G45 **done**. Defect 7 (§9.5) found and fixed **done**.
 **The §1b gate on `interested` FAILED at 83.3% — see `docs/11_intent_accuracy_gate.md`.
-That blocks Layer-2 use of `interested` and is the first thing to deal with.**
+That blocks Layer-2 use of `interested` and is the next thing to do.**
 No analysis has been run. No email has been judged. Zero results exist.
 
 ## BLOCKER: the intent gate failed — read docs/11 before anything else
@@ -36,54 +37,44 @@ and redefining `interested` to make the gate pass.
 
 ## Exactly where to pick up
 
-### Step 1 — see what actually landed
+### Step 0 — confirm nothing regressed
 
 ```bash
 cd /Users/borja/builds/v2_email_replies_analysis
-ls output/type_labels | wc -l          # target 485
-ls output/intent_accuracy/second_pass_*.json 2>/dev/null | wc -l   # target 6
+.venv/bin/python -m pytest tests/ -q                 # must be 43 passed
+ls output/type_labels | wc -l                        # must be 485
 ```
 
-Then list the still-missing type batches (this is the authoritative check — the
-`data/missing_*.txt` files are stale snapshots and hold batch names, not ids):
+Then check the numbers table above. All of stage 0/1 and the frame rebuild is done;
+labelling agents do **not** need re-running.
+
+### Step 1 — the blocker: fix `interested` (the only thing gating everything)
+
+Per `docs/11_intent_accuracy_gate.md`, in this order:
+1. Adjudicate the 116 disputed `other_human` replies under a sharpened written definition.
+2. Append that definition to `rules/reply_classifier_protocol.md` — **append, never edit**.
+3. Relabel **the 4,030 `other_human` replies only** — 51 Fable batches, ~$85.
+4. Re-run `scripts/intent_accuracy.py` on a **fresh seed** (not 20260814).
+
+Fable, matching the instrument that produced the other labels (§8.3). Workflow scripts:
+`/Users/borja/.claude/projects/-Users-borja-builds-v2-email-replies-analysis/561529db-b3dc-45de-992e-44d0f2e3e129/workflows/scripts/`
+— both are **idempotent** (agents skip a batch whose output exists), so re-running a full
+list after an interruption is safe.
+
+### Step 2 — then, in this order (no stage starts before the previous asserts pass)
 
 ```bash
-.venv/bin/python - <<'PY'
-import glob, os
-miss=[os.path.basename(p)[:-5] for p in sorted(glob.glob("output/type_batches/batch_*.json"))
-      if not os.path.exists("output/type_labels/"+os.path.basename(p))]
-print(len(miss)); print(miss)
-PY
+.venv/bin/python scripts/analyze_q2.py               # RE-RUN: old curve used pre-§9.5 matching
+.venv/bin/python scripts/analyze_q1.py --type cold_pitch --year 2025   # Layer 1, 2025 ONLY
+# placebo test on shuffled labels — must pass before any real result is read
+# write the 2025 findings down and COMMIT them before touching 2026 (holdout, §9 of
+#   rules/eligibility_and_analysis_rules.md)
+.venv/bin/python scripts/build_judge_batches.py
+.venv/bin/python scripts/check_blinding.py           # must exit 0 or judges do not launch
+# then the 20-example read below — mandatory
 ```
 
-### Step 2 — re-launch only what is missing
-
-Both workflows are **idempotent**: each agent skips a batch whose output already
-exists, so re-running with the full list is safe. Pass the missing list as `args`.
-
-- Type labels: `Workflow({scriptPath: ".../type-label-gap-wf_93e9a651-ac7.js", args: [<missing batch names>]})`
-- Intent pass B: `Workflow({scriptPath: ".../intent-accuracy-pass-b-wf_77b3cadf-860.js", args: ["pack_0",...,"pack_5"]})`
-
-Scripts live in
-`/Users/borja/.claude/projects/-Users-borja-builds-v2-email-replies-analysis/561529db-b3dc-45de-992e-44d0f2e3e129/workflows/scripts/`.
-Both use **Fable** — matching the instrument that produced the other 24,960 labels
-(§8.3). Do not switch models mid-classification; the split would fall on 2025-vs-2026,
-which is the exact defect §9.2 exists to fix.
-
-### Step 3 — then, in this order (no stage starts before the previous asserts pass)
-
-```bash
-.venv/bin/python -m pytest tests/ -q                 # must be 30 passed
-.venv/bin/python scripts/assemble_labels.py          # expect 485/485 clean, 38,793 type labels
-.venv/bin/python scripts/build_frame.py 30           # then 21, then 45
-.venv/bin/python scripts/intent_accuracy.py          # the §1b GATE — must be >=90%
-```
-
-The §1b gate is a **hard gate**: if Interested-level agreement is below 90%, the intent
-classifier is revised and re-measured before any Layer-2 analysis uses `interested`.
-
-After that: Layer-1 analysis → placebo test → judge batches → `check_blinding.py`
-(must exit 0 or the judges do not launch) → judging. Full order in §6.
+Full stage order in §6 of the pre-registration.
 
 ## Environment
 
@@ -98,16 +89,22 @@ user site-packages. Use the project venv:
 
 ## Numbers to expect (so a wrong one is visible)
 
+Current, after all corrections (§9.1–9.5). Any deviation means something regressed.
+
 | | value |
 |---|---|
-| reply labels | 16,695 / 16,695 — complete, do not redo |
-| type labels when done | 38,793 across 485 batches |
-| frame G30 rows, stale type labels | 15,586 |
-| frame G30 rows, after re-assembly | 14,174 (reply-like exclusion rose 817 → 1,412) |
-| frame G30 rows, final | **not yet known** — will fall again once the 2026 window is typed |
-| replied / interested at G30 | 15.3% / 9.0% before the 2026 window lands |
+| tests | **43 passing** |
+| reply category labels | 16,695 / 16,695 — complete, validated 99.0%, do not redo |
+| type labels | **38,793 across 485/485 batches** — complete |
+| frame rows G30 / G21 / G45 | **12,077 / 12,558 / 11,566** |
+| G30 replied / interested | **10.8% / 6.0%** |
+| G30 cold_pitch replied / interested | **6.8% / 4.4%** (n=6,439) |
+| reply-like exclusion (G30) | 3,509 |
+| unlabelled candidate replies | **0** |
 
-The §1 baselines (15.95% / 9.46% on n=14,769) are superseded — see §9.3.
+Superseded, in order: §1's 15.95% / 9.46% on n=14,769 → 15.3% / 9.0% on 14,174 (stale
+types) → 10.9% / 6.1% on 12,077 (types complete, §9.3) → **10.8% / 6.0%** (defect 7 fixed,
+§9.5). Each step is a correction, not drift; the reasoning is in the numbered sections.
 
 ## Do not
 
