@@ -133,3 +133,44 @@ The §1 baselines (15.95% / 9.46% on n=14,769) are superseded — see §9.3.
 - **`interested` stays a real outcome.** Dropping it was offered as the largest saving
   and explicitly rejected: "dont save on replies, that matters". §1 stands — every
   finding carries both numbers.
+
+## MUST DO before any judging spend (operator instruction, 2026-08-14)
+
+**Prove the redaction on 20 real examples before launching a single judge agent.**
+
+Order is fixed:
+1. `python3 scripts/build_judge_batches.py`
+2. `python3 scripts/check_blinding.py` — must exit 0. Non-zero blocks the launch (§5.4).
+3. **Print 20 real judge items and READ them.** Confirm with your own eyes: signature gone,
+   unsubscribe/legal footer gone, no sender name, no company, no dates, no URLs — AND that
+   the body a judge must actually rate is still intact and not placeholder soup (§5.4
+   over-redaction half; an owner surnamed *Short* once turned "a short call" into
+   "a [SENDER] call").
+4. Only then launch. This is not optional and is not replaceable by the checker exiting 0 —
+   the checker tests for leaks, the reading tests for damage.
+
+## Reply hygiene — verified, do not re-litigate
+
+- Internal Encord addresses can never count as a reply: **0 of 73,856 inbound rows** come
+  from `encord.com` / `encord.ai` / `tryencord.com` / `cord.tech`. The inbound set is
+  defined as `is_internal_sender == False`, so a colleague replying from an Encord address
+  is structurally excluded, not filtered late.
+- Machine traffic is excluded by the classifier: of 16,695 candidates, **34% are machines**
+  (3,188 other_bot, 1,899 calendar_bot, 564 out_of_office, 40 bounce/security/auto-ack).
+  Only `category == "human"` counts as `replied`.
+- Colleague-instead-of-recipient replies: measured, **13 genuine cases (0.11pp)**. The
+  first estimate of 1,201 was wrong — 1,188 of those "colleagues" had been sent their own
+  copy of the same invite, so their reply is already counted on their own row. Do not
+  re-open this without re-checking that.
+
+## Known limitations, measured, not blocking
+
+| | size |
+|---|---|
+| non-English openers (mostly French) — English-written rubric | 61 (0.5%) |
+| recipients emailed by 2+ reps — rows not fully independent | 7.2% of people, 15.6% of rows |
+| genuine colleague hand-offs missed | 13 (0.11pp) |
+
+Not yet checked: replies arriving from a personal address instead of the work one; soft
+bounces arriving as ordinary mail; whether any "cold" opener actually went to an existing
+customer.
