@@ -142,9 +142,9 @@ for label, key, cls, verdict in LADDER:
         f'<div class="chip {cls}">{esc(verdict)}</div></div>')
 
 NULLS = [
-    ("Putting links in the email", "Doesn't hurt. If anything, helped (+4.9), but not solidly enough to claim."),
-    ("Greeting them by name", "Nothing. If anything, slightly worse."),
-    ("Mentioning their company", "Nothing (0.0). Name-dropping isn't personalisation."),
+    ("Putting links in the email", "Doesn't hurt. Direction positive both years (+4.9, then +1.5), never solid enough to claim."),
+    ("Greeting them by name", "Nothing either year (−2.1, then +2.1 — noise around zero)."),
+    ("Mentioning their company", "Nothing (0.0, then −0.4). Name-dropping isn't personalisation."),
     ("Citing researched facts about them", "Nothing, two years running (+1.3, then +0.6)."),
     ("Writing that could only be for them", "Nothing solid, two years running (+1.9, then +2.1)."),
     ("A crisp, well-specified ask", "Nothing (−0.0, then +0.9)."),

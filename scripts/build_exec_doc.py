@@ -340,9 +340,9 @@ within-sender, cold pitches, n=5,153. Verdicts from the sealed 2026 test (n=1,28
 <h3 style="margin-top:14pt">What does nothing — tested with the same rigor</h3>
 <table class="avoid">
 <tr><th>Belief</th><th>What we found</th></tr>
-<tr><td>Links hurt deliverability/replies</td><td>No. Direction was positive (+4.9pp) both years; not solid enough to claim the reverse.</td></tr>
-<tr><td>Greet them by name</td><td>Nothing (−2.1pp, if anything negative). Two years.</td></tr>
-<tr><td>Mention their company</td><td>Exactly nothing (0.0pp). Name-dropping ≠ relevance.</td></tr>
+<tr><td>Links hurt deliverability/replies</td><td>No. Direction was positive both years (+4.9pp, then +1.5pp); never solid enough to claim the reverse.</td></tr>
+<tr><td>Greet them by name</td><td>Nothing either year (−2.1pp, then +2.1pp — noise around zero).</td></tr>
+<tr><td>Mention their company</td><td>Nothing (0.0pp, then −0.4pp). Name-dropping ≠ relevance.</td></tr>
 <tr><td>Cite researched facts about them</td><td>Nothing significant either year (+1.3, then +0.6).</td></tr>
 <tr><td>Make it read written-just-for-them</td><td>Nothing significant either year (+1.9, then +2.1).</td></tr>
 <tr><td>Nail one crisp, specific ask</td><td>Nothing (−0.0, then +0.9).</td></tr>
