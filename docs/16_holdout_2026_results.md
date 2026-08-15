@@ -47,8 +47,9 @@ after seeing outcomes.
 
 **Templating and why-now are real.** Both survived a year of data they could not have
 been fitted to, at effect sizes inside their predicted bands, on both outcomes, in most
-individual reps. Templated cold pitches: 1.8% reply vs 8.0% — and 0.0% interested vs
-5.6%. An explicit reason for writing now: 8.5% vs 4.1%.
+individual reps. Templated cold pitches: 1.8% reply vs 8.0% — and 0.9% interested vs
+5.6% (the 0.0% first written here came from the hand-only variant; corrected against the
+main spec). An explicit reason for writing now: 8.5% vs 4.1%.
 
 **The exploratory darling died exactly as the safeguards said it might.**
 `recipient_centricity` (+5.3pp in 2025, survived every within-2025 check, +9.4pp in the
