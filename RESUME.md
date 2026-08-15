@@ -13,27 +13,22 @@ from what an agent reported.
 
 ## The one-line state
 
-Stage 0 (tests, 43 passing) **done**. Stage 1 (type labels, 485/485) **done**. Frames
-rebuilt at G30/G21/G45 **done**. Defect 7 (§9.5) found and fixed **done**.
-**The §1b gate on `interested` FAILED at 83.3% — see `docs/11_intent_accuracy_gate.md`.
-That blocks Layer-2 use of `interested` and is the next thing to do.**
-No analysis has been run. No email has been judged. Zero results exist.
+Steps 1 and 2 of the study are **complete**. Tests 43 passing. Type labels 485/485.
+Frames rebuilt. Defect 7 fixed. **The §1b gate has been re-measured and PASSES at 92.8%**
+on a fresh seed — `interested` is cleared for use as a co-primary outcome.
+**No analysis has been run. No email has been judged. Zero results exist.**
+Next is the first real comparison (Layer 1, 2025 only) — free, no agents.
 
-## BLOCKER: the intent gate failed — read docs/11 before anything else
+## The intent gate — RESOLVED, do not re-open
 
-The whole 17-point gap is one bucket. All eight real intents agree at 96.2%; the
-`other_human` catch-all (39% of the sample) agrees at 62.9%. Fix that bucket and the
-gate reads 97.7%.
+Failed at 83.3%, diagnosed as one undefined bucket, fixed, re-measured at **92.8%** on a
+fresh seed (77771) excluding every reply used to write the rulings. Full account in
+`docs/11_intent_accuracy_gate.md`. Both the failure and the resolution are reported.
 
-The sequence in `docs/11_intent_accuracy_gate.md` is: **adjudicate the 116 disputed
-`other_human` replies first**, under a sharpened written definition, THEN re-label
-**the 4,030 `other_human` replies only — 51 Fable batches** (scope confirmed by the
-operator, see "Operator decisions" below), THEN re-measure on a **fresh seed**. Do not
-re-measure on seed 20260814 — that measures the tuning, not the classifier.
-
-Two things that must not happen: tuning pass A until it agrees with pass B (pass B has
-its own errors — it called a decline containing a question mark `asks_for_information`),
-and redefining `interested` to make the gate pass.
+What was done: five operator rulings appended to `rules/reply_classifier_protocol.md`;
+677 study-linked `other_human` replies relabelled on Sonnet; a 240-reply reverse check
+(97.5% stayed interested vs 62.3% moving in — 25:1 asymmetry) confirming the correction is
+real and not model drift. `interested` 6.0% → 6.9%.
 
 ## Exactly where to pick up
 
@@ -48,18 +43,20 @@ ls output/type_labels | wc -l                        # must be 485
 Then check the numbers table above. All of stage 0/1 and the frame rebuild is done;
 labelling agents do **not** need re-running.
 
-### Step 1 — the blocker: fix `interested` (the only thing gating everything)
+### Step 1 — the next work, all free, no agents
 
-Per `docs/11_intent_accuracy_gate.md`, in this order:
-1. Adjudicate the 116 disputed `other_human` replies under a sharpened written definition.
-2. Append that definition to `rules/reply_classifier_protocol.md` — **append, never edit**.
-3. Relabel **the 4,030 `other_human` replies only** — 51 Fable batches, ~$85.
-4. Re-run `scripts/intent_accuracy.py` on a **fresh seed** (not 20260814).
-
-Fable, matching the instrument that produced the other labels (§8.3). Workflow scripts:
-`/Users/borja/.claude/projects/-Users-borja-builds-v2-email-replies-analysis/561529db-b3dc-45de-992e-44d0f2e3e129/workflows/scripts/`
-— both are **idempotent** (agents skip a batch whose output exists), so re-running a full
-list after an interruption is safe.
+1. **Finish the rubric.** `rules/judge_rubric.md` defines only what a 1 and a 5 look like
+   for each of the 12 dimensions. 2/3/4 are undefined. That is exactly the defect that made
+   the intent gate fail — an undefined boundary, not a weak model. Write the middle anchors
+   and **commit before any scoring**.
+2. **Layer 1 on 2025 ONLY.** `scripts/analyze_q1.py`. ~24 features × 2 outcomes × 4 types is
+   a lot of comparisons; apply the pre-registered BH correction and do not promote anything
+   post-hoc.
+3. **Placebo test** — shuffle outcomes within stratum, re-run. Must pass before any real
+   result is read.
+4. **Re-run Q2** — the committed curve used pre-§9.5 matching.
+5. **Write the 2025 findings down and COMMIT them** before touching 2026. The holdout is
+   worthless if the prediction is not timestamped first.
 
 ### Step 2 — then, in this order (no stage starts before the previous asserts pass)
 
@@ -97,8 +94,9 @@ Current, after all corrections (§9.1–9.5). Any deviation means something regr
 | reply category labels | 16,695 / 16,695 — complete, validated 99.0%, do not redo |
 | type labels | **38,793 across 485/485 batches** — complete |
 | frame rows G30 / G21 / G45 | **12,077 / 12,558 / 11,566** |
-| G30 replied / interested | **10.8% / 6.0%** |
-| G30 cold_pitch replied / interested | **6.8% / 4.4%** (n=6,439) |
+| G30 replied / interested | **10.8% / 6.9%** |
+| G30 cold_pitch replied / interested | **6.8% / 4.6%** (n=6,439) |
+| §1b gate, re-measured, fresh seed | **92.8% — PASS** |
 | reply-like exclusion (G30) | 3,509 |
 | unlabelled candidate replies | **0** |
 
