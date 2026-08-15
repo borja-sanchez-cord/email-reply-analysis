@@ -1,6 +1,8 @@
 [
  {
   "feature":"asks a question",
+  "family":"counted",
+  "reliability":"",
   "n_with":4866,
   "rate_with":6.7,
   "n_without":287,
@@ -11,8 +13,9 @@
   "fe_gap_pp":-4.5,
   "fe_se_pp":2.3,
   "fe_p":0.0477,
-  "reps_same_direction":1,
+  "reps_positive":1,
   "reps_tested":3,
+  "reps_agreeing":2,
   "rep_detail":[
    [
     "james.golby",
@@ -38,6 +41,8 @@
  },
  {
   "feature":"asks 2+ questions",
+  "family":"counted",
+  "reliability":"",
   "n_with":847,
   "rate_with":5.2,
   "n_without":4306,
@@ -48,8 +53,9 @@
   "fe_gap_pp":-2.5,
   "fe_se_pp":0.9,
   "fe_p":0.0052,
-  "reps_same_direction":3,
+  "reps_positive":3,
   "reps_tested":8,
+  "reps_agreeing":5,
   "rep_detail":[
    [
     "james.golby",
@@ -105,6 +111,8 @@
  },
  {
   "feature":"short (<=100 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":1368,
   "rate_with":10.3,
   "n_without":3785,
@@ -115,8 +123,9 @@
   "fe_gap_pp":4.5,
   "fe_se_pp":1.4,
   "fe_p":0.001,
-  "reps_same_direction":9,
+  "reps_positive":9,
   "reps_tested":11,
+  "reps_agreeing":9,
   "rep_detail":[
    [
     "charlotte",
@@ -190,6 +199,8 @@
  },
  {
   "feature":"very short (<=60 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":228,
   "rate_with":9.6,
   "n_without":4925,
@@ -200,8 +211,9 @@
   "fe_gap_pp":3.4,
   "fe_se_pp":2.1,
   "fe_p":0.1133,
-  "reps_same_direction":1,
+  "reps_positive":1,
   "reps_tested":3,
+  "reps_agreeing":1,
   "rep_detail":[
    [
     "james.sweeney",
@@ -227,6 +239,8 @@
  },
  {
   "feature":"long (>150 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":572,
   "rate_with":6.6,
   "n_without":4581,
@@ -237,8 +251,9 @@
   "fe_gap_pp":-0.4,
   "fe_se_pp":1.5,
   "fe_p":0.7698,
-  "reps_same_direction":4,
+  "reps_positive":4,
   "reps_tested":8,
+  "reps_agreeing":4,
   "rep_detail":[
    [
     "charlotte",
@@ -294,6 +309,8 @@
  },
  {
   "feature":"few sentences (<=8)",
+  "family":"counted",
+  "reliability":"",
   "n_with":4887,
   "rate_with":6.9,
   "n_without":266,
@@ -304,8 +321,9 @@
   "fe_gap_pp":0.0,
   "fe_se_pp":2.2,
   "fe_p":0.9915,
-  "reps_same_direction":3,
+  "reps_positive":3,
   "reps_tested":5,
+  "reps_agreeing":3,
   "rep_detail":[
    [
     "james.golby",
@@ -343,6 +361,8 @@
  },
  {
   "feature":"few paragraphs (<=4)",
+  "family":"counted",
+  "reliability":"",
   "n_with":4377,
   "rate_with":6.9,
   "n_without":776,
@@ -353,8 +373,9 @@
   "fe_gap_pp":-0.9,
   "fe_se_pp":1.0,
   "fe_p":0.4044,
-  "reps_same_direction":4,
+  "reps_positive":4,
   "reps_tested":6,
+  "reps_agreeing":2,
   "rep_detail":[
    [
     "james.golby",
@@ -398,6 +419,8 @@
  },
  {
   "feature":"short first question (<=12 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":1584,
   "rate_with":8.2,
   "n_without":3569,
@@ -408,8 +431,9 @@
   "fe_gap_pp":0.5,
   "fe_se_pp":1.5,
   "fe_p":0.7322,
-  "reps_same_direction":6,
+  "reps_positive":6,
   "reps_tested":11,
+  "reps_agreeing":6,
   "rep_detail":[
    [
     "charlotte",
@@ -483,6 +507,8 @@
  },
  {
   "feature":"has a link",
+  "family":"counted",
+  "reliability":"",
   "n_with":358,
   "rate_with":12.6,
   "n_without":4795,
@@ -493,8 +519,9 @@
   "fe_gap_pp":4.9,
   "fe_se_pp":2.3,
   "fe_p":0.0367,
-  "reps_same_direction":5,
+  "reps_positive":5,
   "reps_tested":6,
+  "reps_agreeing":5,
   "rep_detail":[
    [
     "charlotte",
@@ -538,6 +565,8 @@
  },
  {
   "feature":"has 2+ links",
+  "family":"counted",
+  "reliability":"",
   "n_with":178,
   "rate_with":15.7,
   "n_without":4975,
@@ -548,8 +577,9 @@
   "fe_gap_pp":5.6,
   "fe_se_pp":4.1,
   "fe_p":0.1731,
-  "reps_same_direction":3,
+  "reps_positive":3,
   "reps_tested":4,
+  "reps_agreeing":3,
   "rep_detail":[
    [
     "kamil",
@@ -581,6 +611,8 @@
  },
  {
   "feature":"has bullets",
+  "family":"counted",
+  "reliability":"",
   "n_with":205,
   "rate_with":11.2,
   "n_without":4948,
@@ -591,8 +623,9 @@
   "fe_gap_pp":4.5,
   "fe_se_pp":5.2,
   "fe_p":0.3929,
-  "reps_same_direction":1,
+  "reps_positive":1,
   "reps_tested":2,
+  "reps_agreeing":1,
   "rep_detail":[
    [
     "jamie",
@@ -612,6 +645,8 @@
  },
  {
   "feature":"has bold text",
+  "family":"counted",
+  "reliability":"",
   "n_with":567,
   "rate_with":4.1,
   "n_without":4586,
@@ -622,8 +657,9 @@
   "fe_gap_pp":-4.3,
   "fe_se_pp":0.8,
   "fe_p":0.0,
-  "reps_same_direction":0,
+  "reps_positive":0,
   "reps_tested":3,
+  "reps_agreeing":3,
   "rep_detail":[
    [
     "charlotte",
@@ -649,6 +685,8 @@
  },
  {
   "feature":"has an image",
+  "family":"counted",
+  "reliability":"",
   "n_with":93,
   "rate_with":9.7,
   "n_without":5060,
@@ -659,8 +697,9 @@
   "fe_gap_pp":0.4,
   "fe_se_pp":4.5,
   "fe_p":0.9331,
-  "reps_same_direction":0,
+  "reps_positive":0,
   "reps_tested":0,
+  "reps_agreeing":0,
   "rep_detail":[
 
   ],
@@ -669,6 +708,8 @@
  },
  {
   "feature":"short subject (<=4 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":1759,
   "rate_with":6.7,
   "n_without":3394,
@@ -679,8 +720,9 @@
   "fe_gap_pp":0.7,
   "fe_se_pp":1.4,
   "fe_p":0.6132,
-  "reps_same_direction":3,
+  "reps_positive":3,
   "reps_tested":6,
+  "reps_agreeing":3,
   "rep_detail":[
    [
     "james.golby",
@@ -724,6 +766,8 @@
  },
  {
   "feature":"subject is a question",
+  "family":"counted",
+  "reliability":"",
   "n_with":998,
   "rate_with":10.5,
   "n_without":4155,
@@ -734,8 +778,9 @@
   "fe_gap_pp":4.5,
   "fe_se_pp":1.6,
   "fe_p":0.0053,
-  "reps_same_direction":7,
+  "reps_positive":7,
   "reps_tested":9,
+  "reps_agreeing":7,
   "rep_detail":[
    [
     "charlotte",
@@ -797,6 +842,8 @@
  },
  {
   "feature":"subject has their name",
+  "family":"counted",
+  "reliability":"",
   "n_with":328,
   "rate_with":6.1,
   "n_without":4825,
@@ -807,8 +854,9 @@
   "fe_gap_pp":-1.1,
   "fe_se_pp":1.1,
   "fe_p":0.3142,
-  "reps_same_direction":1,
+  "reps_positive":1,
   "reps_tested":3,
+  "reps_agreeing":2,
   "rep_detail":[
    [
     "james.sweeney",
@@ -834,6 +882,8 @@
  },
  {
   "feature":"subject has their company",
+  "family":"counted",
+  "reliability":"",
   "n_with":648,
   "rate_with":10.2,
   "n_without":4505,
@@ -844,8 +894,9 @@
   "fe_gap_pp":2.7,
   "fe_se_pp":1.2,
   "fe_p":0.0271,
-  "reps_same_direction":4,
+  "reps_positive":4,
   "reps_tested":7,
+  "reps_agreeing":4,
   "rep_detail":[
    [
     "charlotte",
@@ -895,6 +946,8 @@
  },
  {
   "feature":"greets them by name",
+  "family":"counted",
+  "reliability":"",
   "n_with":4441,
   "rate_with":6.5,
   "n_without":712,
@@ -905,8 +958,9 @@
   "fe_gap_pp":-2.1,
   "fe_se_pp":1.5,
   "fe_p":0.1572,
-  "reps_same_direction":4,
+  "reps_positive":4,
   "reps_tested":11,
+  "reps_agreeing":7,
   "rep_detail":[
    [
     "charlotte",
@@ -980,6 +1034,8 @@
  },
  {
   "feature":"uses their name again in the body",
+  "family":"counted",
+  "reliability":"",
   "n_with":395,
   "rate_with":2.0,
   "n_without":4758,
@@ -990,8 +1046,9 @@
   "fe_gap_pp":-5.4,
   "fe_se_pp":1.4,
   "fe_p":0.0001,
-  "reps_same_direction":0,
+  "reps_positive":0,
   "reps_tested":4,
+  "reps_agreeing":4,
   "rep_detail":[
    [
     "james.sweeney",
@@ -1023,6 +1080,8 @@
  },
  {
   "feature":"mentions their company",
+  "family":"counted",
+  "reliability":"",
   "n_with":2456,
   "rate_with":6.4,
   "n_without":2697,
@@ -1033,8 +1092,9 @@
   "fe_gap_pp":0.0,
   "fe_se_pp":0.5,
   "fe_p":0.9392,
-  "reps_same_direction":4,
+  "reps_positive":4,
   "reps_tested":13,
+  "reps_agreeing":9,
   "rep_detail":[
    [
     "charlotte",
@@ -1120,6 +1180,8 @@
  },
  {
   "feature":"mentions their role\/work",
+  "family":"counted",
+  "reliability":"",
   "n_with":559,
   "rate_with":7.0,
   "n_without":4594,
@@ -1130,8 +1192,9 @@
   "fe_gap_pp":0.2,
   "fe_se_pp":0.8,
   "fe_p":0.8305,
-  "reps_same_direction":5,
+  "reps_positive":5,
   "reps_tested":9,
+  "reps_agreeing":5,
   "rep_detail":[
    [
     "charlotte",
@@ -1193,6 +1256,8 @@
  },
  {
   "feature":"templated (3+ identical bodies)",
+  "family":"counted",
+  "reliability":"",
   "n_with":2767,
   "rate_with":4.8,
   "n_without":2386,
@@ -1203,8 +1268,9 @@
   "fe_gap_pp":-5.4,
   "fe_se_pp":1.2,
   "fe_p":0.0,
-  "reps_same_direction":2,
+  "reps_positive":2,
   "reps_tested":12,
+  "reps_agreeing":10,
   "rep_detail":[
    [
     "charlotte",
@@ -1284,6 +1350,8 @@
  },
  {
   "feature":"informal greeting (hey)",
+  "family":"counted",
+  "reliability":"",
   "n_with":661,
   "rate_with":7.0,
   "n_without":4492,
@@ -1294,8 +1362,9 @@
   "fe_gap_pp":-2.4,
   "fe_se_pp":2.0,
   "fe_p":0.2349,
-  "reps_same_direction":0,
+  "reps_positive":0,
   "reps_tested":2,
+  "reps_agreeing":2,
   "rep_detail":[
    [
     "james.sweeney",
@@ -1315,6 +1384,8 @@
  },
  {
   "feature":"no greeting",
+  "family":"counted",
+  "reliability":"",
   "n_with":72,
   "rate_with":4.2,
   "n_without":5081,
@@ -1325,8 +1396,9 @@
   "fe_gap_pp":-3.9,
   "fe_se_pp":1.8,
   "fe_p":0.0288,
-  "reps_same_direction":1,
+  "reps_positive":1,
   "reps_tested":2,
+  "reps_agreeing":1,
   "rep_detail":[
    [
     "tim",
@@ -1343,5 +1415,1013 @@
   ],
   "bh_q":0.0864,
   "bh_sig":false
+ },
+ {
+  "feature":"judged: research_signal (top 2 of 5)",
+  "family":"primary",
+  "reliability":"solid",
+  "n_with":2412,
+  "rate_with":7.8,
+  "n_without":2741,
+  "rate_without":6.2,
+  "gap_pp":1.6,
+  "gap_lo":0.2,
+  "gap_hi":3.0,
+  "fe_gap_pp":1.3,
+  "fe_se_pp":1.3,
+  "fe_p":0.3446,
+  "reps_positive":5,
+  "reps_tested":12,
+  "reps_agreeing":5,
+  "rep_detail":[
+   [
+    "charlotte",
+    244,
+    285,
+    3.1
+   ],
+   [
+    "james.golby",
+    239,
+    102,
+    -3.7
+   ],
+   [
+    "james.sweeney",
+    236,
+    469,
+    3.1
+   ],
+   [
+    "jamie",
+    30,
+    84,
+    -2.9
+   ],
+   [
+    "kamil",
+    26,
+    75,
+    8.3
+   ],
+   [
+    "kyle",
+    23,
+    182,
+    10.8
+   ],
+   [
+    "laura.zhu",
+    158,
+    141,
+    -0.8
+   ],
+   [
+    "moritz",
+    52,
+    27,
+    -9.0
+   ],
+   [
+    "payom",
+    27,
+    48,
+    -2.5
+   ],
+   [
+    "shreya",
+    165,
+    367,
+    -0.2
+   ],
+   [
+    "skander",
+    650,
+    251,
+    -3.8
+   ],
+   [
+    "winnie",
+    479,
+    307,
+    5.5
+   ]
+  ],
+  "bh_q":0.4595,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: value_specificity (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":1712,
+  "rate_with":5.0,
+  "n_without":3441,
+  "rate_without":7.8,
+  "gap_pp":-2.8,
+  "gap_lo":-4.2,
+  "gap_hi":-1.4,
+  "fe_gap_pp":-3.6,
+  "fe_se_pp":1.5,
+  "fe_p":0.0135,
+  "reps_positive":1,
+  "reps_tested":9,
+  "reps_agreeing":8,
+  "rep_detail":[
+   [
+    "charlotte",
+    177,
+    352,
+    -1.2
+   ],
+   [
+    "james.golby",
+    243,
+    98,
+    -8.3
+   ],
+   [
+    "james.sweeney",
+    318,
+    387,
+    -6.9
+   ],
+   [
+    "jamie",
+    62,
+    52,
+    -5.1
+   ],
+   [
+    "laura.zhu",
+    66,
+    233,
+    -2.8
+   ],
+   [
+    "shreya",
+    91,
+    441,
+    -4.5
+   ],
+   [
+    "skander",
+    226,
+    675,
+    -5.4
+   ],
+   [
+    "tim",
+    42,
+    56,
+    -1.8
+   ],
+   [
+    "winnie",
+    405,
+    381,
+    2.1
+   ]
+  ],
+  "bh_q":0.027,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: pain_hypothesis (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":1364,
+  "rate_with":5.6,
+  "n_without":3789,
+  "rate_without":7.4,
+  "gap_pp":-1.7,
+  "gap_lo":-3.1,
+  "gap_hi":-0.2,
+  "fe_gap_pp":-1.9,
+  "fe_se_pp":0.8,
+  "fe_p":0.0258,
+  "reps_positive":1,
+  "reps_tested":7,
+  "reps_agreeing":6,
+  "rep_detail":[
+   [
+    "charlotte",
+    167,
+    362,
+    -0.7
+   ],
+   [
+    "james.golby",
+    159,
+    182,
+    -5.2
+   ],
+   [
+    "james.sweeney",
+    269,
+    436,
+    -5.1
+   ],
+   [
+    "laura.zhu",
+    93,
+    206,
+    1.2
+   ],
+   [
+    "shreya",
+    97,
+    435,
+    -3.3
+   ],
+   [
+    "skander",
+    156,
+    745,
+    -0.9
+   ],
+   [
+    "winnie",
+    328,
+    458,
+    -1.0
+   ]
+  ],
+  "bh_q":0.0413,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: ask_clarity (top 2 of 5)",
+  "family":"primary",
+  "reliability":"moderate",
+  "n_with":3928,
+  "rate_with":6.7,
+  "n_without":1225,
+  "rate_without":7.4,
+  "gap_pp":-0.7,
+  "gap_lo":-2.5,
+  "gap_hi":0.9,
+  "fe_gap_pp":0.0,
+  "fe_se_pp":1.6,
+  "fe_p":0.9947,
+  "reps_positive":7,
+  "reps_tested":13,
+  "reps_agreeing":6,
+  "rep_detail":[
+   [
+    "charlotte",
+    481,
+    48,
+    1.2
+   ],
+   [
+    "james.golby",
+    284,
+    57,
+    2.1
+   ],
+   [
+    "james.sweeney",
+    251,
+    454,
+    4.9
+   ],
+   [
+    "kamil",
+    48,
+    53,
+    0.1
+   ],
+   [
+    "kyle",
+    174,
+    31,
+    0.2
+   ],
+   [
+    "laura.zhu",
+    240,
+    59,
+    -4.3
+   ],
+   [
+    "moritz",
+    41,
+    38,
+    1.9
+   ],
+   [
+    "payom",
+    41,
+    34,
+    -6.4
+   ],
+   [
+    "shreya",
+    455,
+    77,
+    2.9
+   ],
+   [
+    "skander",
+    829,
+    72,
+    -8.9
+   ],
+   [
+    "tim",
+    49,
+    49,
+    0.0
+   ],
+   [
+    "winnie",
+    670,
+    116,
+    -2.9
+   ],
+   [
+    "yianni",
+    134,
+    29,
+    -1.2
+   ]
+  ],
+  "bh_q":0.9947,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: bespokeness (top 2 of 5)",
+  "family":"primary",
+  "reliability":"moderate",
+  "n_with":1658,
+  "rate_with":8.4,
+  "n_without":3495,
+  "rate_without":6.2,
+  "gap_pp":2.2,
+  "gap_lo":0.7,
+  "gap_hi":3.8,
+  "fe_gap_pp":1.9,
+  "fe_se_pp":1.3,
+  "fe_p":0.1429,
+  "reps_positive":5,
+  "reps_tested":9,
+  "reps_agreeing":5,
+  "rep_detail":[
+   [
+    "charlotte",
+    158,
+    371,
+    4.2
+   ],
+   [
+    "james.golby",
+    142,
+    199,
+    1.8
+   ],
+   [
+    "james.sweeney",
+    181,
+    524,
+    2.2
+   ],
+   [
+    "kamil",
+    20,
+    81,
+    11.5
+   ],
+   [
+    "laura.zhu",
+    131,
+    168,
+    -1.0
+   ],
+   [
+    "moritz",
+    37,
+    42,
+    -6.5
+   ],
+   [
+    "shreya",
+    123,
+    409,
+    -0.7
+   ],
+   [
+    "skander",
+    402,
+    499,
+    -2.2
+   ],
+   [
+    "winnie",
+    347,
+    439,
+    6.0
+   ]
+  ],
+  "bh_q":0.2858,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: polish (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"moderate",
+  "n_with":3960,
+  "rate_with":7.1,
+  "n_without":1193,
+  "rate_without":6.1,
+  "gap_pp":1.0,
+  "gap_lo":-0.7,
+  "gap_hi":2.5,
+  "fe_gap_pp":1.5,
+  "fe_se_pp":1.0,
+  "fe_p":0.1376,
+  "reps_positive":8,
+  "reps_tested":12,
+  "reps_agreeing":8,
+  "rep_detail":[
+   [
+    "charlotte",
+    394,
+    135,
+    4.1
+   ],
+   [
+    "james.golby",
+    269,
+    72,
+    -0.4
+   ],
+   [
+    "james.sweeney",
+    524,
+    181,
+    -2.9
+   ],
+   [
+    "kamil",
+    74,
+    27,
+    -12.1
+   ],
+   [
+    "kyle",
+    144,
+    61,
+    2.5
+   ],
+   [
+    "laura.zhu",
+    263,
+    36,
+    4.4
+   ],
+   [
+    "sara",
+    52,
+    40,
+    -0.4
+   ],
+   [
+    "shreya",
+    462,
+    70,
+    2.7
+   ],
+   [
+    "skander",
+    597,
+    304,
+    2.8
+   ],
+   [
+    "tim",
+    66,
+    32,
+    7.5
+   ],
+   [
+    "winnie",
+    648,
+    138,
+    4.3
+   ],
+   [
+    "yianni",
+    123,
+    40,
+    3.3
+   ]
+  ],
+  "bh_q":0.1835,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: economy (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"UNRELIABLE",
+  "n_with":4505,
+  "rate_with":6.9,
+  "n_without":648,
+  "rate_without":6.9,
+  "gap_pp":0.0,
+  "gap_lo":-2.4,
+  "gap_hi":1.8,
+  "fe_gap_pp":0.2,
+  "fe_se_pp":0.9,
+  "fe_p":0.8347,
+  "reps_positive":5,
+  "reps_tested":10,
+  "reps_agreeing":5,
+  "rep_detail":[
+   [
+    "charlotte",
+    479,
+    50,
+    -3.0
+   ],
+   [
+    "james.golby",
+    240,
+    101,
+    3.3
+   ],
+   [
+    "james.sweeney",
+    685,
+    20,
+    -2.8
+   ],
+   [
+    "jamie",
+    43,
+    71,
+    -2.9
+   ],
+   [
+    "laura.zhu",
+    237,
+    62,
+    0.3
+   ],
+   [
+    "payom",
+    41,
+    34,
+    9.8
+   ],
+   [
+    "skander",
+    809,
+    92,
+    2.1
+   ],
+   [
+    "tim",
+    65,
+    33,
+    -1.4
+   ],
+   [
+    "winnie",
+    666,
+    120,
+    -0.5
+   ],
+   [
+    "yianni",
+    130,
+    33,
+    3.1
+   ]
+  ],
+  "bh_q":0.8347,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: peer_tone (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"UNRELIABLE",
+  "n_with":3407,
+  "rate_with":6.4,
+  "n_without":1746,
+  "rate_without":7.9,
+  "gap_pp":-1.5,
+  "gap_lo":-3.1,
+  "gap_hi":0.0,
+  "fe_gap_pp":-0.8,
+  "fe_se_pp":1.2,
+  "fe_p":0.4893,
+  "reps_positive":7,
+  "reps_tested":14,
+  "reps_agreeing":7,
+  "rep_detail":[
+   [
+    "charlotte",
+    368,
+    161,
+    -4.0
+   ],
+   [
+    "james.golby",
+    184,
+    157,
+    3.9
+   ],
+   [
+    "james.sweeney",
+    481,
+    224,
+    4.1
+   ],
+   [
+    "jamie",
+    35,
+    79,
+    3.8
+   ],
+   [
+    "kamil",
+    51,
+    50,
+    1.6
+   ],
+   [
+    "laura.zhu",
+    146,
+    153,
+    -7.7
+   ],
+   [
+    "moritz",
+    42,
+    37,
+    -3.7
+   ],
+   [
+    "payom",
+    29,
+    46,
+    2.5
+   ],
+   [
+    "sara",
+    35,
+    57,
+    -2.0
+   ],
+   [
+    "shreya",
+    468,
+    64,
+    -1.1
+   ],
+   [
+    "skander",
+    592,
+    309,
+    -2.4
+   ],
+   [
+    "tim",
+    22,
+    76,
+    -10.5
+   ],
+   [
+    "winnie",
+    577,
+    209,
+    1.0
+   ],
+   [
+    "yianni",
+    118,
+    45,
+    0.3
+   ]
+  ],
+  "bh_q":0.5592,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: recipient_centricity (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"moderate",
+  "n_with":388,
+  "rate_with":11.9,
+  "n_without":4765,
+  "rate_without":6.5,
+  "gap_pp":5.3,
+  "gap_lo":2.4,
+  "gap_hi":9.0,
+  "fe_gap_pp":5.3,
+  "fe_se_pp":1.3,
+  "fe_p":0.0001,
+  "reps_positive":7,
+  "reps_tested":7,
+  "reps_agreeing":7,
+  "rep_detail":[
+   [
+    "charlotte",
+    46,
+    483,
+    1.3
+   ],
+   [
+    "james.golby",
+    23,
+    318,
+    3.7
+   ],
+   [
+    "james.sweeney",
+    37,
+    668,
+    12.3
+   ],
+   [
+    "laura.zhu",
+    29,
+    270,
+    4.0
+   ],
+   [
+    "shreya",
+    46,
+    486,
+    0.6
+   ],
+   [
+    "skander",
+    60,
+    841,
+    7.0
+   ],
+   [
+    "winnie",
+    101,
+    685,
+    4.6
+   ]
+  ],
+  "bh_q":0.0008,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: states a reason for reaching out now",
+  "family":"primary",
+  "reliability":"solid",
+  "n_with":3667,
+  "rate_with":7.9,
+  "n_without":1486,
+  "rate_without":4.6,
+  "gap_pp":3.3,
+  "gap_lo":1.8,
+  "gap_hi":4.6,
+  "fe_gap_pp":4.6,
+  "fe_se_pp":0.8,
+  "fe_p":0.0,
+  "reps_positive":10,
+  "reps_tested":11,
+  "reps_agreeing":10,
+  "rep_detail":[
+   [
+    "charlotte",
+    371,
+    158,
+    3.0
+   ],
+   [
+    "james.golby",
+    311,
+    30,
+    2.1
+   ],
+   [
+    "james.sweeney",
+    511,
+    194,
+    5.0
+   ],
+   [
+    "jamie",
+    38,
+    76,
+    2.6
+   ],
+   [
+    "laura.zhu",
+    175,
+    124,
+    0.4
+   ],
+   [
+    "moritz",
+    54,
+    25,
+    -10.4
+   ],
+   [
+    "payom",
+    35,
+    40,
+    6.1
+   ],
+   [
+    "shreya",
+    492,
+    40,
+    1.4
+   ],
+   [
+    "skander",
+    504,
+    397,
+    6.5
+   ],
+   [
+    "tim",
+    45,
+    53,
+    9.6
+   ],
+   [
+    "winnie",
+    540,
+    246,
+    5.6
+   ]
+  ],
+  "bh_q":0.0,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: names any customer\/social proof",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":4145,
+  "rate_with":6.2,
+  "n_without":1008,
+  "rate_without":9.7,
+  "gap_pp":-3.5,
+  "gap_lo":-5.6,
+  "gap_hi":-1.6,
+  "fe_gap_pp":-6.1,
+  "fe_se_pp":2.2,
+  "fe_p":0.0049,
+  "reps_positive":3,
+  "reps_tested":9,
+  "reps_agreeing":6,
+  "rep_detail":[
+   [
+    "charlotte",
+    456,
+    73,
+    -8.2
+   ],
+   [
+    "james.sweeney",
+    614,
+    91,
+    -10.6
+   ],
+   [
+    "kyle",
+    22,
+    183,
+    1.3
+   ],
+   [
+    "laura.zhu",
+    224,
+    75,
+    -3.5
+   ],
+   [
+    "payom",
+    43,
+    32,
+    -7.0
+   ],
+   [
+    "sara",
+    30,
+    62,
+    0.3
+   ],
+   [
+    "shreya",
+    439,
+    93,
+    1.9
+   ],
+   [
+    "skander",
+    832,
+    69,
+    -17.5
+   ],
+   [
+    "tim",
+    68,
+    30,
+    -7.5
+   ]
+  ],
+  "bh_q":0.0131,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: proof matches their industry",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":3110,
+  "rate_with":6.3,
+  "n_without":2043,
+  "rate_without":7.8,
+  "gap_pp":-1.5,
+  "gap_lo":-3.0,
+  "gap_hi":-0.1,
+  "fe_gap_pp":-2.8,
+  "fe_se_pp":0.9,
+  "fe_p":0.0023,
+  "reps_positive":4,
+  "reps_tested":11,
+  "reps_agreeing":7,
+  "rep_detail":[
+   [
+    "charlotte",
+    348,
+    181,
+    -4.6
+   ],
+   [
+    "james.golby",
+    292,
+    49,
+    -10.5
+   ],
+   [
+    "james.sweeney",
+    434,
+    271,
+    -2.6
+   ],
+   [
+    "jamie",
+    62,
+    52,
+    5.5
+   ],
+   [
+    "laura.zhu",
+    191,
+    108,
+    -2.6
+   ],
+   [
+    "moritz",
+    38,
+    41,
+    8.3
+   ],
+   [
+    "sara",
+    30,
+    62,
+    0.3
+   ],
+   [
+    "shreya",
+    190,
+    342,
+    1.5
+   ],
+   [
+    "skander",
+    678,
+    223,
+    -4.9
+   ],
+   [
+    "tim",
+    40,
+    58,
+    -5.3
+   ],
+   [
+    "winnie",
+    693,
+    93,
+    -2.0
+   ]
+  ],
+  "bh_q":0.0092,
+  "bh_sig":true
  }
 ]

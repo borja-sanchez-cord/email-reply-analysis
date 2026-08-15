@@ -72,6 +72,28 @@ BINARY_FEATURES = [
 JUDGE_TOPBOX = ["research_signal", "value_specificity", "pain_hypothesis", "ask_clarity",
                 "bespokeness", "polish", "economy", "peer_tone", "recipient_centricity"]
 
+# §2 fixes THREE separate Benjamini-Hochberg families. Pooling them would be a different
+# (and more permissive) test than the one pre-registered:
+#   counted    - the Layer-1 countable features
+#   primary    - the 4 judged dimensions named in advance
+#   exploratory- the remaining 8, never stated as a rule regardless of significance
+PRIMARY_DIMS = {"research_signal", "why_now", "ask_clarity", "bespokeness"}
+
+# Repeatability from scripts/judge_agreement.py (top-2-box Cohen's kappa, n=1,246
+# same-model and n=1,000 cross-model). judge_rubric.md requires poorly repeatable
+# dimensions to be flagged and any conclusion built on them downgraded.
+KAPPA = {"research_signal": 0.749, "why_now": 0.716, "pain_hypothesis": 0.694,
+         "value_specificity": 0.665, "proof_relevance": 0.650, "bespokeness": 0.564,
+         "recipient_centricity": 0.435, "polish": 0.428, "ask_clarity": 0.421,
+         "peer_tone": 0.320, "economy": 0.220}
+
+
+def reliability(dim):
+    k = KAPPA.get(dim)
+    if k is None:
+        return ""
+    return "UNRELIABLE" if k < 0.4 else ("moderate" if k < 0.6 else "solid")
+
 BUCKETS = {
     "word count": ("n_words", [0, 50, 100, 150, 250, 10 ** 9],
                    ["<50", "50-99", "100-149", "150-249", "250+"]),
@@ -130,7 +152,13 @@ def bh(pvals):
 
 
 def within_rep(df, mask, outcome):
-    """Direction of the effect inside each rep who sent both kinds."""
+    """Direction of the effect inside each rep who sent both kinds.
+
+    Returns the count of reps with a POSITIVE gap. Callers must compare that against
+    the sign of the effect: for a negative effect, 1-of-9-positive means 8 of 9 reps
+    agree with it. Reported as `reps_agreeing` below so the table cannot be misread as
+    "only 1 of 9 reps supports this".
+    """
     agree = total = 0
     details = []
     for rep, g in df.groupby("sender_local"):
@@ -148,27 +176,30 @@ def within_rep(df, mask, outcome):
 
 def analyse(df, outcome, judge_cols):
     rows = []
-    features = list(BINARY_FEATURES)
+    features = [(n, f, "counted", None) for n, f in BINARY_FEATURES]
     for c in judge_cols:
-        features.append((f"judged: {c} (top 2 of 5)", lambda d, c=c: d[c] >= 4))
+        fam = "primary" if c in PRIMARY_DIMS else "exploratory"
+        features.append((f"judged: {c} (top 2 of 5)", lambda d, c=c: d[c] >= 4, fam, c))
     if "why_now" in df.columns:
         features.append(("judged: states a reason for reaching out now",
-                         lambda d: d["why_now"] == True))
+                         lambda d: d["why_now"] == True, "primary", "why_now"))
     if "proof_relevance" in df.columns:
         features.append(("judged: names any customer/social proof",
-                         lambda d: d["proof_relevance"] >= 1))
+                         lambda d: d["proof_relevance"] >= 1, "exploratory",
+                         "proof_relevance"))
         features.append(("judged: proof matches their industry",
-                         lambda d: d["proof_relevance"] >= 4))
+                         lambda d: d["proof_relevance"] >= 4, "exploratory",
+                         "proof_relevance"))
 
-    for name, fn in features:
+    for name, fn, family, dim in features:
         try:
             mask = fn(df).fillna(False)
         except KeyError:
             continue
         a, b = df[mask], df[~mask]
         if min(len(a), len(b)) < MIN_CELL:
-            rows.append({"feature": name, "n_with": len(a), "n_without": len(b),
-                         "note": "too few to report"})
+            rows.append({"feature": name, "family": family, "n_with": len(a),
+                         "n_without": len(b), "note": "too few to report"})
             continue
         k1, n1 = int(a[outcome].sum()), len(a)
         k2, n2 = int(b[outcome].sum()), len(b)
@@ -176,7 +207,7 @@ def analyse(df, outcome, judge_cols):
         agree, total, details = within_rep(df, mask, outcome)
         fe_b, fe_se, fe_p = fe_estimate(df, mask, outcome)
         rows.append({
-            "feature": name,
+            "feature": name, "family": family, "reliability": reliability(dim),
             "n_with": n1, "rate_with": round(100 * k1 / n1, 1),
             "n_without": n2, "rate_without": round(100 * k2 / n2, 1),
             "gap_pp": round(100 * (k1 / n1 - k2 / n2), 1),
@@ -184,12 +215,17 @@ def analyse(df, outcome, judge_cols):
             "fe_gap_pp": round(100 * fe_b, 1) if not np.isnan(fe_b) else np.nan,
             "fe_se_pp": round(100 * fe_se, 1) if not np.isnan(fe_se) else np.nan,
             "fe_p": round(fe_p, 4) if not np.isnan(fe_p) else np.nan,
-            "reps_same_direction": agree, "reps_tested": total,
+            "reps_positive": agree, "reps_tested": total,
+            "reps_agreeing": (agree if (fe_b or 0) >= 0 else total - agree),
             "rep_detail": details,
         })
     res = pd.DataFrame(rows)
     if "fe_p" in res.columns:
-        res["bh_q"] = np.round(bh(res["fe_p"].values), 4)
+        # BH applied WITHIN each pre-registered family, never pooled across them (§2)
+        res["bh_q"] = np.nan
+        for fam in res["family"].dropna().unique():
+            m = res["family"] == fam
+            res.loc[m, "bh_q"] = np.round(bh(res.loc[m, "fe_p"].values), 4)
         res["bh_sig"] = res["bh_q"] < 0.05
     return res
 
@@ -247,18 +283,25 @@ def main():
     res = analyse(df, args.outcome, judge_cols)
     res_show = res[res["note"].isna()] if "note" in res.columns else res
     res_show = res_show.sort_values("gap_pp", ascending=False)
-    cols = ["feature", "n_with", "rate_with", "n_without", "rate_without",
-            "gap_pp", "gap_lo", "gap_hi", "fe_gap_pp", "fe_p", "bh_q", "bh_sig",
-            "reps_same_direction", "reps_tested"]
+    cols = ["feature", "family", "reliability", "n_with", "rate_with", "n_without",
+            "rate_without", "gap_pp", "gap_lo", "gap_hi", "fe_gap_pp", "fe_p", "bh_q",
+            "bh_sig", "reps_agreeing", "reps_tested"]
     cols = [c for c in cols if c in res_show.columns]
-    print(res_show[cols].to_string(index=False))
+    for fam in ("counted", "primary", "exploratory"):
+        sub = res_show[res_show["family"] == fam] if "family" in res_show else res_show
+        if not len(sub):
+            continue
+        print(f"\n--- {fam.upper()} family (BH applied within this family only) ---")
+        print(sub[cols].to_string(index=False))
     if "note" in res.columns and res["note"].notna().any():
         print("\nnot reported (too few):",
               ", ".join(res[res["note"].notna()]["feature"]))
     if "bh_sig" in res.columns:
-        n_sig = int(res["bh_sig"].fillna(False).sum())
-        print(f"\nBH-significant at q<0.05: {n_sig} of "
-              f"{int(res['fe_p'].notna().sum())} tested")
+        for fam in ("counted", "primary", "exploratory"):
+            m = res["family"] == fam
+            if m.any():
+                print(f"BH-significant [{fam}]: {int(res.loc[m, 'bh_sig'].fillna(False).sum())}"
+                      f" of {int(res.loc[m, 'fe_p'].notna().sum())}")
 
     tag = args.tag or f"{args.type}_{args.year}_{args.outcome}_G{args.G}"
     if args.ca:

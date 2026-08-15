@@ -1,6 +1,8 @@
 [
  {
   "feature":"asks a question",
+  "family":"counted",
+  "reliability":"",
   "n_with":2235,
   "rate_with":15.3,
   "n_without":944,
@@ -11,8 +13,9 @@
   "fe_gap_pp":-2.0,
   "fe_se_pp":3.5,
   "fe_p":0.5813,
-  "reps_same_direction":2.0,
+  "reps_positive":2.0,
   "reps_tested":6.0,
+  "reps_agreeing":4.0,
   "rep_detail":[
    [
     "charlotte",
@@ -57,6 +60,8 @@
  },
  {
   "feature":"asks 2+ questions",
+  "family":"counted",
+  "reliability":"",
   "n_with":259,
   "rate_with":18.5,
   "n_without":2920,
@@ -67,8 +72,9 @@
   "fe_gap_pp":2.4,
   "fe_se_pp":5.5,
   "fe_p":0.6657,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":2.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "jamie",
@@ -89,6 +95,8 @@
  },
  {
   "feature":"short (<=100 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":213,
   "rate_with":28.6,
   "n_without":2966,
@@ -99,8 +107,9 @@
   "fe_gap_pp":17.5,
   "fe_se_pp":6.7,
   "fe_p":0.0091,
-  "reps_same_direction":4.0,
+  "reps_positive":4.0,
   "reps_tested":5.0,
+  "reps_agreeing":4.0,
   "rep_detail":[
    [
     "jamie",
@@ -139,6 +148,8 @@
  },
  {
   "feature":"very short (<=60 words)",
+  "family":"counted",
+  "reliability":null,
   "n_with":16,
   "rate_with":null,
   "n_without":3163,
@@ -149,8 +160,9 @@
   "fe_gap_pp":null,
   "fe_se_pp":null,
   "fe_p":null,
-  "reps_same_direction":null,
+  "reps_positive":null,
   "reps_tested":null,
+  "reps_agreeing":null,
   "rep_detail":null,
   "note":"too few to report",
   "bh_q":null,
@@ -158,6 +170,8 @@
  },
  {
   "feature":"long (>150 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":1009,
   "rate_with":13.9,
   "n_without":2170,
@@ -168,8 +182,9 @@
   "fe_gap_pp":-2.7,
   "fe_se_pp":2.4,
   "fe_p":0.2626,
-  "reps_same_direction":4.0,
+  "reps_positive":4.0,
   "reps_tested":10.0,
+  "reps_agreeing":6.0,
   "rep_detail":[
    [
     "charlotte",
@@ -238,6 +253,8 @@
  },
  {
   "feature":"few sentences (<=8)",
+  "family":"counted",
+  "reliability":"",
   "n_with":2885,
   "rate_with":15.0,
   "n_without":294,
@@ -248,8 +265,9 @@
   "fe_gap_pp":2.4,
   "fe_se_pp":2.5,
   "fe_p":0.3507,
-  "reps_same_direction":3.0,
+  "reps_positive":3.0,
   "reps_tested":4.0,
+  "reps_agreeing":3.0,
   "rep_detail":[
    [
     "charlotte",
@@ -282,6 +300,8 @@
  },
  {
   "feature":"few paragraphs (<=4)",
+  "family":"counted",
+  "reliability":"",
   "n_with":2375,
   "rate_with":15.1,
   "n_without":804,
@@ -292,8 +312,9 @@
   "fe_gap_pp":0.4,
   "fe_se_pp":2.5,
   "fe_p":0.8712,
-  "reps_same_direction":4.0,
+  "reps_positive":4.0,
   "reps_tested":10.0,
+  "reps_agreeing":4.0,
   "rep_detail":[
    [
     "charlotte",
@@ -362,6 +383,8 @@
  },
  {
   "feature":"short first question (<=12 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":961,
   "rate_with":15.5,
   "n_without":2218,
@@ -372,8 +395,9 @@
   "fe_gap_pp":-1.4,
   "fe_se_pp":3.9,
   "fe_p":0.7166,
-  "reps_same_direction":3.0,
+  "reps_positive":3.0,
   "reps_tested":7.0,
+  "reps_agreeing":4.0,
   "rep_detail":[
    [
     "charlotte",
@@ -424,6 +448,8 @@
  },
  {
   "feature":"has a link",
+  "family":"counted",
+  "reliability":"",
   "n_with":302,
   "rate_with":13.2,
   "n_without":2877,
@@ -434,8 +460,9 @@
   "fe_gap_pp":-2.3,
   "fe_se_pp":4.8,
   "fe_p":0.6354,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":2.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "payom",
@@ -456,6 +483,8 @@
  },
  {
   "feature":"has 2+ links",
+  "family":"counted",
+  "reliability":"",
   "n_with":92,
   "rate_with":14.1,
   "n_without":3087,
@@ -466,8 +495,9 @@
   "fe_gap_pp":-5.6,
   "fe_se_pp":5.3,
   "fe_p":0.2981,
-  "reps_same_direction":0.0,
+  "reps_positive":0.0,
   "reps_tested":1.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "payom",
@@ -482,6 +512,8 @@
  },
  {
   "feature":"has bullets",
+  "family":"counted",
+  "reliability":"",
   "n_with":208,
   "rate_with":6.2,
   "n_without":2971,
@@ -492,8 +524,9 @@
   "fe_gap_pp":-9.6,
   "fe_se_pp":1.8,
   "fe_p":0.0,
-  "reps_same_direction":0.0,
+  "reps_positive":0.0,
   "reps_tested":4.0,
+  "reps_agreeing":4.0,
   "rep_detail":[
    [
     "charlotte",
@@ -526,6 +559,8 @@
  },
  {
   "feature":"has bold text",
+  "family":"counted",
+  "reliability":"",
   "n_with":345,
   "rate_with":15.7,
   "n_without":2834,
@@ -536,8 +571,9 @@
   "fe_gap_pp":1.8,
   "fe_se_pp":4.4,
   "fe_p":0.6799,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":3.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "charlotte",
@@ -564,6 +600,8 @@
  },
  {
   "feature":"has an image",
+  "family":"counted",
+  "reliability":null,
   "n_with":4,
   "rate_with":null,
   "n_without":3175,
@@ -574,8 +612,9 @@
   "fe_gap_pp":null,
   "fe_se_pp":null,
   "fe_p":null,
-  "reps_same_direction":null,
+  "reps_positive":null,
   "reps_tested":null,
+  "reps_agreeing":null,
   "rep_detail":null,
   "note":"too few to report",
   "bh_q":null,
@@ -583,6 +622,8 @@
  },
  {
   "feature":"short subject (<=4 words)",
+  "family":"counted",
+  "reliability":"",
   "n_with":225,
   "rate_with":15.6,
   "n_without":2954,
@@ -593,8 +634,9 @@
   "fe_gap_pp":4.0,
   "fe_se_pp":2.3,
   "fe_p":0.0795,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":2.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "nick.aguilar",
@@ -615,6 +657,8 @@
  },
  {
   "feature":"subject is a question",
+  "family":"counted",
+  "reliability":null,
   "n_with":13,
   "rate_with":null,
   "n_without":3166,
@@ -625,8 +669,9 @@
   "fe_gap_pp":null,
   "fe_se_pp":null,
   "fe_p":null,
-  "reps_same_direction":null,
+  "reps_positive":null,
   "reps_tested":null,
+  "reps_agreeing":null,
   "rep_detail":null,
   "note":"too few to report",
   "bh_q":null,
@@ -634,6 +679,8 @@
  },
  {
   "feature":"subject has their name",
+  "family":"counted",
+  "reliability":null,
   "n_with":10,
   "rate_with":null,
   "n_without":3169,
@@ -644,8 +691,9 @@
   "fe_gap_pp":null,
   "fe_se_pp":null,
   "fe_p":null,
-  "reps_same_direction":null,
+  "reps_positive":null,
   "reps_tested":null,
+  "reps_agreeing":null,
   "rep_detail":null,
   "note":"too few to report",
   "bh_q":null,
@@ -653,6 +701,8 @@
  },
  {
   "feature":"subject has their company",
+  "family":"counted",
+  "reliability":null,
   "n_with":13,
   "rate_with":null,
   "n_without":3166,
@@ -663,8 +713,9 @@
   "fe_gap_pp":null,
   "fe_se_pp":null,
   "fe_p":null,
-  "reps_same_direction":null,
+  "reps_positive":null,
   "reps_tested":null,
+  "reps_agreeing":null,
   "rep_detail":null,
   "note":"too few to report",
   "bh_q":null,
@@ -672,6 +723,8 @@
  },
  {
   "feature":"greets them by name",
+  "family":"counted",
+  "reliability":"",
   "n_with":2723,
   "rate_with":14.3,
   "n_without":456,
@@ -682,8 +735,9 @@
   "fe_gap_pp":-5.5,
   "fe_se_pp":4.9,
   "fe_p":0.2611,
-  "reps_same_direction":2.0,
+  "reps_positive":2.0,
   "reps_tested":4.0,
+  "reps_agreeing":2.0,
   "rep_detail":[
    [
     "charlotte",
@@ -716,6 +770,8 @@
  },
  {
   "feature":"uses their name again in the body",
+  "family":"counted",
+  "reliability":null,
   "n_with":19,
   "rate_with":null,
   "n_without":3160,
@@ -726,8 +782,9 @@
   "fe_gap_pp":null,
   "fe_se_pp":null,
   "fe_p":null,
-  "reps_same_direction":null,
+  "reps_positive":null,
   "reps_tested":null,
+  "reps_agreeing":null,
   "rep_detail":null,
   "note":"too few to report",
   "bh_q":null,
@@ -735,6 +792,8 @@
  },
  {
   "feature":"mentions their company",
+  "family":"counted",
+  "reliability":"",
   "n_with":641,
   "rate_with":15.9,
   "n_without":2538,
@@ -745,8 +804,9 @@
   "fe_gap_pp":3.3,
   "fe_se_pp":0.8,
   "fe_p":0.0,
-  "reps_same_direction":5.0,
+  "reps_positive":5.0,
   "reps_tested":7.0,
+  "reps_agreeing":5.0,
   "rep_detail":[
    [
     "charlotte",
@@ -797,6 +857,8 @@
  },
  {
   "feature":"mentions their role\/work",
+  "family":"counted",
+  "reliability":"",
   "n_with":391,
   "rate_with":11.0,
   "n_without":2788,
@@ -807,8 +869,9 @@
   "fe_gap_pp":-2.3,
   "fe_se_pp":2.9,
   "fe_p":0.4244,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":3.0,
+  "reps_agreeing":2.0,
   "rep_detail":[
    [
     "james.golby",
@@ -835,6 +898,8 @@
  },
  {
   "feature":"templated (3+ identical bodies)",
+  "family":"counted",
+  "reliability":"",
   "n_with":1395,
   "rate_with":10.5,
   "n_without":1784,
@@ -845,8 +910,9 @@
   "fe_gap_pp":-10.1,
   "fe_se_pp":3.3,
   "fe_p":0.0022,
-  "reps_same_direction":0.0,
+  "reps_positive":0.0,
   "reps_tested":8.0,
+  "reps_agreeing":8.0,
   "rep_detail":[
    [
     "charlotte",
@@ -903,6 +969,8 @@
  },
  {
   "feature":"informal greeting (hey)",
+  "family":"counted",
+  "reliability":"",
   "n_with":77,
   "rate_with":36.4,
   "n_without":3102,
@@ -913,8 +981,9 @@
   "fe_gap_pp":19.3,
   "fe_se_pp":6.9,
   "fe_p":0.0053,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":1.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "jamie",
@@ -929,6 +998,8 @@
  },
  {
   "feature":"no greeting",
+  "family":"counted",
+  "reliability":"",
   "n_with":72,
   "rate_with":34.7,
   "n_without":3107,
@@ -939,8 +1010,9 @@
   "fe_gap_pp":21.2,
   "fe_se_pp":7.7,
   "fe_p":0.0059,
-  "reps_same_direction":1.0,
+  "reps_positive":1.0,
   "reps_tested":1.0,
+  "reps_agreeing":1.0,
   "rep_detail":[
    [
     "charlotte",
@@ -952,5 +1024,586 @@
   "note":null,
   "bh_q":0.0212,
   "bh_sig":true
+ },
+ {
+  "feature":"judged: research_signal (top 2 of 5)",
+  "family":"primary",
+  "reliability":"solid",
+  "n_with":724,
+  "rate_with":16.3,
+  "n_without":2455,
+  "rate_without":14.7,
+  "gap_pp":1.6,
+  "gap_lo":-1.4,
+  "gap_hi":4.7,
+  "fe_gap_pp":2.8,
+  "fe_se_pp":1.3,
+  "fe_p":0.0373,
+  "reps_positive":2.0,
+  "reps_tested":4.0,
+  "reps_agreeing":2.0,
+  "rep_detail":[
+   [
+    "james.golby",
+    165,
+    312,
+    -1.3
+   ],
+   [
+    "jamie",
+    42,
+    272,
+    -1.4
+   ],
+   [
+    "skander",
+    33,
+    220,
+    13.6
+   ],
+   [
+    "winnie",
+    436,
+    623,
+    3.4
+   ]
+  ],
+  "note":null,
+  "bh_q":0.0746,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: value_specificity (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":133,
+  "rate_with":13.5,
+  "n_without":3046,
+  "rate_without":15.2,
+  "gap_pp":-1.6,
+  "gap_lo":-6.6,
+  "gap_hi":5.3,
+  "fe_gap_pp":-1.9,
+  "fe_se_pp":4.2,
+  "fe_p":0.6558,
+  "reps_positive":1.0,
+  "reps_tested":3.0,
+  "reps_agreeing":2.0,
+  "rep_detail":[
+   [
+    "charlotte",
+    27,
+    218,
+    -12.8
+   ],
+   [
+    "james.golby",
+    20,
+    457,
+    -7.9
+   ],
+   [
+    "winnie",
+    59,
+    1000,
+    4.4
+   ]
+  ],
+  "note":null,
+  "bh_q":0.7651,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: pain_hypothesis (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":null,
+  "n_with":14,
+  "rate_with":null,
+  "n_without":3165,
+  "rate_without":null,
+  "gap_pp":null,
+  "gap_lo":null,
+  "gap_hi":null,
+  "fe_gap_pp":null,
+  "fe_se_pp":null,
+  "fe_p":null,
+  "reps_positive":null,
+  "reps_tested":null,
+  "reps_agreeing":null,
+  "rep_detail":null,
+  "note":"too few to report",
+  "bh_q":null,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: ask_clarity (top 2 of 5)",
+  "family":"primary",
+  "reliability":"moderate",
+  "n_with":2627,
+  "rate_with":14.8,
+  "n_without":552,
+  "rate_without":16.5,
+  "gap_pp":-1.7,
+  "gap_lo":-5.3,
+  "gap_hi":1.5,
+  "fe_gap_pp":-4.3,
+  "fe_se_pp":3.2,
+  "fe_p":0.1864,
+  "reps_positive":3.0,
+  "reps_tested":5.0,
+  "reps_agreeing":2.0,
+  "rep_detail":[
+   [
+    "james.golby",
+    300,
+    177,
+    2.1
+   ],
+   [
+    "laura.zhu",
+    101,
+    27,
+    6.5
+   ],
+   [
+    "shreya",
+    99,
+    65,
+    0.8
+   ],
+   [
+    "skander",
+    219,
+    34,
+    -19.6
+   ],
+   [
+    "winnie",
+    871,
+    188,
+    -1.7
+   ]
+  ],
+  "note":null,
+  "bh_q":0.2485,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: bespokeness (top 2 of 5)",
+  "family":"primary",
+  "reliability":"moderate",
+  "n_with":503,
+  "rate_with":18.1,
+  "n_without":2676,
+  "rate_without":14.5,
+  "gap_pp":3.6,
+  "gap_lo":0.1,
+  "gap_hi":7.4,
+  "fe_gap_pp":4.7,
+  "fe_se_pp":1.4,
+  "fe_p":0.0006,
+  "reps_positive":3.0,
+  "reps_tested":3.0,
+  "reps_agreeing":3.0,
+  "rep_detail":[
+   [
+    "james.golby",
+    118,
+    359,
+    0.1
+   ],
+   [
+    "jamie",
+    45,
+    269,
+    4.7
+   ],
+   [
+    "winnie",
+    273,
+    786,
+    4.4
+   ]
+  ],
+  "note":null,
+  "bh_q":0.0024,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: polish (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"moderate",
+  "n_with":2748,
+  "rate_with":15.4,
+  "n_without":431,
+  "rate_without":13.0,
+  "gap_pp":2.4,
+  "gap_lo":-1.3,
+  "gap_hi":5.6,
+  "fe_gap_pp":-0.5,
+  "fe_se_pp":2.6,
+  "fe_p":0.8466,
+  "reps_positive":4.0,
+  "reps_tested":5.0,
+  "reps_agreeing":1.0,
+  "rep_detail":[
+   [
+    "charlotte",
+    201,
+    44,
+    1.8
+   ],
+   [
+    "james.golby",
+    375,
+    102,
+    0.9
+   ],
+   [
+    "payom",
+    68,
+    47,
+    19.4
+   ],
+   [
+    "skander",
+    232,
+    21,
+    1.2
+   ],
+   [
+    "winnie",
+    946,
+    113,
+    -5.7
+   ]
+  ],
+  "note":null,
+  "bh_q":0.8466,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: economy (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"UNRELIABLE",
+  "n_with":2794,
+  "rate_with":14.9,
+  "n_without":385,
+  "rate_without":16.4,
+  "gap_pp":-1.4,
+  "gap_lo":-5.7,
+  "gap_hi":2.2,
+  "fe_gap_pp":-1.7,
+  "fe_se_pp":2.4,
+  "fe_p":0.4864,
+  "reps_positive":4.0,
+  "reps_tested":8.0,
+  "reps_agreeing":4.0,
+  "rep_detail":[
+   [
+    "charlotte",
+    191,
+    54,
+    -16.3
+   ],
+   [
+    "james.golby",
+    407,
+    70,
+    -1.2
+   ],
+   [
+    "james.sweeney",
+    206,
+    26,
+    3.5
+   ],
+   [
+    "jamie",
+    285,
+    29,
+    9.7
+   ],
+   [
+    "payom",
+    89,
+    26,
+    10.9
+   ],
+   [
+    "shreya",
+    143,
+    21,
+    7.3
+   ],
+   [
+    "skander",
+    226,
+    27,
+    -3.5
+   ],
+   [
+    "winnie",
+    957,
+    102,
+    -2.7
+   ]
+  ],
+  "note":null,
+  "bh_q":0.681,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: peer_tone (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"UNRELIABLE",
+  "n_with":1863,
+  "rate_with":16.3,
+  "n_without":1316,
+  "rate_without":13.4,
+  "gap_pp":2.8,
+  "gap_lo":0.3,
+  "gap_hi":5.3,
+  "fe_gap_pp":2.0,
+  "fe_se_pp":1.3,
+  "fe_p":0.1244,
+  "reps_positive":4.0,
+  "reps_tested":7.0,
+  "reps_agreeing":4.0,
+  "rep_detail":[
+   [
+    "charlotte",
+    106,
+    139,
+    -3.3
+   ],
+   [
+    "james.golby",
+    217,
+    260,
+    -2.0
+   ],
+   [
+    "james.sweeney",
+    140,
+    92,
+    7.3
+   ],
+   [
+    "jamie",
+    193,
+    121,
+    5.9
+   ],
+   [
+    "payom",
+    34,
+    81,
+    -7.5
+   ],
+   [
+    "skander",
+    139,
+    114,
+    4.1
+   ],
+   [
+    "winnie",
+    701,
+    358,
+    3.3
+   ]
+  ],
+  "note":null,
+  "bh_q":0.2903,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: recipient_centricity (top 2 of 5)",
+  "family":"exploratory",
+  "reliability":"moderate",
+  "n_with":95,
+  "rate_with":31.6,
+  "n_without":3084,
+  "rate_without":14.6,
+  "gap_pp":17.0,
+  "gap_lo":8.4,
+  "gap_hi":27.0,
+  "fe_gap_pp":16.7,
+  "fe_se_pp":3.8,
+  "fe_p":0.0,
+  "reps_positive":1.0,
+  "reps_tested":1.0,
+  "reps_agreeing":1.0,
+  "rep_detail":[
+   [
+    "winnie",
+    60,
+    999,
+    12.9
+   ]
+  ],
+  "note":null,
+  "bh_q":0.0,
+  "bh_sig":true
+ },
+ {
+  "feature":"judged: states a reason for reaching out now",
+  "family":"primary",
+  "reliability":"solid",
+  "n_with":3062,
+  "rate_with":15.2,
+  "n_without":117,
+  "rate_without":12.0,
+  "gap_pp":3.3,
+  "gap_lo":-4.0,
+  "gap_hi":8.1,
+  "fe_gap_pp":1.4,
+  "fe_se_pp":2.8,
+  "fe_p":0.615,
+  "reps_positive":2.0,
+  "reps_tested":2.0,
+  "reps_agreeing":2.0,
+  "rep_detail":[
+   [
+    "james.golby",
+    432,
+    45,
+    1.0
+   ],
+   [
+    "shreya",
+    142,
+    22,
+    7.8
+   ]
+  ],
+  "note":null,
+  "bh_q":0.615,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: names any customer\/social proof",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":2994,
+  "rate_with":14.5,
+  "n_without":185,
+  "rate_without":24.9,
+  "gap_pp":-10.4,
+  "gap_lo":-17.2,
+  "gap_hi":-4.5,
+  "fe_gap_pp":-14.7,
+  "fe_se_pp":7.5,
+  "fe_p":0.05,
+  "reps_positive":2.0,
+  "reps_tested":4.0,
+  "reps_agreeing":2.0,
+  "rep_detail":[
+   [
+    "jamie",
+    283,
+    31,
+    -35.8
+   ],
+   [
+    "nick.aguilar",
+    22,
+    28,
+    1.0
+   ],
+   [
+    "payom",
+    92,
+    23,
+    19.6
+   ],
+   [
+    "winnie",
+    1022,
+    37,
+    -19.7
+   ]
+  ],
+  "note":null,
+  "bh_q":0.175,
+  "bh_sig":false
+ },
+ {
+  "feature":"judged: proof matches their industry",
+  "family":"exploratory",
+  "reliability":"solid",
+  "n_with":1348,
+  "rate_with":13.4,
+  "n_without":1831,
+  "rate_without":16.3,
+  "gap_pp":-2.9,
+  "gap_lo":-5.4,
+  "gap_hi":-0.4,
+  "fe_gap_pp":-2.1,
+  "fe_se_pp":2.5,
+  "fe_p":0.4165,
+  "reps_positive":5.0,
+  "reps_tested":9.0,
+  "reps_agreeing":4.0,
+  "rep_detail":[
+   [
+    "charlotte",
+    67,
+    178,
+    3.9
+   ],
+   [
+    "james.golby",
+    325,
+    152,
+    2.4
+   ],
+   [
+    "james.sweeney",
+    76,
+    156,
+    -0.2
+   ],
+   [
+    "jamie",
+    149,
+    165,
+    -21.3
+   ],
+   [
+    "laura.zhu",
+    76,
+    52,
+    1.6
+   ],
+   [
+    "nick.aguilar",
+    22,
+    28,
+    1.0
+   ],
+   [
+    "payom",
+    26,
+    89,
+    -10.9
+   ],
+   [
+    "skander",
+    71,
+    182,
+    4.0
+   ],
+   [
+    "winnie",
+    481,
+    578,
+    -0.6
+   ]
+  ],
+  "note":null,
+  "bh_q":0.681,
+  "bh_sig":false
  }
 ]

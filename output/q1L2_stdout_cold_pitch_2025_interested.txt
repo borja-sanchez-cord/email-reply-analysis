@@ -1,0 +1,92 @@
+=== cold_pitch / 2025 / outcome=interested / G=30 — n=5153, reply rate 4.7% ===
+
+--- COUNTED family (BH applied within this family only) ---
+                          feature  family reliability  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_agreeing  reps_tested
+                     has 2+ links counted                 178        9.6       4975           4.5     5.0     1.5    10.3        2.6 0.3816 0.5724   False              2            4
+                      has bullets counted                 205        8.3       4948           4.5     3.7     0.6     8.4        3.0 0.4351 0.6143   False              1            2
+            subject is a question counted                 998        7.6       4155           4.0     3.6     2.0     5.5        3.9 0.0352 0.1690   False              6            9
+                       has a link counted                 358        7.8       4795           4.5     3.4     0.9     6.7        2.5 0.1566 0.3132   False              4            6
+              short (<=100 words) counted                1368        7.2       3785           3.8     3.4     1.9     5.0        3.3 0.0040 0.0320    True              8           11
+          very short (<=60 words) counted                 228        6.6       4925           4.6     2.0    -0.7     6.0        2.9 0.1353 0.2952   False              2            3
+        subject has their company counted                 648        6.0       4505           4.5     1.5    -0.2     3.7        0.8 0.1013 0.2518   False              3            7
+          informal greeting (hey) counted                 661        5.7       4492           4.5     1.2    -0.5     3.3       -2.5 0.1786 0.3297   False              1            2
+short first question (<=12 words) counted                1584        5.5       3569           4.3     1.1    -0.1     2.5        0.3 0.8284 0.8644   False              8           11
+        short subject (<=4 words) counted                1759        5.1       3394           4.5     0.6    -0.6     1.9        2.1 0.0769 0.2518   False              5            6
+             few paragraphs (<=4) counted                4377        4.8        776           4.3     0.5    -1.2     1.9        0.4 0.6645 0.7974   False              5            6
+              few sentences (<=8) counted                4887        4.7        266           4.5     0.2    -3.1     2.2        1.3 0.2170 0.3720   False              3            5
+           subject has their name counted                 328        4.9       4825           4.7     0.2    -1.8     3.1       -0.9 0.3068 0.4909   False              2            3
+         mentions their role/work counted                 559        4.8       4594           4.7     0.2    -1.5     2.3        0.3 0.7773 0.8480   False              6            9
+                long (>150 words) counted                 572        4.7       4581           4.7     0.0    -1.6     2.2       -0.7 0.5262 0.6647   False              4            8
+                     has an image counted                  93        4.3       5060           4.7    -0.4    -3.1     5.9       -0.7 0.7728 0.8480   False              0            0
+                      no greeting counted                  72        4.2       5081           4.7    -0.5    -3.3     6.9       -1.3 0.4653 0.6204   False              1            2
+           mentions their company counted                2456        4.4       2697           5.0    -0.6    -1.8     0.5        0.0 0.9975 0.9975   False              6           13
+                asks 2+ questions counted                 847        3.9       4306           4.9    -1.0    -2.3     0.7       -1.5 0.1004 0.2518   False              5            8
+              greets them by name counted                4441        4.3        712           6.9    -2.5    -4.7    -0.8       -2.1 0.0249 0.1494   False              8           11
+                    has bold text counted                 567        2.1       4586           5.0    -2.9    -4.0    -1.2       -2.9 0.0001 0.0012    True              3            3
+                  asks a question counted                4866        4.5        287           7.7    -3.1    -6.9    -0.5       -2.8 0.1049 0.2518   False              2            3
+  templated (3+ identical bodies) counted                2767        3.1       2386           6.6    -3.5    -4.7    -2.3       -4.0 0.0001 0.0012    True             10           12
+uses their name again in the body counted                 395        1.3       4758           5.0    -3.7    -4.7    -2.0       -3.1 0.0517 0.2068   False              3            4
+
+--- PRIMARY family (BH applied within this family only) ---
+                                     feature  family reliability  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_agreeing  reps_tested
+judged: states a reason for reaching out now primary       solid    3667        5.3       1486           3.1     2.2     1.0     3.3        3.4 0.0000 0.0000    True             11           11
+            judged: bespokeness (top 2 of 5) primary    moderate    1658        5.7       3495           4.2     1.4     0.2     2.8        1.2 0.1079 0.2158   False              5            9
+        judged: research_signal (top 2 of 5) primary       solid    2412        5.4       2741           4.1     1.3     0.1     2.5        1.1 0.1918 0.2557   False              7           12
+            judged: ask_clarity (top 2 of 5) primary    moderate    3928        4.6       1225           4.9    -0.3    -1.8     1.0        1.0 0.3955 0.3955   False              6           13
+
+--- EXPLORATORY family (BH applied within this family only) ---
+                                  feature      family reliability  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_agreeing  reps_tested
+judged: recipient_centricity (top 2 of 5) exploratory    moderate     388        9.3       4765           4.3     5.0     2.4     8.3        4.9 0.0006 0.0024    True              5            7
+              judged: polish (top 2 of 5) exploratory    moderate    3960        4.8       1193           4.4     0.3    -1.1     1.6        0.7 0.4872 0.6271   False             10           12
+             judged: economy (top 2 of 5) exploratory  UNRELIABLE    4505        4.7        648           4.6     0.1    -1.9     1.6        0.3 0.6271 0.6271   False              7           10
+           judged: peer_tone (top 2 of 5) exploratory  UNRELIABLE    3407        4.6       1746           4.8    -0.2    -1.5     1.0        0.4 0.6048 0.6271   False              9           14
+     judged: proof matches their industry exploratory       solid    3110        4.4       2043           5.2    -0.8    -2.1     0.4       -1.9 0.0013 0.0035    True              8           11
+     judged: pain_hypothesis (top 2 of 5) exploratory       solid    1364        3.8       3789           5.0    -1.2    -2.4     0.1       -1.5 0.0398 0.0796   False              6            7
+   judged: value_specificity (top 2 of 5) exploratory       solid    1712        3.9       3441           5.1    -1.2    -2.3     0.1       -2.0 0.0856 0.1370   False              5            9
+  judged: names any customer/social proof exploratory       solid    4145        4.1       1008           6.9    -2.8    -4.6    -1.2       -5.3 0.0003 0.0024    True              9            9
+BH-significant [counted]: 3 of 24
+BH-significant [primary]: 1 of 4
+BH-significant [exploratory]: 3 of 8
+
+=== bucket tables ===
+
+word count:
+         size  sum  rate
+n_words                 
+<50       163   11   6.7
+50-99    1205   87   7.2
+100-149  3213  117   3.6
+150-249   571   27   4.7
+250+        1    0   0.0
+
+questions:
+             size  sum  rate
+n_questions                 
+0             287   22   7.7
+1            4019  187   4.7
+2             821   31   3.8
+3+             26    2   7.7
+
+links:
+         size  sum  rate
+n_links                 
+0        4795  214   4.5
+1         180   11   6.1
+2         173   17   9.8
+3+          5    0   0.0
+
+subject words:
+               size  sum  rate
+subject_words                 
+1-2             269   22   8.2
+3-4            1487   68   4.6
+5-7            1828   82   4.5
+8+             1566   70   4.5
+
+sentences:
+             size  sum  rate
+n_sentences                 
+1-4          1525   88   5.8
+5-8          3362  142   4.2
+9-12          258   12   4.7
+13+             8    0   0.0
