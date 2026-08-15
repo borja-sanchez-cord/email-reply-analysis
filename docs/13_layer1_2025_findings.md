@@ -139,6 +139,23 @@ Not optional, and not to be compressed away for length:
 3. Null results are reported with the same prominence as positive ones throughout. A
    feature that was tested and found to do nothing is an answer, not an absence.
 
+4. **The sending tool, stated plainly (operator instruction, 2026-08-15).** The report
+   must say that Apollo-sent email IS included (it routes through Gmail) while
+   Amplemarket is not, and must carry a sentence to this effect:
+
+   > Emails sent via a sequencer reply about 2 percentage points lower than
+   > hand-sent ones, but this is a flat offset, not a change in what works: across all
+   > 29 features tested, only 2 showed any difference in effect by send route — fewer
+   > than the 1.5 expected by chance, none surviving correction, median difference
+   > −0.6pp. The tool shifts the baseline; it does not change which emails do better.
+   > Because the penalty is uniform rather than concentrated in the features where
+   > automation should hurt most, it is more consistent with a small share of replies
+   > going uncaptured than with blasts genuinely persuading less well — but the two
+   > cannot be fully separated, and no claim is made about which it is.
+
+   The operator's framing, recorded because it is the correct one: *the tool doesn't
+   affect how an email behaves — it's systematic, and it isn't growing in the data.*
+
 ## Committed predictions for the 2026 holdout
 
 Decision rule, fixed now: a finding **replicates** if the 2026 within-sender estimate has
