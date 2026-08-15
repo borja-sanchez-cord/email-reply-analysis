@@ -120,6 +120,25 @@ random contact.
 3. Small-cell findings (greeting style on invites; name-again's n=395) are fragile by the
    placebo's own evidence.
 
+## MUST appear in the final report (operator instruction, 2026-08-15)
+
+Not optional, and not to be compressed away for length:
+
+1. **The bold-text / name-again overlap.** Report the −4.3pp and −5.4pp effects AND the
+   fact that 77–80% of those emails are templated, i.e. these are largely the templating
+   finding re-appearing. Reporting them as three independent findings would triple-count
+   one phenomenon; deleting them would hide real signal. Both the effect and the caveat go
+   in.
+2. **The nulls, stated as findings in their own right**, because they contradict widely
+   repeated sales folklore:
+   - links do **not** hurt (direction is positive, +4.9pp FE, fails BH at q=0.098)
+   - greeting them by name does **nothing** (FE −2.1pp, q=0.31)
+   - mentioning their company does **nothing** (FE −0.0pp) — name-dropping ≠ personalisation
+   - the word-count benefit is a **floor at ~100 words, not a slope**: under 100 helps,
+     going shorter still (≤60) adds nothing further
+3. Null results are reported with the same prominence as positive ones throughout. A
+   feature that was tested and found to do nothing is an answer, not an absence.
+
 ## Committed predictions for the 2026 holdout
 
 Decision rule, fixed now: a finding **replicates** if the 2026 within-sender estimate has
