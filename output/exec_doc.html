@@ -1,0 +1,279 @@
+<!doctype html><html><head><meta charset="utf-8"><title>What Gets a Reply — Executive Document</title>
+<style>
+:root { --ink:#0b0b0b; --ink2:#52514e; --mut:#898781; --grid:#e1e0d9; --base:#c3c2b7;
+  --border:rgba(11,11,11,.12); --pos:#2a78d6; --neg:#e34948; --s2:#eb6834;
+  --good:#006300; --crit:#d03b3b; --chipbg:rgba(11,11,11,.05); --surface:#fcfcfb; }
+* { box-sizing:border-box; }
+html, body { margin:0; padding:0; background:#fff; color:var(--ink);
+  font:10.5pt/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+@page { size:A4; margin:17mm 16mm 19mm; }
+.pagebreak { break-before:page; }
+.avoid { break-inside:avoid; }
+h1 { font-size:26pt; line-height:1.12; letter-spacing:-.02em; margin:0 0 6pt; }
+h2 { font-size:15pt; letter-spacing:-.01em; margin:0 0 6pt; }
+h3 { font-size:11.5pt; margin:9pt 0 3pt; }
+p { margin:4pt 0; max-width:66ch; color:#1c1c1a; }
+p.dim, li.dim { color:var(--ink2); }
+.eyebrow { font-size:7.5pt; font-weight:700; letter-spacing:.14em; text-transform:uppercase; color:var(--mut); margin:0 0 3pt; }
+.small { font-size:8.5pt; color:var(--mut); }
+.rule { border:none; border-top:1px solid var(--grid); margin:10pt 0; }
+table { width:100%; border-collapse:collapse; font-size:9pt; }
+td, th { padding:4pt 6pt 4pt 0; border-bottom:.5pt solid var(--grid); vertical-align:top; text-align:left; }
+th { font-size:7.5pt; text-transform:uppercase; letter-spacing:.1em; color:var(--mut); }
+.num { font-variant-numeric:tabular-nums; }
+.chip { display:inline-block; font-size:7.5pt; font-weight:650; border-radius:99px; padding:1.5pt 7pt; background:var(--chipbg); color:var(--ink2); white-space:nowrap; }
+.chip.confirmed, .chip.held { color:var(--good); background:rgba(12,163,12,.12); }
+.chip.direction { color:var(--pos); background:rgba(42,120,214,.12); }
+.chip.failed { color:var(--crit); background:rgba(208,59,59,.12); }
+.chart text, .strip text { font:8pt system-ui,sans-serif; fill:var(--ink2); font-variant-numeric:tabular-nums; }
+.chart .val { font-weight:650; fill:var(--ink); } .chart .lab { fill:var(--mut); }
+.chart .glab { fill:var(--ink2); font-weight:600; } .chart .rowlab { fill:var(--ink); font-size:8.5pt; }
+.chart .baseline { stroke:var(--base); stroke-width:1.2; } .chart .grid { stroke:var(--grid); stroke-width:.8; }
+.bar.pos { fill:var(--pos); } .bar.neg { fill:var(--neg); } .bar.mut { fill:var(--mut); opacity:.55; }
+.line { fill:none; stroke-width:1.8; } .line.s1 { stroke:var(--pos); } .line.s2 { stroke:var(--s2); }
+.dot.s1, .dot.pos { fill:var(--pos); } .dot.s2 { fill:var(--s2); } .dot.neg { fill:var(--neg); } .dot.mut { fill:var(--mut); }
+.whisker { stroke-width:1.6; opacity:.45; } .whisker.s1, .whisker.pos { stroke:var(--pos); }
+.whisker.s2 { stroke:var(--s2); } .whisker.neg { stroke:var(--neg); } .whisker.mut { stroke:var(--mut); }
+.slab { font-weight:650; } .slab.s1 { fill:var(--pos); } .slab.s2 { fill:var(--s2); }
+.zeroline { stroke:var(--base); stroke-width:1.2; stroke-dasharray:2 3; }
+.lrow { display:grid; grid-template-columns:150pt 230px 34pt auto; gap:8pt; align-items:center;
+  padding:2.5pt 0; border-bottom:.5pt solid var(--grid); }
+.llab { font-size:9pt; } .lval { font-weight:700; font-variant-numeric:tabular-nums; text-align:right; font-size:9pt; }
+.lval.pos { color:var(--pos); } .lval.neg { color:var(--neg); } .lval.mut { color:var(--mut); }
+.tally { display:flex; gap:8pt; margin:12pt 0; }
+.tally .t { background:var(--chipbg); border-radius:6pt; padding:7pt 12pt; text-align:center; }
+.tally .n { font-size:16pt; font-weight:750; } .tally .l { font-size:7.5pt; color:var(--ink2); }
+.grid2 { display:grid; grid-template-columns:1fr 1fr; gap:14pt; }
+.callout { background:var(--surface); border:.75pt solid var(--border); border-radius:6pt; padding:8pt 11pt; margin:7pt 0; }
+.toc td { border-bottom:.5pt dotted var(--grid); padding:3.5pt 0; }
+tr.cut td { color:var(--crit); }
+ol.main > li { margin:5pt 0; }
+</style></head><body>
+<!-- ============ COVER / EXEC SUMMARY ============ -->
+<p class="eyebrow">Encord · Cold outbound study · Jan 2025 – Jul 2026 · Executive document</p>
+<h1>What Gets a Reply</h1>
+<p style="font-size:12pt; max-width:70ch;">A pre-registered study of 12,077 outreach emails: what
+makes a cold email get a reply, how many follow-ups are worth sending — and which of our
+answers survived a test on sealed data they had never seen.</p>
+<div class="tally">
+<div class="t"><div class="n" style="color:var(--good)">9</div><div class="l">held / confirmed</div></div>
+<div class="t"><div class="n" style="color:var(--pos)">4</div><div class="l">direction held</div></div>
+<div class="t"><div class="n">4</div><div class="l">too close to call</div></div>
+<div class="t"><div class="n" style="color:var(--crit)">2</div><div class="l">failed the test</div></div>
+<div class="t"><div class="n">1</div><div class="l">untestable</div></div>
+</div>
+
+<h2>Executive summary</h2>
+<p><strong>Two findings are confirmed</strong> — meaning they were found in 2025, written down
+as predictions, and then re-appeared in sealed 2026 data at the predicted size:</p>
+<ol class="main">
+<li><strong>Mass-produced emails get roughly a quarter of the replies.</strong> Sending the same
+body to three or more people collapsed reply rates in both years (4.8% vs 9.3% in 2025;
+1.8% vs 8.0% in 2026) — measured within the same sender, so it is not "worse reps use
+templates."</li>
+<li><strong>A concrete reason to write <em>now</em> roughly doubles replies.</strong> A launch, a
+funding round, an event, a referral — something checkable that answers "why this email, this
+week." 7.9% vs 4.6% in 2025; 8.5% vs 4.1% in 2026. It beat every other quality we measured,
+both years, and held on the stricter "showed real interest" outcome.</li>
+</ol>
+<p><strong>The most repeated advice did not survive scrutiny.</strong> Researched
+personalisation — citing facts about the recipient, writing that could only fit them — never
+produced a significant effect in either year. Links don't hurt. Greeting by name does nothing.
+The "keep it short" rule is a floor at ~100 words, not a virtue of ever-shorter emails.</p>
+<p><strong>Two 2025 findings failed the sealed test and are withdrawn</strong> — including our
+most promising one ("recipient-focused emails win", +5.3pp in 2025, −0.4pp in 2026). That is
+the safeguard working: without the sealed year, both would be in the recommendations.</p>
+<p><strong>Follow-ups:</strong> the first follow-up is worth as much as the opener; ~90% of all
+eventual replies arrive by the third touch. Both patterns repeated in 2026.</p>
+<div class="callout"><strong>What the data supports doing</strong> — graded by evidence:
+<br>· <strong>Strong:</strong> stop sending identical bodies at scale from personal mailboxes; require every cold email to name its reason-to-write-now.
+<br>· <strong>Moderate:</strong> keep openers under ~100 words; always send follow-ups 1–2, usually 3; stop after 4 unless there's a new reason.
+<br>· <strong>Time back:</strong> stop polishing links out, stop first-name rituals, stop research-heavy personalisation as a reply tactic — none of it moved replies.</div>
+
+<!-- ============ 1. THE QUESTION ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 1</p>
+<h2>The question, and why naive answers mislead</h2>
+<p>The question sounds simple: <em>what makes someone reply to a cold email?</em> Getting a
+defensible answer is not, for three reasons.</p>
+<h3>1.1 · Good reps poison simple comparisons</h3>
+<p>Reps choose who gets which email. If strong reps write short emails to warm prospects,
+"short emails win" may just mean "good reps win." Our primary comparison is therefore
+<strong>within-sender</strong>: each rep's emails with a trait against the same rep's emails
+without it. Rep skill and rep targeting drop out of the comparison.</p>
+<h3>1.2 · Test enough traits and some "win" by luck</h3>
+<p>We measured ~40 traits; test that many and 1–2 "win" by chance. Every result is corrected
+for this, within pre-declared families of tests. We also re-ran the whole analysis on
+deliberately scrambled data ten times: it correctly found almost nothing (5 spurious hits in
+240 tests), so the machinery itself doesn't manufacture findings.</p>
+<h3>1.3 · Staring at data until a pattern appears guarantees a pattern</h3>
+<p>The deepest problem: explore data freely and you <em>will</em> find patterns — some real,
+some noise you fit to. The only clean defence is the one machine-learning uses:
+<strong>a training set and a validation set.</strong> We explored 2025 freely, wrote every
+conclusion down as a testable prediction with its pass/fail rule, committed them to a
+timestamped record — and only then opened Jan–Jul 2026, once. No tuning, no second look.</p>
+<div class="callout"><strong>How to read "failed" and "held."</strong> Our split is by time, not
+random, so 2026 is a genuinely different world (different sender mix, different tooling). A
+finding that <em>fails</em> has two possible readings — it was never real, or it was real and the
+world changed — and we deliberately do not rescue any failure with the second reading: failed
+means <em>don't build on it</em>. A finding that <em>holds</em> cleared a harder bar than a
+random split: it survived fresh noise <em>and</em> a shifted world. That is the property you
+want before acting on it, because every decision applies to the future — also a changed world.</div>
+
+<!-- ============ 2. HOW ============ -->
+<p class="eyebrow" style="margin-top:14pt">Section 2</p>
+<h2>How the study worked</h2>
+<p class="dim">From ~117,000 sent-email records: 12,077 qualifying "first touches" (fresh
+outreach to a person after ≥30 days of silence, Gmail-recorded, from commercial senders;
+bounces and pre-existing threads excluded). Every reply candidate was classified by AI
+(human vs auto-reply vs calendar bot vs bounce — validated at 99% agreement); only genuine
+human replies count. Two outcomes per email: <strong>replied</strong> (a human wrote back)
+and <strong>interested</strong> (the reply shows forward motion — validated at 92.8%).</p>
+<p class="dim"><strong>Layer 1 — countable traits</strong> (length, questions, links, subject
+shape, name use, template detection) measured by audited code. <strong>Layer 2 — judged
+qualities:</strong> an AI read each of 12,462 emails blind — sender, date, recipient and
+outcome all redacted — and scored 12 pre-registered qualities against a rubric with written
+anchors. A second scoring pass and an independent second AI measured which qualities can be
+scored consistently at all (Section 6); two couldn't and were discarded.</p>
+
+<!-- ============ 3. CONFIRMED ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 3 · Confirmed on sealed data</p>
+<h2>The two findings that survived everything</h2>
+<h3>3.1 · Mass-produced emails get a quarter of the replies</h3>
+<div class="avoid"><svg viewBox="0 0 560 180" width="100%" class="chart"><line x1="0" y1="146" x2="560" y2="146" class="baseline"/><rect x="0.0" y="96.5" width="126.5" height="49.5" rx="4" class="bar neg"/><text x="63.2" y="89.5" class="val" text-anchor="middle">4.8%</text><text x="63.2" y="160" class="lab" text-anchor="middle">templated</text><rect x="136.5" y="50.0" width="126.5" height="96.0" rx="4" class="bar pos"/><text x="199.8" y="43.0" class="val" text-anchor="middle">9.3%</text><text x="199.8" y="160" class="lab" text-anchor="middle">hand-crafted</text><text x="131.5" y="176" class="glab" text-anchor="middle">2025 · 5,153 cold pitches</text><rect x="297.0" y="127.4" width="126.5" height="18.6" rx="4" class="bar neg"/><text x="360.2" y="120.4" class="val" text-anchor="middle">1.8%</text><text x="360.2" y="160" class="lab" text-anchor="middle">templated</text><rect x="433.5" y="63.4" width="126.5" height="82.6" rx="4" class="bar pos"/><text x="496.8" y="56.4" class="val" text-anchor="middle">8.0%</text><text x="496.8" y="160" class="lab" text-anchor="middle">hand-crafted</text><text x="428.5" y="176" class="glab" text-anchor="middle">2026 · 1,286 (sealed)</text></svg></div>
+<p class="small">Reply rate, cold pitches. "Templated" = same body sent to 3+ people. Within-sender;
+2026 p=0.005 (replied), p=0.001 (interested: 0.9% vs 5.6%). Agreed in 10 of 12 reps (2025), 3 of 4 (2026).</p>
+<p>The effect is not subtle, and its fingerprints show up elsewhere: bold text (−4.3pp) and
+re-using the recipient's first name mid-email (−5.4pp) both looked harmful in 2025, but 77–80%
+of the emails carrying them were templates — they are substantially the same finding in
+different clothes, and we count them once, not three times.</p>
+<h3>3.2 · A real reason to write now roughly doubles replies</h3>
+<div class="avoid"><svg viewBox="0 0 560 180" width="100%" class="chart"><line x1="0" y1="146" x2="560" y2="146" class="baseline"/><rect x="0.0" y="56.8" width="126.5" height="89.2" rx="4" class="bar pos"/><text x="63.2" y="49.8" class="val" text-anchor="middle">7.9%</text><text x="63.2" y="160" class="lab" text-anchor="middle">has a reason</text><rect x="136.5" y="94.0" width="126.5" height="52.0" rx="4" class="bar mut"/><text x="199.8" y="87.0" class="val" text-anchor="middle">4.6%</text><text x="199.8" y="160" class="lab" text-anchor="middle">no reason</text><text x="131.5" y="176" class="glab" text-anchor="middle">2025</text><rect x="297.0" y="50.0" width="126.5" height="96.0" rx="4" class="bar pos"/><text x="360.2" y="43.0" class="val" text-anchor="middle">8.5%</text><text x="360.2" y="160" class="lab" text-anchor="middle">has a reason</text><rect x="433.5" y="99.7" width="126.5" height="46.3" rx="4" class="bar mut"/><text x="496.8" y="92.7" class="val" text-anchor="middle">4.1%</text><text x="496.8" y="160" class="lab" text-anchor="middle">no reason</text><text x="428.5" y="176" class="glab" text-anchor="middle">2026 (sealed)</text></svg></div>
+<p class="small">Reply rate, cold pitches. "Reason" = an explicit, checkable occasion: launch, funding,
+event, visit, referral, news. 2026: p=0.047 replied / p=0.012 interested; effect landed inside the
+pre-declared band (+1.6 to +7.6); top-ranked judged quality both years, as predicted.</p>
+<p>This is the study's sharpest lesson because of what it beat: <strong>research-heavy
+personalisation did nothing</strong> (next section), while having an <em>occasion</em> doubled
+replies. "I know things about you" and "there is a reason I'm writing to you today" feel
+similar — the data says only the second one matters. It also survives a length control: it is
+not "short emails in disguise."</p>
+
+<!-- ============ 4. LADDER + NULLS ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 4</p>
+<h2>Everything that moved replies in 2025 — and its 2026 verdict</h2>
+<p class="small">Effect in percentage points on reply rate (dot), statistical uncertainty (bar),
+within-sender, cold pitches, n=5,153. Verdicts from the sealed 2026 test (n=1,286).</p>
+<div class="avoid"><div class="lrow"><div class="llab">Names a real reason to write now</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="151.7" y1="13.0" x2="189.7" y2="13.0" class="whisker pos"/><circle cx="170.7" cy="13.0" r="4.5" class="dot pos"/></svg><div class="lval pos">+4.6</div><div><span class="chip confirmed">Confirmed</span></div></div><div class="lrow"><div class="llab">Recipient-focused writing</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="148.3" y1="13.0" x2="210.0" y2="13.0" class="whisker pos"/><circle cx="179.2" cy="13.0" r="4.5" class="dot pos"/></svg><div class="lval pos">+5.3</div><div><span class="chip failed">Failed 2026</span></div></div><div class="lrow"><div class="llab">Under 100 words</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="136.3" y1="13.0" x2="202.7" y2="13.0" class="whisker pos"/><circle cx="169.5" cy="13.0" r="4.5" class="dot pos"/></svg><div class="lval pos">+4.5</div><div><span class="chip direction">Direction held</span></div></div><div class="lrow"><div class="llab">Subject line is a question</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="131.5" y1="13.0" x2="207.4" y2="13.0" class="whisker pos"/><circle cx="169.5" cy="13.0" r="4.5" class="dot pos"/></svg><div class="lval pos">+4.5</div><div><span class="chip direction">Direction held</span></div></div><div class="lrow"><div class="llab">Asks 2+ questions</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="63.4" y1="13.0" x2="106.1" y2="13.0" class="whisker neg"/><circle cx="84.7" cy="13.0" r="4.5" class="dot neg"/></svg><div class="lval neg">-2.5</div><div><span class="chip direction">Direction held</span></div></div><div class="lrow"><div class="llab">Has bold text</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="44.0" y1="13.0" x2="81.9" y2="13.0" class="whisker mut"/><circle cx="62.9" cy="13.0" r="4.5" class="dot mut"/></svg><div class="lval mut">-4.3</div><div><span class="chip gray">Mostly templating</span></div></div><div class="lrow"><div class="llab">Reuses their name mid-email</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="16.4" y1="13.0" x2="82.8" y2="13.0" class="whisker mut"/><circle cx="49.6" cy="13.0" r="4.5" class="dot mut"/></svg><div class="lval mut">-5.4</div><div><span class="chip gray">Untestable 2026</span></div></div><div class="lrow"><div class="llab">Mass template (3+ identical)</div><svg class="strip" viewBox="0 0 230 26" width="230" height="26"><line x1="115.0" y1="2" x2="115.0" y2="24" class="zeroline"/><line x1="21.2" y1="13.0" x2="78.1" y2="13.0" class="whisker neg"/><circle cx="49.6" cy="13.0" r="4.5" class="dot neg"/></svg><div class="lval neg">-5.4</div><div><span class="chip confirmed">Confirmed</span></div></div></div>
+<h3 style="margin-top:14pt">What does nothing — tested with the same rigor</h3>
+<table class="avoid">
+<tr><th>Belief</th><th>What we found</th></tr>
+<tr><td>Links hurt deliverability/replies</td><td>No. Direction was positive (+4.9pp) both years; not solid enough to claim the reverse.</td></tr>
+<tr><td>Greet them by name</td><td>Nothing (−2.1pp, if anything negative). Two years.</td></tr>
+<tr><td>Mention their company</td><td>Exactly nothing (0.0pp). Name-dropping ≠ relevance.</td></tr>
+<tr><td>Cite researched facts about them</td><td>Nothing significant either year (+1.3, then +0.6).</td></tr>
+<tr><td>Make it read written-just-for-them</td><td>Nothing significant either year (+1.9, then +2.1).</td></tr>
+<tr><td>Nail one crisp, specific ask</td><td>Nothing (−0.0, then +0.9).</td></tr>
+<tr><td>Shorter is always better</td><td>No — it's a <strong>floor at ~100 words</strong>, not a slope:</td></tr>
+</table>
+<div class="avoid" style="max-width:420pt"><svg viewBox="0 0 520 170" width="100%" class="chart"><line x1="0" y1="136" x2="520" y2="136" class="baseline"/><rect x="0.0" y="48.0" width="122.5" height="88.0" rx="4" class="bar pos"/><text x="61.2" y="41.0" class="val" text-anchor="middle">11.0%</text><text x="61.2" y="150" class="lab" text-anchor="middle">&lt;50</text><rect x="132.5" y="54.4" width="122.5" height="81.6" rx="4" class="bar pos"/><text x="193.8" y="47.4" class="val" text-anchor="middle">10.2%</text><text x="193.8" y="150" class="lab" text-anchor="middle">50–99</text><rect x="265.0" y="92.0" width="122.5" height="44.0" rx="4" class="bar mut"/><text x="326.2" y="85.0" class="val" text-anchor="middle">5.5%</text><text x="326.2" y="150" class="lab" text-anchor="middle">100–149</text><rect x="397.5" y="82.4" width="122.5" height="53.6" rx="4" class="bar mut"/><text x="458.8" y="75.4" class="val" text-anchor="middle">6.7%</text><text x="458.8" y="150" class="lab" text-anchor="middle">150–249</text><text x="260.0" y="166" class="glab" text-anchor="middle">words in the email — reply rate</text></svg></div>
+<p class="dim">These nulls are findings, not absences: each had the sample size to show an
+effect the size of our confirmed ones, and didn't. They contradict most outbound playbooks,
+which is precisely what makes them valuable — they say where effort is being wasted.</p>
+
+<!-- ============ 5. FOLLOW-UPS ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 5</p>
+<h2>Follow-ups: the first one is worth as much as the opener</h2>
+<p class="small">Chance of a reply after each touch, among people still silent at that point.
+Vertical bars = uncertainty; few people receive late touches in 2026, so those bars are wide (clipped at 8%). All email types, 8,591 pushes (2025) / 3,486 (2026).</p>
+<div class="avoid"><svg viewBox="0 0 640 230" width="100%" class="chart"><line x1="34" y1="202.0" x2="570" y2="202.0" class="grid"/><text x="28" y="206.0" class="lab" text-anchor="end">0%</text><line x1="34" y1="155.0" x2="570" y2="155.0" class="grid"/><text x="28" y="159.0" class="lab" text-anchor="end">2%</text><line x1="34" y1="108.0" x2="570" y2="108.0" class="grid"/><text x="28" y="112.0" class="lab" text-anchor="end">4%</text><line x1="34" y1="61.0" x2="570" y2="61.0" class="grid"/><text x="28" y="65.0" class="lab" text-anchor="end">6%</text><line x1="34" y1="14.0" x2="570" y2="14.0" class="grid"/><text x="28" y="18.0" class="lab" text-anchor="end">8%</text><text x="34.0" y="224" class="lab" text-anchor="middle">1</text><text x="110.6" y="224" class="lab" text-anchor="middle">2</text><text x="187.1" y="224" class="lab" text-anchor="middle">3</text><text x="263.7" y="224" class="lab" text-anchor="middle">4</text><text x="340.3" y="224" class="lab" text-anchor="middle">5</text><text x="416.9" y="224" class="lab" text-anchor="middle">6</text><text x="493.4" y="224" class="lab" text-anchor="middle">7</text><text x="570.0" y="224" class="lab" text-anchor="middle">8</text><path d="M34.0,105.7 L110.6,83.6 L187.1,118.1 L263.7,124.2 L340.3,101.0 L416.9,104.5 L493.4,69.0 L570.0,120.2" class="line s1"/><line x1="34.0" y1="115.0" x2="34.0" y2="95.3" class="whisker s1"/><circle cx="34.0" cy="105.7" r="4" class="dot s1"/><line x1="110.6" y1="95.3" x2="110.6" y2="70.6" class="whisker s1"/><circle cx="110.6" cy="83.6" r="4" class="dot s1"/><line x1="187.1" y1="131.5" x2="187.1" y2="102.6" class="whisker s1"/><circle cx="187.1" cy="118.1" r="4" class="dot s1"/><line x1="263.7" y1="144.9" x2="263.7" y2="96.5" class="whisker s1"/><circle cx="263.7" cy="124.2" r="4" class="dot s1"/><line x1="340.3" y1="132.7" x2="340.3" y2="55.8" class="whisker s1"/><circle cx="340.3" cy="101.0" r="4" class="dot s1"/><line x1="416.9" y1="144.7" x2="416.9" y2="38.0" class="whisker s1"/><circle cx="416.9" cy="104.5" r="4" class="dot s1"/><line x1="493.4" y1="131.3" x2="493.4" y2="14.0" class="whisker s1"/><circle cx="493.4" cy="69.0" r="4" class="dot s1"/><line x1="570.0" y1="170.0" x2="570.0" y2="14.0" class="whisker s1"/><circle cx="570.0" cy="120.2" r="4" class="dot s1"/><text x="579.0" y="124.2" class="slab s1">2025</text><path d="M34.0,65.2 L110.6,60.3 L187.1,99.1 L263.7,151.2 L340.3,126.1 L416.9,134.8 L493.4,139.3 L570.0,74.9" class="line s2"/><line x1="34.0" y1="82.4" x2="34.0" y2="45.7" class="whisker s2"/><circle cx="34.0" cy="65.2" r="4" class="dot s2"/><line x1="110.6" y1="83.1" x2="110.6" y2="33.5" class="whisker s2"/><circle cx="110.6" cy="60.3" r="4" class="dot s2"/><line x1="187.1" y1="124.0" x2="187.1" y2="66.6" class="whisker s2"/><circle cx="187.1" cy="99.1" r="4" class="dot s2"/><line x1="263.7" y1="173.6" x2="263.7" y2="112.0" class="whisker s2"/><circle cx="263.7" cy="151.2" r="4" class="dot s2"/><line x1="340.3" y1="161.8" x2="340.3" y2="60.5" class="whisker s2"/><circle cx="340.3" cy="126.1" r="4" class="dot s2"/><line x1="416.9" y1="175.7" x2="416.9" y2="34.7" class="whisker s2"/><circle cx="416.9" cy="134.8" r="4" class="dot s2"/><line x1="493.4" y1="184.8" x2="493.4" y2="14.0" class="whisker s2"/><circle cx="493.4" cy="139.3" r="4" class="dot s2"/><line x1="570.0" y1="166.8" x2="570.0" y2="14.0" class="whisker s2"/><circle cx="570.0" cy="74.9" r="4" class="dot s2"/><text x="579.0" y="78.9" class="slab s2">2026</text></svg></div>
+<div class="grid2" style="margin-top:8pt">
+<div><p><strong>61%</strong> of all replies arrive <em>after</em> the first email — an unsent
+follow-up forfeits more than half the outcome. The first follow-up out-performs the opener
+itself (5.0% vs 4.1% in 2025; 6.0% vs 5.8% in 2026 — predicted and held).</p></div>
+<div><p><strong>~90%</strong> of eventual replies are in by touch 3; touches 5–8 added
+0.6 points <em>combined</em> in 2025. One honest caveat: who receives touch 5 is the rep's
+choice, so late-touch rates describe the prospects reps chose to keep chasing.</p></div>
+</div>
+
+<p class="eyebrow" style="margin-top:16pt">Section 5b</p>
+<h2>The mirror: what our 12,462 emails actually look like</h2>
+<p class="small">Blind AI ratings, before any outcome was attached.</p>
+<div class="avoid"><svg viewBox="0 0 600 180" width="100%" class="chart"><text x="310" y="19.0" class="rowlab" text-anchor="end">states a real “why now”</text><rect x="320" y="9.0" width="176.7" height="12" rx="3" class="bar pos"/><text x="503.7" y="19.0" class="val">80.3%</text><text x="310" y="49.0" class="rowlab" text-anchor="end">well-polished (4–5)</text><rect x="320" y="39.0" width="179.1" height="12" rx="3" class="bar pos"/><text x="506.1" y="49.0" class="val">81.4%</text><text x="310" y="79.0" class="rowlab" text-anchor="end">named proof from their field (4–5)</text><rect x="320" y="69.0" width="107.4" height="12" rx="3" class="bar pos"/><text x="434.4" y="79.0" class="val">48.8%</text><text x="310" y="109.0" class="rowlab" text-anchor="end">visible mail-merge or near it (bespokeness ≤2)</text><rect x="320" y="99.0" width="97.2" height="12" rx="3" class="bar pos"/><text x="424.2" y="109.0" class="val">44.2%</text><text x="310" y="139.0" class="rowlab" text-anchor="end">no pain hypothesis at all (score 1)</text><rect x="320" y="129.0" width="132.9" height="12" rx="3" class="bar pos"/><text x="459.9" y="139.0" class="val">60.4%</text><text x="310" y="169.0" class="rowlab" text-anchor="end">mostly about the recipient (4–5)</text><rect x="320" y="159.0" width="19.1" height="12" rx="3" class="bar pos"/><text x="346.1" y="169.0" class="val">8.7%</text></svg></div>
+<p>The team writes clean, well-formed emails with clear asks — that are mostly about us. The
+two traits that matter most (a reason-to-write; not being a template) are exactly where the
+corpus is weakest: 20% of emails have no why-now, and 44% are visible mail-merge.</p>
+
+<!-- ============ 6. FAILURES + INSTRUMENT ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 6 · The safety net, working</p>
+<h2>Two findings died on the sealed data — and were withdrawn</h2>
+<p><strong>"Recipient-focused emails win"</strong> was 2025's most attractive result: +5.3pp,
+significant after correction, stronger in every robustness check we ran inside 2025. On the
+sealed 2026 data: <strong>−0.4pp</strong>, with the 2025 effect size statistically excluded. It
+had been labelled exploratory, moderate-reliability, small-sample — every flag earned. It is out.</p>
+<p><strong>"Bullet points ruin event invites"</strong> (−9.6pp in 2025) returned +1.3pp in 2026.
+A one-year artefact, now on record as such.</p>
+<p class="dim">Failure has two possible readings — never real, or real-then-the-world-changed.
+We do not use the second as a rescue: failed means withdrawn. But it is why "held" is the
+stronger claim: survivors cleared fresh noise <em>and</em> a changed world.</p>
+
+<h2 style="margin-top:14pt">Can you trust an AI judge? We measured it</h2>
+<p class="dim">Each quality was scored twice by the same AI on 1,246 emails, and independently
+by a second, stronger AI on 1,000. The table shows agreement <em>beyond chance</em> (0 = coin
+flip, 1 = perfect) on the exact cut used in analysis. Two qualities scored near-chance —
+by <em>both</em> AIs, which agreed with each other exactly as much as one agreed with itself
+(gap −0.02). That means the questions themselves are ambiguous, not the model — so both were
+discarded, and nothing in this document rests on them.</p>
+<table class="avoid" style="max-width:340pt">
+<tr><th>Judged quality</th><th>Self-agreement</th><th>Second AI</th></tr>
+<tr><td>Reason to write now</td><td>0.72</td><td>0.72</td></tr><tr><td>Research on the recipient</td><td>0.75</td><td>0.73</td></tr><tr><td>Guessed the reader&#x27;s problem</td><td>0.69</td><td>0.64</td></tr><tr><td>Specific value claim</td><td>0.67</td><td>0.62</td></tr><tr><td>Customer proof</td><td>0.65</td><td>0.66</td></tr><tr><td>Written just for them</td><td>0.56</td><td>0.60</td></tr><tr><td>Clear ask</td><td>0.42</td><td>0.57</td></tr><tr><td>Polish</td><td>0.43</td><td>0.46</td></tr><tr><td>About the recipient</td><td>0.43</td><td>0.45</td></tr><tr class=cut><td>Peer tone — discarded</td><td>0.32</td><td>0.32</td></tr><tr class=cut><td>Economy — discarded</td><td>0.22</td><td>0.26</td></tr>
+</table>
+<p class="small">Above 0.6 = solid · 0.4–0.6 = usable with care · below 0.4 = discarded.
+Separately, the 12 qualities were checked for being one "halo" score in disguise — they are not
+(mean cross-correlation 0.19; threshold 0.60), with one exception: research-signal and
+bespokeness overlap so strongly (r=0.83) that they are reported as one finding.</p>
+
+<!-- ============ 7. SCORECARD ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 7</p>
+<h2>The full scorecard: 19 predictions, sealed-data verdicts</h2>
+<p class="small">Every prediction and its pass/fail rule was committed to a timestamped record
+before 2026 was opened; power-limited rules were tightened (blind) in a pre-registered audit.</p>
+<table><tr><td>Mass-templated emails get fewer replies</td><td><span class="chip confirmed">Confirmed — both years, both outcomes (p=0.005 / 0.001)</span></td></tr><tr><td>A real reason-to-write-now wins</td><td><span class="chip confirmed">Confirmed — both outcomes (p=0.047 / 0.012)</span></td></tr><tr><td>Its effect size lands in the pre-declared band</td><td><span class="chip held">Held (+2.9, band +1.6 to +7.6)</span></td></tr><tr><td>It is the #1 judged quality</td><td><span class="chip held">Held — ranked first again</span></td></tr><tr><td>Follow-up #1 is worth as much as the opener</td><td><span class="chip held">Held (5.8% vs 6.0%)</span></td></tr><tr><td>Most replies arrive by the 4th touch</td><td><span class="chip held">Held (96%)</span></td></tr><tr><td>Same pattern on the “interested” outcome</td><td><span class="chip held">Held</span></td></tr><tr><td>“Pain”/“proof” negatives are just email length</td><td><span class="chip held">Held</span></td></tr><tr><td>The two unreliable qualities stay silent</td><td><span class="chip held">Consistent</span></td></tr><tr><td>Under 100 words beats longer</td><td><span class="chip direction">Direction held; 2025&#x27;s size (+4.5) excluded by 2026</span></td></tr><tr><td>Question subject lines help</td><td><span class="chip direction">Direction held; too rare in 2026 (n=79) to be sure</span></td></tr><tr><td>Asking 2+ questions hurts</td><td><span class="chip direction">Direction held</span></td></tr><tr><td>Templated event invites do worse</td><td><span class="chip direction">Direction held</span></td></tr><tr><td>Short event invites do better</td><td><span class="chip direction">Direction held; 2025&#x27;s +17.5 excluded</span></td></tr><tr><td>Bold text hurts</td><td><span class="chip inconclusive">Too close to call (cell shrank; wrong sign inside noise)</span></td></tr><tr><td>Personalisation &amp; crisp asks do nothing</td><td><span class="chip inconclusive">Still nothing — 2026 too noisy to certify ≤3pp</span></td></tr><tr><td>Recipient-focused emails win</td><td><span class="chip failed">Failed — +5.3 became −0.4; 2025 size excluded</span></td></tr><tr><td>Bullet points ruin event invites</td><td><span class="chip failed">Failed — −9.6 became +1.3</span></td></tr><tr><td>Reusing their name mid-email hurts</td><td><span class="chip untestable">Habit vanished (2 emails in 2026)</span></td></tr></table>
+
+<!-- ============ 8. SCOPE ============ -->
+<div class="pagebreak"></div>
+<p class="eyebrow">Section 8</p>
+<h2>Scope and limitations — what this study cannot say</h2>
+<ol class="main">
+<li><strong>It covers Gmail-recorded outbound only</strong> — hand-sent and Apollo-sent.
+Amplemarket sends leave no reliable reply trail and are excluded; they grew from 20% of
+outreach in 2025 to 71% in 2026. These findings therefore describe a shrinking, more
+deliberate slice of outbound (~75% of it in 2025, under 30% in 2026) and say nothing about
+whether the Amplemarket machine works.</li>
+<li><strong>The sending tool doesn't change what works.</strong> Tool-sent emails reply about
+2 points lower across the board, but the offset is flat: across all 29 traits tested, the tool
+changed the effect of essentially none (2 of 29, exactly the chance rate). It shifts the
+baseline, not the recipe — and is likely partly a tracking artefact, so no claim is made either way.</li>
+<li><strong>This is correlation, credibly narrowed — not an experiment.</strong> Within-sender
+comparison removes rep-level differences, but a rep may still save their best emails for their
+best prospects. Treat effect sizes as upper bounds; treat directions as trustworthy. The only
+way to do better is an A/B test, which this study's two confirmed findings are the natural
+candidates for.</li>
+<li><strong>Some 2026 verdicts are power-limited.</strong> 2026 is a quarter of 2025; four
+predictions came back "too close to call" — reported as exactly that, never as confirmation.</li>
+<li><strong>Known residuals, documented not hidden:</strong> 155 Amplemarket emails inside
+scope on a technicality (all analyses re-run without them; nothing changes); ~0.1% of replies
+missed via colleague hand-offs; non-English emails (0.5%) judged with an English rubric.</li>
+</ol>
+<hr class="rule">
+<p class="small">Method registration, defect log, per-analysis outputs and this document's
+source are version-controlled in the study repository (rules/RUN2_PREREGISTRATION.md,
+docs/13–16). Analysis: within-sender fixed effects with cluster-robust uncertainty;
+Benjamini–Hochberg correction within pre-registered families; placebo-tested. AI judging:
+blinded batches, automated leak gate (0 leaks across 12,462 items), dual-model validation.
+Prepared 15 August 2026.</p>
+</body></html>
