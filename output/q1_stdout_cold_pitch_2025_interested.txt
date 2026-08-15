@@ -1,0 +1,71 @@
+=== cold_pitch / 2025 / outcome=interested / G=30 — n=5153, reply rate 4.7% ===
+                          feature  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_same_direction  reps_tested
+                     has 2+ links     178        9.6       4975           4.5     5.0     1.5    10.3        2.6 0.3816 0.5724   False                    2            4
+                      has bullets     205        8.3       4948           4.5     3.7     0.6     8.4        3.0 0.4351 0.6143   False                    1            2
+            subject is a question     998        7.6       4155           4.0     3.6     2.0     5.5        3.9 0.0352 0.1690   False                    6            9
+              short (<=100 words)    1368        7.2       3785           3.8     3.4     1.9     5.0        3.3 0.0040 0.0320    True                    8           11
+                       has a link     358        7.8       4795           4.5     3.4     0.9     6.7        2.5 0.1566 0.3132   False                    4            6
+          very short (<=60 words)     228        6.6       4925           4.6     2.0    -0.7     6.0        2.9 0.1353 0.2952   False                    2            3
+        subject has their company     648        6.0       4505           4.5     1.5    -0.2     3.7        0.8 0.1013 0.2518   False                    3            7
+          informal greeting (hey)     661        5.7       4492           4.5     1.2    -0.5     3.3       -2.5 0.1786 0.3297   False                    1            2
+short first question (<=12 words)    1584        5.5       3569           4.3     1.1    -0.1     2.5        0.3 0.8284 0.8644   False                    8           11
+        short subject (<=4 words)    1759        5.1       3394           4.5     0.6    -0.6     1.9        2.1 0.0769 0.2518   False                    5            6
+             few paragraphs (<=4)    4377        4.8        776           4.3     0.5    -1.2     1.9        0.4 0.6645 0.7974   False                    5            6
+              few sentences (<=8)    4887        4.7        266           4.5     0.2    -3.1     2.2        1.3 0.2170 0.3720   False                    3            5
+         mentions their role/work     559        4.8       4594           4.7     0.2    -1.5     2.3        0.3 0.7773 0.8480   False                    6            9
+           subject has their name     328        4.9       4825           4.7     0.2    -1.8     3.1       -0.9 0.3068 0.4909   False                    1            3
+                long (>150 words)     572        4.7       4581           4.7     0.0    -1.6     2.2       -0.7 0.5262 0.6647   False                    4            8
+                     has an image      93        4.3       5060           4.7    -0.4    -3.1     5.9       -0.7 0.7728 0.8480   False                    0            0
+                      no greeting      72        4.2       5081           4.7    -0.5    -3.3     6.9       -1.3 0.4653 0.6204   False                    1            2
+           mentions their company    2456        4.4       2697           5.0    -0.6    -1.8     0.5        0.0 0.9975 0.9975   False                    6           13
+                asks 2+ questions     847        3.9       4306           4.9    -1.0    -2.3     0.7       -1.5 0.1004 0.2518   False                    3            8
+              greets them by name    4441        4.3        712           6.9    -2.5    -4.7    -0.8       -2.1 0.0249 0.1494   False                    3           11
+                    has bold text     567        2.1       4586           5.0    -2.9    -4.0    -1.2       -2.9 0.0001 0.0012    True                    0            3
+                  asks a question    4866        4.5        287           7.7    -3.1    -6.9    -0.5       -2.8 0.1049 0.2518   False                    1            3
+  templated (3+ identical bodies)    2767        3.1       2386           6.6    -3.5    -4.7    -2.3       -4.0 0.0001 0.0012    True                    2           12
+uses their name again in the body     395        1.3       4758           5.0    -3.7    -4.7    -2.0       -3.1 0.0517 0.2068   False                    1            4
+
+BH-significant at q<0.05: 3 of 24 tested
+
+=== bucket tables ===
+
+word count:
+         size  sum  rate
+n_words                 
+<50       163   11   6.7
+50-99    1205   87   7.2
+100-149  3213  117   3.6
+150-249   571   27   4.7
+250+        1    0   0.0
+
+questions:
+             size  sum  rate
+n_questions                 
+0             287   22   7.7
+1            4019  187   4.7
+2             821   31   3.8
+3+             26    2   7.7
+
+links:
+         size  sum  rate
+n_links                 
+0        4795  214   4.5
+1         180   11   6.1
+2         173   17   9.8
+3+          5    0   0.0
+
+subject words:
+               size  sum  rate
+subject_words                 
+1-2             269   22   8.2
+3-4            1487   68   4.6
+5-7            1828   82   4.5
+8+             1566   70   4.5
+
+sentences:
+             size  sum  rate
+n_sentences                 
+1-4          1525   88   5.8
+5-8          3362  142   4.2
+9-12          258   12   4.7
+13+             8    0   0.0

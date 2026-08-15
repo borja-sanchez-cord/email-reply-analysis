@@ -13,11 +13,13 @@ from what an agent reported.
 
 ## The one-line state
 
-Steps 1 and 2 of the study are **complete**. Tests 43 passing. Type labels 485/485.
-Frames rebuilt. Defect 7 fixed. **The §1b gate has been re-measured and PASSES at 92.8%**
-on a fresh seed — `interested` is cleared for use as a co-primary outcome.
-**No analysis has been run. No email has been judged. Zero results exist.**
-Next is the first real comparison (Layer 1, 2025 only) — free, no agents.
+**Round 1 is COMPLETE and committed** (2026-08-15): rubric middle anchors written first,
+then Layer 1 on 2025 only, placebo PASS (2.1% vs 5% ceiling), G21/G45 robustness PASS,
+ca-split consistent, Q2 curve re-run on corrected matching, 2026 predictions committed in
+`docs/13_layer1_2025_findings.md`. Headline: templating −5.4pp, short ≤100 +4.5pp,
+subject-question +4.5pp, all within-sender. **2026 has NOT been opened** — it opens once,
+after Round 2. Next step: judging (build batches → check_blinding → 20-example read →
+launch, ~$110). No email has been judged yet.
 
 ## The intent gate — RESOLVED, do not re-open
 
@@ -43,32 +45,25 @@ ls output/type_labels | wc -l                        # must be 485
 Then check the numbers table above. All of stage 0/1 and the frame rebuild is done;
 labelling agents do **not** need re-running.
 
-### Step 1 — the next work, all free, no agents
+### Round 1 — DONE 2026-08-15, do not redo
 
-1. **Finish the rubric.** `rules/judge_rubric.md` defines only what a 1 and a 5 look like
-   for each of the 12 dimensions. 2/3/4 are undefined. That is exactly the defect that made
-   the intent gate fail — an undefined boundary, not a weak model. Write the middle anchors
-   and **commit before any scoring**.
-2. **Layer 1 on 2025 ONLY.** `scripts/analyze_q1.py`. ~24 features × 2 outcomes × 4 types is
-   a lot of comparisons; apply the pre-registered BH correction and do not promote anything
-   post-hoc.
-3. **Placebo test** — shuffle outcomes within stratum, re-run. Must pass before any real
-   result is read.
-4. **Re-run Q2** — the committed curve used pre-§9.5 matching.
-5. **Write the 2025 findings down and COMMIT them** before touching 2026. The holdout is
-   worthless if the prediction is not timestamped first.
+1. ~~Rubric middle anchors~~ — committed before Layer 1 ran (`rules/judge_rubric.md`).
+2. ~~Layer 1 on 2025~~ — `output/q1_*.json`, `output/q1_stdout_*.txt`. analyze_q1.py now
+   implements the §3 primary spec (sender FE, cluster-robust SEs) + BH + `--ca` split +
+   `--shuffle-seed` placebo.
+3. ~~Placebo~~ — 5 hits / 240 shuffled tests (2.1%), PASS.
+4. ~~Q2 re-run~~ — 2025 only (holdout), `output/q2_curve_all_2025_G30.csv`.
+5. ~~Findings + predictions committed~~ — `docs/13_layer1_2025_findings.md` (P1–P9).
 
-### Step 2 — then, in this order (no stage starts before the previous asserts pass)
+### Next — judging (Round 2), in this order
 
 ```bash
-.venv/bin/python scripts/analyze_q2.py               # RE-RUN: old curve used pre-§9.5 matching
-.venv/bin/python scripts/analyze_q1.py --type cold_pitch --year 2025   # Layer 1, 2025 ONLY
-# placebo test on shuffled labels — must pass before any real result is read
-# write the 2025 findings down and COMMIT them before touching 2026 (holdout, §9 of
-#   rules/eligibility_and_analysis_rules.md)
 .venv/bin/python scripts/build_judge_batches.py
 .venv/bin/python scripts/check_blinding.py           # must exit 0 or judges do not launch
-# then the 20-example read below — mandatory
+# then the 20-example read below — MANDATORY (operator instruction)
+# then judge on Sonnet (~$110), 10% re-score, Fable 1,000-email cross-check (~$50)
+# then halo check + judged-vs-counted correlation check, Layer-2 analysis on 2025,
+# commit Round-2 predictions — only THEN open 2026, once, for both rounds
 ```
 
 Full stage order in §6 of the pre-registration.

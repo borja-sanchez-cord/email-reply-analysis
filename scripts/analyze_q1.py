@@ -11,7 +11,18 @@ plain words in the write-up). Plus the two robustness checks:
 Splits come from rules/analysis_splits_addendum.md — declared before any number
 was computed. Nothing here chooses a threshold from the data.
 
+Per RUN2_PREREGISTRATION §3 the primary specification is within-sender: a linear
+probability model with sender fixed effects and cluster-robust SEs by sender
+(fe_gap_pp / fe_p). The pooled with/without gap is reported alongside. BH
+(Benjamini–Hochberg) is applied to the FE p-values across all reported features
+in a run (§2's multiple-comparison rule, applied to the Layer-1 family).
+
+--shuffle-seed N implements the §5.2 placebo: the outcome column is permuted
+WITHIN sender before the identical analysis runs. Any bh_sig=True on shuffled
+labels is a bug in this code, not a result.
+
 Usage: python3 analyze_q1.py --type cold_pitch --year 2025 [--G 30] [--outcome replied]
+                             [--ca confirmed_ca|fallback_ca] [--shuffle-seed N]
 """
 import argparse
 import json
@@ -19,6 +30,7 @@ import os
 
 import numpy as np
 import pandas as pd
+import statsmodels.formula.api as smf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -88,6 +100,35 @@ def wilson_diff(k1, n1, k2, n2, z=1.96):
     return lo, hi
 
 
+def fe_estimate(df, mask, outcome):
+    """§3 primary spec: LPM with sender fixed effects, SEs clustered by sender."""
+    d = pd.DataFrame({"y": df[outcome].astype(float), "x": mask.astype(float),
+                      "s": df["sender_local"]})
+    if d["x"].nunique() < 2 or d["s"].nunique() < 2:
+        return np.nan, np.nan, np.nan
+    m = smf.ols("y ~ x + C(s)", data=d).fit(
+        cov_type="cluster", cov_kwds={"groups": d["s"]})
+    return m.params["x"], m.bse["x"], m.pvalues["x"]
+
+
+def bh(pvals):
+    """Benjamini–Hochberg q-values; NaN-safe."""
+    p = np.asarray(pvals, dtype=float)
+    q = np.full_like(p, np.nan)
+    ok = ~np.isnan(p)
+    pv = p[ok]
+    n = len(pv)
+    if n == 0:
+        return q
+    order = np.argsort(pv)
+    ranked = pv[order] * n / (np.arange(n) + 1)
+    ranked = np.minimum.accumulate(ranked[::-1])[::-1]
+    out = np.empty(n)
+    out[order] = np.minimum(ranked, 1.0)
+    q[ok] = out
+    return q
+
+
 def within_rep(df, mask, outcome):
     """Direction of the effect inside each rep who sent both kinds."""
     agree = total = 0
@@ -133,16 +174,24 @@ def analyse(df, outcome, judge_cols):
         k2, n2 = int(b[outcome].sum()), len(b)
         lo, hi = wilson_diff(k1, n1, k2, n2)
         agree, total, details = within_rep(df, mask, outcome)
+        fe_b, fe_se, fe_p = fe_estimate(df, mask, outcome)
         rows.append({
             "feature": name,
             "n_with": n1, "rate_with": round(100 * k1 / n1, 1),
             "n_without": n2, "rate_without": round(100 * k2 / n2, 1),
             "gap_pp": round(100 * (k1 / n1 - k2 / n2), 1),
             "gap_lo": round(100 * lo, 1), "gap_hi": round(100 * hi, 1),
+            "fe_gap_pp": round(100 * fe_b, 1) if not np.isnan(fe_b) else np.nan,
+            "fe_se_pp": round(100 * fe_se, 1) if not np.isnan(fe_se) else np.nan,
+            "fe_p": round(fe_p, 4) if not np.isnan(fe_p) else np.nan,
             "reps_same_direction": agree, "reps_tested": total,
             "rep_detail": details,
         })
-    return pd.DataFrame(rows)
+    res = pd.DataFrame(rows)
+    if "fe_p" in res.columns:
+        res["bh_q"] = np.round(bh(res["fe_p"].values), 4)
+        res["bh_sig"] = res["bh_q"] < 0.05
+    return res
 
 
 def bucket_tables(df, outcome):
@@ -161,6 +210,10 @@ def main():
     ap.add_argument("--year", type=int, default=2025)
     ap.add_argument("--G", type=int, default=30)
     ap.add_argument("--outcome", default="replied")
+    ap.add_argument("--ca", default="", choices=["", "confirmed_ca", "fallback_ca"],
+                    help="§3: results are reported split by ca_class, never pooled silently")
+    ap.add_argument("--shuffle-seed", type=int, default=0,
+                    help="§5.2 placebo: permute the outcome within sender, then run unchanged")
     ap.add_argument("--tag", default="")
     args = ap.parse_args()
 
@@ -174,7 +227,18 @@ def main():
         judge_cols = [c for c in JUDGE_TOPBOX if c in df.columns]
 
     df = df[(df["type"] == args.type) & (df["year"] == args.year)]
-    print(f"=== {args.type} / {args.year} / outcome={args.outcome} / G={args.G} — "
+    if args.ca:
+        df = df[df["ca_class"] == args.ca]
+    if args.shuffle_seed:
+        # §5.2 placebo: break the feature-outcome link but preserve each sender's
+        # base rate, matching the within-sender design being tested
+        rng = np.random.default_rng(args.shuffle_seed)
+        df = df.copy()
+        df[args.outcome] = (df.groupby("sender_local")[args.outcome]
+                            .transform(lambda s: rng.permutation(s.values)))
+    label = "PLACEBO (shuffled labels) " if args.shuffle_seed else ""
+    print(f"=== {label}{args.type} / {args.year} / outcome={args.outcome} / G={args.G}"
+          f"{' / ' + args.ca if args.ca else ''} — "
           f"n={len(df)}, reply rate {100 * df[args.outcome].mean():.1f}% ===")
     if len(df) < 100:
         print("too small to analyse — reporting count only")
@@ -184,13 +248,23 @@ def main():
     res_show = res[res["note"].isna()] if "note" in res.columns else res
     res_show = res_show.sort_values("gap_pp", ascending=False)
     cols = ["feature", "n_with", "rate_with", "n_without", "rate_without",
-            "gap_pp", "gap_lo", "gap_hi", "reps_same_direction", "reps_tested"]
+            "gap_pp", "gap_lo", "gap_hi", "fe_gap_pp", "fe_p", "bh_q", "bh_sig",
+            "reps_same_direction", "reps_tested"]
+    cols = [c for c in cols if c in res_show.columns]
     print(res_show[cols].to_string(index=False))
     if "note" in res.columns and res["note"].notna().any():
         print("\nnot reported (too few):",
               ", ".join(res[res["note"].notna()]["feature"]))
+    if "bh_sig" in res.columns:
+        n_sig = int(res["bh_sig"].fillna(False).sum())
+        print(f"\nBH-significant at q<0.05: {n_sig} of "
+              f"{int(res['fe_p'].notna().sum())} tested")
 
     tag = args.tag or f"{args.type}_{args.year}_{args.outcome}_G{args.G}"
+    if args.ca:
+        tag += f"_{args.ca}"
+    if args.shuffle_seed:
+        tag += f"_placebo{args.shuffle_seed}"
     res.to_json(os.path.join(OUT, f"q1_{tag}.json"), orient="records", indent=1)
 
     print("\n=== bucket tables ===")
