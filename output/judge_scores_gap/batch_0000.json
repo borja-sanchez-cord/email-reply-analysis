@@ -1,0 +1,34 @@
+[
+{
+"id": "468325792971",
+"research_signal": 5,
+"why_now": true,
+"value_specificity": 3,
+"proof_relevance": 4,
+"pain_hypothesis": 1,
+"ask_clarity": 5,
+"ask_size": "large",
+"bespokeness": 4,
+"polish": 2,
+"economy": 4,
+"peer_tone": 4,
+"recipient_centricity": 3,
+"evidence": "date conflict '16th of March' vs '17th of March'; 'Warner Bros are sponsoring Nvidia GTC'"
+},
+{
+"id": "486293157101",
+"research_signal": 2,
+"why_now": true,
+"value_specificity": 3,
+"proof_relevance": 0,
+"pain_hypothesis": 2,
+"ask_clarity": 5,
+"ask_size": "large",
+"bespokeness": 2,
+"polish": 5,
+"economy": 5,
+"peer_tone": 4,
+"recipient_centricity": 4,
+"evidence": "no named proof at all; 'small dinner ... on May 4th' with clear time/venue"
+}
+]

@@ -1,0 +1,84 @@
+=== cold_pitch / 2026 / outcome=replied / G=30 / fallback_ca — n=459, reply rate 3.5% ===
+
+--- COUNTED family (BH applied within this family only) ---
+                          feature  family reliability  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_agreeing  reps_tested
+                asks 2+ questions counted                  62        8.1        397           2.8     5.3     0.3    14.8        2.0 0.0156 0.0792   False            0.0          0.0
+             few paragraphs (<=4) counted                 330        4.8        129           0.0     4.8     1.4     7.7        1.3 0.3753 0.5004   False            0.0          1.0
+              few sentences (<=8) counted                 429        3.7         30           0.0     3.7    -7.7     6.0        4.1 0.3342 0.5004   False            0.0          1.0
+                  asks a question counted                 357        4.2        102           1.0     3.2    -1.4     6.0       -0.0 0.2646 0.5004   False            0.0          0.0
+              greets them by name counted                 292        4.5        167           1.8     2.7    -1.2     5.9        4.1 0.0340 0.1088   False            2.0          2.0
+           mentions their company counted                 196        4.6        263           2.7     1.9    -1.5     6.1        0.3 0.8958 0.9555   False            1.0          2.0
+         mentions their role/work counted                 109        4.6        350           3.1     1.4    -2.1     7.3       -0.0 0.9960 0.9960   False            2.0          3.0
+              short (<=100 words) counted                 222        4.1        237           3.0     1.1    -2.5     4.9       -2.2 0.4723 0.5398   False            1.0          2.0
+           subject has their name counted                  54        3.7        405           3.5     0.2    -3.3     9.2        2.4 0.0000 0.0000    True            1.0          1.0
+short first question (<=12 words) counted                 135        2.2        324           4.0    -1.8    -4.9     2.6       -5.5 0.3446 0.5004   False            1.0          2.0
+        subject has their company counted                 117        1.7        342           4.1    -2.4    -5.3     2.2        1.8 0.4394 0.5398   False            0.0          2.0
+                      no greeting counted                  90        0.0        369           4.3    -4.3    -6.9     0.1       -0.0 0.1946 0.5004   False            0.0          0.0
+                     has an image counted                  89        0.0        370           4.3    -4.3    -6.9     0.1       -1.0 0.0000 0.0000    True            0.0          0.0
+                    has bold text counted                  90        0.0        369           4.3    -4.3    -6.9     0.1       -0.0 0.3506 0.5004   False            0.0          0.0
+  templated (3+ identical bodies) counted                 182        0.5        277           5.4    -4.9    -8.2    -1.6       -2.4 0.0198 0.0792   False            2.0          2.0
+        short subject (<=4 words) counted                 255        1.2        204           6.4    -5.2    -9.5    -1.8       -5.4 0.2424 0.5004   False            0.0          0.0
+
+--- PRIMARY family (BH applied within this family only) ---
+                                     feature  family reliability  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_agreeing  reps_tested
+judged: states a reason for reaching out now primary       solid     193        6.7        266           1.1     5.6     2.1    10.1        2.2 0.5201 0.5201   False            0.0          1.0
+            judged: bespokeness (top 2 of 5) primary    moderate     210        6.2        249           1.2     5.0     1.6     9.2        3.2 0.0048 0.0156    True            1.0          1.0
+            judged: ask_clarity (top 2 of 5) primary    moderate     216        6.0        243           1.2     4.8     1.4     8.9        2.6 0.3283 0.4377   False            1.0          2.0
+        judged: research_signal (top 2 of 5) primary       solid     234        5.6        225           1.3     4.2     0.8     8.0        2.7 0.0078 0.0156    True            1.0          1.0
+
+--- EXPLORATORY family (BH applied within this family only) ---
+                                  feature      family reliability  n_with  rate_with  n_without  rate_without  gap_pp  gap_lo  gap_hi  fe_gap_pp   fe_p   bh_q  bh_sig  reps_agreeing  reps_tested
+  judged: names any customer/social proof exploratory       solid     307        4.6        152           1.3     3.2    -0.6     6.3        1.9 0.2478 0.7828   False            1.0          1.0
+     judged: proof matches their industry exploratory       solid     216        4.6        243           2.5     2.2    -1.3     6.1       -0.2 0.6523 0.7828   False            2.0          2.0
+           judged: peer_tone (top 2 of 5) exploratory  UNRELIABLE     288        3.5        171           3.5    -0.0    -4.3     3.3        0.2 0.9110 0.9110   False            1.0          2.0
+judged: recipient_centricity (top 2 of 5) exploratory    moderate     160        3.1        299           3.7    -0.6    -3.9     3.7        1.3 0.6367 0.7828   False            1.0          3.0
+   judged: value_specificity (top 2 of 5) exploratory       solid     266        2.6        193           4.7    -2.0    -6.2     1.4       -1.5 0.5544 0.7828   False            3.0          3.0
+     judged: pain_hypothesis (top 2 of 5) exploratory       solid     230        2.2        229           4.8    -2.6    -6.4     0.9       -2.7 0.4784 0.7828   False            2.0          2.0
+
+not reported (too few): very short (<=60 words), long (>150 words), has a link, has 2+ links, has bullets, subject is a question, uses their name again in the body, informal greeting (hey), judged: polish (top 2 of 5), judged: economy (top 2 of 5)
+BH-significant [counted]: 2 of 16
+BH-significant [primary]: 2 of 4
+BH-significant [exploratory]: 0 of 6
+
+=== bucket tables ===
+
+word count:
+         size  sum  rate
+n_words                 
+<50         4    0   0.0
+50-99     218    9   4.1
+100-149   226    7   3.1
+150-249    11    0   0.0
+250+        0    0   NaN
+
+questions:
+             size  sum  rate
+n_questions                 
+0             102    1   1.0
+1             295   10   3.4
+2              62    5   8.1
+3+              0    0   NaN
+
+links:
+         size  sum  rate
+n_links                 
+0         452   16   3.5
+1           5    0   0.0
+2           2    0   0.0
+3+          0    0   NaN
+
+subject words:
+               size  sum  rate
+subject_words                 
+1-2              26    0   0.0
+3-4             229    3   1.3
+5-7             129    9   7.0
+8+               75    4   5.3
+
+sentences:
+             size  sum  rate
+n_sentences                 
+1-4           135    5   3.7
+5-8           294   11   3.7
+9-12           28    0   0.0
+13+             2    0   0.0

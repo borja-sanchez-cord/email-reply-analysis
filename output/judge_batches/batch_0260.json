@@ -1,0 +1,202 @@
+[
+{
+"id": "477753807043",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME], \n\n We just onboarded Neon on organizing and identifying valuable audio data collected by phone agents and thought it overlaps with what you're building at [COMPANY]. \n\n Encord works with Voice AI teams (Udio, Thinking Machines Lab) that build TTS/ASR/STS models and voice agents, supporting them on tasks like voice activity detection, diarization, word-level transcription, and model eval/preference ranking. \n\n Worth a 20-min chat to see if there's a fit on your side?"
+},
+{
+"id": "477757627608",
+"subject": "Re: Boston AI Leaders Dinner - 26th March",
+"text": "Hi [NAME],\n\nI had a great discussion with Nikita at NeurIPS in regard to [COMPANY]'s plans\nto build a more robust data pipeline.\n\nReaching out because my leadership team is hosting an AI dinner for ~25\nleaders in the Boston area, and thought it would be great to have you join.\n\nFor contact we're a Series C multimodal ML DataOps platform and we help\nteams like UiPath, Reducto and Thinking Machine Labs produce better\nquality data for their models across image, text and video data.\n\nThe dinner will start at 6pm at Mooo Steakhouse (Seaport) and you'll be\njoined by Founders, CTOs and VP of ML/AI from customers and teams in our\nnetwork like Shopify, Boston Dynamics and LinkedIn.\n\nWould you like me to save you a seat? If so, I can send over the full\ndetails."
+},
+{
+"id": "477761068278",
+"subject": "Re: Qiufei discussion about audio annotation + eval pipelines",
+"text": "Hi [NAME],\n\nI've been speaking with Qiufei about [COMPANY]'s data workflows, your name\ncame up in the context of speech and audio modelling.\n\nWe work with a number of teams building voice gen and audio eval pipelines,\nnative audio playback, transcription, quality scoring, and annotation in\none place with model-in-the-loop workflows. Given your focus on speech and\nmultimodal understanding, I thought it might be relevant.\n\nWould you be open to a call next week to get you up to speed?"
+},
+{
+"id": "477767508214",
+"subject": "Content moderation",
+"text": "Hi [NAME],\n\nWe just onboarded a brand safety team, helping them scale\nauto-classification across markets.\n\nWe've built out the platform to help them understand which model\nconfiguration performs best at automating manual moderation, given regional\npolicy variation and contextually-dependent content cues.\n\nSounds like similar setup can help your team as well. Should we find 30\nmins to catch up in the coming days?"
+},
+{
+"id": "477768855800",
+"subject": "Re: Nvidia GTC Physical AI Dinner - 17th March",
+"text": "Hi [NAME],\n\nSent an invite via LinkedIn - hope you don't mind me following up on here\ntoo.\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\n(alongside the Nvidia GTC conference) for ~20 leaders in AI and Autonomy.\n\nConfirmed we have Founders, CTOs and VPs from Kodiak, Blue River Tech, Bot\nAuto, WeRide and others building autonomous systems, so it's shaping up to\na fantastic evening and we'd love to have your perspectives in the room too.\n\nYou may have seen, Encord just announced our Series C to further support\nour Physical AI customers with our multimodal ML DataOps platform - we've\nspoke to Arvin (prior to leaving) and Murali in your team, so would love to\nconnect with you too.\n\nLet me know if you'll be in the South Bay and are interested in joining,\nand I'll send over the details."
+},
+{
+"id": "477769818336",
+"subject": "the harder problem after quality",
+"text": "Hi [NAME],\n\nCongrats on the cinematic outputs from Seedance 2.0!\n\nGeneration quality is table stakes now. The harder problem we've seen is that aesthetics and contextual cues that resonate with one user segment can be completely different from another (ads creator vs. filmmaker; American vs. Chinese markets, etc.)\n\nWe help video generation teams like Synthesia, Flawless and Tavus navigate this - improving diversity of human feedback and automating annotation, evaluation and QA review workflows. The objective is richer fine-tuning data: time-aligned audio-visual datasets for SFT and multi-dimensional preference signals for RLHF.\n\nHow are you thinking about output alignment at [COMPANY]? Worth a quick chat?"
+},
+{
+"id": "477771863228",
+"subject": "RE: Boston dinner",
+"text": "Hey [NAME],\n\nJust checking incase the Slack didn't come through - but would love to have\nyou join. Really great crowd, private room and amazing food!\n\nLet me know if you can join - details here\n<[LINK]>"
+},
+{
+"id": "477785152711",
+"subject": "Content moderation at scale",
+"text": "Hi [NAME],\n\nWe just onboarded a brand safety team, helping them scale\nauto-classification across markets. The main challenge was to understand\nwhich model configuration performs best at automating manual moderation at\nscale, while accounting for regional policy variation and\ncontextually-dependent content cues.\n\nHere's how we're approaching it at Encord: we've built out a platform to\norchestrate model configuration (prompt + LLM/VLM/OCR pairing), model\nperformance evaluation and human labelling and verification in one place.\n\nWould you be open to exchange perspectives on how you're navigating this?"
+},
+{
+"id": "477786300602",
+"subject": "Content moderation at scale",
+"text": "Hi [NAME],\n\nWe just onboarded a trust & safety team, helping them scale\nauto-classification across markets. The main challenge was understand which\nmodel configuration performs best at automating manual moderation at scale,\nto account for regional policy variation and contextually-dependent content\ncues.\n\nHere's how we're approaching it at Encord: we've built out a platform to\norchestrate model configuration (prompt + LLM/OCR/ASR pairing), model\nperformance evaluation and human labelling and verification in one place.\n\nWould you be open to exchange perspectives on you're navigating this?"
+},
+{
+"id": "477788559600",
+"subject": "the harder problem after quality",
+"text": "Hi [NAME],\n\nCongrats on the cinematic outputs from Seedance 2.0!\n\nGeneration quality is table stakes now. The harder problem we've seen is that aesthetics and contextual cues that resonate with one user segment can be completely different from another (ads creator vs. filmmaker; American vs. Chinese markets, etc.)\n\nWe help video generation teams like Synthesia, Flawless and Tavus navigate this - improving diversity of human feedback and automating annotation, evaluation and QA review workflows. The objective is richer fine-tuning data: time-aligned audio-visual datasets for SFT and multi-dimensional preference signals for RLHF.\n\nHow are you thinking about output alignment at ByteDance? Worth a quick chat?"
+},
+{
+"id": "477832676575",
+"subject": "Re: Qiufei chat regarding annotation infra at [COMPANY]",
+"text": "Hi [NAME],\n\nI've been speaking with Qiufei about [COMPANY]'s annotation setup,\nspecifically around running LLM eval, voice, and video generation QC across\na 650+ annotator workforce in three regions.\n\nAs infrastructure lead, the questions around deployment model, data\nresidency, and RBAC likely land with you too.\n\nEncord supports region-level access controls, and teams like Synthesia and\nThinking Machine Labs use us for exactly this kind of multimodal pipeline.\n\nWorth a quick call to see if it's relevant? Happy to work around your\nschedule."
+},
+{
+"id": "477841536236",
+"subject": "the harder problem after quality",
+"text": "Hi [NAME],\n\nCongrats on the cinematic outputs from Seedance 2.0!\n\nGeneration quality is table stakes now. The harder problem we've seen is that aesthetics and contextual cues that resonate with one user segment can be completely different from another (ads creator vs. filmmaker; American vs. Chinese markets, etc.)\n\nWe help video generation teams like Synthesia, Flawless and Tavus navigate this - improving diversity of human feedback and automating annotation, evaluation and QA review workflows. The objective is richer fine-tuning data: time-aligned audio-visual datasets for SFT and multi-dimensional preference signals for RLHF.\n\nHow are you thinking about output alignment at [COMPANY]? Worth a quick chat?"
+},
+{
+"id": "477854400755",
+"subject": "VLA Workflows",
+"text": "Hi [NAME],\n\nGiven our work with Motive - handling billion-mile datasets, improving\nlong-tail event detection, and automating labelling at scale - I thought\nEncord might be relevant for your team.\n\nOur ML DataOps platform supports autonomy teams across data curation and\nlabelling automation, and given the parallels with [COMPANY], I'd love to\ncompare notes on how your team handles annotation quality.\n\nOpen to a quick 30-min chat this week, or happy to connect at GTC if you're\nattending?"
+},
+{
+"id": "477854507223",
+"subject": "Content moderation at scale",
+"text": "Hi [NAME],\n\nWe just onboarded an ads integrity team, helping them scale\nauto-classification across markets. The main challenge was assembling\nmodels, labelling and human QA together, to account for regional policy\nvariation and contextually-dependent content cues.\n\nHere's how we're approaching it at Encord: we've built out a platform to\norchestrate model configuration (prompt + LLM pairing), model performance\nevaluation and human labelling and verification in one place.\n\nWould you be open to exchange perspectives on you're navigating this?"
+},
+{
+"id": "477894611147",
+"subject": "the harder problem after quality",
+"text": "Hi [NAME] ,\n\nCongrats on the cinematic outputs from Seedance 2.0!\n\nGeneration quality is table stakes now. The harder problem we've seen is that aesthetics and contextual cues that resonate with one user segment can be completely different from another (ads creator vs. filmmaker; European vs. Chinese markets, etc.)\n\nWe help video generation teams like Synthesia, Flawless and Tavus navigate this - improving diversity of human feedback and automating annotation, evaluation and QA review workflows. The objective is richer fine-tuning data: time-aligned audio-visual datasets for SFT and multi-dimensional preference signals for RLHF.\n\nHow are you thinking about output alignment at [COMPANY]? Worth a quick chat?"
+},
+{
+"id": "477943258312",
+"subject": "Scaling VLA Workflows",
+"text": "Hi [NAME],\n\nGiven our work with Motive - handling billion-mile datasets, improving\nlong-tail event detection, and automating labelling at scale - I thought\nEncord might be relevant for your team.\n\nOur ML DataOps platform supports autonomy teams across data curation and\nlabelling automation, and given the parallels with [COMPANY], I'd love to\ncompare notes on how your team handles annotation quality.\n\nOpen to a quick 30-min chat this week, or happy to connect at GTC if you're\nattending?"
+},
+{
+"id": "478028473580",
+"subject": "Synthesia's Multimodal data management solution",
+"text": "Hi [NAME],\n\nWe recently released EMM-1\n<[LINK]>\n- the world's largest open-source multimodal dataset, with 107 million\nimage, video, text, audio and point cloud embeddings - and thought it might\nbe relevant given the work you're doing building Instant Diffusion from\nscratch. The push into enterprise is exactly the kind of expansion we tend\nto help to accelerate.\n\nOur engineering team has been building out dataset curation and label\nvalidation tooling specifically for visual AI teams at this stage of scale\n- we're working with teams like Synthesia and would love to get your take\non what we've shipped.\n\nWould you be open to a quick 15-minute chat to take a look, see if there's\nany overlap, and share some honest feedback?"
+},
+{
+"id": "478086364364",
+"subject": "GenAI eval",
+"text": "Hi [NAME], \n\n      Saw your work spanning booking, post-booking, and servicing - I imagine that means juggling multiple GenAI + predictive workflows, each with very different data quality and failure modes. \n\n      One common challenge we see across F500 and digital-native teams: GenAI performance ultimately depends on structured human feedback for evaluation. \n\n      That's where Encord fits - supporting preference ranking, pairwise comparisons, rubric-based eval across modalities, and curating eval sets around real failure modes. \n\n      Curious if this resonates on your side? Happy to compare notes in a quick 20-min intro chat."
+},
+{
+"id": "478086543557",
+"subject": "Expedia <> Encord",
+"text": "Hi [NAME], \n\n       Really enjoyed your APAC talk on responsible AI - and what a journey from building Capital One's personalization engine to now leading Data & AI at \n       Expedia!\n\n       At that scale, the bottleneck we see across F500 and digital-native teams isn't models - it's knowing which data to trust and train on. \n\n       Encord helps surface the \"needles in haystacks\", manage multimodal workflows, and strengthen GenAI eval so teams reduce long-tail failure modes. \n\n       With new CAIDO onboard, timing feels right - would you be open to a quick 20 min intro chat?"
+},
+{
+"id": "478086704353",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME],\n\nWe just onboarded Neon on organizing and identifying valuable audio data collected by phone agents and thought it overlaps with what you're building at [COMPANY].\n\nEncord works with Voice AI teams (Udio, Thinking Machines Lab) that build TTS/ASR/STS models and voice agents, supporting them on tasks like voice activity detection, diarization, word-level transcription, and model eval/preference ranking. \n\nWorth a 20-min chat to see if there's a fit on your side?"
+},
+{
+"id": "478103346419",
+"subject": "DIMAAG <> Encord",
+"text": "Hi [NAME],\n\nThanks for checking out Encord - you're at the right place :)\n\nWe support 300+ CV + multimodal AI teams (Boston Dynamics, Woven/Toyota,\nSkydio, etc) on pre-and post-training data development - curation,\nannotation, QA, and model eval.\n\nWould love to understand better about your data annotation needs - I've\nblocked a 30min chat next Tue at 9pm IST. Happy to shift it if you prefer\nanother time."
+},
+{
+"id": "478103772382",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nWe confirmed guests from Nimble, Cobot, WeRide, Kodiak, and Coco. Would be\ngreat to have [COMPANY] join the conversation.\n\nIn case you're not familiar with Encord (Series C, $110M raised), we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "478111758540",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nLast week, we confirmed guests from Boston Dynamics, Nimble, Anyware\nRobotics, Cobot, and Walmart Ecommerce / Symbotic. Would be great to have\n[COMPANY] join the conversation.\n\nIn case you're not familiar with Encord (Series C, $110M raised), we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "478112030927",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nIt'll be an intimate evening with executives from Boston Dynamics, Nimble,\nCobot, WeRide, Kodiak, and Coco. Would be great to have [COMPANY] join the\nconversation.\n\nIn case you're not familiar with Encord (Series C, $110M raised), we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "478113780982",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME] Burak,\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nIn the past week, we confirmed guests from Woven by Toyota, WeRide, Kodiak,\nCoco, Nimble, and Walmart Ecommerce / Symbotic.\n\nIn case you're not familiar with Encord (Series C, $110M raised), we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "478115000563",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nLast week, we confirmed guests from Boston Dynamics, Nimble, Anyware\nRobotics, Cobot, and Walmart Ecommerce / Symbotic. Would be great to have\n[COMPANY] join the conversation.\n\nIn case you're not familiar with Encord (Series C, $110M raised), we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "478123428057",
+"subject": "AI leaders dinner",
+"text": "Hey [NAME],\n\nWe're hosting a private dinner for AI Leaders with guests from companies\nlike Boston Dynamics and Pickle Robot, and we'd love to have you join us.\n\nWe have booked out a private dining room at Mooo in Seaport on Thursday,\n26th March with drinks kicking off at 6:30. For context, it will be an\ninformal dinner for a group of 20 ML leaders working to tackle challenges\nin building multimodal AI in the Boston area.\n\nAre you available? Will share some more details and have our Events Lead\nsave you a seat, if so."
+},
+{
+"id": "478123520222",
+"subject": "the harder problem after quality",
+"text": "Hi [NAME],\n\nCongrats on the cinematic outputs from Seedance 2.0!\n\nGeneration quality is table stakes now. The harder problem we've seen is that aesthetics and contextual cues that resonate with one user segment can be completely different from another (ads creator vs. filmmaker; American vs. Chinese markets, etc.)\n\nWe help video generation teams like Synthesia, Flawless and Tavus navigate this - improving diversity of human feedback and automating annotation, evaluation and QA review workflows. The objective is richer fine-tuning data: time-aligned audio-visual datasets for SFT and multi-dimensional preference signals for RLHF.\n\nHow are you thinking about output alignment at [COMPANY]? Worth a quick chat?"
+},
+{
+"id": "478123926747",
+"subject": "AI Leaders Dinner, Boston 26th March",
+"text": "Hi [NAME],\n\nWe're hosting a private dinner for AI/ML Leaders in Boston with guests from\ncompanies like Suno, Spotify and Boston Dynamics - we'd love to have you\njoin us.\n\nWe have booked out a private dining room in Seaport on Thursday, 26th March\nwith drinks kicking off at 18:30. It'll be a relaxed, informal dinner with\nthe goal of bringing ~20 ML leaders together who are working to tackle\nchallenges in multimodal AI.\n\nAre you available? Will share some more details and save you a seat, if so."
+},
+{
+"id": "478130050287",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nThis week, we confirmed that co-founders and senior execs from Woven by\nToyota, Gatik, WeRide, Kodiak, Coco, Nimble, and Walmart Ecommerce /\nSymbotic will be joining us.\n\nIn case you're not familiar with Encord (Series C, $110M raised), we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "478139559143",
+"subject": "coffee at GTC?",
+"text": "Hi [NAME],\n\nThanks for checking out Encord. Are you going to GTC next week?\n\nWould love to show you a demo in person and how we can help with your use\ncase developing training data for Humanoid.\n\nI'll be there fulldays 17-19th - let me know when is good for you!"
+},
+{
+"id": "478144330997",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nThanks for checking out Encord - you're at the right place.\n\nWe work with leading CV and multimodal AI teams (e.g. Boston Dynamics,\nWoven/Toyota, Spiideo) on 2D and 3D annotation. For sports use cases, we're\nvery familiar with the tasks and edge cases.\n\nWould love to understand your annotation and data management needs better.\nI've tentatively put in a 30min chat on next Wed at 1pm EDT. Happy to shift\nif another time works better."
+},
+{
+"id": "478155692263",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nThanks for checking out Encord - I wanted to personally reach out and see\nhow I can help.\n\nWe work with AI teams like Reducto, UiPath, Appfolio on OCR/LVM/LLM related\nworkflows. We also just released an agents cateloge that allows teams to\nplug in pre-built agents and custom models to automate annotation, QA, and\nmodel eval.\n\nCurious to understand your workflow and use cases better. I've tentatively\nput in a 30min hold for next Wed at 10am."
+},
+{
+"id": "478188144826",
+"subject": "scaling data throughput - Encord",
+"text": "Hi [NAME],\n\nCongrats on the funding round. Alper recommended we should talk, so I\nwanted to reach out.\n\nWe are working with home robotics teams to build flexible annotation\npipelines optimized for iteration speed. Would love to compare notes on\nwhat your team's workflow looks like.\n\nAre you free early next week or potentially at GTC?"
+},
+{
+"id": "478231828674",
+"subject": "Encord - Interest",
+"text": "Hi [NAME], thanks for your interest in Encord!\n\nI'd love to learn a bit more about your work so I can better understand how we can help:\nWhat prompted your interest in Encord? Rough size of team? Project stage and timeline? Our platform is available via an annual subscription, which tends to work well for teams with ongoing needs."
+},
+{
+"id": "478235563242",
+"subject": "Synthesia's Multimodal data management solution",
+"text": "Hi [NAME],\n\nWe recently released EMM-1\n<[LINK]>\n - the world's largest open-source multimodal dataset, with 107 million\nimage, video, text, audio and point cloud embeddings - and thought it might\nbe relevant given the work you're doing building Instant Diffusion from\nscratch. The push into enterprise is exactly the kind of expansion we tend\nto help to accelerate.\n\nOur engineering team has been building out dataset curation and label\nvalidation tooling specifically for visual AI teams at this stage of scale\n- we're working with teams like Synthesia and would love to get your take\non what we've shipped.\n\nWould you be open to a quick 15-minute chat to take a look, see if there's\nany overlap, and share some honest feedback?"
+},
+{
+"id": "478235764947",
+"subject": "Synthesia's Multimodal data management solution",
+"text": "Hi [NAME],\n\nWe recently released EMM-1\n<[LINK]>\n - the world's largest open-source multimodal dataset, with 107 million\nimage, video, text, audio and point cloud embeddings - and thought it might\nbe relevant given the work you're doing building Instant Diffusion from\nscratch. The push into enterprise is exactly the kind of expansion we tend\nto help to accelerate.\n\nOur engineering team has been building out dataset curation and label\nvalidation tooling specifically for visual AI teams at this stage of scale\n- we're working with teams like Synthesia and would love to get your take\non what we've shipped.\n\nWould you be open to a quick 15-minute chat to take a look, see if there's\nany overlap, and share some honest feedback?"
+},
+{
+"id": "478235777264",
+"subject": "Synthesia's Multimodal data management solution",
+"text": "Hi [NAME],\n\nWe recently released EMM-1\n<[LINK]>\n - the world's largest open-source multimodal dataset, with 107 million\nimage, video, text, audio and point cloud embeddings - and thought it might\nbe relevant given the work you're doing building Instant Diffusion from\nscratch. The push into enterprise is exactly the kind of expansion we tend\nto help to accelerate.\n\nOur engineering team has been building out dataset curation and label\nvalidation tooling specifically for visual AI teams at this stage of scale\n- we're working with teams like Synthesia and would love to get your take\non what we've shipped.\n\nWould you be open to a quick 15-minute chat to take a look, see if there's\nany overlap, and share some honest feedback?"
+},
+{
+"id": "478235797720",
+"subject": "Synthesia's Multimodal data management solution",
+"text": "Hi [NAME],\n\nWe recently released EMM-1\n<[LINK]>\n - the world's largest open-source multimodal dataset, with 107 million\nimage, video, text, audio and point cloud embeddings - and thought it might\nbe relevant given the work you're doing building Instant Diffusion from\nscratch. The push into enterprise is exactly the kind of expansion we tend\nto help to accelerate.\n\nOur engineering team has been building out dataset curation and label\nvalidation tooling specifically for visual AI teams at this stage of scale\n- we're working with teams like Synthesia and would love to get your take\non what we've shipped.\n\nWould you be open to a quick 15-minute chat to take a look, see if there's\nany overlap, and share some honest feedback?"
+},
+{
+"id": "478240611570",
+"subject": "Synthesia's Multimodal data management solution",
+"text": "Hi [NAME],\n\nWe recently released EMM-1\n<[LINK]>\n - the world's largest open-source multimodal dataset, with 107 million\nimage, video, text, audio and point cloud embeddings - and thought it might\nbe relevant given the work you're doing building Instant Diffusion from\nscratch. The push into enterprise is exactly the kind of expansion we tend\nto help to accelerate.\n\nOur engineering team has been building out dataset curation and label\nvalidation tooling specifically for visual AI teams at this stage of scale\n- we're working with teams like Synthesia and would love to get your take\non what we've shipped.\n\nWould you be open to a quick 15-minute chat to take a look, see if there's\nany overlap, and share some honest feedback?"
+}
+]

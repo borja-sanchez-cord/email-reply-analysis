@@ -1,0 +1,202 @@
+[
+{
+"id": "173571608792",
+"subject": "[Invite] AI Leaders Dinner - 04/30",
+"text": "Hi [NAME], \n\nCongrats on the recent raise at [COMPANY]. Our co-founder is hosting an exec dinner for AI/ML & Computer Vision Leaders in Boston and we'd love for you to join us, if you're available. \n\nWe've reserved a private dining room for ~20 guests at the Harvard Club of Boston on Wednesday 30th April, starting at 6:30 PM. Confirmed attendees include Execs, CTOs & Head of AI etc. from leading scale-ups including Eleven Labs, Twilio and Locus Robotics. \n\nIn case you're not familiar with Encord, we're a data development platform built to help teams bring better models to market, faster (~6 years old, 100+ employees & $50M+ funding) working with AI teams at Synthesia, Toyota/Woven, Archetype, etc).\n\nWould you be interested in joining?"
+},
+{
+"id": "183223359702",
+"subject": "Event Inquiry - 15 May [YEAR] - Encord",
+"text": "Hi [NAME],\n\nI wanted to enquire for a event/ private dining booking on the evening of\n15 May [YEAR]. We are looking to host approx 25-30 people. Could you let me\nknow if you have availability for this date?\n\nAdditionally, it would be helpful if you can provide information on the\nsetup + the cost would be great. The occasion is business dinner."
+},
+{
+"id": "288894662874",
+"subject": "How Voxel & Protex scale data pipeline for vision AI model development",
+"text": "Hi [NAME],\n\nI was reading about [COMPANY]'s effort in developing a wildfire detection tool\n(thank you for protecting our beautiful Californian forest with AI!) Thought\nI'd reach out since we work with companies like Voxel and Protex on\nsimilarly complex, high-stake CV models.\n\nWe help them scale annotation and training pipelines for video-heavy,\nedge-case environments (power line inspections, misplacement detection,\nmotion tracking, etc).\n\nIn case Encord is new to you: we're a data development platform for\nadvanced computer vision and multimodal AI (image, video, 3D etc),\noffering data curation, annotation, workflow management & model evaluation\nin one place so teams can focus on building better AI models faster.\n\nWould love to explore if some of these challenges resonate. Do you have\n20mins to chat? Wednesdays/Thursdays work best for us."
+},
+{
+"id": "482376853709",
+"subject": "Did the Encord doughnuts make it to you??",
+"text": "Hi [NAME],\n\nHope you were in the Boston office last Friday when we delivered some\ndoughnuts!\n\nWe wanted to introduce ourselves when we were in town as it looks like\nMerlin are scaling on the autonomy side and it could be good timing.\n\nFor context, Encord works with leading physical AI teams\nincluding Boston Dynamics, Woven by Toyota and Scout AI - providing the\nplatform + services to scale their multimodal annotation pipelines.\n\nWould be great to be introduced & happy to share how we may be able\nto support as you scale the autonomy stack.\n\nWould you be open to having a conversation later this week / early next?"
+},
+{
+"id": "452780202185",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME], \n\n       Always good to see a fellow NUS alum doing well in the US. I've just moved from SG to SF and have been spending time with a few IDV/fraud teams here. \n\n       For teams with strong infra and modeling, the harder problems tend to show up post-deployment: understanding false positives, resolving edge cases, and turning failure modes into clean, auditable training data. That's where Encord usually fits in. \n\n       If useful, I'd love to grab 20 min to say hi and compare notes on how you're approaching this at \n       [COMPANY]. Would Thu or Fri work?"
+},
+{
+"id": "484339755202",
+"subject": "[Invite] Enterprise AI Leaders Dinner in Bellevue - May 4th",
+"text": "Hi [NAME],\n\nOn behalf of my co-founder [SENDER]\n<[LINK]>,\nI'd love to invite you to a small dinner we're hosting in Bellevue on May\n4th.\n\nWe've booked a private space at Ascend with a great view for ~20 CxOs,\nsenior researchers, and tech leads to come together and exchange ideas on\nAI and agents in enterprise deployments.\n\nFor context, Encord ($110M, Series C) helps Boston Dynamics, Yutori,\nSynthesia, and Twelve Labs streamline ML Ops and data flywheel.\n\nCan I save you a seat?"
+},
+{
+"id": "252422575307",
+"subject": "LBM 2.0?",
+"text": "Hey [NAME]\u200b,\n\nRead the recent write-up of TRI's LBM study & was curious to understand how the team is thinking about further fine-tuning - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Physical AI / Robotics team here at Encord, working with Woven (who I know you'll be very familiar with), Pickle Robot, Archetype AI & other leading teams - providing the platform to support the fine-tuning of Multimodal foundation models with strong support for video tracking & VLA annotations.\n\nCurious to know if scaling training data pipelines is likely to be a priority as the team further improves its LBMs? \n\nLet me know if it makes sense to chat, happy to give some ideas based on how we're working with similar teams,"
+},
+{
+"id": "361626857668",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME],\n\nExpect you'll be at NeurIPS this year, so I wanted to extend an invite from our founders [SENDER] . He's hosting a small dinner for Heads of ML/ Applied Research attending the San [SENDER] conference on Tuesday (12/2). We'd love to see you there!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests joining from Woven (Toyota), Skydio, Zipline and more. We're capping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We unify curation, model-assisted annotations and human review in one platform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "474152811724",
+"subject": "approaching world models - building on existing curation wkflws at Franka/Agile",
+"text": "Hi [NAME],\n\nBeen working on a few pieces on identifying dataset quality and the certain\nenvironments where robotic models fail which the Agile/Franka team have\nraised as a priority for you guys in the past.\n\nWith your new focus on world models - imagine this becomes even more\ncritical when dealing with larger, irregular and multimodal datasets. Seen\nteams who move from video -> world models focus on leveraging complex\ncuration workflows to achieve this. Is this how you guys are thinking about\nthis too?\n\nWe've been working with Embodied AI and World Models teams at Boston\nDynamics, Wayve etc. - would love to connect and share the learnings across\nthe industry.\n\nDo you have some this or next week - suggesting Weds/Thurs afternoons?\n\nLet me know and we can get something on the calendar"
+},
+{
+"id": "220518839511",
+"subject": "Vehicle Inspection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI came across your recent podcast feature on how automotive dealerships are\nleveraging AI. Thought I'd reach out since we work on projects with UVEYE,\nTractable and Fyusion on very similar visual inspection models. Thought\nit's worth a chat.\n\nFor context - we help over 200 AI teams improve data quality for model\ndevelopment. We've designed our platform to handle complex annotation\ntasks, with the objective of increasing model accuracy and reducing time\nspent in dataset preparation.\n\nLet me know if you're open to exchange perspectives? We'll be in Nashville\nfor CVPR Friday (6/13) to Sunday (6/15) this week, or happy to connect\nvirtually if you prefer."
+},
+{
+"id": "490112897210",
+"subject": "AI leaders dinner in SF, May 21st - interested in joining?",
+"text": "Hi [NAME],\n\nSaw you're leading pre-training work at Reflection, so I wanted to invite\nyou to a dinner my co-founder, [SENDER], is hosting on Thursday 21st May in SF\n- would be great to have you there if you're around.\n\nWe've got a private room at Angler SF from 6pm alongside our partners,\nLanceDB, and are keeping it to ~20 senior ICs and research leaders from\nteams like Midjourney, Netflix, and Adobe.\n\nThe focus is on how frontier labs are thinking about pre-training +\npost-training loops, especially as systems move toward more agentic\nbehaviour and require tighter iteration between data, evals, and training.\n\nFor context, Encord supports teams building frontier models (e.g. Thinking\nMachine Labs) as the data layer for rapid experimentation.\n\nWould you be up for joining? Happy to share more details."
+},
+{
+"id": "410110278898",
+"subject": "[Invite] Defense AI Roundtable Dinner, 11th Feb @ WEST 26",
+"text": "Hi [NAME],\n\nOn behalf of my co-founders, [SENDER] and [SENDER], I'd love to invite you to an\nintimate roundtable dinner we're hosting in collaboration with xAI and\nHarpoon (our investors) in San [SENDER] for WEST 26 - we'd love for you to\njoin!\n\nWe've booked a private dining room for 14 guests at Water Grill on\nWednesday, Feb 11th, 6pm - 9pm. Attendees will include a select list of\nCEOs, Co-founders, and AI leaders from leading defense tech companies for a\ndiscussion on Physical AI in defense conducted under the Chatham House\nrule.\n\nLarsen Jensen, Founder & General Partner at Harpoon Ventures, will moderate\nthe roundtable. You'll also be joined by our co-founders, [SENDER] and [SENDER],\nand [SENDER] Alonso from xAI, who reports directly to Elon Musk.\n\nFor context, Encord is the leading ML Data Management layer for multimodal\nAI backed by Harpoon Ventures, and we've teamed up with xAI to bring\ntogether leaders in defense tech deploying real AI applications.\n\n[SENDER] and [SENDER] would love to have your voice in the room - would you be\ninterested in joining and I can send across the details?"
+},
+{
+"id": "203812482235",
+"subject": "GIM / Encord @ AOMH25",
+"text": "Hi [NAME]\u200b,\n\nSaw you guys are attending AOMH25 this year, would be great to connect then!\n\nWe've been working on enabling hazard prevention, 3D localisation, object tracking models with a few of your logistics and ADAS peers (Symbiotic, Exotec, Rockwell Auto) and would be really keen to trade notes either at AOMH or afterwards - if you're open to a quick chat this week or the next? Wednesdays and Thursdays usually work for me."
+},
+{
+"id": "470111923386",
+"subject": "[Invite] Physical AI Happy Hour @ GTC'26 - Mar 18",
+"text": "Hi [NAME],\n\nAre you heading to GTC this month in San Jose?\n\nEncord is hosting a happy hour on Wednesday 18 Mar. We'd love to welcome\nyou if you're available that evening.\n\nYou'll be joining 60+ top engineers, researchers, AI/ML leaders for an\nevening of great conversations, over drinks and food at the Goodtime Bar\n(walking distance from the conference).\n\nYou can sign up here\n<[LINK]>\n-\nor let me know if I can help you skip the waitlist."
+},
+{
+"id": "144151542995",
+"subject": "[Invite] Encord Physical AI Leaders Dinner @ Kokkari SF",
+"text": "Hi [NAME],\n\nOur Co-Founders, [SENDER] & [SENDER], will be hosting an intimate Physical AI roundtable dinner for customers & CxOs and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Kokkari in San Francisco on Thursday February 27th 6:30-9:30pm, capping attendance to ~25 people.\n\nAttendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Archetype AI, Physical Intelligence, Cobot, The Bot Company etc. We will also be joined by a few of our investors, including Next47 and CRV.\n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help computer vision teams get better models to market, faster. For context, we're working with many leaders in the Physical AI space doing similarly great things to [COMPANY].\u200b\n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "502544526545",
+"subject": "AMCU // content understanding",
+"text": "Hi \n      [NAME], \n\n      Noticed your work leading AMCU, especially on the classification + copy detection systems over the 3D creator catalog. Thought I'd reach out as I'm working on similar projects. \n\n      We work with Synthesia and Thinking Machines Lab on high-volume content understanding pipelines. The challenge there is less about model building and more about keeping taxonomy, edge cases, and quality signals aligned as the catalog scales. \n\n      Curious how you're handling label freshness and hard corner cases as new assets come in. Open to a quick 20-min chat Tue-Thu?"
+},
+{
+"id": "218825237728",
+"subject": "Skeleton tracking at [COMPANY] | Working with Hudl & Pixellot",
+"text": "Hi [NAME]\u200b,\n\nI've been following [COMPANY]'s recent expansion post-EA acquisition and your deep-learning work powering skeleton tracking from 25-60\u202fHz video streams. Given the precision demands of your CV models (e.g. 21-joint pose estimation, offside line detection), I imagine managing labeled data at scale is becoming increasingly complex.\n\nAt Encord, we've been working with CV sports analytics teams (Hudl, Pixellot, Veo, Spiideo) to centralize annotation workflows, integrate human-in-the-loop QA, surface edge cases, and automate large-scale labeling through techniques like active learning and ontology-driven labeling. \n\nOpen to a quick 20-min chat next week? Would love to hear how you're approaching this at [COMPANY]."
+},
+{
+"id": "451276671205",
+"subject": "[COMPANY] <> Encord - annotation",
+"text": "Hi [NAME],\n\nHope you're well! Your team connected with us last June while evaluating\nannotation tools across multiple modalities.I wanted to check back in and\nsee how things have evolved since then.\n\nSince we last spoke, we've helped several enterprise teams transition\nfrom Label Studio and SuperAnnotate as their needs mature and data volume /\ncomplexity expand, especially around multimodal (text, audio, image, video,\npoint clouds) workflows, QA, and model eval.\n\nWould love to hear what projects are currently on your roadmap and whether\nit makes sense to revisit the conversation.\n\nOpen to a quick 30-min catch up next Wed/ Thu?"
+},
+{
+"id": "490414493939",
+"subject": "world models webinar - 1x, dyna",
+"text": "Hey [NAME] - nice to meet you!\n\nWe recently hosted a deep-dive webinar on the future of AI in robotics -\nthought you would've found the discussion relevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "118085753026",
+"subject": "[Invite] Encord AI Leaders Dinner @ Browns 23/01",
+"text": "Hi [NAME],\u200b\n\nOur Founder/CEO [SENDER] will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Browns in Covent Garden London on Thursday January 23rd starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nPrevious attendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Waymo, Synthesia, and Airbnb as well as larger orgs such as Baker Hughes, Philips & Nvidia. \n\nIn case you're not familiar with Encord - we're an London-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "188302451956",
+"subject": "[Invite] Encord AI Leaders Mixer @ 25 Lusk - May 15",
+"text": "Hi [NAME],\n\nOur Co-Founder & Head of US will be hosting an intimate networking event\nfor customers & AI leaders in the Bay Area - we'd love for you to join if\nyou're interested / can make it, as it looks like you're based in Canada!\n\nWe've booked a private lounge at 25 Lusk in SF on Thursday, May 15th,\n6:30-9:30 pm, capping attendance at ~30 people (open bar + food included).\nAttendees include CxOs & technical leaders from leading VC-backed scale-ups\nworking with computer vision - i.e. Skydio, Archetype AI, Physical\nIntelligence, Standard AI, Shield AI and others.\n\nBit of context on Encord...we're a computer vision scale-up (recently\nraised a $30M Series B) focused on consolidating data curation, annotation,\nworkflow management and model evaluation under one platform.\n\nThought it'd be a good opportunity to get connected - would you be\ninterested in joining? I can send over an invite if so."
+},
+{
+"id": "207589729491",
+"subject": "Plan for CVPR",
+"text": "Hi [NAME],\n\nAssuming you and the [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee & show the team some of the big improvements to the product since we last chatted to see if they might align with what [COMPANY] is doing on all things computer vision.\n\nWe are also hosting an AI/ML happy hour on Friday - you'd be more than welcome to join & share with whoever - let me know if you'd like more info on this & I can share the link."
+},
+{
+"id": "502171266279",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "451308008693",
+"subject": "[Invite] Private AI Leaders Dinner - SF - Feb 26",
+"text": "Hi \n          [NAME], \n\n          Congrats on [COMPANY] being named one of the top 10 most innovative tech companies by \n          Sports Business Journal - well deserved! In the spirit of celebrating, I'd love to invite you to a private dinner my co-founders are hosting.\n\n          It'll be on \n          Thursday, Feb 26, in the private dining space at \n          Niku Steakhouse (Michelin starred) in SF. We're bringing together ~20 founders, CxOs, and Heads of AI/ML from frontier labs, scale-ups, and fortune 500 - no decks, no press, just candid conversations over great food and drinks. \n\n          For quick context, Encord works with teams like Standard AI, Focal Systems, Augmodo, to improve training data quality and model accuracy at scale. \n\n          We'd love your perspective at the table - can I save you a seat?"
+},
+{
+"id": "206722995388",
+"subject": "Plan for CVPR",
+"text": "Hi [NAME],\n\nAssuming you and the [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee & show the team some of the big improvements to the product since we last chatted to see if they might align with what [COMPANY] is doing on all things computer vision.\n\nWe are also hosting an AI/ML happy hour on Friday - you'd be more than welcome to join & share with whoever - let me know if you'd like more info on this & I can share the link."
+},
+{
+"id": "211473786044",
+"subject": "Coffee @CVPR [YEAR]?",
+"text": "Hi [NAME],\n\nHope you've been well with the launch milestone! I wanted to check if\nyou're heading to Nashville for CVPR [YEAR]? Myself and my colleagues\nfamiliar with the ADAS space will be there & we've got a booth.\n\nQuick recap on what we do... We work on projects w/ over 200 AI teams\n(incl. Woven by Toyota, Nexar, Mobileye etc.) to improve data quality for\nmodel development. Typically in ADAS space we serve as a front end to\nsupport their indexing & searching through billions of data items &\noptimize their HITL workflows.\n\nLet me know if you're attending CVPR? Would be great to finally connect -\nwe're there Friday (6/13) to Sunday (6/15) but also happy to find time for\nvirtual coffee if easier."
+},
+{
+"id": "188382687469",
+"subject": "[Invite] Encord AI Leaders Mixer @ 25 Lusk - May 15",
+"text": "Hi [NAME],\n\nOur Co-Founder & Head of US will be hosting an intimate networking event\nfor customers & AI leaders in the Bay Area - we'd love for you to join if\nyou're interested / are in SF then!\n\nWe've booked a private lounge at 25 Lusk in SF on Thursday, May 15th,\n6:30-9:30 pm, capping attendance at ~30 people (open bar + food included).\nAttendees include CxOs & technical leaders from leading VC-backed scale-ups\nworking with computer vision - i.e. Skydio, Archetype AI, Physical\nIntelligence, Standard AI, Shield AI and others.\n\nBit of context on Encord...we're a computer vision scale-up (recently\nraised a $30M Series B) focused on consolidating data curation, annotation,\nworkflow management and model evaluation under one platform.\n\nThought it'd be a good opportunity to get connected - would you be\ninterested in joining? I can send over an invite if so."
+},
+{
+"id": "207197161702",
+"subject": "Plan for CVPR",
+"text": "Hi [NAME],\n\nAssuming you and the [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee & show the team some of the big improvements to the product since we last chatted to see if they might align with what [COMPANY] is doing on all things computer vision.\n\nWe are also hosting an AI/ML happy hour on Friday - you'd be more than welcome to join & share with whoever - let me know if you'd like more info on this & I can share the link.\n\nThanks [NAME] - hope all is well, chat soon."
+},
+{
+"id": "213593501901",
+"subject": "Encord AI Exec Dinner - CVPR '25",
+"text": "Morning [NAME],\n\nIt's been a while, how's things?\n\nCurious if you're going to CVPR this year. We're hosting a dinner and\nfireside chat on Saturday (6/14) & would love for you to join!\n\nThe event will run from 6:30pm to 9:30pm, kicking off with a fireside chat\nwith Luc Vincent (Chief R&D Officer at Nexar, ex-VP of AI at Meta),\ncentering on topics e.g. data quality & diversity and scaling model\ndevelopment. We'll continue the discussion at the dinner with CxOs\nand technical practitioners in the computer vision space.\n\nHappy to share details if you're in Nashville then?"
+},
+{
+"id": "299809153267",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with other geospatial leaders such as Maxar & Xoople.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love the opportunity to show you what\nwe've built and hear your thoughts. Would you be open to learning more?"
+},
+{
+"id": "175454681313",
+"subject": "AI Execs Dinner @ Harvard Club Boston",
+"text": "Hi [NAME],\u200b\n\nI lead a Physical AI team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few of your peers (Pickle Robot, Toyota/Woven, Archetype, etc). \n\nOur team is hosting an exec dinner for Physical AI leaders at the Harvard Club of Boston on Wednesday April 30th starting at 6:30pm w/ C-suites Heads of AI/ML at Locus Robotics, Aaptiv, Righthand Robotics, etc. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "315248268476",
+"subject": "Multimodal Dinner - SF - 30 Oct",
+"text": "Hi [NAME],\n\nOur founder [SENDER] is hosting a small dinner in SF on Thursday, 30th\nOctober at Spruce. I'd love to extend an invite.\n\nThe evening's theme is the multimodal shift in AI - the convergence of\nvision, sensor and language data for autonomous systems. We're keeping it\nsmall (c.20 guests), mostly heads of AI/ technical leaders joining from\nteams e.g. 1X, Physical Intelligence, Dyna Robotics, etc. I thought you\nmight enjoy being part of the discussions.\n\nQuick recap on Encord - we support leading physical AI teams (e.g. Boston\nDynamics, Skydio & Zipline) automate their annotation pipelines at\nscale + unify\nimage, video and point cloud data development in one place.\n\nHappy to share the full event details if you can make it?"
+},
+{
+"id": "357110918378",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "155642128627",
+"subject": "Coffee @ISC West [YEAR]?",
+"text": "Hi [NAME],\n\nYour Peak IDV interview caught my attention-your path from the army to\nacademia to scaling an eng-heavy team is impressive. Having moved from VC\nto the operator side myself, I respect your choice to bootstrap for\nmeasured growth in a high-stake vertical like biometrics.\n\nOur leadership team will be at ISC West in Vegas and would love to grab a\ncoffee if you're attending? I'm with Encord (~5 years old, 90+ employees),\na data development platform helping advanced computer vision and multimodal\nteams build better models. We work with AI-driven security & surveillance\nteams (Milestone Systems, Flock Safety, Rhombus, LVT, Actuate AI etc.) to\naccelerate video annotation & curation for faster threat detection and\nimproved public safety.\n\n[COMPANY]'s leading metrics on facial and fingerprint recognition have been on\nour radar for a while. Would be great to swap insights on CV / multimodal\nin identity proofing if you have 30 mins? We're at ISC West from Monday\n(3/31) to Friday (4/4) or virtually. Happy to work around your availability\nif helpful."
+},
+{
+"id": "206676478160",
+"subject": "Plan for CVPR",
+"text": "Hi [NAME],\n\nAssuming you and the [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee & show the team some of the big improvements to the product since we last chatted to see if they might align with what [COMPANY] is doing on all things computer vision.\n\nWe are also hosting an AI/ML happy hour on Friday - you'd be more than welcome to join & share with whoever - let me know if you'd like more info on this & I can share the link."
+},
+{
+"id": "133027087574",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi there,\n\nI saw that you visited our website a few months ago and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "211045305554",
+"subject": "Improving accuracy of EHR based ML | Working with FlatIron & TargetRWE",
+"text": "Hi [NAME]\u200b,\n\nSaw the growing EHR-based ML work and importance of data quality at Concert AI, thought I'd reach out.\n\nI've recently been working with Flatiron Health and TargetRWE as they looked to improve the quality & performance of their models. We helped them to streamline data curation and annotation workflows to enhance regulatory compliance and efficiency in handling complex unstructured data (EHRs, docs etc). \n\nWould be keen to trade notes and get your thoughts on what we're building - open to a 30-minute chat this or next week?"
+},
+{
+"id": "195925997773",
+"subject": "{Invitation} Encord's AI leader dinner @Paris",
+"text": "Salut [NAME],\n\nHope all's well. On organise un autre d\u00eener \u00e0 la Maison de l'Am\u00e9rique\nLatine le 21 Mai.\n\nM\u00eame style que la derni\u00e8re fois mais avec un groupe diff\u00e9rent - H company,\nZalando, Brut, etc\n\nLet me know si \u00e7a t'int\u00e9resse (+Laodis) et je peux vous ajouter \u00e0 la liste\ndes invit\u00e9s :)\n\nAu plaisir,"
+},
+{
+"id": "270247555299",
+"subject": "RE: AI Leaders dinner London",
+"text": "Hey [NAME],\n\nReaching out for two reasons:\n\n1) We're hosting a private dinner for AI + CV leadership in London on the\n23rd. It will involve a diverse crowd of applications from medtech,\nrobotics to surveillance and a set of fireside chats. Would love to have\nyou join so do let me know if you'd be able to get down from Oxford on that\ndate.\n\n2) Connected with Phil earlier this year on the Pathology work but didn't\nget a chance to speak to you or your team regarding the developments in\nradiology. Quite a bit has changed on our side since you last spoke to the\nteam and it would be great to trade updates on either end.\n\nHappy to chat about either so let me know if you'd be interested in a quick\ncall."
+},
+{
+"id": "135868299452",
+"subject": "[Invite] Encord AI Leaders Dinner @ Taverna 02/26",
+"text": "Hi [NAME],\u200b\n\nOur Founder/President [SENDER] Stig [SENDER] will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Taverna in Palo Alto on Wednesday February 26th starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nPrevious attendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Waymo, Synthesia, and Airbnb as well as larger orgs such as Baker Hughes, Philips & Nvidia. \n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+}
+]

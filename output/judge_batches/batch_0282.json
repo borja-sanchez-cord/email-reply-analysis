@@ -1,0 +1,202 @@
+[
+{
+"id": "490732086515",
+"subject": "[SENDER] & Simon / intro",
+"text": "Hi [NAME] - nice to meet you!\n\nHope you enjoyed the event today - sadly i didn't arrive from London due to\nflight problems to represent Encord - saw you're building in robotics - was\nreally hoping to meet you.\n\nI'm working with teams like Boston Dynamics, Path Robotics, NEURA on ML\npipelines - would love to chat about what you're working on, and happy to\ntell you what we've built on our side,\n\nWould you have 15 mins to trade introductions tomorrow/next week?"
+},
+{
+"id": "490750148827",
+"subject": "[NAME] - [SENDER] introduction / foxglove - encord",
+"text": "Hi [NAME] - nice to meet you,\n\nSeen that you attended the event today - sadly I didn't arrive from London\ndue to flight problems - I read that *until *now you're at Auterion and was\nhoping to get chat,\n\nFor context, I'm at Encord working with teams like Skydio, Zipline, NEURA &\nothers, helping them scale their perception data and annotation pipelines\nie aerial imagery, multi-camera video and edge case curation workflows that\ntend to become a bottleneck.\n\nWould love to hear what you've been doing at Auterion and what you're\nthinking about next - also happy to share what we've been building here.\n\nWould you have 20 mins to trade intros today/sometime next week?"
+},
+{
+"id": "490766873795",
+"subject": "Encord // [COMPANY] - reconnect",
+"text": "Hey [NAME],\n\nI hope you are doing well. Just reaching out as I see that it's been a few\nmonths since you spoke with [SENDER] and the team - thought it might be\ninteresting to check back in.\n\nSince January, we've had some exciting product updates, which should map\ndirectly onto [COMPANY]'s use case. It would be great to find 20 mins to\ndiscuss how things are developing on both sides.\n\nLooking to next week, below are times that work for us (in CEST):\n\nMonday 2pm / 4pm\nTuesday 12:30pm / 4pm\nWednesday 1pm / 3pm\n\nLet me know if you have some time to chat."
+},
+{
+"id": "490779034813",
+"subject": "save your $1 mil annual annotation bill",
+"text": "Hi [NAME],\n\nTeams in the asset protection and retail security space usually spend\nmillions of dollars outsourcing the labeling of CCTV footage.\n\nThat's why teams like Standard AI, Augmodo, Flock Safety, and LiveViewTech\npartner with Encord to automate the end-to-end data management process -\nfrom curation to labeling, QA, and model eval.\n\nCurious if this resonates with what you're building at Gatekeeper?\n\nHappy to hop on a call and share how others are saving costs while boosting\nmodel performance and driving revenue.\n\nWould you have 30 minutes next Tue - Thu for a quick call?"
+},
+{
+"id": "490789406913",
+"subject": "[SENDER] x Aleksandar - intro",
+"text": "Hi [NAME] - nice to meet you!\n\nHope you enjoyed the event today - sadly i didn't arrive from London due to\nflight problems - seen you're working on VLAs and was hoping to chat,\n\nI'm working with teams like Boston Dynamics, Path Robotics, NEURA scaling\ntheir data & annotation pipelines - would love to chat about what you're\nworking on, and happy to tell you what we've built on our side,\n\nWould you have some time to trade introductions & give event feedback next\nweek?"
+},
+{
+"id": "490793707766",
+"subject": "data access for ML teams - CoE",
+"text": "Hi [NAME] - briefly spoke to your team at the AI engineer in London - might\nit be a good moment to reach out,\n\nYour colleague mentioned that accessing and preparing unstructured data\nacross silos for labelling and ML work is a challenge for CoE,\n\nFor context, I work with ML teams like Decathlon, Hitachi, AXA etc\nproviding a data platform to solve data management, speed up curation and\nannotation challenges across the organisation - get the data ready when you\nwant to build models & do evals.\n\nSince you work with loads of retail data and ML, could be useful to\nexchange perspectives on how different teams are approaching this, would\nyou have some time next week?"
+},
+{
+"id": "490802605286",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME],\n\nHow have you been? We just started working with Tavus and it reminded me of\n[COMPANY].\n\nThey were using scripts and Jupyter notebooks for data filtering and were\nstruggling with the new growth of training data.\n\nThey partnered with Encord to filter the highest quality training data to\nbuild the most natural and human sounding agent. I figured there are some\nsimilarities with what you're building.\n\nHappy to hop on a quick call to introduce ourselves and share learnings.\nWould you have 30min next Tue- Thu?"
+},
+{
+"id": "490807841998",
+"subject": "Intro from Mahendra | Working w Cedars-Sinai & Caresyntax",
+"text": "Hi [NAME] and Hillary,\n\nMahendra suggested I connect with you regarding [COMPANY]'s AI/ML initiatives\nfor Canopy, Remy, and patient billing data.\n\nEncord\n<[LINK]>\nis a HIPAA-certified multimodal AI data platform that enables ML teams at\nThinking Machine Labs, Veriff and Flatiron Health to curate, label, and\nbuild workflows at scale. Given your security requirements, our platform\nensures PII never leaves your environment by streaming data directly from\nyour infrastructure.\n\nI believe Encord can support your current projects by:\n\n   - Curating medical billing data from SFTP, PostgreSQL, and Snowflake for\n   ML training.\n   - Building evaluation workflows for Remy and Kora.\n   - Accelerating data preparation for predictive models, such as patient\n   notification timing.\n\nAre you open to a brief chat next week to learn how your peers in regulated\nenvironments utilize Encord?"
+},
+{
+"id": "490849397968",
+"subject": "[Encord] your new POC + live webinar on deploying agents",
+"text": "Hi \n        [NAME],\n\n        Hope you are well! I wanted to quickly introduce myself as your new POC - [SENDER] has since moved on.\n\n        I've heard great things about your interactions last year and really appreciate the feedback you shared while testing the platform. \n\n        Also wanted to share a live session we are hosting on Mar 17 on deploying pre-build agents/ custom models into ML pipelines to automate labeling and eval - you can check it out \n        here.\n\n        Would be great to reconnect soon and properly introduce myself."
+},
+{
+"id": "491026836717",
+"subject": "[NAME] - Spoken with Ludovic (ventures arm)",
+"text": "Hi [NAME] - hope all's well,\n\nI connected you some time ago mentioning I spoke with Ludovic Musy from\n[COMPANY] Ventures about your AI initiatives - wanted to get in touch as\nyou might have the best overview of where we could speed up your roadmap\nacross org -\n\nWe've worked with over 200+ teams (inc Boston Dynamics, Toyota, Forterra,\nHitachi) providing a scalable platform for curation & annotation of\nmultimodal data so they can build models on the right data and cut down\nretraining cycles,\n\nLet me know if you're interested to learn more/chat - free this or next\nweek,"
+},
+{
+"id": "491035159748",
+"subject": "since you're scouting - humanoids, CV and VLAs //",
+"text": "Hi [NAME] - hope all's well,\n\nMy colleague recently chatted with Siva (India team) who recommended I\nreach out to the startup arm. Saw you paused some of your L3 projects but\nhave other initiatives - wanted to get in touch as you might have the best\noverview of where we could speed up your roadmap across org -\n\nWe're a series C (110M funding) company working with over 200+ teams (inc\n1x, Boston Dynamics, Toyota, Forterra, Hitachi ect) providing a scalable\nplatform for curation & annotation of multimodal data so theams can\nbuild models on the right data and cut down retraining cycles,\n\nLet me know if you're interested to learn more/chat,"
+},
+{
+"id": "491040873681",
+"subject": "31 AI projects - the eval gap",
+"text": "Hi [NAME],\n\nI tried calling you just now with no luck. Wanted to share why I called.\n\nMost Senior AI leaders scaling projects in under six months tell us the\nbottleneck shifts from shipping models to evaluating them.\n\nTractable hit the same shape of problem on a petabyte image archive and got\nrigorous eval working at consumer scale.\n\nWorth 15 minutes Tuesday at 2pm or Thursday at 10am?"
+},
+{
+"id": "491067441345",
+"subject": "ICRA - invitation to a cookery course with robotics leaders",
+"text": "Hi [NAME],  \n\n Noticed you'll be attending ICRA and wanted to extend an invitation. We've worked with a few of your colleagues - Rares, Ben, and Sidd - as well as BD around the platform and services supporting VLA workflows. \n\n We're hosting a small group of around 15 researchers for a cookery course on Thursday 4 June at Andante at 19:00. It promises to be informal and slightly more fun after a busy week. With only a few spaces remaining, I'd love to have you join us.  \n\n Please see the link  \nhere for more details."
+},
+{
+"id": "491068143843",
+"subject": "ICRA - invitation to a cookery course with robotics leaders",
+"text": "Hi [NAME],  \n\n Saw you're hosting the VLA workshop at ICRA - excited to see how you're approaching things. We've partnered with a few of your colleagues (Rares, Ben & Sidd) as well as BD for the platform & services for VLA tasks.  \n\n We're hosting a small group of around 15 researchers for a cookery course on Thursday 4 June at Andante at 19:00. It promises to be informal and slightly more fun after a busy week. With only a few spaces remaining, I'd love to have you join us.  \n\n Please see the link  \nhere for more details."
+},
+{
+"id": "491068155121",
+"subject": "ICRA - invitation to a cookery course with robotics leaders",
+"text": "Hi [NAME],  \n\n Saw you're hosting the VLA workshop at ICRA - excited to see how you're approaching things. We've partnered with a few of your colleagues (Rares, Ben & Sidd) as well as BD for the platform & services for VLA tasks.  \n\n We're hosting a small group of around 15 researchers for a cookery course on Thursday 4 June at Andante at 19:00. It promises to be informal and slightly more fun after a busy week. With only a few spaces remaining, I'd love to have you join us.  \n\n Please see the link  \nhere for more details."
+},
+{
+"id": "491074623709",
+"subject": "Synthesia's eval lesson, applied to [COMPANY]?",
+"text": "Hey [NAME] - tried catching you earlier. As the interview corpus grows and\nthe Series A model works scale, the data ops layer is usually where teams\neither accelerate or get stuck on manual triage. Synthesia hit the same\nwall and we helped them past it. Worth a 9-minute call?\n\n--"
+},
+{
+"id": "491075225817",
+"subject": "Build or buy the eval layer?",
+"text": "Hi [NAME],\n\nTried calling earlier but no luck. Here's why I rang.\n\nWith more than 30 live AI projects since November, all shipping to a public\naudience, the question that tends to land hardest on the insights team is\n'how do we actually know any of this is working?'.\n\nVida ID hit exactly that wall and made the buy decision - happy to walk\nthrough what they kept on their cloud platform and what they replaced.\n\nWednesday at 3pm or Friday at 11am for 15 minutes?"
+},
+{
+"id": "491084732608",
+"subject": "Workflow tour, no slides",
+"text": "Hi [NAME],\n\nTried calling earlier, but no luck. Quick reason for the call.\n\nWhen you're shipping proprietary models layered on Gemini at [COMPANY]'s\npace, the eval plumbing and dataset curation work tends to eat more\nengineering time than the actual model work. Tractable's ML engineers got\nout of writing custom eval scripts for every variant.\n\nHappy to do a hands-on 15-min tour of what the workflow looks like.\n\nLet me know if Tuesday at 4pm or Friday at 2pm works?"
+},
+{
+"id": "491086881017",
+"subject": "New Risk",
+"text": "Hey [NAME], I tried to call you earlier. Based on how Synthesia handles output\nevaluation for their enterprise clients in regulated verticals, we could do\na lot for the Havas Health Vurbs work - specifically the question of how\nyou'd defend physician persona behaviour in a pharma compliance review.\nWorth exploring?\n\n--"
+},
+{
+"id": "491087562948",
+"subject": "Voicemail Follow-Up",
+"text": "[NAME],\n\nTried catching you on the phone but figured I'd follow up here.\n\nSaw [COMPANY]'s AI Guidelines name the three pillars (productivity, trading,\nmaintenance) with inspection sitting on sensor data. Separately, the\nAQUADA-GO offshore demo at R\u00f8dsand 2 in January is generating a lot of\nvisual data on the consortium side.\n\nThe question I'd love your perspective on: as that visual data accumulates,\ndoes the buying centre for the model layer sit inside [COMPANY], or stay with\npartners like Quali Drone? Genuinely curious & not pitching. Promise!\n\nA two-line reply would mean a lot."
+},
+{
+"id": "491089556668",
+"subject": "TPMG ML data layer",
+"text": "Hi [NAME],\n\nCame across your work at TPMG. My company Encord helps similar\norganizations (Stanford Medicine, AbbVie) on the data layer of ML\ndevelopment.\n\nOur platform handles annotation, curation, and evaluation across large\nmultimodal datasets. One of our partner labs at Stanford saw an 80%\nreduction in experiment duration.\n\nIs your team experimenting/designing models right now? If so, would love to\ngrab a virtual coffee to share how we approach the data layer."
+},
+{
+"id": "491094753500",
+"subject": "Encord Happy Hour - Tokyo Humanoid Summit",
+"text": "Hi [NAME] & Heecheol,\n\nYou've been in touch with my colleague from London, [SENDER]. I wanted to\nreach out because I saw that [COMPANY] is attending the Humanoid Summit in\nTokyo.\n\nWe're hosting a small happy hour the night before the conference for ~30\nfounders, execs, and engineering leads working in humanoid robotics and\nphysical AI at Bar Cocktail Works in Shinagawa, 5 min from the conference\nvenue, with drinks and bites from 6pm on May 27.\n\nWould love to have you there and I can share more details if you are\ninterested."
+},
+{
+"id": "491111880911",
+"subject": "London Meet",
+"text": "Hi [NAME],\n\nI hope you're doing well!\n\nI'll be in London w/c 8th June and I'd love to catch up over coffee - do\nyou have any availability on Monday, Tuesday or Thursday that week?"
+},
+{
+"id": "491122715867",
+"subject": "Integration post Reconeyez",
+"text": "[NAME] - I tried you earlier. Your title says Acquisitions Integration and\nReconeyez closed three months ago & the AI and data tooling thread of that\nintegration is usually the one that slides past Q3 if it's not made\ndeliberately. We work with teams on exactly that piece.\n\nDo you have 10 minutes on Thursday at 11 or Friday at 10?\n--"
+},
+{
+"id": "491129340142",
+"subject": "AI Leaders Dinner // Paris 26th",
+"text": "Hi [NAME],\n\nWe're co-hosting a private dinner with Anyscale for a small group of AI\nleaders, including CTOs, Heads of ML, and VP AI, and would be delighted if\nyou could join us.\n\nWe've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May,\nstarting at 7 PM.\n\nFor context, it'll be a very informal evening - no slides or presentations\n- just a small group of ~20 people from across the French AI ecosystem\ndiscussing the challenges and opportunities involved in building and\ndeploying AI at scale.\n\nCan I pencil you in?"
+},
+{
+"id": "491133883596",
+"subject": "Encord <> [COMPANY]",
+"text": "Hi [NAME],\n\nI noticed you were researching video object tracking last week. This seems\nlike a relevant approach if you are identifying containers, trains, and\ntrucks in the field.\n\nI am curious to hear what your primary challenge is right now. Are you\nfinding the tracking itself most difficult, or is it sourcing high-quality\ntraining data across various vehicle types and environments?\n\nI'm happy to hop on a call this week to learn more about your latest\nprojects and share how I've seen leading ML and computer vision teams\nnavigate those pain points."
+},
+{
+"id": "491136313545",
+"subject": "Encord - tried you earlier",
+"text": "Hi [NAME],\n\nTried you earlier, will try again. Spoke with Geoff on Friday, he thought\nEncord sounded interesting and is circulating materials internally.\n\nWanted to reach you directly given the autonomy angle. We're the data layer\nunderneath perception stacks at Skydio, Zipline and Abyss Solutions,\nunifying sonar, video, audio, image and point cloud, then enabling curation\nand annotation at scale.\n\nWhat's the current setup at Vatn for annotation and curation sonar + camera\ndata? Happy to jump on a quick call this week."
+},
+{
+"id": "491156985054",
+"subject": "ICRA - invitation to a cookery course with robotics leaders",
+"text": "Hi [NAME], \n\nNoticed you'll be attending ICRA and wanted to extend an invitation. We've worked with a few of your colleagues - Rares, Ben, and Sidd - as well as BD around the platform and services supporting VLA workflows.\n\nWe're hosting a small group of around 15 researchers for a cookery course on Thursday 4 June at Andante at 19:00. It promises to be informal and slightly more fun after a busy week. With only a few spaces remaining, I'd love to have you join us. \n\nPlease see the link here for more details."
+},
+{
+"id": "491169933523",
+"subject": "Encord <> [COMPANY]",
+"text": "Hi [NAME],\n\nI noticed you peeked at our video intelligence page last week. Probably not\nthe most relevant page for what [COMPANY] is building, but it did make me\ncurious.\n\nI saw you're training specialty-specific models on audio and clinical\nconversations at scale now, especially with the VA rollout. That kind of\ndata pipeline, ensuring quality, managing annotation workflows, keeping\nmodels accurate across specialties is exactly where teams tend to hit\nfriction.\n\nWould love to hear what that looks like for you right now.\n\nP.S - Happy Mother's Day to all mothers on your team. Love how your 'Meet\nthe Team' video highlights women!!"
+},
+{
+"id": "491184129253",
+"subject": "[Invite] May 27 Happy Hour for Leaders @ Humanoids AI Summit Tokyo",
+"text": "Hi [NAME],\n\nI saw you'll be speaking at the Humanoids Summit in Tokyo and wanted to\nreach out, as some of our Physical AI team, including leads working with\nAgility, 1X, and Dyna, will be there.\n\nLast month, our team hosted Yuchen and Molly at our SF office, introduced\nby co-founder Chen Li. We've been in active discussions about a potential\npartnership since then.\n\nWould love to invite you to our small happy hour the evening before -\nTuesday, May 27, from 6 pm at Bar Cocktail Works in Shinagawa (5 min from\nthe venue). It'll be a relaxed gathering of ~30 founders, execs, and\nengineering leads working in humanoid robotics and physical AI.\n\nShall I sign you up?"
+},
+{
+"id": "491209073903",
+"subject": "the data layer under gAI",
+"text": "Hi [NAME],\n\nI was impressed by the [YEAR] roadmap and Thursday's earnings call. It is\nnotable that gAI is now running across six concurrent multimodal\nworkstreams sharing a single data layer.\n\nEncord currently serves as the platform for Synthesia's curation and\npreference annotation on their text-to-video stack. Additionally, Onfido\nuses Encord to evaluate over 100 orchestrated models for fraud detection\nand biometric data curation.\n\nWould you be open to a 20-minute sync to compare notes?"
+},
+{
+"id": "491209648354",
+"subject": "AI Leaders Dinner // Paris 26th",
+"text": "Hi [NAME],\n\nWe're co-hosting a private dinner with Anyscale for a small group of AI\nleaders, including CTOs, Heads of ML, and VP AI, and would be delighted if\nyou could join us.\n\nWe've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May,\nstarting at 7 PM.\n\nFor context, it'll be a very informal evening - no slides or presentations\n- just a small group of ~20 people from across the French AI ecosystem\ndiscussing the challenges and opportunities involved in building and\ndeploying AI at scale.\n\nCan I pencil you in?"
+},
+{
+"id": "491305894113",
+"subject": "ICRA - invitation to a cookery course with robotics leaders",
+"text": "Hi [NAME], I noticed you'll be attending ICRA and wanted to extend an invitation.  \n\n We're hosting a small group of around 15 researchers for a cookery course on Thursday 4 June at Andante at 19:00. It promises to be informal and slightly more fun after a busy week. With only a few spaces remaining, I'd love to have you join us.  \n\n Please see the link  \nhere for more details."
+},
+{
+"id": "491334337744",
+"subject": "AI leaders dinner",
+"text": "Hi [NAME],\n\nWe're co-hosting a private dinner with Anyscale for a small group of AI leaders, including CTOs, Heads of ML, and VP AI, and would be delighted if you could join us. \n\nWe've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May, starting at 7 PM. \n\nFor context, it'll be a very informal evening - no slides or presentations - just a small group of ~20 people from across the French AI ecosystem discussing the challenges and opportunities involved in building and deploying AI at scale.\n\nCan I pencil you in?"
+},
+{
+"id": "491334434039",
+"subject": "AI leaders dinner",
+"text": "Hi [NAME],\n\nWe're co-hosting a private dinner with Anyscale for a small group of AI leaders, including CTOs, Heads of ML, and VP AI, and would be delighted if you could join us. \n\nWe've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May, starting at 7 PM. \n\nFor context, it'll be a very informal evening - no slides or presentations - just a small group of ~20 people from across the French AI ecosystem discussing the challenges and opportunities involved in building and deploying AI at scale.\n\nCan I pencil you in?"
+},
+{
+"id": "491334468831",
+"subject": "AI leaders dinner",
+"text": "Hi [NAME], \n\n We're co-hosting a private dinner with Anyscale for a small group of AI leaders, including CTOs, Heads of ML, and VP AI, and would be delighted if you could join us.  \n\n We've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May, starting at 7 PM.  \n\n For context, it'll be a very informal evening - no slides or presentations - just a small group of ~20 people from across the French AI ecosystem discussing the challenges and opportunities involved in building and deploying AI at scale. \n\n Can I pencil you in?"
+},
+{
+"id": "491335014637",
+"subject": "AI leaders dinner",
+"text": "Hi [NAME]\u00e9e, \n\n We're co-hosting a private dinner with Anyscale for a small group of AI leaders, including CTOs, Heads of ML, and VP AI, and would be delighted if you could join us.  \n\n We've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May, starting at 7 PM.  \n\n For context, it'll be a very informal evening - no slides or presentations - just a small group of ~20 people from across the French AI ecosystem discussing the challenges and opportunities involved in building and deploying AI at scale. \n\n Can I pencil you in?"
+},
+{
+"id": "491336075496",
+"subject": "Adaptive Deepfake Detector Launch // learnings Onfido & Veriff",
+"text": "Hi [NAME],\n\nNoticed the Adaptive Deepfake Detector Launch and the framing around online\nlearning across documents, device signals and biometrics.\n\nWorking with teams like Onfido and Veriff in the IDV space, similarly\nworking across these multimodal data sources. Find teams hit a way with\nannotation tooling not built for it: frame-level video labelling for\nliveness, document region annotation, feedback loops from model failures\nback to curation.\n\nThat's the exact gap Encord addresses. Worth 20 minutes to see if it's\nrelevant for [COMPANY]?"
+},
+{
+"id": "491337781454",
+"subject": "Private dinner - AI/ML Leaders @ Bristol",
+"text": "Hi [NAME],\n\nWe're co-hosting a private dinner with Anyscale for a small group of AI\nleaders, including CTOs, Heads of ML, and VP AI, and would be delighted if\nyou could join us.\n\nWe've reserved Salon Castellane at Le Bristol Paris on Tuesday, 26 May,\nstarting at 7 PM.\n\nFor context, it'll be a very informal evening - no slides or presentations\n- just a small group of ~20 people from across the French AI ecosystem\n(Orange, Valeo, LVMH etc) discussing the challenges and opportunities\ninvolved in building and deploying AI at scale.\n\nCan I pencil you in?"
+},
+{
+"id": "491338523839",
+"subject": "ML data pipelines // learnings from Onfido & Veriff",
+"text": "Hi [NAME],\n\nNoticed the Adaptive Deepfake Detector Launch and the framing around online\nlearning across documents, device signals and biometrics.\n\nWorking with teams like Onfido and Veriff in the IDV space, similarly\nworking across these multimodal data sources. Find teams hit a way with\nannotation tooling not built for it: frame-level video labelling for\nliveness, document region annotation, feedback loops from model failures\nback to curation.\n\nThat's the exact gap Encord addresses. Worth 20 minutes to see if it's\nrelevant for [COMPANY]?"
+}
+]

@@ -1,0 +1,202 @@
+[
+{
+"id": "480085322948",
+"subject": "perception work - data pipelines",
+"text": "Hi [NAME],\n\nSaw you're working on perception & growing your research team. We've\nonboarded robotics teams (Walden, AnyBotics & a few SF based humanoid\ncompanies) around similar stages when they're scaling up real-world data\ncollection - thought this would be a good time to connect?\n\nFor context we help improve scalability of their annotation pipelines -\ne.g. having system to index, auto-annotate and QA perception data across 2D\n(image & video) and 3D point cloud/ LiDAR data in one place. With the goal\nof accelerating their model iteration cycles & increasing labelling\nthroughput.\n\nHow are you thinking of your data requirements for the real world? I'm\nflexible morning times EST if you're open to exchange perspectives."
+},
+{
+"id": "480096021732",
+"subject": "AI x Storytelling Dinner - 16th Apr, LA",
+"text": "Hi [NAME],\n\nOur founder [SENDER] is bringing together 15 entertainment leaders, AI\nfounders and filmmakers in Hollywood on Thursday 16th April, from 6:30pm.\nThe evening will focus on exploring what AI means for the creation,\ndistribution and consumption of stories.\n\nWe thought of you with your experience at the intersection of AI/ML and\nmedia content at UMG & SPE, and would love to have you to shape the\nconversation.\n\nConfirmed guests include: Chuck Russell (Director of the Mask), Diana\nWilliams (producer of Star Wars Rebels, ex-Lucasfilm) alongside AI leaders\nfrom the likes of Warner Bros & Flawless.\n\nHappy to share the details if you're available?"
+},
+{
+"id": "480121810133",
+"subject": "perception work & setting up data pipelines",
+"text": "Hi [NAME],\n\nNoticed you're growing your research team. We've onboarded robotics teams\n(Walden, AnyBotics & a few SF based humanoid companies) around similar\nstages when they're scaling up real-world data collection - thought this\nwould be a good time to connect?\n\nFor context we help improve scalability of their annotation pipelines -\ne.g. having system to index, auto-annotate and QA perception data across 2D\n(image & video) and 3D point cloud/ LiDAR data in one place. With the goal\nof accelerating their model iteration cycles & increasing labelling\nthroughput.\n\nHow are you thinking of your data requirements for the real world? I'm\nflexible morning times EST if you're open to exchange perspectives."
+},
+{
+"id": "480127051963",
+"subject": "Encord & [COMPANY] - GTC follow-up",
+"text": "Hi [NAME],\n\nI stopped by [COMPANY]'s booth at GTC last week - really impressive to see\nPolaris running across that many languages live.\n\nI'm at Encord (Series C, ML DataOps platform) - given your background\nspanning annotation, curation, QA, and evaluation, you're probably closer\nto the data pipeline pain than anyone.\n\nScaling multilingual audio labelling across 40+ languages with the\nconsistency and quality control that foundation model training demands is a\nserious operational challenge.\n\nEncord helps teams like yours replace ad hoc annotation workflows with\nstructured pipelines, built-in QA, active learning to cut review volume,\nand full inter-annotator agreement tracking.\n\nWould you be up for a 25-minute call to compare notes on how you're\nhandling this today?"
+},
+{
+"id": "480222369983",
+"subject": "Re: Hiring CV/Perception team members in San Jose",
+"text": "[NAME] - given Imagry is building a full perception stack on vision alone\n(no LiDAR crutch) the annotation and data curation burden on your team must\nbe enormous.\n\nWoven by Toyota uses Encord to manage exactly that problem at scale:\nembedding-based search to surface edge cases in driving video, plus\nstreamlined annotation pipelines that cut the manual overhead.\n\nGiven you're scaling deployments across Israel, Germany, Japan, and the US,\nworth a call to see if we can take that off your teams plate?"
+},
+{
+"id": "480225735895",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME],\n\nWe just onboarded Neon on organizing and identifying valuable audio data collected by phone agents and thought it overlaps with what you're building at [COMPANY].\n\nEncord works with Voice AI teams (Udio, Thinking Machines Lab) that build TTS/ASR/STS models and voice agents, supporting them on tasks like voice activity detection, diarization, word-level transcription, and model eval/preference ranking. \n\nWorth a 20-min chat to see if there's a fit on your side?"
+},
+{
+"id": "480226472162",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480226472172",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480226473148",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480226600144",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480226600149",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480238836975",
+"subject": "Startup Innovation connection - Encord/[COMPANY]",
+"text": "Hi [NAME],\n\nSeen your linkedin profile & experience and decided to get in touch.\n\nI lead enterprise partnerships at Encord (YC company;100M series C), where\nI work closely with innovation and technical teams supporting them to\nexplore how to move AI/ML use cases from idea to production.\n\nA common challenge we see in large organisations is that multimodal data\n(video, images, sensor data) is often siloed or difficult to operationalise\n- which slows down promising AI initiatives. We support teams in\nstructuring and preparing this data to unlock use cases like computer\nvision based automated inspection, anomaly detection, and robotics & more\n<[LINK]>-\nworking with companies such as Boston Dynamics, AbbVie, or AXA.\n\nI'd be really interested to hear what kinds of AI or data-driven\ninitiatives you're currently exploring at [COMPANY], and see if there's any\noverlap where we could support.\n\nWould you be open to connect with us next week?"
+},
+{
+"id": "480263736521",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480263737534",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480264212709",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480264448234",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480264449210",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480266619094",
+"subject": "Coffee at HumanX?",
+"text": "Hi [NAME], \n\n Shall we grab a coffee at HumanX? \n\n I'll be there \nApr 6-9, spending time with teams working on multimodal data, especially around training data quality, agent-based automation, QA, and real-world deployment. Would love to hear what you're excited about and what your team is building. \n\n Let me know what works and I'll lock it in."
+},
+{
+"id": "480308394189",
+"subject": "ML & Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nGiven your expereince on the intersection of AI and media content - I'd\nlove to extend an inivte on behalf of our founder, [SENDER] <[LINK]>,\nfor a small dinner he's hosting on Thursday 16th April. Appreciate travels\nto LA might be a blocker, thought I'd extend an invite regardless.\n\nThe dinner's theme is ML & Storytelling: bringing together media leaders,\nAI founders and content producers, to explore the creation, distribution\nand consumption of stories in the age of AI.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros, UBCUniversal & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480335079655",
+"subject": "Invite - building Reliable AI for high stakes Deployment",
+"text": "Hi [NAME],\n\nWanted to let you know that Encord is hosting a short technical session on\nbuilding reliable data pipelines for high stakes and safety critical use\ncases this Friday.\n\nWe'll be chatting with Mantyx (Surgical Robotics by Orsi Academy) - who\nhave build successful infra for their deployments.\n\nRegister here\n<[LINK]>\nso\nI can also send through the recording if you can't make it live.\n\nIf easier, let me know and I can set up a short chat to tailor to your use\ncase at ImageVision."
+},
+{
+"id": "480335625420",
+"subject": "ML & Media Dinner - Apr 16th, LA",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for media leaders, AI\nfounders and filmmakers in LA on 16th April. Given your experience at the\nintersection of ML and media content at [COMPANY], we thought of you!\n\nThe dinner's theme is ML & Storytelling: what creation, distribution and\nconsumption of media content means in the age of AI. We'll be joined by\nguests from AI committee at the Television Academy, Warner Bros,\nUBCUniversal, etc.\n\nIn case Encord is new to you - we help over 300 ML teams improve data\nquality at scale. With Encord, teams can consolidate multimodal data\ncuration, auto-enrichment and subject matter expert review in one place.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480349964494",
+"subject": "AI + Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nGiven your expereince on the intersection of ML and media data strategy -\nI'd love to extend an inivte on behalf of our founder, [SENDER] <[LINK]>,\nfor a small dinner he's hosting on Thursday 16th April.\n\nThe theme is AI & Storytelling: bringing together media leaders, AI\nfounders and content producers, to explore the creation, distribution and\nconsumption of stories in the age of AI. We've booked a private dining room\nin Beverly Hills for intimate, off-the-record discussions.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480362188000",
+"subject": "ML & Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nGiven your expereince on the intersection of ML and media content - I'd\nlove to extend an inivte on behalf of our founder, [SENDER] <[LINK]>,\nfor a small dinner he's hosting on Thursday 16th April. Appreciate\ntraveling to LA might be a blocker, thought I'd extend an invite\nregardless.\n\nThe dinner's theme is ML & Storytelling: bringing together media leaders,\nAI founders and content producers, to explore the creation, distribution\nand consumption of stories in the age of AI.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480365809854",
+"subject": "ML & Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for media + AI execs\nand creative technologists in LA on 16th April. Given your experience\nleading the product, engineering and research functions at [COMPANY], we thought\nof you! (Appreciate travels to LA might be a blocker, thought I'd extend an\ninvite regardless. )\n\nThe dinner's theme is ML & Storytelling: bringing together perspectives on\nthe creation, distribution and consumption of stories in the age of AI.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros, UBCUniversal & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480365862098",
+"subject": "ML & Media Dinner - Apr 16th, LA",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for media leaders, AI\nfounders and filmmakers in LA on 16th April. Given your experience at the\nintersection of ML and media content at [COMPANY], we thought of you!\n(Appreciate travels to LA might be a blocker, thought I'd extend an invite\nregardless.)\n\nThe dinner's theme is ML & Storytelling: what creation, distribution and\nconsumption of media content means in the age of AI. We'll be joined by\nguests from AI committee at the Television Academy, Warner Bros,\nUBCUniversal, etc.\n\nIn case Encord is new to you - we help over 300 ML teams improve data\nquality at scale. We help consolidate multimodal data curation,\nauto-enrichment and subject matter expert review in one place.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480385692893",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord's data development platform is built for exactly this: automated\nlabelling for speed, flexible structures to handle document complexity, and\nQA workflows to keep quality high.\n\nWould you be open to an intro call this Thursday or Friday to see if we're\na good fit for your team?"
+},
+{
+"id": "480387162349",
+"subject": "AI Leaders dinner",
+"text": "Hi [NAME]\n\nI am hosting a private dinner for frontier AI Leaders in NYC\n(co-hosted with AI Circle) and I'd love for you to join!\n\nWe've booked Twin Tails for the event on Weds, 25th March - it will be a\nsmall, curated group of 20 ML leaders working to tackle challenges in\nbuilding in computer vision & multimodal AI.\n\nConfirmed attendees include Meta, Instacart, Vimeo & others.\n\nAre you available to join us? Here's the luma: [LINK]"
+},
+{
+"id": "480389743810",
+"subject": "ML & Media Dinner - Apr 16th, LA",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for media leaders, AI\nfounders and filmmakers in LA on 16th April. Given your experience at\nleading teams at the intersection of ML and ad targeting - we thought of\nyou & would love to extend an inivte.\n\nThe dinner's theme is ML & Storytelling: what creation, distribution and\nconsumption of media content means in the age of AI. We'll be joined by\nguests from AI committee at the Television Academy, Warner Bros,\nUBCUniversal, etc.\n\nIn case Encord is new to you - we help over 300 ML teams improve data\nquality at scale. With Encord, teams can consolidate multimodal data\ncuration, auto-enrichment and human review in one place.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480389859570",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord's data development platform is built for exactly this: automated\nlabelling for speed, flexible structures to handle document complexity, and\nQA workflows to keep quality high.\n\nWould you be open to an intro call this Thursday or Friday to see if we're\na good fit for your team?"
+},
+{
+"id": "480392633583",
+"subject": "Invite - building Reliable AI for high stakes Deployment",
+"text": "Hi [NAME],\n\nWanted to let you know that Encord is hosting a short technical session on\nbuilding reliable data pipelines for high stakes and safety critical use\ncases this Friday.\n\nWe'll be chatting with Mantyx (Surgical Robotics by Orsi Academy) - who\nhave build successful infra for their deployments.\n\nRegister here\n<[LINK]>\nso\nI can also send through the recording if you can't make it live.\n\nIf easier, let me know and I can set up a short chat to tailor to your use\ncase at [COMPANY]."
+},
+{
+"id": "480395742410",
+"subject": "Invite - building Reliable AI for high stakes Deployment",
+"text": "Hi [NAME],\n\nWanted to let you know that Encord is hosting a short technical session on\nbuilding reliable data pipelines for high stakes and safety critical use\ncases this Friday.\n\nWe'll be chatting with Mantyx (Surgical Robotics by Orsi Academy) - who\nhave build successful infra for their deployments.\n\nRegister here\n<[LINK]>\nso\nI can also send through the recording if you can't make it live.\n\nIf easier, let me know and I can set up a short chat to tailor to your use\ncase at Nexxa."
+},
+{
+"id": "480395753690",
+"subject": "Invite - building Reliable AI for high stakes Deployment",
+"text": "Hi [NAME],\n\nWanted to let you know that Encord is hosting a short technical session on\nbuilding reliable data pipelines for high stakes and safety critical use\ncases this Friday.\n\nWe'll be chatting with Mantyx (Surgical Robotics by Orsi Academy) - who\nhave build successful infra for their deployments.\n\nRegister here\n<[LINK]>\nso\nI can also send through the recording if you can't make it live.\n\nIf easier, let me know and I can set up a short chat to tailor to your use\ncase at ImageVision."
+},
+{
+"id": "480399239365",
+"subject": "ML & Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nGiven your expereince on the intersection of AI and media content - I'd\nlove to extend an inivte on behalf of our founder, [SENDER] <[LINK]>,\nfor a small dinner he's hosting on Thursday 16th April. Appreciate travels\nto LA might be a blocker, thought I'd extend an invite regardless.\n\nThe dinner's theme is ML & Storytelling: bringing together media leaders,\nAI founders and content producers, to explore the creation, distribution\nand consumption of stories in the age of AI.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros, UBCUniversal & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480404683963",
+"subject": "Invite - building Reliable AI for high stakes Deployment",
+"text": "Hi [NAME],\n\nWanted to let you know that Encord is hosting a short technical session on\nbuilding reliable data pipelines for high stakes and safety critical use\ncases this Friday.\n\nWe'll be chatting with Mantyx (Surgical Robotics by Orsi Academy) - who\nhave build successful infra for their deployments with Encord.\n\nRegister here\n<[LINK]>\nso\nI can also send through the recording if you can't make it live.\n\nIf easier, let me know and I can set up a short chat to tailor to your use\ncase at [COMPANY]."
+},
+{
+"id": "480405145811",
+"subject": "AI + Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nGiven your expereince on the intersection of ML and media data strategy -\nI'd love to extend an inivte on behalf of our founder, [SENDER] <[LINK]>,\nfor a small dinner he's hosting on Thursday 16th April.\n\nThe theme is AI & Storytelling: bringing together media leaders, AI\nfounders and content producers, to explore the creation, distribution and\nconsumption of stories in the age of AI. We've booked a private dining room\nin Beverly Hills for intimate, off-the-record discussions.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480405537991",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord's data development platform is built for exactly this: automated\nlabelling for speed, flexible structures to handle document complexity, and\nQA workflows to keep quality high.\n\nWould you be open to an intro call this Thursday or Friday to see if we're\na good fit for your team?"
+},
+{
+"id": "480406932671",
+"subject": "ML & Media Dinner - Apr 16th, LA",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for media leaders, AI\nfounders and filmmakers in LA on 16th April. Given your experience at the\nintersection of ML and media content at [COMPANY], we thought of you!\n(Appreciate travels to LA might be a blocker, thought I'd extend an\ninvite regardless.)\n\nThe dinner's theme is ML & Storytelling: what creation, distribution and\nconsumption of media content means in the age of AI. We'll be joined by\nguests from AI committee at the Television Academy, Warner Bros,\nUBCUniversal, etc.\n\nIn case Encord is new to you - we help over 300 ML teams improve data\nquality at scale. With Encord, teams can consolidate multimodal data\ncuration, auto-enrichment and subject matter expert review in one place.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480409955526",
+"subject": "AI Leaders dinner in NYC",
+"text": "Hi [NAME]\n\nI am hosting a private dinner for frontier AI Leaders in NYC\n(co-hosted with AI Circle) and I'd love for you to join!\n\nWe've booked Twin Tails for the event on Weds, 25th March - it will be a\nsmall, curated group of 20 ML leaders working to tackle challenges in\nbuilding in computer vision & multimodal AI.\n\nConfirmed attendees include Meta, Instacart, Vimeo & others.\n\nAre you available to join us? Here's the luma: [LINK]"
+},
+{
+"id": "480411764966",
+"subject": "AI + Storytelling Dinner - LA, 16th Apr",
+"text": "Hi [NAME],\n\nGiven your expereince leading the Tubi Group and 21st Century Fox - I'd\nlove to extend an inivte from our founder, [SENDER] <[LINK]>,\non a small dinner he's hosting on Thursday 16th April.\n\nThe theme is AI & Storytelling: with perspectives from media execs, AI\nfounders and content producers, on the creation, distribution and\nconsumption of stories in the age of AI. We've booked a private dining room\nin Beverly Hills for intimate, off-the-record discussions.\n\nConfirmed guests include: Christina Lee Storm (AI committee at the\nTelevision Academy), Diana Williams (producer of Star Wars Rebels,\nex-Lucasfilm) alongside leaders from Warner Bros & Flawless.\n\nHappy to share details if you can to join us?"
+},
+{
+"id": "480414619879",
+"subject": "Startup Innovation connection - Encord/[NAME]",
+"text": "Hi [NAME],\n\nSeen loads of interest from AtlasCopco - thought I'd reach out,\n\nI lead enterprise partnerships at Encord (YC company;100M series C), where\nI work closely with innovation and technical teams supporting them to\nexplore how to move AI/ML use cases from idea to production.\n\nA common challenge we see in large organisations is that multimodal data\n(video, images, sensor data) is often siloed or difficult to operationalise\n- which slows down promising AI initiatives. We support teams in\nstructuring and preparing this data to unlock use cases like computer\nvision based automated inspection, anomaly detection, and robotics & more\n<[LINK]>-\nworking with companies such as Boston Dynamics, AbbVie, or AXA.\n\nI'd be really interested to hear what kinds of AI or data-driven\ninitiatives you're currently exploring at AtlasCopco, and see if there's\nany overlap where we could support.\n\nWould you be open to connect with us next week?"
+}
+]

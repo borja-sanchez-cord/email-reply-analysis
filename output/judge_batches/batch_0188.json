@@ -1,0 +1,202 @@
+[
+{
+"id": "309463668963",
+"subject": "ML Leaders Dinner @ICCV",
+"text": "Hi [NAME],\n\nCongrats on your new AR patent! I saw you're heading to ICCV so I wanted to\nextend an invite to the dinner we're hosting alongside the conference.\n\nIt'll be on the evening of 21st Oct at Empire Steakhouse (10 mins walk from\nthe main conference) with guests joining from Nexar, Woven (Toyota),\nPhilips and more. We're capping the attendance at 20 to ensure engaging\ndiscussions.\n\nHope we can catch up at Honolulu - let me know if you can make it?"
+},
+{
+"id": "309474794713",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nI saw you're heading to ICCV so I wanted to extend an invite from our\nfounders [SENDER] & [SENDER] . They're hosting a small dinner for ML\nresearch leaders attending the conference on Tuesday (10/21). We'd love to\nsee you there!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with guests joining from Adobe, Woven (Toyota),\nFlawless and more. We're capping the attendance at 15 to ensure engaging\ndiscussions.\n\nFor context: Encord helps 200+ ML teams improve data quality at scale. We\nunify curation, annotation/RLHF and model evaluation in one platform, with\nthe goals of improving efficiency in training data preparations for more\naccurate model outputs.\n\nHope to see you in Honululu - let me know if you can make it?"
+},
+{
+"id": "309476339950",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nI saw you're heading to ICCV so I wanted to extend an invite from our\nfounders [SENDER] & [SENDER] . They're hosting a small dinner for ML/\nperception research leaders attending the conference on Tuesday (10/21).\nWe'd love to see you there!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with guests joining from Woven (Toyota),\nMotional, Nexar and more. We're capping the attendance at 15 to ensure\nengaging discussions.\n\nFor context: Encord helps 200+ ML teams improve data quality at scale. We\nautomate annotation pipelines and unify 2D & Point Cloud data development\nin one platform, with the goals of improving efficiency in training data\npreparations.\n\nHope to see you in Honululu - let me know if you can make it?"
+},
+{
+"id": "309479981272",
+"subject": "vision model training data",
+"text": "Hi [NAME],\n\nWe recently onboarded LVT and Flock Safety and your company has come up in\na few conversations.\n\nWe work with smart camera and surveillance CCTV companies that are also\nbuilding their VLM. A common challenge they face is increasing labelling\nthroughput as real-world footages and edge cases outgrow open source\ntooling.\n\nWe're seeing a trend of teams shifting from multi-tool stack (CVAT, Voxel\n51, Segments + Services) to Encord, consolidating annotation, QA, and model\nevaluation.\n\nWould love to get your thoughts if you are open to a quick chat next week ."
+},
+{
+"id": "309479990488",
+"subject": "multimodal AI",
+"text": "Hi [NAME],\n\nAre you still looking at increasing throughput and multimodal support at\n[COMPANY]?\n\nWe recently onboarded LVT and Flock Safety and your company has come up in\na few conversations. Many surveillance companies that are building VLM like\nyou face a challenge when real-world training data outgrows open source\ntools like CVAT. Encord is focused on video-first annotation with\nmodel-assisted labeling and automated QA, multi-camera/sensor syncing etc.\nSo teams can 6x their data throughput.\n\nLet me know if you are interested in knowing more and i'll set up a quick\n30-min next week."
+},
+{
+"id": "309493054665",
+"subject": "partnership - VLM training",
+"text": "Hi [NAME],\n\nHope you're well! We recently helped LVT, Flock Safety streamline training\ndata pipelines for perception model training, and Realnetworkd came up in\nconversations.\n\nMany surveillance companies hit limits when training data ourgrows open\nsource tools - handling billions of CCTV frames and complex edge cases\nbecomes tough fast. Teams are shifting from multi-tool stacks to Encord,\noften with cost savings and efficiency gains.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI, used by 200+AI teams to scale annotation and improve data quality and\nthroughput.\n\nWould love a quick chat to explore if there's synergy to partner. I'm\nflexible Tue to Thu morning PT but happy to adjust for you."
+},
+{
+"id": "309500150000",
+"subject": "[Invite] Private AI Leaders dinner @ Spruce, SF - Oct 30",
+"text": "Hi [NAME],\n\nOur co-founders, [SENDER] and [SENDER], are hosting an intimate dinner for AI\nleaders @ Spruce on Oct 30 in SF, and we'd be delighted to have you join.\n\nIt will be a small, invite-only group (~30 CxOs and tech leaders) from the\nbay area, coming together to chat about the multimodal shift in AI - how\nvision meets language, robotics, and embodied systems.\n\nFor context, Encord is a ML data layer scale-up working with teams like\nBoston Dynamics, PI, and Woven by Toyota to improve training data quality\nas scale.\n\nHappy to share full details if you can make it?"
+},
+{
+"id": "309501973743",
+"subject": "ML Leaders Dinner @ICCV",
+"text": "Hi [NAME],\n\nI saw you're heading to ICCV so I wanted to extend an invite from our\nfounders [SENDER] & [SENDER] . They're hosting a small dinner for ML\nresearch leaders attending the conference on Tuesday (10/21). We'd love to\nsee you there & chat more about the prompt to edit alpha!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with guests joining from Adobe, Woven (Toyota),\nFlawless and more. We're capping the attendance at 15 to ensure engaging\ndiscussions.\n\nFor context: Encord helps 200+ ML teams improve data quality at scale. We\nunify curation, annotation/RLHF and model evaluation in one platform, with\nthe goals of improving efficiency in training data preparations for more\naccurate model outputs.\n\nHope to see you at the dinner - let me know if you'll be in Honululu?"
+},
+{
+"id": "309534350580",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nHeard great things about SAFR at ISC West earlier this year. I wanted to\nreach out as we recently onboarded LVT and Flock Safety ro help them\nstreamline training data pipeline for surveillance model training.\n\nA lot of smart camera and surveillance companies hit the wall when\nreal-world training data outgrows open source tools like CVAT that are not\nvideo-first, handling billions of CCTV frames and edge cases become tough\nquickly. That's why we're seeing a trend of teams shifting from multi-tool\nstack (CVAT, Voxel 51, Segments + Services) to Encord, consolidating\nannotation, QA, and model evaluation.\n\nQuick context: Encord is a data development platform for advanced CV and\nmultimodal AI. We've helped 200+ AI teams improve training data quality at\nscale.\n\nWould love a quick chat if you are also exploring ways to increase\nlabelling throughput. I'm flexible Tue-Thu morning PT but happy to adjust\nfor you."
+},
+{
+"id": "309543595248",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nIt's been a pleasure getting to know [SENDER] + a few others from your team\nthis year. I saw you're heading to ICCV so I wanted to extend an invite to\na small dinner we're hosting alongside the conference on Tuesday (10/21).\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with ML/ applied research leaders joining from\nIdemia, Flawless, Adobe and more. We're capping the attendance at 15 to\nensure engaging discussions.\n\nin case Encord is new to you: we work with Onfido & VIDA ID in identity\nverification space. We help them unify curation, annotation and model\nevaluation in one platform.\n\nHope we can connect in Honululu - let me know if you can make it?"
+},
+{
+"id": "309545365708",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nGreat talk at the SF Tech week yesterday! Excited to see the use cases\nyou're expanding into.\n\nWe help AI/ML teams that are building VLMs (Boston Dynamics, PI, Twelve\nLabs) improve training data quality and streamline annotation pipeline for\nCV and multimodal AI. We are specially well versed with safety/surveillance\nuse cases.\n\nQuick context: we're a data development and annotation platform, $50M\nraised, and have supported 200+ AI teams so far.\n\nSeems like there might be room to collaborate especially as you scale\nenterprise projects - let me know if you're open to a quick chat next week."
+},
+{
+"id": "310201791720",
+"subject": "[Invite] AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders are hosting a private dinner in SF for AI leaders on Oct 30\nat Spruce. We'd love for you to join us.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems. We're capping it to 30\nguests including CxOs and tech leaders from companies like Zipline, Skydio,\nMytra and Nimble Robotics.\n\nIn case Encord is new to you - we work with over 200 AI teams to improve\ntheir training data quality at scale.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "310214386876",
+"subject": "SF Dinner - 30 Oct",
+"text": "Hi [NAME],\n\nSaw the recent techcrunch news on Gravity SUVs and thought of you. We're\nhosting another dinner on 30th Oct and [SENDER] & I would love to extend an\ninvite.\n\nIt'll be from 6:30pm on Thursday 30th Oct at Spruce SF. We're capping the\nattendance to 30 people - with technical leaders joining from e.g. Rivian,\nJohn Deere, Nuro, etc.\n\nWe'd love to catch up! Let me know if you can make it?"
+},
+{
+"id": "310283433179",
+"subject": "Invite to AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nWould you be around SF on Oct 30? Our co-founders are hosting a\nprivate dinner @Spruce for AI leaders. We'd love for you to join us.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems. We're capping it to 30\nguests including CxOs and tech leaders from companies like Zipline, Skydio,\nMytra and Nimble Robotics.\n\nIn case Encord is new to you - we work with over 200 AI teams to improve\ntheir training data quality at scale.\n\nHappy to share details if you can make it!"
+},
+{
+"id": "310647696603",
+"subject": "Partnerships - [COMPANY]",
+"text": "Hi [NAME],\n\nHeard great things about SAFR at ISC West! We recently helped LVT and Flock\nSafety streamline their surveillance model training pipelines.\n\nTeams at your scale often hit limits when real-world video data outgrows\nopen source tools that are not video-first - handling billions of CCTV\nframes and edge cases becomes tough quickly. That's why many are moving\nfrom multi-tool stack (CVAT, Voxel 51, Segments + Services) to Encord for\nunified annotation, QA, and model evaluation.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI, supporting 200+ teams to improve training data quality at scale.\n\nWould you be open to a quick chat next week on boosting labelling\nthroughput? I'm flexible Tue-Thu morning PT but happy to adjust for you."
+},
+{
+"id": "310673242335",
+"subject": "AI Leaders dinner - San Francisco - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders are hosting a private dinner in SF for AI leaders @ Spruce\non Oct 30. We'd love for you to join us if you happen to be around town.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems. We're capping it to 30\nguests including CxOs and tech leaders from companies like Zipline, Skydio,\nMytra and Nimble Robotics.\n\nIn case Encord is new to you - we work with over 200 AI teams to improve\ntheir training data quality at scale.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "310799765730",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nEncord is a YC-backed data development platform that helps teams annotate\nand curate data at scale.\n\nTeams at Boston Dynamics, Woven by Toyota, & Skydio use Encord to speed up\ntraining data, freeing time to focus on edge-case model accuracy.\n\nWe also support both 2D & 3D (including point cloud) in one platform. Would\nyou be open to learning more?"
+},
+{
+"id": "310816731331",
+"subject": "EFSG - Lytehouse - Encord",
+"text": "Hi [NAME],\n\nI came across Lytehouse - so inspiring to see another female founder\nbuilding AI from Singapore! I lead AI/ML partnerships at Encord (also EF &\nYC backed), and just moved from Singapore to San Francisco.\n\nI work with smart CCTV and surveillance teams like LiveView Tech, Flock\nSafety, Rhombus, and Milestone Systems to scale their vision model\ntraining - native video annotation, model-assisted labeling, and QA\nworkflows once real-world data outgrows in-house set up or open source\ntools like CVAT.\n\nGiven your focus on AI-powered video analysis, are you open to seeing if we\ncan help you make your current setup faster & cheaper?"
+},
+{
+"id": "311837883604",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nCongrats on your ICCV paper on brand safety classification! I thought you\nmight be in Honolulu for the CVAM workshop, so I wanted to extend an invite\nfor the dinner we're hosting alongside the conference on Tuesday (10/21).\nWe'd love to see you there!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with Heads of Research/ Data Science joining\nfrom IAS, Adobe, Nexar and more. We're capping the attendance at 15 to\nensure engaging discussions.\n\nIn case Encord is new to you: we help 200+ ML teams improve data quality at\nscale. We unify auto-annotation and human review across vision, audio and\ntext modalities, with the goals of improving efficiency in training data\npreparations for more accurate model predictions.\n\nHope to see you in Honululu - let me know if you can make it?"
+},
+{
+"id": "312830368993",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nI noticed you're attending ICCV this year, so I wanted to extend an invite\nfrom our founders [SENDER] & [SENDER] . They're hosting a small\ndinner for Heads of ML/ Computer Vision attending the conference on Tuesday\n(10/21). We'd love to see you there!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with guests joining from Zeitview, Woven\n(Toyota), Cisco and more. We're capping the attendance at 15 to ensure\nengaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nHope to see you at the dinner - let me know if you'll be in Honululu?"
+},
+{
+"id": "312837786813",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nWanted to introduce myself as your new PoC at Encord - nice to meet you.\n\nI understand you spoke with our team earlier this year about improving your\nAI/ML workflows. Since then, we've expanded significantly within the\nrobotics space and built a fully multimodal platform.\n\nWould you be open to reconnecting next week?"
+},
+{
+"id": "312844995772",
+"subject": "[Invite] ICCV Dinner, 10/21 @ Empire Steakhouse",
+"text": "Hi [NAME],\n\nI saw you're attending ICCV this year, our founders [SENDER] & [SENDER] are hosting a small dinner for CTOs and Senior Researchers attending\nthe conference on Tuesday (10/21) - would love to see you there if you're\ninterested and around?\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with guests joining from Nexar, Woven (Toyota),\nPhilips and others working on exciting CV problems. We're capping the\nattendance at 20 to ensure engaging discussions.\n\nIf Encord is new to you, we're a Series B, multimodal DataOps platform\nhelping 200+ AI teams improve data quality by unifying curation, annotation\nand label evaluation in one platform.\n\nHope to see you at the dinner - let me know if you'll be in Honululu?"
+},
+{
+"id": "312851278027",
+"subject": "[Invite] ICCV AI Data Leaders Dinner - 21st Oct",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting an intimate roundtable dinner for AI & Data Leaders at ICCV and we'd love for you to join us, if you're available.\n\nWe've reserved a private room at Empire Steakhouse (~10 min walk from the conference) on Tuesday 21st October from 7pm. Confirmed attendees include CxOs and senior technical leaders from Nexar, Woven by Toyota, and Philips.\n\nIt'll be an informal, open-format evening - no slides or pitches, just bringing together like-minded people to discuss their experiences & challenges working with AI data.\n\nWould you be interested in joining / available on the 21st?"
+},
+{
+"id": "312851383499",
+"subject": "[Invite] ICCV AI Data Leaders Dinner - 21st Oct",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting an intimate roundtable dinner for AI & Data Leaders at ICCV and we'd love for you to join us, if you're available.\n\nWe've reserved a private room at Empire Steakhouse (~10 min walk from the conference) on Tuesday 21st October from 7pm. Confirmed attendees include CxOs and senior technical leaders from Nexar, Woven by Toyota, and Philips.\n\nIt'll be an informal, open-format evening - no slides or pitches, just bringing together like-minded people to discuss their experiences & challenges working with AI data.\n\nWould you be interested in joining / available on the 21st?"
+},
+{
+"id": "312853702888",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nCongrats on your ICCV paper on brand safety classification! I thought you\nmight be in Honolulu for the CVAM workshop, so I wanted to extend an invite\nfor the dinner we're hosting alongside the conference on Tuesday (10/21).\nWe'd love to see you there!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with Heads of AI/ Research joining from IAS,\nAdobe, Nexar and more. We're capping the attendance at 15 to ensure\nengaging discussions.\n\nIn case Encord is new to you: we help 200+ ML teams improve data quality at\nscale. We unify auto-annotation and human review across vision, audio and\ntext modalities, with the goals of improving efficiency in training data\npreparations for more accurate model predictions.\n\nHope to see you in Honululu - let me know if you can make it?"
+},
+{
+"id": "312887402689",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]\u200b,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "312931054833",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nYour team connected with us last year and mentioned you were set on open\nsource tooling for annotation. I wanted to check in on how John Control's\nAI roadmap has evolved since then.\n\nWith your recent growth - curious if new challenges around scaling data\nhave come up. Many teams we work with have transitioned from multi-tool\nstack (CVAT, Voxel51, Segments + services) to Encord, consolidating\nannotation, QA, and model evaluation in one platform - often with total\ncost savings and less operational overhead.\n\nQuick context: Encord is a data development platform for advanced computer\nvision and multimodal AI (text, image, video, 3d). We help over 200 AI\nteams improve training data quality for vision models.\n\nWould you be open to a quick chat to explore options ahead of your contract\nrenewal? I'm flexible Tue - Thu mornings PT but happy to adjust to\nyour schedule."
+},
+{
+"id": "312941363399",
+"subject": "ML Leaders Dinner @ICCV'25",
+"text": "Hi [NAME],\n\nI noticed you're attending ICCV this year - myself and @[SENDER] <[EMAIL]> from the Encord team will be there too! We're\nhosting a dinner alongside the conference on Tuesday (10/21) and we'd love\nto catch up in Honolulu!\n\nWe've reserved a private room at Empire Steakhouse (10 mins walk from the\nmain conference) from 7pm, with guests joining from Zeitview, Cisco,\nDoordash and more. We're capping the attendance at 15 to ensure engaging\ndiscussions.\n\nHope to see you at the dinner - let me know if you can join us?"
+},
+{
+"id": "312943200452",
+"subject": "SF Dinner - 30th Oct - Spruce",
+"text": "Hi [NAME],\n\nHope all's been well at BRT! We're hosting another dinner on 30th Oct in SF\nand I'd love to extend an invite.\n\nIt'll be from 6:30pm at Spruce SF. We're capping the attendance to 30\npeople - with technical leaders joining from e.g. Rivian, Thinking Machines\nLab, Agtonomy etc.\n\nWould be great to catch up - let me know if you can make it?"
+},
+{
+"id": "312946032880",
+"subject": "[Invite] ICCV AI Data Leaders Dinner - 21st Oct",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting an intimate roundtable dinner for AI & Data Leaders at ICCV and we'd love for you to join us, if you're available.\n\nWe've reserved a private room at Empire Steakhouse (~10 min walk from the conference) on Tuesday 21st October from 7pm. Confirmed attendees include CxOs and senior technical leaders from Nexar, Woven by Toyota, and Philips.\n\nIt'll be an informal, open-format evening - no slides or pitches, just bringing together like-minded people to discuss their experiences & challenges working with AI data.\n\nWould you be interested in joining / available on the 21st?"
+},
+{
+"id": "312946089181",
+"subject": "[Invite] ICCV AI Data Leaders Dinner - 21st Oct",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting an intimate roundtable dinner for AI & Data Leaders at ICCV and we'd love for you to join us, if you're available.\n\nWe've reserved a private room at Empire Steakhouse (~10 min walk from the conference) on Tuesday 21st October from 7pm. Confirmed attendees include CxOs and senior technical leaders from Nexar, Woven by Toyota, and Philips.\n\nIt'll be an informal, open-format evening - no slides or pitches, just bringing together like-minded people to discuss their experiences & challenges working with AI data.\n\nWould you be interested in joining / available on the 21st?"
+},
+{
+"id": "312946907357",
+"subject": "ICCV meet-up",
+"text": "Hi [NAME],\n\nNoticed you'll be at ICCV this year and would be keen to meet up and grab a\ncoffee there, or feel free to swing by our booth (#605).\n\nI've recently been working with HP on their video conference tech,\nsupporting them with audio and video sync on their ML pipelines, so would\nbe keen to hear what you're working on at Samsung and trade some notes.\n\nIf Encord is new to you, we're a YC backed turned Series B scale-up\noffering a multimodal ML DataOps platform. We work with over 200+ AI teams\nhelping them with data curation, annotation and model eval.\n\nWe'll be at ICCV Tues (10/21) to Thurs (10/23) let me know fi you're around\nand we can pencil in a 15min meet."
+},
+{
+"id": "312950013127",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]\u200b,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "312954027231",
+"subject": "[NAME] Seff - ICCV",
+"text": "Hi [NAME],\n\nNoticed you're heading to ICCV later this month, so wanted to see if you'd\nbe up for grabbing a coffee there, or feel free to swing by our booth if\nit's easier (#605).\n\nWould be great to hear more about what you're working on at OpenAI and\ntrade some notes from the work I've been doing with other frontier labs\n(Thinking Machine Labs, Synthesia and Boston Dynamics).\n\nIf Encord is new to you, we're a ML data ops platform (Series B), we work\nwith over 200+ AI teams helping them unify data curation, annotation and\nmodel eval for multimodal models.\n\nLet me know and we can pencil in a coffee there."
+},
+{
+"id": "313185684712",
+"subject": "[Invite] ICCV Dinner, 10/21 @ Empire Steakhouse",
+"text": "Hi [NAME],\n\nNoticed you're heading to ICCV later this month, so wanted to invite you to\nan AI leaders dinner my co-founders, [SENDER] and [SENDER], are hosting for CTOs\nand senior researchers on Tuesday evening (10/21). We'd love it if you can\njoin us?\n\nWe're keeping it to ~20 guests to keep the conversation impactful, it's at\nEmpire Steakhouse (10 mins from the venue) and we have confirmed attendees\nin our network from Thinking Machine Labs, Woven (Toyota) and Waymo.\n\nIf Encord is new to you, we're a multimodal ML dataops platform, we work\nwith over 200 AI teams, including Thinking Machine Labs, Synthesia and\nBoston Dynamics.\n\nWould be great if you can join us. Let me know if you're interested and I\ncan send over more details."
+},
+{
+"id": "313185716412",
+"subject": "Vitsal Chanana - ICCV dinner invite, 10/21 @ Empire Steakhouse",
+"text": "Hi [NAME],\n\nNoticed you'll be at ICCV later this month, so wanted to invite you to an\nAI leaders dinner my co-founders, [SENDER] and [SENDER], are hosting on Tuesday\nevening (10/21).\n\nIt's for CTOs and Senior Researchers attending the event, capping to ~20\nguests to keep the conversation relevant, and we already have confirmed\nattendees from customers in our network at Toyota, Nexar, Cisco and\nZeitview.\n\nIf Encord is new to you, we've built relationships at [COMPANY] with the likes\nof Drago Anguelov (VP/Head of AI Foundations Team) and we're a ML DataOps\nplatform that unifies caution, annotation and model eval under one roof.\nThese dinners are a way for us to network, give back to our customers and\nto continue to build meaningful relationships in the CV and AI space.\n\nLet me know if you're keen and around and I'll send over the details. Hope\nto see you there."
+},
+{
+"id": "313216345282",
+"subject": "partner with [COMPANY]",
+"text": "Hi [NAME],\n\nCame across your profile while looking into EFSG - love seeing more\nrobotics AI being built out of Singapore! I just moved from SG to SF and\nwork with a bunch of robotics and AV teams building similar CV models.\n\nA lot of them hit scaling issues once open source/ inhouse annotation tools\ncan't keep up with real-world data. We help with model-assisted labeling,\nworkflow management, QA, and model evaluation so teams can iterate faster\nand focus on model performance.\n\nQuick context - Encord is a data development platform for CV and multimodal\nAI (image, video, 3d point cloud), supporting teams like Woven by Toyota,\nBoston Dynamics, Physical Intelligence, and Dyna Robotics. We're also\nEF-backed, now series B and working with 200+ AI teams.\n\nWould it make sense to explore if we can complement your setup?"
+},
+{
+"id": "313244432614",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]\u200b,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313549481161",
+"subject": "[Invite] ICCV AI Data Leaders Dinner - 21st Oct",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting an intimate roundtable dinner for AI & Data Leaders at ICCV and we'd love for you to join us, if you're available.\n\nWe've reserved a private room at Empire Steakhouse (~10 min walk from the conference) on Tuesday 21st October from 7pm. Confirmed attendees include CxOs and senior technical leaders from Nexar, Woven by Toyota, and Philips.\n\nIt'll be an informal, open-format evening - no slides or pitches, just bringing together like-minded people to discuss their experiences & challenges working with AI data.\n\nWould you be interested in joining / available on the 21st?"
+},
+{
+"id": "313553412304",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]\u200b,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+}
+]

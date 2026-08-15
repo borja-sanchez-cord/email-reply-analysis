@@ -1,0 +1,202 @@
+[
+{
+"id": "270440679664",
+"subject": "Just onboarded Motive",
+"text": "Hi [NAME] - we just onboarded Motive (AI Dashcam company) - like Deep\nSentinel, they're developing deep learning models from vast volume of video\ndata.\n\nEncord is helping them tackle efficiency bottlenecks around selecting the\nrelevant subsets of data and automating repetitive annotation tasks for\ntheir workforce productivity.\n\nKeen to hear if those challenges resonate with your work at [COMPANY]?\nWe're flexible morning times PT if you're open to a chat."
+},
+{
+"id": "270487850206",
+"subject": "Catch up - Encord",
+"text": "Hi [NAME],\n\n[SENDER] passed on your contact since you've chatted w/ Encord in the\npast. We just had a productive quarter onboarding Boston Dynamics, Osaro\nand Mytra, helping them optimize data development for robotic perception\nmodels.\n\nSeems like much of your recent focus is on validating deployments in\ncustomer environment  - so I was wondering how is scaling up curation &\nannotation pipeline for real-world data fitting into your team's\nobjectives.\n\nWould you be open to reconnecting? We're flexible most mornings next week\nif so."
+},
+{
+"id": "270494995702",
+"subject": "Just onboarded Entrust",
+"text": "HI [NAME] - congrats on your recent partnership w/ Worldpay! Seems like much\nof [COMPANY]'s recent effort is on detecting synthetic ID - we've just\nonboarded Entrust/Onfido supporting a very similar use case. Keen to see if\nnow is a better time to connect?\n\nFor context - We're helping Entrust (as well challengers in deepfake\ndetection e.g. Reality Defender & Vermillio) improve accuracy for identity/\ndocuments verification models.\n\nTypically we provide a scalable system to define & monitor multi-stage\nannotation projects e.g. auto-labelling -> human QA -> identify inaccurate\nlabels -> rework, while keeping their PII data safe with label lineage\ntracking + secure deployment options.\n\nHow are you thinking about data development at [COMPANY]? Flexible morning\ntimes PT if you're open to exchange perspectives."
+},
+{
+"id": "270511080662",
+"subject": "Your annotation pipeline can be more scalable",
+"text": "Hi [NAME],\n\nNoticed BrightA is focusing on scaling autonomous inspection systems post\nSeries A. Wanted to reach out since we're working with Abyss, Buzz\nSolutions & Cyberhawk who are developing similar models for\nasset/infrastructure inspection.\n\nIn case Encord is new to you - we help 200+ ML teams improve efficiency in\ntraining data preparation. Typically teams come to us to consolidate\ncuration, (auto)annotation and label validation in one place, with the\nobjective of increasing labelling throughput and accelerating model\niteration cycles.\n\nHow are you thinking about scaling your training data development? We're\nflexible morning times PT if you're open to a chat."
+},
+{
+"id": "271007603924",
+"subject": "Scaling perception pipeline (w/out tooling headaches)",
+"text": "Hi [NAME],\n\nNoticed Pronto is hiring a perception engineer to improve\ncamera calibrations. Curious if integrating camera and lidar models into a\nsingle perception stack has become a priority following the SafeAI\nacquisition?\n\nFor context, teams at Boston Dynamics, Woven by Toyota, and Skydio leverage\nEncord to speed up training data prep and automate annotations, freeing\nthem to focus on edge-case model accuracy. We've also built point cloud\nsupport, so 2D and 3D data can be curated and annotated in one platform.\n\nHow are you thinking about engineering productivity as you scale? We're\nflexible morning times PT if you're open to a chat."
+},
+{
+"id": "271020606692",
+"subject": "Just onboarded Motive",
+"text": "Hi [NAME],\n\nWe just moved Motive away from their internal tools, helping them to\nsurface relevant driver behaviours and maintain temporal consistency for\nvideo annotation. Thought to share the updates since you're building\nsimilar driver safety models at [COMPANY] - curious how your thinking around\ndata quality has evolved?\n\nPresumably you're familiar with Encord - teams building AV/ DMS models\n(e.g. Motive & Woven by Toyota) leverage us to more efficiently\ncurate/filter for relevant data points from million miles of driving data,\nand automate repetitive boilerplate annotation tasks.\n\nWould you be open to a quick catch up? Happy to share updates on what we've\nlearned."
+},
+{
+"id": "271039677630",
+"subject": "Scaling perception pipeline (w/out tooling headaches)",
+"text": "Hi [NAME],\n\nNoticed Pronto is hiring a perception engineer to improve\ncamera calibrations. Curious if integrating camera and lidar models into a\nsingle perception stack has become a priority following the SafeAI\nacquisition?\n\nFor context, teams at Boston Dynamics, Woven by Toyota, and Skydio leverage\nEncord to speed up training data prep and automate annotations, freeing\nthem to focus on edge-case model accuracy. We've also built point cloud\nsupport, so 2D and 3D data can be curated and annotated in one platform.\n\nHow are you thinking about engineering productivity as you scale? We're\nflexible morning times PT if you're open to a chat."
+},
+{
+"id": "271082494175",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable with our\npartner Prolific on Wednesday, Sept 10 in SF. The theme is \"Human Feedback\"\n- thought it'd be a timely topic for [COMPANY] since you're building out the\nDesign Quality Eval team here in the Bay.\n\nThe roundtable will be on *10th September, starting from 6:30 pm*, with\nguests and experts joining from leading AI labs and companies including\nAnthropic, Adobe, Luma AI, etc.\n\nThe backstory: Human expertise is at the heart of effective AI. That's why\nEncord and Prolific are creating space for peer conversations amongst\nleaders who collect, curate, and validate the data that powers the frontier\nof AI innovations.\n\nWe're keeping the roundtable to 20 people, so please let us know if you'll\njoin when you can."
+},
+{
+"id": "271170858198",
+"subject": "Data requirements for diver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "271399670976",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "271990809811",
+"subject": "Just onboarded Boston Dynamics",
+"text": "Hi [NAME] - we recently onboarded Boston Dynamics, helping them improve\nscalability of their annotation pipelines. Thought to reach out since\nPhantom is now in customer deployment.\n\nFrom our previous conversations with [SENDER] seems Encord might be able\nto help scaling up labelling operations. In particular, filtering/curate\nrelevant datasets from long-form videos and video-native interpolation for\nsegmentation tasks.\n\nNot sure if you're also looking towards VLM/VLA models - perhaps we can\nshare insights on how we're helping similar projects at Physical\nIntelligence and Figure too.\n\nWould it be worth picking up the conversation?"
+},
+{
+"id": "272002101472",
+"subject": "Just onboarded Onfido",
+"text": "Hi [NAME],\n\nNoticed HyperVerge shares the NIST leaderboard with Onfido, Veriff and Vida\nID whom we're working on projects with. Have you come across similar\nchallenges in training data development?\n\nFor IDV teams, managing complex annotation projects without compromising\ndata quality is a significant challenge. We're solving this with a workflow\norchestration system that defines and monitors auto-labeling, label\nvalidation and human QA in one place - which enabled Vida ID to reduce\nmodel false positive rate from 6% to 1%.\n\nHow are you thinking about training data quality at HyperVerge? I'm\nflexible morning times ET if you're open to exchange perspectives."
+},
+{
+"id": "272015161560",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData Leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272018390225",
+"subject": "Active learning for multimodal IDV",
+"text": "Hi [NAME] - seems like [COMPANY]'s recent focus is on liveness and PAD detection\nmuch like our customer Entrust (Onfido). Wondering if you've encountered\nsimilar data development challenges?\n\nFor context - Entrust moved from in-house tools to Encord to accelerate\niteration cycles for complex annotation projects, e.g. with nested\nontologies/schema across image, video and document data. They now define &\nmanage multi-stage annotation & QA/review processes on our workflow\norchestrator, and identify where models fail from a data perspective on our\nlabel validation tool.\n\nConsidering sensitive PII IDV co's typically handle - we've also built\nsecure deployment options + data lineage tracking.\n\nHow are you thinking about improving model accuracy at [COMPANY]? We're flexible\nmorning times MT if you're open to exchange perspectives."
+},
+{
+"id": "272020242648",
+"subject": "Data requirements for diver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at Verizon? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "272020662495",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272027463889",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "272027750606",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272027859158",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272027892925",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272031344889",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData Leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please let us know if\nyou'll join by replying to this email when you can."
+},
+{
+"id": "272033129717",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData Leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please let us know if\nyou'll join by replying to this email when you can."
+},
+{
+"id": "272033158368",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272036475068",
+"subject": "[NAME] <> [SENDER] (Head of Partnerships at Encord)",
+"text": "Hi [NAME] - hope all is well with you,\n\nI'd like to introduce you to our Head of Partnerships, [SENDER] . He\nrecently joined to build out our partner ecosystem, and he's interested in\nconnecting with you to see if there are opportunities to collaborate more\nclosely.\n\nI'll let you two take it from here to schedule time."
+},
+{
+"id": "272036755703",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME]\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData Leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272036764871",
+"subject": "Data requirements for diver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine Lytx is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at Lytx? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "272037056719",
+"subject": "Scaling annotation pipeline for real world data",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down).\n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "272038796493",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272042179791",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272043874522",
+"subject": "AV perception - active learning loop",
+"text": "Hi [NAME] - noticed Pronto is hiring a perception engineer focusing on\nactive learning. Wonder if scaling perception pipelines without\ncompromising data quality might be on your mind.\n\nIn case Encord is new to you - perception teams building autonomous systems\n(e.g. Boston Dynamics, Woven by Toyota, Skydio) leverage our platform to\nimprove efficiency in training data prep - e.g. finding edge cases for\nlabelling with filtering/ embeddings /natural language search;\nmodel-assisted auto-annotation & validating label accuracy in one place.\n\nOpen to see a few ways we're making object detection, segmentation &\nclassification tasks ~5x more efficient? Can demo on a representative\nworkflow for Pronto - lmk."
+},
+{
+"id": "272045744354",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "272045800649",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272048039125",
+"subject": "your annotation pipeline can be more scalable",
+"text": "Hi [NAME],\n\nWe just onboarded Mytra who was scaling up real-world data collection for their perception models. Noticed Mech is piloting in Japan - curious if you've run into similar challenges with surging data volume at Dexterity? \n\nMytra came to Encord to more efficiently index, auto-label and QA for messy data from the physical world. They use our model-assisted automation to scale their annotation pipeline, alongside capabilities to curate and validate label accuracy across 2D (image & video) and 3D point cloud data in one place. (+ we also complement well with your existing visualization/debugging tool Foxglove.)\n\nOpen to swap notes on scaling annotation pipeline w/ messy real-world data?"
+},
+{
+"id": "272063379671",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down).\n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "272064870604",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData Leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please let us know if\nyou'll join by replying to this email when you can."
+},
+{
+"id": "272064955610",
+"subject": "Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272066839759",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite if you can make it!\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Anthropic, Glean,\nSynthesia, etc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers tomorrow's models.\n\nWe're keeping the roundtable to max 20 people, so please RSVP when you can."
+},
+{
+"id": "272068120808",
+"subject": "Data requirements for diver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "272073518310",
+"subject": "Scaling ML data operation",
+"text": "Hi [NAME],\n\nSeems like you look after human data operation at [COMPANY]. Wanted to\nintroduce ourselves since we just onboarded Onfido (Entrust) for multimodal\nannotation/ human feedback projects.\n\nTypically enterprises (e.g. Onfido and AXA) move to Encord from\nopen-source/first-gen tools (e.g. LabelStudio & Labelbox) for better\nscalability & workforce management on complex labelling projects. Some\ncommon challenges we help to address includes:\n\n   - Complex schema and requirements for multimodal annotation (vision,\n   documents and text)\n   - Workflow visibility on multi-step human-in-the-loop projects (e.g.\n   model-assisted pre-labelling -> consensus -> quality control etc)\n   - Analytics and label versioning to monitor productivity and consistency\n\nHow are you thinking about scaling data operations? Flexible morning times\nPT if you're open to a chat."
+},
+{
+"id": "272073534701",
+"subject": "Model accuracy with better quality data",
+"text": "Hi [NAME],\n\nSeems like you're leading the machine learning team at [COMPANY] so I wanted\nto introduce ourselves. We just onboarded Onfido (Entrust), helping them\nimprove data quality in a multimodal evidence verification use case.\n\nTypically enterprises (e.g. Onfido and AXA) move to Encord from\nopen-source/first-gen tools (e.g. LabelStudio & Labelbox) to close the\nactive learning loop for model iteration. Sharing some common challenges we\nhelp address:\n\n   - Unify multimodal annotation (vision, documents and text) and label\n   validation\n   - Workflow visibility on multi-step human-in-the-loop projects (e.g.\n   model-assisted pre-labelling -> consensus -> quality control etc)\n   - Analytics and label versioning to monitor workforce productivity and\n   consistency\n\nHow are you thinking about improving data quality for [COMPANY]? Flexible\nmorning times PT if you're open to a chat."
+}
+]

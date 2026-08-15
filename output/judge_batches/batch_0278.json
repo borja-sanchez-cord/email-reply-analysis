@@ -1,0 +1,202 @@
+[
+{
+"id": "488702958804",
+"subject": "World models deep dive (Dyna, Agility) - today",
+"text": "Hi [NAME],\nWe're hosting a deep-dive webinar\n<[LINK]>on\nthe future of AI in robotics - thought you'd find the discussion\nparticularly relevant.\n\nWe're bringing together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder\nat Dyna) for a conversation, moderated by Encord CEO [SENDER] and Head\nof Physical AI [SENDER] to debate a central question: \"Will World\nModels Eat Physical AI?\"\n\n   - When: 9:00 AM PT, Wed, April 29 (6pm CET)\n   - Where: Virtual Webinar\n\nThe discussion will focus on World Models vs. VLAs, real-world deployment\ntrade-offs, and data pipelines powering current humanoid/robotics systems.\n\nAre you interested in joining? Happy to add you to the list."
+},
+{
+"id": "488733789372",
+"subject": "Intro from Dieter - Encord x Nanoflex",
+"text": "Hi [NAME],\n\nDieter suggested I reach out, as he mentioned you have closer oversight of\nthe ML pipeline at Nanoflex and thought a conversation with us would be\nworth your time.\n\nQuick context: Encord is the data development platform for computer vision\nteams in high-stakes domains. We're used heavily across medical imaging and\nsurgical robotics for annotation, curation, and model-in-the-loop\nworkflows, particularly where the imagery isn't standard (fluoroscopy,\nangiography, intra-procedural video) and label error has real consequences.\n\nNanoflex's setup looks like exactly that kind of problem:\ncatheter/guidewire tracking, vessel-level navigation, magnetic actuation\nfeedback, all from imagery that doesn't behave like a COCO benchmark. Teams\nwe work with in adjacent spaces tend to hit the same walls early:\nannotation tooling that doesn't handle the modality, data ops that buckle\nonce volume scales, and review loops with no clean way for engineers or\nclinicians to flag bad labels.\n\nWorth a 30-min intro to compare notes? I'd share what we've seen work for\nteams in similar spots and learn where you are in yours. I have time next\nweek, do any of these slots work (CET):\n\n   1. Tuesday 5th May: 1430-1500pm\n   2. Wednesday 6th May: 1200 - 1230pm // 1500 - 1530pm"
+},
+{
+"id": "488747222232",
+"subject": "[COMPANY]'s $500m round",
+"text": "Hi [NAME],\nWith [COMPANY]'s $500m round, AI platform decisions tend to lock in fast, especially around auditability and how AI outputs get reviewed in regulated workflows.\nIf your team is shipping GenAI features across treasury and digital assets, what's the current \"source of truth\" for evaluating output quality and tracing it back to the underlying data?\nUp for a 15-min call next week?\n\n[SENDER] AI/ML Partnerships"
+},
+{
+"id": "488765667552",
+"subject": "Series C scaling",
+"text": "Hi [NAME],\n\nA $75M Series C usually forces decisions on what you standardize vs keep ad hoc, especially around risk and compliance workflows that touch messy data like KYC docs, dispute evidence, and support tickets.\n\nIf [COMPANY] is training or tuning models around fraud, transaction anomalies, or ops triage, the bottleneck tends to become data quality and consistent human review, not model architecture.\n\nUp for a 20-min call this week?"
+},
+{
+"id": "488789879006",
+"subject": "AIAH- chat",
+"text": "Hi [NAME], \n\nThanks again for your interest in our AI After Hour in SF - I wanted to reach out and properly introduce myself. \n\nI'd love to grab a quick virtual coffee to share more about future events we have in the Bay Area and learn a bit more about how you're thinking about data and ML workflows. \n\nMy team at Encord work closely with physical AI teams like Synthesia, Boston Dynamics, Dyna Robotics, and Woven/Toyota dealing with multimodal data (doc, voice, image/video, point cloud).\n\nWould you be open to a quick 20min coffee chat? Happy to work around your schedule."
+},
+{
+"id": "488893930695",
+"subject": "How are you thinking about real-world eval data for VFA?",
+"text": "Hi [NAME] - congrats on the Eka launch! The force-first VFA model is\ngetting the right attention.\n\nCurious how you're thinking about real-world evaluation as the team scales.\nWe work with a number of frontier robotics labs (Agility, 1X, Dyna), and\nthe pattern we consistently see is that the data pipeline becomes a\nbottleneck earlier than expected.\n\nFor context: Encord ( Series C, $110M raised) supports Physical AI teams\nwith data collection, annotation, and model evaluation across vision and\nsensor modalities.\n\nWould love to share what we're seeing across the space. Open to a 20-min\ncall next Wed or Thu?"
+},
+{
+"id": "488927414467",
+"subject": "How are you thinking about real-world eval data for VFA?",
+"text": "Hi [NAME] - congrats on the Eka launch! The force-first VFA model is\ngetting the right attention.\n\nCurious how you're thinking about real-world evaluation as the team scales.\nWe work with a number of frontier robotics labs (Agility, 1X, Dyna), and\nthe pattern we consistently see is that the data pipeline becomes a\nbottleneck earlier than expected.\n\nFor context: Encord ( Series C, $110M raised) supports Physical AI teams\nwith data collection, annotation, and model evaluation across vision and\nsensor modalities.\n\nWould love to share what we're seeing across the space. Open to a 20-min\ncall next Wed or Thu?"
+},
+{
+"id": "488946104535",
+"subject": "[COMPANY] sidewalk CV models",
+"text": "Hi [NAME],\n\nWas riding a [COMPANY] on my commute today and noticed the new sidewalk\ndetection feature - curious if you're working on this or developing the CV\nmodels?\n\nMy team at Encord works with some of the leading urban autonomy and CV\nteams like Woven (Toyota) and Path Robotics, they use us as a platform for\nlabeling and curating messy real-world data.\n\n[image: IMG_4746.JPG]\nI assume you guys already have a solution for this, but would love to show\nyou our approach if useful."
+},
+{
+"id": "488949648581",
+"subject": "[COMPANY] sidewalk CV models",
+"text": "Hi [NAME],\n\nWas riding a [COMPANY] on my commute today and noticed the new sidewalk\ndetection feature - curious if you're working on this or developing the CV\nmodels?\n\nMy team at Encord works with some of the leading urban autonomy and CV\nteams like Woven (Toyota) and Path Robotics, they use us as a platform for\nlabeling and curating messy real-world data.\n\n[image: IMG_4746.JPG]\nI assume you guys already have a solution for this, but would love to show\nyou our approach if useful."
+},
+{
+"id": "488949701867",
+"subject": "How are you thinking about real-world eval data for VFA?",
+"text": "Hi [NAME] - congrats on the Eka launch! The force-first VFA model is\ngetting the right attention.\n\nCurious how you're thinking about real-world evaluation as the team scales.\nWe work with a number of frontier robotics labs (Agility, 1X, Dyna), and\nthe pattern we consistently see is that the data pipeline becomes a\nbottleneck earlier than expected.\n\nFor context: Encord ( Series C, $110M raised) supports Physical AI teams\nwith data collection, annotation, and model evaluation across vision and\nsensor modalities.\n\nWould love to share what we're seeing across the space. Open to a 20-min\ncall next Thu or Fri?"
+},
+{
+"id": "488967613629",
+"subject": "[COMPANY] sidewalk CV models",
+"text": "Hi [NAME],\n\nWas riding a [COMPANY] on my commute today and noticed the new sidewalk\ndetection feature - curious if you're working on this or developing the CV\nmodels?\n\nMy team at Encord works with some of the leading urban autonomy and CV\nteams like Woven (Toyota) and Path Robotics, they use us as a platform for\nlabeling and curating messy real-world data.\n\n[image: IMG_4746.JPG]\nI assume you guys already have a solution for this, but would love to show\nyou our approach if useful."
+},
+{
+"id": "489047061701",
+"subject": "[SENDER] [SENDER] - just tried you over the phone",
+"text": "Hey [NAME],\n\nSorry for catching you at a bad time there, thought I'd send some info over\nemail.\n\nI've been reading about [COMPANY]'s planned expansion into the UK + Italy,\nassumed that data volumes will be scaling alongside that.\n\nMy team at Encord works with companies like Flock Safety and Protex AI,\nhelping them to optimise their surveillance CV models at scale through\nimproved multimodal annotation and curation.\n\nIt'd be great to find 20 mins to get your feedback on what we've built. I\nthought that as Lead CV Engineer you'd be working very closely to the data\nchallenges.\n\nNext Weds/Thurs afternoon look good for me - let me know if you have some\ntime."
+},
+{
+"id": "489088951499",
+"subject": "Encord referral by Sai Kishor",
+"text": "Hi [NAME],\n\nI spoke to Sai from your robotics team last week, and wanted to follow up\nas he suggested you'd be the best person to speak to about Encord.\n\nAfter looking at TIAGo Pro and KANGAROO more closely, the overlap I felt\nEncord had with PAL is sharper than I realised. TIAGo Pro is positioned\naround teleoperation and data generation for AI training, and KANGAROO is\nexplicitly your embodied-AI / VLA platform: both are exactly the workloads\nEncord is built for.\n\nJust wanted to include some more context on Encord and the work we do with\nother humanoid and robotics companies to optimise their model evaluations\nand data pipelines. A few specific PAL-relevant angles:\n\nFor VLA training on KANGAROO: structured observation-action data across\nembodiments, contact-state and motion-primitive labeling, and benchmarking\nacross model versions so you can see where the policy is actually failing.\n\nFor TIAGo Pro teleop pipelines: turning raw demonstration video into\ntimestamped, model-ingestible action labels (grasp type, contact\ntransitions, sub-task boundaries) without burning research time on data ops.\n\nFor multi-embodiment research programs like COGNITIUM and your other EU\ncollaboratives: versioned datasets that travel across partners, with clear\nground-truth tracking per model iteration.\n\nWould love to have a more structured conversation next week with yourself\nand the team. How do some of the following times work (CET):\n\n   - Tuesday 5th May 1500 - 1530pm\n   - Thursday 7th May 1000-1030am // 1400-1430pm"
+},
+{
+"id": "489102171380",
+"subject": "Encord - world models webinar",
+"text": "Hi [NAME] - hope you enjoyed the webinar yesterday,\n\nAttaching the recording here\n<[LINK]>\n-\nwould love to get your thoughts on the discussion. Would you have 15/20mins\nfor a virtual coffee next week?\n\nEncord has helped leading robotics and embodied AI teams such as Boston\nDynamics, Pickle Robot, and ANYbotics gain scalable control over their\nperception data pipelines - supporting frontier use cases like multimodal\nscene understanding, sensor fusion across LIDAR and RGB, and fleet-wide\nevaluation of vision models deployed on robots in the real world.\n\nThought it would be a good time to connect given [COMPANY]' push to scale\nrobotics and embodied AI across your industrial automation and R&D\nprogrammes."
+},
+{
+"id": "489108184252",
+"subject": "World Models v Physical AI",
+"text": "Hi [NAME], \n\n       My co-founder \n       [SENDER] is having a \n       debate with our Head of Physical AI [SENDER] on the future of World Models and VLAs on Thursday, Apr 9th. \n\n       They will be sharing learnings from working with top Physical AI teams like Boston Dynamics, Physical Intelligence, Dyna Robotics, 1X, etc. \n\n       Figured this might be interesting for you - feel free to sign up \n       here to attend live or receive the recording. \n\n       Or better yet, if you'd like an 1:1 conversation with them, just give me the word and I'll be more than happy to set it up for you."
+},
+{
+"id": "489108526316",
+"subject": "World Models v Physical AI",
+"text": "Hi [NAME], \n\n       My co-founder \n       [SENDER] is having a debate with our Head of Physical AI [SENDER] on the future of \n       World Models and VLAs on Thursday, Apr 9th. \n\n       They will be sharing learnings from working with top Physical AI teams like Boston Dynamics, Physical Intelligence, Dyna Robotics, 1X, etc. \n\n       Figured this might be interesting for you - feel free to sign up \n       here to attend live or receive the recording. \n\n       Or better yet, if you'd like an 1:1 conversation with them, just give me the word and I'll be more than happy to set it up for you."
+},
+{
+"id": "489122687209",
+"subject": "World Model v Physical AI",
+"text": "Hi [NAME], \n\n      My co-founder \n      [SENDER] is having a debate with our Head of Physical AI [SENDER] on the future of \n      World Models and VLAs on Thursday, Apr 9th. \n\n      They will be sharing learnings from working with top Physical AI teams like Boston Dynamics, Physical Intelligence, Dyna Robotics, 1X, etc. Figured this might be interesting for you - feel free to sign up \n      here to attend live or receive the recording. \n\n      Or better yet, if you'd like an 1:1 conversation with them, just give me the word and I'll be more than happy to set it up for you."
+},
+{
+"id": "489122687219",
+"subject": "world models v physical AI",
+"text": "Hi [NAME], \n\n        My co-founder \n        [SENDER] is having a debate with our Head of Physical AI [SENDER] on the future of \n        World Models and VLAs on Thursday, Apr 9th. \n\n        They will be sharing learnings from working with top Physical AI teams like Boston Dynamics, Physical Intelligence, Dyna Robotics, 1X, etc. Figured this might be interesting for you - feel free to sign up \n        here to attend live or receive the recording. \n\n        Or better yet, if you'd like an 1:1 conversation with them, just give me the word and I'll be more than happy to set it up for you."
+},
+{
+"id": "489122687221",
+"subject": "Future of World Models & Physical AI",
+"text": "Hi [NAME], \n\n       My co-founder \n       [SENDER] is having a debate with our Head of Physical AI [SENDER] on the future of \n       World Models and VLAs on Thursday, Apr 9th. \n\n       They will be sharing learnings from working with top Physical AI teams like Boston Dynamics, Physical Intelligence, Dyna Robotics, 1X, etc. \n\n       Figured this might be interesting for you - feel free to sign up \n       here to attend live or receive the recording. \n\n       Or better yet, if you'd like an 1:1 conversation with them, just give me the word and I'll be more than happy to set it up for you."
+},
+{
+"id": "489153940722",
+"subject": "Annotation Delivery Partnerships",
+"text": "Hi, we're evaluating new partners for a variety of projects. If successful\nfrom POC, the partner will have the opportunity to work on projects\nrequiring 50+ full time annotators in production.\n\nExpectations for our partner:\n** Project manager required on your end, responsible for project setup and\nquality guarantee\n** We will provide annotation tools and instructions\n\nProject experiences we're looking for:\n** Video Descriptions (C1 English level, typical household chores, no\nspecial industry or knowledge required)\n** Transcription in English, French, German, Portuguese, Spanish,\npreferably 3+ from this combination )\n** 3D Point Cloud annotation\n** Image/Video Object Detection vs Semantic Segmentation\n** Medical imaging annotation (Surgeon, Dentist, Behavioural Health\nEvaluation)\n\nIf you have experience and can support on the above, we would like to\nschedule a 30 min intro call to learn about your offerings"
+},
+{
+"id": "489156785378",
+"subject": "Annotation Delivery Partnerships",
+"text": "Hi,\n\nWe're evaluating new partners for a variety of projects. If successful from\nPOC, the partner will have the opportunity to work on projects requiring\n50+ full time annotators in production.\n\nExpectations for our partner:\n** Project manager required on your end, responsible for project setup and\nquality guarantee\n** We will provide annotation tools and instructions\n\nProject experiences we're looking for:\n** Video Descriptions (C1 English level, typical household chores, no\nspecial industry or knowledge required)\n** Transcription in English, French, German, Portuguese, Spanish,\npreferably 3+ from this combination )\n** 3D Point Cloud annotation\n** Image/Video Object Detection vs Semantic Segmentation\n** Medical imaging annotation (Surgeon, Dentist, Behavioural Health\nEvaluation)\n\nIf you have experience and can support on the above, we would like to\nschedule a 30 min intro call to learn about your offerings"
+},
+{
+"id": "489158603973",
+"subject": "Annotation Delivery Partnerships",
+"text": "Hi,\n\nWe're evaluating new partners for a variety of projects. If successful from\nPOC, the partner will have the opportunity to work on projects requiring\n50+ full time annotators in production.\n\nExpectations for our partner:\n** Project manager required on your end, responsible for project setup and\nquality guarantee\n** We will provide annotation tools and instructions\n\nProject experiences we're looking for:\n** Video Descriptions (C1 English level, typical household chores, no\nspecial industry or knowledge required)\n** Transcription in English, French, German, Portuguese, Spanish,\npreferably 3+ from this combination )\n** 3D Point Cloud annotation\n** Image/Video Object Detection vs Semantic Segmentation\n** Medical imaging annotation (Surgeon, Dentist, Behavioural Health\nEvaluation)\n\nIf you have experience and can support on the above, we would like to\nschedule a 30 min intro call to learn about your offerings"
+},
+{
+"id": "489159535860",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489171353834",
+"subject": "LinkedIn DM follow-on [SENDER]",
+"text": "Hi [NAME],\n\nHope your trip to the US was prosperous, the videos you're posting show\nsome awesome work!\n\nJust wanted to follow up on my recent call with [NAME] if you're now back\nin Malaysia. We work with AgTech robotics companies like Aigen and Sentera\nto optimise their ML data pipelines. [NAME] mentioned you're currently\nusing CVAT, which we often see teams rely on early on before running into\nscaling limitations.\n\nI'd love to connect and share a bit more. Here are a few times that work on\nour side (in MYT):\n\n   - Wednesday 6th May 1530pm\n   - Thursday 7th May 1600pm\n   - Friday 8th May 1530pm\n\nWe're based in London, so happy to adjust if another time works better for\nyou. Look forward to speaking!"
+},
+{
+"id": "489183089892",
+"subject": "Mission-critical UAV tracking | Working w/ Skydio, Zipline & Forterra",
+"text": "Hi [NAME],\n\nMulti-camera target tracking that holds up across edge cases is one of the\nharder problems in autonomous flight, especially in defense. We work with\nautonomy leaders at Skydio, Zipline, and Forterra, so wanted to reach out.\n\nTheir teams came to us when:\n\n   1. Tracker failures in flight data were hard to surface and fix at scale\n   2. Multimodal annotation (camera + thermal + LiDAR) bottlenecked\n   retraining cycles\n   3. ML engineers spent more time on data infra than algorithm work\n\nWorth 15 minutes? Tuesdays and Thursdays usually work well for me."
+},
+{
+"id": "489203494124",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME], \n\n We hosted a deep-dive webinar on the future of AI in robotics, and given your work, I thought you would have found the discussion particularly relevant. \n\n We brought together Chris Paxton (AI Lead at Agility) and Jason Ma (Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will World Models Eat Physical AI?\" \n\n The discussion focused on World Models vs. VLAs, real-world deployment trade-offs, and the data pipelines powering current humanoid and robotics systems.  \n\n Attaching the recording  \nhere - we hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489204201698",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489204859112",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489207052500",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489207281909",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489207495905",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489207842005",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489207982302",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489209510087",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489209828566",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489211323625",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489211509979",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489211549943",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489211806947",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+},
+{
+"id": "489211814080",
+"subject": "Will World Models Eat Physical AI?",
+"text": "Hi [NAME],\n\nWe hosted a deep-dive webinar on the future of AI in robotics, and given\nyour work, I thought you would have found the discussion particularly\nrelevant.\n\nWe brought together Chris Paxton (AI Lead at Agility) and Jason Ma\n(Co-founder at Dyna) for a conversation moderated by Encord CEO [SENDER] and Head of Physical AI [SENDER] to debate a central question: \"Will\nWorld Models Eat Physical AI?\"\n\nThe discussion focused on World Models vs. VLAs, real-world deployment\ntrade-offs, and the data pipelines powering current humanoid and robotics\nsystems.\n\nAttaching the recording here\n<[LINK]>\n-\nwe hope you enjoy the session, and I'd love to hear your thoughts!"
+}
+]

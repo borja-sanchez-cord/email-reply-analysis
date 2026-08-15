@@ -1,0 +1,202 @@
+[
+{
+"id": "427658616018",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "427731272898",
+"subject": "In Boston - Coffee?",
+"text": "Hey [NAME] - congrats on your new role at [COMPANY] - how're you settling in?\n\nMy colleague @[SENDER] <[EMAIL]> will be in Boston\n10-12 Feb and planning to see some of the [COMPANY] folks, and I'd love to\nconnect you two!\n\nThere are a few initiatives we're being considered for (Services, tooling\nand curation) but maybe the one you'd care most about is the lack of data\naccess cross-modality. Nobody seems to have quick access to either raw or\nlabelled datasets that are relevant for projects and we're hoping to plug\nthat gap.\n\nMaybe you guys can grab coffee while [SENDER] is in town? Lmk if I can help\nwith coordinating!"
+},
+{
+"id": "427743819975",
+"subject": "Human Web Grading",
+"text": "Hi [NAME],\n\nI read about [COMPANY]'s approach to evals which focuses on grading retrieval and\ndownstream task utility using open evals and LLM graders.\n\nThis end-to-end eval covers search, tool calling, navigation, so you can\nmeasure gains vs foundational models.\n\nIt also helps understand not just whether a task succeeded, but *why* is a\nbehavior is better for web search.\n\nCase study here:\n[LINK]\n\nIt's an evolving process on our side, would you or someone on your team be\nopen to connect briefly?"
+},
+{
+"id": "427804138682",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of you! So I'd love to extend an\ninvite for you to attend.\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\n+ Chris Paulson from NVIDIA's robotics DevRel team will be moderating.\nThe panel will be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427809502455",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are assembling\ndiverse training data across vision and tactile sensors from the real world\nwill be a major topic of discussion -- which made me think of you! So I'd\nlove to extend an invite for you to attend.\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427815006424",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of your work! So I'd love to\nextend an invite for you & the Generalist team to attend.\n\nThe event will be on the evening of 29th Jan, confirmed panelists include:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427841470688",
+"subject": "Just Called- Physical AI Panel Invite",
+"text": "Hi [NAME],\n\nI want to invite you to our physical AI panel next Thursday January 29th.\nWe have speakers from Dyna, Agility, and 1x robotics. Moderated by Chris\nPaulson who is on the robotics team over at NVIDIA.\n\nWe have many coming from the physical AI space as well as ADAS space. Would\nlove to see the [COMPANY] team represented next week.\n\nSee here for details:\n\n[LINK]\n\nLet me know if you plan on attending the event!\n\n-[SENDER]"
+},
+{
+"id": "427852733670",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of your work! So I'd love to\nextend an invite for you & the [COMPANY] team to attend.\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427918038238",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are assembling\ndiverse training data across vision and tactile sensors from the real world\nwill be a major topic of discussion -- which made me think of you! So I'd\nlove to extend an invite for you to attend.\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427923439820",
+"subject": "Reconnecting on Speech Labeling",
+"text": "Hi [NAME],\n\nWe were previously in touch with [SENDER] when the team was exploring ways to\nlevel up the speech labeling workflow.\n\nNot sure if you're still using Gradio, but we've since been working closely\nwith foundation labs like Synthesia, Mirage, and Thinking Machines on\nmultimodal data labeling and human evaluations along with several\naudio-focused teams as well.\n\nWe support audio and video ingestion, as well as preference ranking across\npaired audio/video outputs.\n\nWould you be open to a brief reconnect? I'd love to hear how the team is\nthinking about this as the year gets started."
+},
+{
+"id": "427927016678",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of your work! So I'd love to\nextend an invite for you & the [COMPANY] team to attend.\n\nThe event will be on the evening of 29th Jan, with [SENDER] Ho (1X), Chris\nPaxton (Agility Robotics), Jason Ma (Dyna Robotics) and Adrien Li-[SENDER]\n(Physical Intelligence) confirmed as panelists, with Chris Paulson from\nNVIDIA's robotics DevRel team moderating. The panel will be followed by an\ninformal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427934393544",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are assembling\ndiverse training data across vision and tactile sensors from the real world\nwill be a major topic of discussion -- which made me think of you! So I'd\nlove to extend an invite for you to attend.\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "428610970853",
+"subject": "Invite from [SENDER] to Physical AI Panel in SF, Jan 29th",
+"text": "Hi [NAME],\n\n[SENDER], our co-founder, asked me to reach out and invite you to a\nphysical AI panel we're hosting in SF on Jan 29th with Weights & Biases and\nAnyscale.\n\nWe have a star studded line-up on the panel starting at 5.30pm, with\nexecs/founders from 1X, NVIDIA, Dyna, Agility and Physical Intelligence\ntalking.\n\nYou'll be able to network with them after, and all details can be found\nhere: [LINK]\n\nLet me know if you register and I'll get you onto the guestlist."
+},
+{
+"id": "428768791744",
+"subject": "Encord & [COMPANY] | Intro to Video AI team",
+"text": "Hi [NAME],\n\nI am reaching out since we got the chance to meet with Sanat from your team\nlast week who shared some context into some of the initiatives you are\nworking on at [COMPANY].\n\nThis resonated with me, since we have helped a lot of teams building video\nAI solutions for the OR to increase data annotation efficiency as they\nmoved away from CVAT: KCL experienced a 16x improvement on labeling\nefficiency jump from CVAT to Encord (case study here\n<[LINK]>\n).\n\nCould be good for us to chat / introduce ourselves and swap notes about\nwhat we've been learning from our partners in surgical AI like Asensus\nSurgical, Apella, and Moon Surgical.\n\nWould you be open to catching up virtually next week? Here is my calendar\n<[LINK]>\nin\ncase it is easier to find some time that works for the both of us.\n\nP.S. This conversation would be more of an introduction to see if Encord\nmight add some value down the road as I understand this is not a\npressing need.\n\nHave a great weekend!"
+},
+{
+"id": "428783170798",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of your work!\n\nAppreciate travels to SF might be a blocker, thought I'd extend an invite\nregardless!\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "428790366441",
+"subject": "Encord & Snke | Intro to Video AI team",
+"text": "Hi [NAME],\n\nI am reaching out since we got the chance to meet with Sanat from your team\nlast week who shared some context into some of the initiatives you are\nworking on at Snke.\n\nThis resonated with me, since we have helped a lot of teams building video\nAI solutions for the OR to increase data annotation efficiency as they\nmoved away from CVAT: KCL experienced a 16x improvement on labeling\nefficiency jump from CVAT to Encord (case study here\n<[LINK]>\n).\n\nCould be good for us to chat / introduce ourselves and swap notes about\nwhat we've been learning from our partners in surgical AI like Asensus\nSurgical, Apella, and Moon Surgical.\n\nWould you be open to catching up virtually next week? Here is my calendar\n<[LINK]>\nin case it is easier to find some time that works for the both of us.\n\nP.S. This conversation would be more of an introduction to see if Encord\nmight add some value down the road as I understand this is not a\npressing need.\n\nHave a great weekend!"
+},
+{
+"id": "428957055216",
+"subject": "Encord Physical AI Panel - following up from [SENDER] [SENDER]",
+"text": "Hi [NAME],\n\nLooking forward to having you join us next week! Believe my colleagues have\nshared the Luma invite - let me know if any questions.\n\nI am currently putting together the discussion points for our panellists,\nand would really love to get your input on what's top of mind for you -\nbroadly in the world of model development and Physical AI.\n\nDo you have 15-20 to catch up start of next week - perhaps Tuesday or\nWednesday 10-11am PST?\n\nLet me know if a better time suits you\n\nHave a good weekend and chat soon,"
+},
+{
+"id": "429165028578",
+"subject": "Labeling Construction Docs",
+"text": "Hi [NAME],\n\nWe've been working with a few construction-focused teams on document\nparsing and extraction, including both vertical AI platforms and tools like\nReducto.\n\nWe spoke with your ML team in Egypt last year, and as we head into the new\nyear, I was curious how you're thinking about labeling construction\ndocuments with AI.\n\nHappy to share what we're seeing if you're open to a quick chat next week."
+},
+{
+"id": "429197411563",
+"subject": "Reconnecting on Speech Labeling",
+"text": "Hi [NAME],\n\nWe were previously in touch with [SENDER] when the team was exploring ways to\nlevel up the speech labeling workflow.\n\nNot sure if you're still using Gradio, but we've since been working closely\nwith foundation labs like Synthesia, Mirage, and Thinking Machines on\nmultimodal data labeling and human evaluations along with several\naudio-focused teams as well.\n\nWe support audio and video ingestion, as well as preference ranking across\npaired audio/video outputs.\n\nWould you be open to a brief reconnect? I'd love to hear how the team is\nthinking about this as the year gets started."
+},
+{
+"id": "429243936987",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "431478068455",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "431970098388",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "432983864506",
+"subject": "Back to MA",
+"text": "Hey [NAME],\n\nHow's the weather over there? I'm off to NY tomorrow and it looks like I\nmight need to pack a shovel!\n\nA colleague of mine visited the Vecna team last year and it sounded like\nVision was a big priority for [YEAR]. We've been doing a lot in the AMR and\ngeneral Robotics space over the past 6 months and I'd love to reconnect\nwith Vecna to understand what you've been working on + share some updates\non our side.\n\nAs a final note, we're thinking about a Boston dinner for AI leaders and\nSubject experts in March. Let me know if you'd be interested in joining (no\nsales pitches/tacky fireside talks - just great food and brilliant minds)."
+},
+{
+"id": "433040233684",
+"subject": "Zurich Dinner",
+"text": "Hi [NAME],\n\nReaching out for two reasons:\n\n1) Switzerland's AI scene is exploding and we're going to be\nreturning to Zurich for a private dinner in March / April. These are\ntypically founders + Heads of ML / CV in an intimate setting (no hidden\nsales talks). Would love to see if it's something you'd be interested in\njoining?\n\n2) We've been working with a large US player in Sewer inspection who uses\nsimilar vision models to [COMPANY] - I'm certain there's differences under the\nhood and would love to understand what you're working on!\n\nWould you be free to quickly discuss this week?"
+},
+{
+"id": "433321448648",
+"subject": "Hey [NAME] || xAI x Encord x Harpoon WEST 26",
+"text": "Hi [NAME],\n\nSee you're based in Boston but many of the frontier teams we work with work\nbetween different locations - thought this might be of interest to you:\n\nEncord, xAI and Harpoon Capital have teamed up to host a small\noff-the-record happy hour bringing together leading minds across AI/ML &\nautonomous systems on the 10th of Feb, Tuesday evening at Herb & Wood in\nSan [SENDER] -  would be great to have you there too,\n\nThis invite-only gathering is designed for candid, unfiltered conversation\namong senior industry builders, investors, and government leaders shaping\nthe future of intelligent, mission-critical systems.\n\nFor context - Encord is the leading ML Data Management layer for perception\nand multimodal AI/ML teams backed by Harpoon Ventures, and we've\ncollaborated with xAI to bring together leaders in tech deploying real AI\napplications.\n\nFood & drinks is provided and space is limited - let me know if you're\ntraveling there for WEST & I'll add you to the guest list."
+},
+{
+"id": "433459459266",
+"subject": "Physical AI Panel in SF, Thurs 29th Jan",
+"text": "Hi [NAME],\n\nBeen following IndustrialNext since you came out of YC, Encord is also a YC\ncompany.\n\nGiven your current work and background in autonomous vehicles at Koko Labs,\nI wanted to invite you to a Physical AI panel we're hosting at Weights &\nBiases in SF on Thursday 29th. Speakers include leaders from Agility\nRobotics, Dyna, 1X, NVIDIA, and Physical Intelligence.\n\nThe discussion will focus on recent shifts (VLM/VLA, UMI, world models) and\npractical lessons from training and validating models in the physical\nworld, followed by networking with the speakers.\n\nDetails found here:\n[LINK]\n\nIf you register, let me know and I'll get you approved on the guest list."
+},
+{
+"id": "433461268687",
+"subject": "Physical AI Panel Invite in SF, Jan 29th",
+"text": "Hi [NAME],\n\nWe're an YC-backed company too, and work as a infrastructure layer for\nrobotics and CV companies, so naturally I've been following\n[COMPANY]'s progress.\n\nI wanted to invite you to a Physical AI panel we're hosting at Weights &\nBiases in SF on Thursday 29th. Speakers include leaders from Agility\nRobotics, Dyna, 1X, NVIDIA, and Physical Intelligence.\n\nThe discussion will focus on recent shifts (VLM/VLA, UMI, world models) and\npractical lessons from training and validating models in the physical\nworld, followed by networking with the speakers.\n\nDetails found here:\n[LINK]\n\nIf you register, let me know and I'll get you approved on the guest list. I\ncan also send you the recording afterwards, but would be great to meet and\nspeak with you either way."
+},
+{
+"id": "433491806411",
+"subject": "Physical AI Panel in SF, Thursday 29th Jan",
+"text": "Hi [NAME],\n\nNoticed you signed up to Encord's CES AI leaders dinner event but didn't\nmanage to make it.\n\nWe're hosting a Physical AI panel in SF this week on Thursday the 29th if\nyou happen to be in town, so wanted to extend an invite.\n\nWe have leaders on the panel from 1X, Dyna, Physical intelligence and\nNVIDIA who will be discussing the impact of recent developments (e.g.\nVLM/VLA, UMI, World Models, etc) as well first-hand perspectives on\ntraining and validating models in the physical world.\n\nYou can find details here:\n[LINK]\n\nLet me know if you register and I'll get on the guestlist. Alternatively, I\ncan send a recording if you're not around for it.\n\nEither way, it would be great to catch-up and hear how you're getting on\nand what you're focused on this year."
+},
+{
+"id": "433549157615",
+"subject": "RE: Boston trip",
+"text": "Hey [NAME],\n\nQuick hello from me as I believe you've primarily connected with [SENDER] and\n[SENDER] in the past.\n\nWe're planning another trip to Boston in March, potentially a dinner but\ndefinitely seeing our network in the area and your name came up. I'm aware\nthe project got put on hold but [SENDER] recently mentioned that there are\nplans to pick up the labelling piece in [YEAR].\n\nWould love to take you for a coffee while there + maybe introduce myself\nand understand the current priorities over a quick call ahead of the March\nvisit?"
+},
+{
+"id": "433610019021",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data development platform that offers advanced data curation,\nresulting in higher model accuracy and better visibility into emerging\nfraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "433688991934",
+"subject": "Adrian - ML Workflows",
+"text": "Hi [NAME],\n\nI'm Adi [SENDER] - a Series B YC-backed startup helping 200+ teams\nincluding Rhombus, LVT & Flock build AI models faster and more easily.\n\nWe've previously heard from the [COMPANY] team about your challenges with\nCVAT, and I'd love to discuss how other leading surveillance teams switched\nto Encord for greater scale, QA, and automation.\n\nWould you be open to learning more?"
+},
+{
+"id": "433724624078",
+"subject": "Jason - ML Workflows",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data development platform helping IDV teams build AI models\nfaster with lower false-positive rates.\n\nOur platform offers advanced data curation, resulting in higher model\naccuracy and better visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "433729893564",
+"subject": "Re: data pipeline partnerships",
+"text": "Hi [NAME],\n\nAs a quick introduction, we previously explored a partnership between\nCapella and Encord when Charles Ince was leading partnerships, focused on\nsupporting AI teams working with geospatial data.\n\nSince then, we've continued working closely with geospatial organisations,\nincluding Maxar, on SAR-driven Earth observation pipelines. The focus has\nincreasingly been on helping ML and radar teams unify curation, annotation\nand evaluation, helping them produce better quailty data for greater model\nperformance.\n\nI was wondering whether Capella's AI/ML needs have evolved since those\nearlier conversations, and whether it's worth revisiting. Happy to share\nwhat we're seeing across the space.\n\nOpen to a short chat this week?"
+},
+{
+"id": "433735099616",
+"subject": "Re: data pipeline partnership",
+"text": "Hi [NAME],\n\nAs a quick introduction, we previously explored a partnership between\nCapella and Encord when Charles Ince was leading partnerships, focused on\nsupporting AI teams working with geospatial data.\n\nSince then, we've continued working closely with geospatial organisations,\nincluding Maxar, on SAR-driven Earth observation pipelines. The focus has\nincreasingly been on helping ML and radar teams unify curation, annotation\nand evaluation, helping them produce better quailty data for greater model\nperformance.\n\nI was wondering whether Capella's AI/ML needs have evolved since those\nearlier conversations, and whether it's worth revisiting. Happy to share\nwhat we're seeing across the space.\n\nOpen to a short chat this week?"
+},
+{
+"id": "433736903877",
+"subject": "NYC AI Execs Dinner, Weds 28th Jan",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting an AI execs dinner for ~20 leaders\nbuilding real world models - we'd love it if you could join.\n\nIt's this Wednesday the 28th, at Michelin-starred Le Pavillon, starting at\n6.30pm.\n\nYou'll be joined by VP's, co-founders and Heads of AI from Hinge, Citi,\nGoldman, Autonomous, Duolingo, Bumble and more.\n\nFor context, Encord is a multimodal ML DataOps platform, and we work with\nAI teams at Airbnb, TripAdvisor and others to help them produce better\nquality data for their models.\n\nLet me know if you can make it (I know the weather is causing some\ndisruption) and I'll send you the details."
+},
+{
+"id": "433738702071",
+"subject": "Re: SAR data pipelines",
+"text": "Hi [NAME],\n\nGiven your work on SAR change detection, flood segmentation and RF signal\nprocessing, I thought it could be useful to compare notes on how\nradar-heavy teams are evolving their training data workflows as models\nscale.\n\nAt Encord, we work with Maxar on SAR-driven Earth observation pipelines,\nhelping ML and radar teams unify curation, annotation and evaluation so\nmodel feedback loops are tighter and less services-dependent.\n\nThought it could be useful to compare notes on how you're thinking about\nevolving your SAR data stack as these use cases scale.\n\nOpen to a short chat?"
+},
+{
+"id": "433812702432",
+"subject": "[Invite] Private AI Execs Dinner @ Le Pavillon (NYC, Jan 28)",
+"text": "Hi [NAME],\n\nOn behalf of my co-founders, [SENDER] and [SENDER], I'd love to invite you to an exclusive, off-the-record dinner for senior AI leaders on Wednesday, January 28th, at 6:30PM. \n\nWe are hosting a small group of 20 peers - specifically Chief AI Officers and Heads of ML building their own models - for a candid discussion held strictly under the Chatham House Rule. The evening will take place in the private dining room of the Michelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your travel to and from the venue. \n\nIn case Encord is new to you: we're a Series B ($50M) company based in SF, supporting 200+ teams working on multimodal AI, including Boston Dynamics, Thinking Machines Lab, and Synthesia. \n\nWith only a few seats remaining for this curated group, I'd love to have you join us for the conversation. \n\nCan I pencil you in?"
+},
+{
+"id": "433812778184",
+"subject": "[NAME] - CES follow up",
+"text": "Hi \n       [NAME],\n\n       Hope you had a great week at CES! I wanted to personally reach out while we weren't able to connect over our dinner. \n\n       I'd still love to grab a quick virtual coffee and hear more about [COMPANY]'s data and ML pipeline. My team at Encord has been supporting AI teams handling complex, multimodal, high-stakes datasets, helping them scale annotation, QA, and model iteration efficiently. \n\n       Would you be open to a quick 20-min next week for a brief chat? Happy to work around your schedule."
+},
+{
+"id": "433827732679",
+"subject": "[Invite] Physical AI Panel & Mixer - SF - 29 Jan",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI panel in SF, featuring Chris Paxton (AI Lead at\nAgility Robotics) and moderated by Chris Paulson (Senior Robotics DevRel at\nNVIDIA). We'd love for you to join.\n\nThe event will take place from *5:30pm on Thursday 29th* Jan at Weights &\nBiases' office in SF, with panelists from Physical Intelligence, 1X and\nDyna Robotics and more, followed by an informal networking session after.\n\nThe discussion will centre around the impact of recent developments (e.g.\nVLM/VLA, UMI, World Models, etc) as well as first-hand perspectives on\ntraining and validating models in the physical world.\n\nFull details on the panel here\n<[LINK]>\n-\nlet me know if I can help you skip the waitlist?"
+},
+{
+"id": "433829242090",
+"subject": "NYC AI Execs Dinner, Weds 28th Jan",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting an AI execs dinner for ~20 leaders\nbuilding real world models - we'd love it if you could join.\n\nIt's this Wednesday the 28th, at Michelin-starred Le Pavillon, starting at\n6.30pm.\n\nYou'll be joined by VP's, co-founders and Heads of AI from Autonomous,\nHinge, Citi, Goldman, Duolingo, Bumble and more.\n\nFor context, Encord is a multimodal ML DataOps platform, and we work with\nAI teams at Zipline, ZeitView and Skydio others to help them produce better\nquality data for their models.\n\nLet me know if you can make it (I know the weather is causing some\ndisruption) and I'll send you the details."
+}
+]

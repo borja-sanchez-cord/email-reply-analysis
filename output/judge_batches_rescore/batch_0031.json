@@ -1,0 +1,32 @@
+[
+{
+"id": "491683055814",
+"subject": "Congrats on series c!!",
+"text": "Hey [NAME],\nCongrats on the $150M, that's a huge milestone.\nWe work with AgTech R&D teams like Carbon Robotics and Aigen where the\nchallenge is making sure models are actually learning the edge cases that\ndomain experts already know to look for such as early disease signals,\nripeness variation, unusual growth patterns.\nGiven you're expanding into new fruit types and scaling farms, I think\nthere's a timely conversation.\nWorth 15 minutes? Also heading to CVPR in Denver in June if that's easier."
+},
+{
+"id": "444441749750",
+"subject": "[NAME] - AIHA chat",
+"text": "Hi [NAME],\n\n       Thanks again for your interest in our AI After Hours events in the past - I wanted to reach out and properly introduce myself. \n\n       I'd love to grab a quick virtual coffee to share more about future events we have in place in SF and learn a bit more about how \n       [COMPANY] is thinking about data and ML workflows. My team at Encord work closely with vision AI teams dealing with complex, multimodal data to scale annotation, HITL QA, and model iteration without slowing teams down.\n\n       Would you be open to a 20-min next week for a brief chat? Happy to work around your schedule."
+},
+{
+"id": "368749974753",
+"subject": "Micha - radiology chat /",
+"text": "Hi [NAME],\n\nHope all's well!\n\nI'm heading to RSNA this week and wanted to check if you'll be there too? I\nknow you've spoken with my colleagues ([SENDER] & [SENDER]) before, and I'd\nlove the chance to meet in person, hear what you're building, and share a\nfew updates from our side as well.\n\nWould be great to connect if you're around."
+},
+{
+"id": "166872063188",
+"subject": "Coffee @ISC West [YEAR]?",
+"text": "Hi [NAME],\n\nHeard great things about SAFR's facial recognition system from Milestone\n(we work closely with Ed & Fulgencio there). Reaching out since I saw SAFR\nis exhibiting at ISC West [YEAR] - thought it would be a good time to connect.\n\nBit of context on Encord: We work with Milestone Systems, LiveView\nTechnologies, Flock Safety, Rhombus, etc. to improve the quality of\ncomputer vision models. We help by consolidating video data curation,\nannotation and model evaluation into one platform, with the objective of\naccelerating speed to market for new physical security products.\n\nWould you be open to a coffee with our leadership @ISC West [YEAR]? Our US\nDirector, [SENDER] will be there Wednesday (4/2) to Friday (4/4).\nAlternatively, If virtual works better can work around your schedule!"
+},
+{
+"id": "159827074237",
+"subject": "Hi from [SENDER] @ Encord",
+"text": "Hey [NAME], [NAME]\n\nWanted to reach out as I noticed [COMPANY] are going to be at Promat in\nChicago. Will either of you be attending? We're hosting an AI Leaders\nroundtable dinner if you're interested - we've reserved a private dining\nroom at Apolina on Tuesday 18th March, starting at 6:30 PM.\n\n[SENDER] Grover actually attended our Physical AI dinner in Palo Alto a couple\nof weeks ago, was great to meet him in person!"
+},
+{
+"id": "503059039448",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+}
+]

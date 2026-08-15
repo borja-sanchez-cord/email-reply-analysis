@@ -1,0 +1,202 @@
+[
+{
+"id": "451216380098",
+"subject": "[NAME] - Leaders Dinner",
+"text": "Hi [NAME] - would love to extend an invitation to an AI leaders dinner I'm\ncurating.\n\nAlong with my CEO\n<[LINK]>,\nI'm hosting a small group of ~20 Chief Technology & Product leaders\nbuilding their own models for a discussion around building with multimodal\ndata. We're booking out SO|LA\n<[LINK]>\nin\nSoho, a Michelin starred restaurant known for its Californian cuisine, with\ndrinks kicking off at 6:30pm.\n\nFor context, this is a series of events we've organised in NYC, SF, Zurich,\nVancouver and other cities to bring the community for a candid discussion -\nno slides, no sales pitches.\n\nMore details here: [LINK]\n\nConfirmed attendees include Lloyds Bank, Deliveroo, ConnexAI - thought you\nmight be interested in joining - let me know if I should save you a seat?"
+},
+{
+"id": "451224331495",
+"subject": "SF dinner? 26 Feb",
+"text": "Hey [NAME],\n\nIf you happen to be in SF on Feb 26, our founder [SENDER] is hosting a\nsmall dinner for AI leaders to share experiences & best practice in\ntraining and validating models in the real world.\n\nThere are a few AI x Hardware teams, e.g. 1X and Motive who will be there,\nwhich got me thinking of you! We're keeping the gathering intimate, ~20 AI\neng and product leaders. Starting at 6pm at Niku.\n\nBit of a backstory: we focus on data quality and accessibility. For\nAI-native teams, that usually means orchestrating autolabelling and human\nreview at scale with lineage/ traceability.\n\nWill you be free to join us? Happy to send over the details if so!"
+},
+{
+"id": "451229248760",
+"subject": "Encord x Eyyes - Abishek Vaithylingam Intro",
+"text": "Hi [NAME],\n\nJust reaching out after a conversation that my colleague and I had with\nAbishek towards the end of last week.\n\nIt was interesting to hear about the Eyyes' models being developed for\nlane, person, obstacle detection, and more. I understand from Abishek that\nthe team currently uses CVAT to manage the multimodal annotation tasks\nrequired to develop these models effectively.\n\nI thought I'd share with you a couple materials, showcasing the value that\nour platform could add to your team.\n\n1. A video showcasing\n<[LINK]>\nhow\nour platform handles complex LiDAR data for 3d annotations.\n\n2. A customer story\n<[LINK]>\nexplaining\nhow Encord helps teams to increase model effectiveness and efficiency.\n\nIf you'd like to book in a meeting to see a more in depth demo of our\nproduct, please use the booking link here\n<[LINK]>\n."
+},
+{
+"id": "451276671205",
+"subject": "[COMPANY] <> Encord - annotation",
+"text": "Hi [NAME],\n\nHope you're well! Your team connected with us last June while evaluating\nannotation tools across multiple modalities.I wanted to check back in and\nsee how things have evolved since then.\n\nSince we last spoke, we've helped several enterprise teams transition\nfrom Label Studio and SuperAnnotate as their needs mature and data volume /\ncomplexity expand, especially around multimodal (text, audio, image, video,\npoint clouds) workflows, QA, and model eval.\n\nWould love to hear what projects are currently on your roadmap and whether\nit makes sense to revisit the conversation.\n\nOpen to a quick 30-min catch up next Wed/ Thu?"
+},
+{
+"id": "451295214813",
+"subject": "SF dinner? 26 Feb",
+"text": "Hey [NAME],\n\nIf you happen to be in SF on Feb 26, our founder [SENDER] is hosting a\nsmall dinner for some ML & data folks to share experiences in scaling up\ndata ops.\n\nWe're keeping the gathering intimate, ~20 eng & practitioners leaders from\nthe likes of eBay, Airbnb, Descipt, etc. Starting at 6pm at Niku.\n\nQuick context: we focus on data quality and accessibility. For AI-native\nteams, that usually means orchestrating autolabelling and human review at\nscale.\n\nAre you around that week? Happy to send over the invite details."
+},
+{
+"id": "451308008693",
+"subject": "[Invite] Private AI Leaders Dinner - SF - Feb 26",
+"text": "Hi \n          [NAME], \n\n          Congrats on [COMPANY] being named one of the top 10 most innovative tech companies by \n          Sports Business Journal - well deserved! In the spirit of celebrating, I'd love to invite you to a private dinner my co-founders are hosting.\n\n          It'll be on \n          Thursday, Feb 26, in the private dining space at \n          Niku Steakhouse (Michelin starred) in SF. We're bringing together ~20 founders, CxOs, and Heads of AI/ML from frontier labs, scale-ups, and fortune 500 - no decks, no press, just candid conversations over great food and drinks. \n\n          For quick context, Encord works with teams like Standard AI, Focal Systems, Augmodo, to improve training data quality and model accuracy at scale. \n\n          We'd love your perspective at the table - can I save you a seat?"
+},
+{
+"id": "451308015855",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi \n       [NAME], \n\n       Big fans of \n       [COMPANY] here! Reaching out because I've been working with RetailTech teams like Standard AI, Focal Systems, and Neuro Labs on improving training data quality for SKU recognition, inventory intelligence, autonomous checkout, and customer behaviour analysis - areas where in-house or open-source tools often struggle at scale. \n\n       Quick context: Encord is an AI/ML Ops platform for computer vision and multimodal AI, covering data curation, annotation, automated QA, and model eval. We're Series B ($50M raised) and support 200+ AI teams including Boston Dynamics, Skydio, and Zipline.\n\n        Do you have time for a quick 20-min chat before Christmas? I'd love to learn how you're approaching your data pipeline as you scale."
+},
+{
+"id": "451359610069",
+"subject": "[NAME] - ML Ops",
+"text": "Hi [NAME],\n\nHope you're well! Your team connected with us last June while evaluating\nannotation tools across multiple modalities.I wanted to check back in and\nsee how things have evolved since then.\n\nSince we last spoke, we've helped several enterprise teams transition\nfrom Label Studio and SuperAnnotate as their needs mature and data volume /\ncomplexity expand, especially around multimodal (text, audio, image, video,\npoint clouds) workflows, QA, and model eval - so teams can focus on\nshipping better models.\n\nWould love to hear what projects are currently on your roadmap and whether\nit makes sense to revisit the conversation.\n\nOpen to a quick 30-min catch up next Wed/ Thu?"
+},
+{
+"id": "451367216343",
+"subject": "Next <> Encord",
+"text": "Hi [NAME],\n\nHope you've been well! You spoke with my colleague [SENDER] last August about\nannotation workflows for your production on various AI bots - thought I'd\nreach out and see if it might make sense to pick things back up.\n\nCurious if you've been working on any new projects as you think\nabout formalizing annotation and QA for [YEAR].\n\nHappy to have a quick sync and see if priorities have changed. Would next\nWed / Thu work for you?"
+},
+{
+"id": "451369037018",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nHope you're well! Your team connected with us last June while evaluating\nannotation tools across multiple modalities.I wanted to check back in and\nsee how things have evolved since then.\n\nSince we last spoke, we've helped several enterprise teams transition\nfrom Label Studio and SuperAnnotate as their needs mature and data volume /\ncomplexity expand, especially around multimodal (text, audio, image, video,\npoint clouds) workflows, QA, and model eval.\n\nWould love to hear what projects are currently on your roadmap and whether\nit makes sense to revisit the conversation.\n\nOpen to a quick 30-min catch up next Wed/ Thu?"
+},
+{
+"id": "451393156308",
+"subject": "[NAME] - ML Ops",
+"text": "Hi [NAME],\n\nHope you've been well. Your team connected with us last August around\nannotation workflows for production ML systems - I wanted to check back in\nand see how things have evolved.\n\nFor teams running AI underwriting, we often see the bottleneck shift to\nsystematically reviewing edge cases, improving labeling consistency, and\ntightening the loop between model failures and data fixes. That's where\nEncord tends to fit: helping ML teams manage curation --> annotation --> QA\n--> model eval loop as volume and complexity scale.\n\nWould it make sense to reconnect for 20 mins and see if this is relevant\nfor your [YEAR] roadmap?"
+},
+{
+"id": "451393187006",
+"subject": "SF dinner? 26 Feb",
+"text": "Hey [NAME]!\n\nIf you happen to be in SF on Feb 26, our founder [SENDER] is hosting a\nsmall dinner for some ML & data folks to share experiences in scaling up\ndata ops.\n\nWe're keeping the gathering intimate, ~20 eng & practitioners leaders from\nthe likes of eBay, Airbnb, Descipt, etc. Starting at 6pm at Niku.\n\nQuick context: we focus on data quality and accessibility. For AI-native\nteams, that usually means orchestrating autolabelling and human review at\nscale.\n\nAre you around that week? Happy to send over the invite details."
+},
+{
+"id": "451393359079",
+"subject": "[NAME] - AI Leaders Dinner",
+"text": "Hi [NAME] - would love to extend an invitation to an AI leaders dinner I'm\ncurating.\n\nI'm hosting a small group of ~20 ML and Product leaders building their own\nmodels for a discussion around building with multimodal data. We're booking\nout SO|LA\n<[LINK]>\nin\nSoho, a Michelin starred restaurant known for its Californian cuisine, with\ndrinks kicking off at 6:30pm.\n\nFor context, this is a series of events we've organised in NYC, SF, Zurich,\nVancouver and other cities to bring the community for a candid discussion -\nno slides, no sales pitches.\n\nMore details here: [LINK]\n\nConfirmed attendees include Lloyds Bank, Deliveroo, Novartis - thought you\nmight be interested in joining - let me know if I should save you a seat?"
+},
+{
+"id": "451522924786",
+"subject": "SF dinner? 26 Feb",
+"text": "Hey [NAME],\n\nIf you happen to be in SF on Feb 26, our founder [SENDER] is hosting a\nsmall dinner for some ML folks to share experiences in improving model\naccuracy with better signal quality.\n\nWe're keeping the gathering intimate, ~20 eng & practitioners leaders from\nthe likes of Sesame, World Labs, 1X etc. Starting at 6pm at Niku.\n\nQuick context: we focus on data quality and accessibility. For AI-native\nteams, that usually means orchestrating autolabelling and human review at\nscale.\n\nAre you around that week? Happy to send over the invite details."
+},
+{
+"id": "452144141523",
+"subject": "[COMPANY] <> Encord introduction",
+"text": "Hi [NAME],\n\nNice to meet you, [SENDER] kindly shared your details.\n\nI saw the work you're doing at [COMPANY]. Since you're manually tagging\nwhale and dolphin sounds on spectrograms, we could significantly speed this\nup.\n\nWe've built an MLOps platform for granular audio annotation with\nsynchronised spectrogram and waveform segmentation - enabling faster, more\nprecise sound detection & labelling. You can also plug in your existing\nedge models to pre-label sounds, so your team only verifies and refines\ninstead of starting from scratch.\n\nIf you're generating embeddings, our tool also lets you visualise clusters,\nsurface similar vocalisations, and identify rare outliers.\n\nWould love to connect and share how we're supporting frontier audio labs\nlike Gradium (Kyutai) and Udio - sharing my diary link\n<[LINK]>\n here."
+},
+{
+"id": "452190264541",
+"subject": "london dinner? 26 Feb",
+"text": "Hey [NAME],\n\nIf you happen to be in town on Feb 26, our founder [SENDER] would like\nto extend an invite to a small dinner. He's gathering technical leaders in\nLondon to share experiences in training and validating AI models in the\nreal world.\n\nWe're keeping the gathering intimate, ~20 eng leaders from the likes of\nHudl, Flo Health, Deliveroo, etc. Starting at 6:30pm at a Michelin-starred\nrestaurant in soho.\n\nBit of a backstory: we focus on video data operation efficiency. For\ncontent-rich media teams, that usually means a robust foundation to\naccelerate transformation of raw data into AI POCs.\n\nWill you be free to join us? Happy to send over the details if so!"
+},
+{
+"id": "452333139132",
+"subject": "london dinner? 26 Feb",
+"text": "Hey [NAME],\n\nIf you happen to be in town on Feb 26, our founder [SENDER] would like\nto extend an invite to a small dinner. He's gathering technical leaders in\nLondon to share experiences in training and validating AI models in the\nreal world.\n\nWe're keeping the gathering intimate, ~20 eng leaders from the likes of\nHudl, Flo Health, Deliveroo, etc. Starting at 6:30pm at a Michelin-starred\nrestaurant in soho.\n\nBit of a backstory: we focus on video data operation efficiency. For\ncontent-rich media teams, that usually means a robust foundation to\naccelerate raw data transformation into AI POCs.\n\nWill you be free to join us? Happy to send over the details if so!"
+},
+{
+"id": "452470750430",
+"subject": "[NAME] - AI avatar",
+"text": "Hi [NAME],\n\nBeen following your journey with Daz 3D and [COMPANY]. My team at Encord works\nwith Synthesia, Captions, and Flawless on 3D avatars and audio models.\n\nWe help AI/ML teams speed up model training and improve avatar realism -\ncovering curation, annotation, QA, model evaluation, and RLHF at scale.\n\nWould love to get your feedback on what we've built and to hear how you're\napproaching this.\n\nDo you have 20 mins next week for a quick chat?"
+},
+{
+"id": "452532288706",
+"subject": "closing the sim-to-real loop for behavior models",
+"text": "Hi [NAME],\n\n        I've been following \n        [COMPANY]'s work on behavior modeling and simulation - impressive stuff! Reaching out as we've been working on similar projects w/ \n        Nexar, Motive, and Woven (Toyota), etc. on road-safety and AV/ADAS models.\n\n        A common challenge is closing the loop between real-world logs, simulation outputs, and the data that's needed to improve the next training cycle. Encord sits in that gap as a data quality and evaluation layer - helping teams curate, review, and track data at scale, where open-source or in-house tooling tends to break down as volume and complexity grow. \n\n        If useful, I'd love to spend 20 min comparing notes. Would Thu or Fri work for you?"
+},
+{
+"id": "452558092478",
+"subject": "Just called about Percise Audio labeling",
+"text": "Hi [NAME],\n\nI saw the project Albert, Etienne, and Mahmoud worked on around a\nlow-latency human detection system the amount of manual labeling that went\ninto it is impressive.\n\nAt Encord, we've been working with foundational audio labs like Gradium and\nKyutai on audio labeling. Our editor can help make your labels even more\ngranular and improve upstream model accuracy.\n\nCheck out this quick Loom walkthrough:\n\n*Accelerating Multilingual Audio Workflows in Encord | 8 October [YEAR]* - Watch\nVideo\n<[LINK]>\n<[LINK]>\n\nWould you be open to a brief discussion to see if this could help your team\nin the future?"
+},
+{
+"id": "452641869021",
+"subject": "ML Ops at [COMPANY]",
+"text": "Happy new year, \n      [NAME]! \n\n       I wanted to share this \n       AI Tech Stack Map as you think about priorities for [YEAR]. I've been spending time with IDV leaders building fraud detection models, and a few themes keep coming up around scaling data workflows reliably. \n\n       Some capabilities they've found especially useful:\n\n\u2022 \nRole-based access control and enterprise SSO\n\n\u2022 \nAutomated QA/QC with project and org level analysis\n\n\u2022 \nLabel versioning to track changes and model impact over time\n\n        It felt closely aligned with the kind of challenges [COMPANY] is likely navigating. I'd value your perspective - would you be open to a 30-min chat to compare notes?"
+},
+{
+"id": "452641877193",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME], \n\n       I came across \n       [COMPANY]'s IVE and GenAI verification and wanted to reach out as we work with teams like Onfido, Veriff, and VIDA on similar IDV challenges. \n\n       A common challenge they face is tightening the model performance feedback loop with better training data, with the goal of reducing false positives. Curious if this resonates with your work at \n       [COMPANY].\n\n       If helpful, I'd love to grab 20min and swap notes - do you have time next Wed/Thu?"
+},
+{
+"id": "452642278631",
+"subject": "Steven - behavior models",
+"text": "Hi [NAME],\n\n        Congrats on your new role! I've been following \n        [COMPANY]'s work on behavior modeling and simulation - impressive stuff. \n\n        We've been working on projects w/ \n        Nexar, Motive, and Woven (Toyota), etc. on road-safety and AV/ADAS models, and a common challenge is closing the loop between real-world logs, simulation outputs, and data needed to improve the next training cycle. \n\n        Encord acts as a data quality and evaluation layer - helping teams curate, review, and track data at scale, where open-source or in-house tooling tends to break down as volume and complexity grow. \n\n        If useful, I'd love to spend 20 min comparing notes. Would Thu or Fri work for you?"
+},
+{
+"id": "452779954404",
+"subject": "[NAME] - Vision AI",
+"text": "Hi [NAME], \n\n       I saw Nexxa is \n       hiring a Senior CV Engineer focused on image/video, 3D, multimodal, and real-time deployments - thought it's a good time to reach out. \n\n       As perception systems scale, CTOs and vision teams I work with often find that data indexing, auto-labeling, and QA became the bottleneck to model accuracy and iteration speed. Given Nexxa's focus in rail and lighting, I imagine some of these challenges may be coming up. \n\nIn case Encord is new to you: we help teams like Boston Dynamics, Osaro, Mytra, and Fox Robotics automate annotation pipelines across 2D and 3D data, using model-assisted workflows that plug neatly into existing debugging and visualization tools. \n\nWould you be open to a 20-min virtual coffee in the next week or two to see if this could complement your current setup? Happy to work around your schedule."
+},
+{
+"id": "452779981013",
+"subject": "[NAME] - fraud models",
+"text": "Hi [NAME], \n\n      I came across \n      SheerID's IVE and GenAI verification and wanted to reach out as we work with teams like Onfido, Veriff, and VIDA on similar IDV challenges. \n\n      A common challenge they face is tightening the model performance feedback loop with better training data, with the goal of reducing false positives.Curious if this resonates with your work at \n      SheerID.\n\n      If helpful, I'd love to grab 20min and swap notes - do you have time next Wed/Thu?"
+},
+{
+"id": "452780202185",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME], \n\n       Always good to see a fellow NUS alum doing well in the US. I've just moved from SG to SF and have been spending time with a few IDV/fraud teams here. \n\n       For teams with strong infra and modeling, the harder problems tend to show up post-deployment: understanding false positives, resolving edge cases, and turning failure modes into clean, auditable training data. That's where Encord usually fits in. \n\n       If useful, I'd love to grab 20 min to say hi and compare notes on how you're approaching this at \n       [COMPANY]. Would Thu or Fri work?"
+},
+{
+"id": "452938655941",
+"subject": "Invite: AI Leaders Dinner in SF, Feb 26th @ Niku Steakhouse",
+"text": "Hi [NAME],\n\nBeleive Lifeng mentioned our co-founder, [SENDER], is hosting a dinner in SF\non the 26th of Feb, and we'd love to have you join us.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be be joined by co-founders and Execs in\nthe Encord network from the likes of Chef Robotics, 1X and Ambi Robotics\nfor some good food, candid conversation and absolutely no slides.\n\nFor context, we're a multimodal ML DataOps platform (LiDAR, video, image) -\nI was talking to Lifeng about how we support the likes of Ambi Robotics,\n1X, Dyna, Boston Dynamics and others with their VLA/VLM workflows - from\nembeddings-based data curation to native video annotation\n\nWill you be able to join? If so, I'll send over the master calendar invite\nwith full details attached.\n\nHope to see you there."
+},
+{
+"id": "453827644608",
+"subject": "AI/ML Execs Dinner",
+"text": "Hi [NAME],\n\nWe're hosting a private dinner for senior AI Data Leaders in London and\nwe'd love for you to join us.\n\nWe're booking out SO|LA in Soho, a Michelin starred restaurant known for\nits Californian cuisine, for the event on Thursday, 26th Feb with drinks\nkicking off at 6:30pm.\n\nFor context, this is a series of events where we bring Chief AI Officers\nand Heads of ML who are actively building their own models. The goal is a\ncandid, off-the-record discussion - no slides, no sales pitches. We've\nrecently hosted these dinners in SF, Munich, Zurich, and New York.\n\nLet me know if I should save you a seat?"
+},
+{
+"id": "453885085899",
+"subject": "sf dinner? 26 feb",
+"text": "hi [NAME],\n\nif you happen to be in sf on 26th feb, i'd love to extend an invite to a\nsmall dinner we're hosting. got a couple of founders & research leads from\n1X, world labs, weave robotics, etc joining - thought it'd be a crowd you'd\nget along w/.\n\nthe dinner will start at 6pm at a michelin-starred restaurant in SoMA,\nkeeping the gathering intimate to 20 guests.\n\nthe backstory: we help frontier labs reduce latency between ideation to\nhigh-quality dataset, with dedicated tooling and teams for rapid iteration\nand scaling.\n\nwill you be able to make it? I can send along the details if so."
+},
+{
+"id": "454008840398",
+"subject": "[NAME] - Reducto",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454010255566",
+"subject": "ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454012046544",
+"subject": "ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454044030197",
+"subject": "sf dinner? 26 feb",
+"text": "Hi [NAME],\n\nIf you happen to be in SF on 26th feb, our head of physical AI is hosting a\nsmall dinner. got a couple of founders & researchers from 1X, World Labs,\nWeave Robotics, etc joining - thought it'd be a crowd you'd get along w/.\n\nThe dinner will start at 6pm at a michelin-starred restaurant in SoMA,\nkeeping the gathering intimate to 20 guests.\n\nthe backstory: we help frontier labs reduce latency between ideation to\nhigh-quality dataset, with dedicated tooling and teams for rapid iteration\nand human data scaling.\n\nwill you be able to make it? I can send along the details if so."
+},
+{
+"id": "454047926471",
+"subject": "[NAME] - Reducto",
+"text": "Hi [NAME],\n\nI've been following LandingAI's work on agentic document extraction -\nimpressive how you're tackling complex, real-world docs in production.\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases - and closing the loop back into\ntraining and eval without burning engineering cycles.\n\nCurious how your team is thinking about this as ADE scales. Would you be\nopen to connecting next week?"
+},
+{
+"id": "454299333867",
+"subject": "ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454313599169",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454368172267",
+"subject": "[NAME] - Data Curation",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work in fraud detection and know that keeping\nfalse-positive rates low while staying ahead of new fraud patterns is a\nconstant challenge.\n\nWe built Encord to help with exactly that. Our ML Ops platform gives IDV\nand fraud prevention teams better tools for data curation, which translates\ndirectly into higher model accuracy and faster iteration.\n\nWould you be open to a brief call next week to explore if there's a fit?"
+},
+{
+"id": "454377489627",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454378958013",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454396702931",
+"subject": "[Invite] Private AI Leaders Dinner - SF - Feb 26",
+"text": "Hi \n         [NAME],\n\n         My co-founders, [SENDER] and [SENDER], are hosting a private dinner for AI leaders in SF on \n         Thursday Feb 26 at Niku Steakhouse (Michelin starred), and we'd love for you to join!\n\n         We're bringing together ~20 founders, CxOs, and Heads of AI/ML in building models - following strictly the Chatham House Rule - no decks, no press, just candid conversations over great food and drinks. \n\n         We'd love your perspective on fraud/IDV at the table - can I save you a seat?"
+}
+]

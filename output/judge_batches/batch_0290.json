@@ -1,0 +1,202 @@
+[
+{
+"id": "495285101783",
+"subject": "Mach <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord. We work with a number of\nleading UAV and defense focused companies to support their perception stack\nas they manage, annotate, and curate multi-sensor data that feeds their\nautonomy models.\n\nMany of the customers that we work with partnered with us as the scale of\ncomplexity started to break initial tooling across multi-camera sensor\nfusion, large-volume flight data, edge-case mining across diverse\nenvironments. The teams we work with at that stage are usually either\nhitting walls with in-house annotation infrastructure or spending\nengineering cycles maintaining pipelines that need to be automated.\n\nWould be keen to explore any friction points the Mach team is dealing with\nacross the data lifecycle and where we can add the most leverage as you're\ncontinuing to scale.\n\nWould love to grab 20 minutes later this week for a quick intro and assess\nfit on some of the areas you're focused on."
+},
+{
+"id": "495287935214",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, eBay and Airbnb, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495296178395",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, eBay and Airbnb, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495301245116",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, eBay and Airbnb, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495301360833",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, eBay and Airbnb, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495308544247",
+"subject": "compounding the IDV loop",
+"text": "Hi [NAME],\n\nI read Meron's post on Sunday and the line: \"engineers move ten times\nfaster, the processes around them don't, PMs become the bottleneck\" is very\nrelevant. The same dynamic applies to the eval layer. When HAL ships IDV\nfeatures at that pace, does the adversarial benchmark keep up?\n\nGenuinely curious which side of that you're on."
+},
+{
+"id": "495378669787",
+"subject": "recommand\u00e9 par erwan koffi | on travaille avec abbvie, moon surgical, mmi",
+"text": "Bonjour [NAME],\n\nErwan m'a orient\u00e9 vers vous c\u00f4t\u00e9 R&D. On bosse avec des \u00e9quipes computer\nvision m\u00e9dicale comme  Abbvie, Moon Surgical et MMI. En g\u00e9n\u00e9ral au moment\no\u00f9 elles scalent l'\u00e9quipe ML : l'enjeu, c'est de garder les ing\u00e9nieurs sur\nles mod\u00e8les plut\u00f4t que sur la couche data interne, sans rien l\u00e2cher sur la\nqualit\u00e9 vu que c'est un produit patient.\n\nPlateforme data-centric : curation, annotation 2D/3D, \u00e9val mod\u00e8les et\nactive learning au m\u00eame endroit, d\u00e9ployable en VPC.\n\n20 minutes la semaine prochaine pour comparer ?"
+},
+{
+"id": "495389298926",
+"subject": "Label Studio / annotation setup",
+"text": "Hi [NAME],\n\nHad a chat with Uday about [COMPANY]'s ML setup - he mentioned the team is\nusing Label Studio across chat and voice workflows.\n\nWe work with a number of voice AI teams doing similar tasks including the\nlikes of Sythesia, Udio, Thinking Machine Labs, Gradium and more.\n\nThe reason most of them moved off Label Studio is the same i.e. it handles\nindividual annotation tasks fine but falls apart when you need curation and\nannotation in the same place, with QA built in to actually manage\ncontractor consistency and output quality.\n\nRight now if you're running contractors through Label Studio, my guess is\nQA is either manual spot checks or a separate process entirely - does that\nsound familiar?\n\nWould love to talk more and see if there is anything Encord could help with\n- worth 20-mins next week?"
+},
+{
+"id": "495390725342",
+"subject": "re: automating data curation",
+"text": "Hi[NAME],\n\nI've been speaking with Uday on your team - noticed your profile as someone\ndriving the automation of data curation and model evaluation internally.\n\nWe work with a handful of teams building AI-native contact center products\nwhere the same bottleneck shows up: the pipeline between raw interaction\ndata and a retrained model has too many manual steps and too many tools.\nAnnotation in one place, human review in another, eval scoring in a\nspreadsheet.\n\nWe consolidate that - if it's a pain you're actively trying to solve would\nit be worth a call to scope out?\n\nHave time next week Mon, Tues, Thurs?"
+},
+{
+"id": "495421207786",
+"subject": "Encord - AM account wiped",
+"text": "Hi [NAME],\n\nHope all good in sunny Spain.\n\nUnfortunately my AM account has been completely reset.\n\nThis has happened - presumably - because I switched the email I was\nregistered with a few months ago.\n\nI think my colleague [SENDER] had a similar issue.\n\nCould we please jump on a call to figure this out?"
+},
+{
+"id": "495435999441",
+"subject": "Encord <> Origami Tokyo Follow Up",
+"text": "Hey [NAME],\n\nHad a great chat with Robin at the summit last week in Tokyo. Congrats on\nclosing your funding round! Building out hardware in Shenzhen while scaling\nthe software team in the Bay is a smart split.\n\nRobin mentioned you're leading model training, so I wanted to reach out\ndirectly. As you scale data collection, the annotation and curation\npipeline tends to become the primary bottleneck. We work with companies\nlike 1X Technologies and Boston Dynamics on exactly that. Happy to intro\nwhat we do at Encord and whether it's relevant for where Origami is headed.\n\nHere's my calendar if a call next week works for you:\n[LINK]"
+},
+{
+"id": "495447603393",
+"subject": "[Invite] AI/ML Leaders Dinner in Denver @CVPR - June 6",
+"text": "Hi [NAME],\n\nSaw you're heading to Denver for CVPR - would love to invite you to a dinner we're hosting on Sat, June 6, at Michelin-starred Guard & Grace.\n\nIt'll be a small group of CxOs and tech leads attending the conference for a relaxed evening of good food and conversations. \n\nFor context, Encord is the data layer for multimodal AI, helping 300+ teams improve training data quality at scale. \n\nCan I save you a seat?"
+},
+{
+"id": "495466121422",
+"subject": "Reservation 2nd July",
+"text": "Hi there,\n\nI was looking into the possibility of booking the restaurant out for a\ncorporate event on Thursday the 2nd July.\n\nWould this be possible?"
+},
+{
+"id": "495476348147",
+"subject": "Intramotev <> Encord",
+"text": "Hi [NAME],\n\nI've been following Intramotev since my friends at Cantos VC backed the\ncompany in the early days.  I lead GTM efforts for Physical AI at Encord.\nWe work with companies across robotics, AVs, drones, and other autonomous\nsystems to help them manage the scale and complexity of multi sensor data\nacross the end to end training lifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Zipline, Skydio,\nAgility, Dyna, etc) partnered with us as the scale of complexity started to\nbreak initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your CV/perception work\nat Intramotev.\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495477289205",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the ambitious work that [COMPANY] is working on for\nlunar exploration  and recent Nasa award!\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your perception/autonomy\nwork at Lunar.\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495478137047",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following [COMPANY] since my friends at Cantos VC backed the\ncompany in the early days.  I lead GTM efforts for Physical AI at Encord.\nWe work with companies across robotics, AVs, drones, and other autonomous\nsystems to help them manage the scale and complexity of multi sensor data\nacross the end to end training lifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Zipline, Skydio,\nAgility, Dyna, etc) partnered with us as the scale of complexity started to\nbreak initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your CV/perception work\nat [COMPANY].\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495479018741",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the ambitious work that [COMPANY] is working on for\nlunar exploration  and recent Nasa award!\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your perception/autonomy\nwork at Lunar.\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495479546094",
+"subject": "SF voice AI meetup",
+"text": "Hi [NAME],\n\nHope all's well! I met Dylan and a few folks on the team and did a brief\ndemo with Takuya a few months back, but I realized we never connected\ndirectly.\n\nWe spend a lot of time helping voice AI teams with training data pipelines\nand HITL workflows. I'd love to introduce Encord properly and chat about\nhow our customers like Yutori, Thinking Machines Lab, and Udio use our\naudio suite.\n\nIf you're open to it, I'd be happy to grab coffee in SF or jump on a quick\ncall sometime in the coming weeks."
+},
+{
+"id": "495483681013",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). Folks are joining\nfrom Adobe, Netflix, T-Mobile, and Twilio. I thought you'd be a great fit\nfor the night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495484411097",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the ambitious work that [COMPANY] is working on for\nlunar exploration  and recent Nasa award!\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your perception/autonomy\nwork at Lunar.\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495486084312",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the ambitious work that [COMPANY] is working on for\nlunar exploration  and recent Nasa award!\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your perception/autonomy\nwork at Lunar.\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495486735580",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the work at [COMPANY] as you scale your autonomous defense\nsystems.\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of current bottlenecks the\nteam is seeing across perception/autonomy work at [COMPANY].\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495486836973",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the work at [COMPANY] as you scale your autonomous defense\nsystems.\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of current bottlenecks the\nteam is seeing across perception/autonomy work at [COMPANY].\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "495488248045",
+"subject": "[Invite] AI/ML Leaders Dinner in Denver @CVPR - June 6",
+"text": "Hi [NAME],\n\nSaw you're heading to Denver for CVPR - would love to invite you to a\ndinner we're hosting on Sat, June 6, at Michelin-starred Guard & Grace.\n\nIt'll be a small group of CxOs and tech leads attending the conference for\na relaxed evening of good food and conversations.\n\nFor context, Encord is the data layer for multimodal AI, helping 300+\nphysical AI teams improve training data quality at scale.\n\nDinner details are here\n<[LINK]>.\nCan I save you a seat?"
+},
+{
+"id": "495489989830",
+"subject": "A question on Breaker's data flywheel",
+"text": "Hi [NAME],\n\nCongrats on the $6M seed round e! As Breaker scales up, how do you\nthink about the data flywheel?\n\nFor context, Encord (Series C, $110M raised) works with 300+ AI/ML teams on\nthe full data pipeline. We recently onboarded Skydio and Forterra for\nmulti-sensor annotation and edge-case curation to accelerate model\nperformance at scale.\n\nMany of the autonomous robotics teams we work with use Foxglove for\nvisualization, then come to Encord for the next layer: curation,\nannotation, and policy evaluation.\n\nAre you free to chat for 20min next Thursday?"
+},
+{
+"id": "495507656906",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, Tubi and T-Mobile, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495587362039",
+"subject": "Coffee in London?",
+"text": "Hi [NAME],\n\nBig fan of Assembly here. For context, I work with voice AI teams like\nThinking Machines Lab, Udio, Sesame, and TwelveLabs on their data pipeline\n- producing high-quality data for pre- and post-training workflows.\n\nI would love to build my network in the space and trade notes. I'm\ntraveling to London next week and would love to meet up June 9-11 (Tuesday\nto Thursday).\n\nHappy to swing by your office or book a spot convenient for you!"
+},
+{
+"id": "495603392705",
+"subject": "Coffee in London?",
+"text": "Hi [NAME],\n\nCongrats on your new role! Big fan of Assembly here. For context, I work\nwith voice AI teams like Thinking Machines Lab, Udio, Sesame, and\nTwelveLabs on their data pipeline - producing high-quality data for pre-\nand post-training workflows.\n\nI would love to build my network in the space and trade notes. I'm\ntraveling to London next week and would love to meet up June 9-11 (Tuesday\nto Thursday).\n\nHappy to swing by your office or book a spot convenient for you!"
+},
+{
+"id": "495622213873",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME], \n\n We just onboarded Neon to help organize and identify high-value audio from phone agent data - thought it overlaps with what you're building at [COMPANY]. \n\n Encord works with Voice AI teams (Udio, Thinking Machines Lab) on VAD, diarization, transcription, and model eval workflows for TTS/ASR/STS systems.  \n\n Would you be open to a 20-min chat to compare notes? I'm flexible Tue - Fri."
+},
+{
+"id": "495637397696",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME], \n\n We just onboarded Neon to help organize and identify high-value audio from phone agent data - thought it overlaps with what you're building at [COMPANY]. \n\n Encord works with Voice AI teams (Udio, Thinking Machines Lab) on VAD, diarization, transcription, and model eval workflows for TTS/ASR/STS systems.  \n\n Would you be open to a 20-min chat to compare notes? I'm flexible Tue - Fri."
+},
+{
+"id": "495637538021",
+"subject": "[NAME] - Audio AI",
+"text": "Hi [NAME], \n\n We just onboarded Neon to help organize and identify high-value audio from phone agent data - thought it overlaps with what you're building at [COMPANY]. \n\n Encord works with Voice AI teams (Udio, Thinking Machines Lab) on VAD, diarization, transcription, and model eval workflows for TTS/ASR/STS systems.  \n\n Would you be open to a 20-min chat to compare notes? I'm flexible Tue - Fri."
+},
+{
+"id": "495647371477",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, eBay and Airbnb, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495651668198",
+"subject": "LLM fine-tuning",
+"text": "Hi [NAME],\n\nHope you've been well! Saw the blog post on the [COMPANY] Make local codebase\nlaunch last week, that's a big step congrats!\n\nFor context, I work with teams building structured human review pipelines\nfor AI-generated outputs with rubric scoring, multi-stage QA,\nLLM-as-a-judge integration.\n\nWould love to hear your thoughts given your expertise in the space. Let me\nknow if you'd be open to a quick chat next week? Happy to get a coffee in\nperson in SF"
+},
+{
+"id": "495658387670",
+"subject": "coffee in London?",
+"text": "Hi [NAME],\n\nCame across your profile and thought I'd reach out. For context, I work\nwith media and live-streaming teams in the US on content\nintelligence/moderation with human data workflows.\n\nI would love to build my network in the space and trade notes. I'm\ntraveling to London next week and would love to meet up June 9-11 (Tuesday\nto Thursday). Coffee on me!\n\nHappy to swing by your office or book a spot convenient for you. WOuld you\nbe open to it?"
+},
+{
+"id": "495658503374",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi [NAME],\n\nMy co-founder [SENDER] <[LINK]>\nis\nhosting a small group of ~8 senior tech executives for the FIFA World Cup\non June 22 at Levi's Stadium - Jordan v Algeria.\n\nWe're keeping it intentionally intimate: private hospitality (elevated\nseats, open bar, post-match meet & greet with players). With folks joining\nfrom Adobe, Netflix, eBay and Airbnb, I thought you'd be a great fit for\nthe night.\n\nHappy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "495791355107",
+"subject": "Encord Arcade Night @CVPR",
+"text": "Hi [NAME] and Paar, Zhaoliang mentioned that you guys are going to CVPR.\nHope you've arrived safely!\n\nDo come by our booth at #223 today, say hi and grab some swags :))\n\nWe're also hosting an Arcade night tonight. Details here\n<[LINK]>.\nIf you're interested,  let me know and I'll help you skip the waitlist.\n\nSee you in Denver!"
+},
+{
+"id": "495804202197",
+"subject": "ACS <> Encord CV/Data Pipeline",
+"text": "Hi [NAME],\n\nCongrats on the recent fundraise to accelerate your mission of autonomous\ndefense systems.\n\nI lead GTM efforts for Physical AI at Encord. We work with a number of\nleading UAV and defense focused companies to support their perception stack\nas they manage, annotate, and curate multi-sensor data that feeds their\nautonomy models.\n\nI wanted to touch base as you continue to scale your capabilities and\nlikely deal with escalating data volumes and use cases. We've built the\nautomation to support your level of scale and complexity.\n\nCan we find time to connect next week to discuss what's relevant for you?\nMy calendar is here\n<[LINK]>\nif it's easiest to book directly or let me know the best times for you."
+},
+{
+"id": "495817840836",
+"subject": "[SENDER] [SENDER]",
+"text": "Hi [NAME],\n\nI saw you scanned one of our robots! Would love for you to stop by our\nbooth - we're number 223. I've been hearing a lot of great things about the\n[SENDER] surgical system and would love to hear what you're working on.\n\nBest,"
+},
+{
+"id": "496031203519",
+"subject": "annotation + eval cost",
+"text": "Hey [NAME],\n\nI spent time going through your multicloud work. Would I be correct in\nthinking that the 30% cloud spend reduction also extended to the research\ninfrastructure?\n\nOne problem I've seen that I thought was relevant to your Pulse meeting\nlaunch was the hidden annotation and evaluation cost that wasn't in the\naudio roadmap. New ontology, higher QA stakes, it tends to sit on research\nengineer time rather than the cloud bill.\n\nThe largest IDV company in the space went through the same multimodal\ntransition on its fraud detection stack. Happy to send the two-pager on\nwhat they did.\n\nPlease let me know."
+},
+{
+"id": "496170042611",
+"subject": "NVIDIA GTC follow-up question",
+"text": "Hi [NAME],\n\nSaw your Nvidia GTC talk and had one questions - as Caper Cart scales to\n2,000+ locations, how are you thinking about scaling the annotation\ninfrastructure for your Shelf Intelligence and Caper Sensors raw data?\n\nThe layer between raw sensor inputs and the grocery world model output is\nwhere annotation and curation becomes the critical bottleneck - it's why\nteams turn to Encord from tools like Label Studio who cannot handle\nmulti-camera video and time series data well.\n\nThis is because we specialise in that exact area as the data infrastructure\nplatform purpose-built for CV and physical AI at scale - working with teams\nat Boston Dynamics, Physical Intelligence and Woven by Toyota.\n\nWould you be the right person to connect with at Caper, or is there someone\nelse you'd point me to?"
+}
+]

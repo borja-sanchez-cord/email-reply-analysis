@@ -1,0 +1,202 @@
+[
+{
+"id": "143611046074",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nHappy to exchange over email first to ensure a productive meeting."
+},
+{
+"id": "143996625111",
+"subject": "[Meeting] Nvidia GTC / Encord - Computer Vision Object Detection",
+"text": "Hi [NAME],\n\nCame across [COMPANY] and saw you have worked in Computer Vision for 35\nyears. We are a series B ($50M) YC backed startup focused in optimizing and\ntraining foundational Computer vision models both video and images.\nIndexing, curating, object detection, segmentation, annotation, and model\nevaluation.\n\nWe will be at Nvidia GTC hoping to find 15-30 minutes while we are both\nthere."
+},
+{
+"id": "143998195920",
+"subject": "Woven",
+"text": "Hey [NAME]\u200b,\n\nWe've recently started working with Woven, and noticed that you collaborated with them during your PhD, so thought it could be interesting to explore if we can help at [COMPANY] in a similar way.\n\nWoven's Vision team faced challenges with existing data curation & visualisation solutions (Voxel51 & internal tools), which lacked the speed & scalability required to efficiently search through their training datasets.\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through their datasets (using embeddings visualisations, quality metric filters & natural language searches), enabling Vision teams to avoid bottlenecks in model development.\n\nWould love to chat / share some ideas based on what we've been learning from working with Woven and similar partners in the space.\n\nWould you be open to having a quick coffee chat later this week?"
+},
+{
+"id": "144151542995",
+"subject": "[Invite] Encord Physical AI Leaders Dinner @ Kokkari SF",
+"text": "Hi [NAME],\n\nOur Co-Founders, [SENDER] & [SENDER], will be hosting an intimate Physical AI roundtable dinner for customers & CxOs and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Kokkari in San Francisco on Thursday February 27th 6:30-9:30pm, capping attendance to ~25 people.\n\nAttendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Archetype AI, Physical Intelligence, Cobot, The Bot Company etc. We will also be joined by a few of our investors, including Next47 and CRV.\n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help computer vision teams get better models to market, faster. For context, we're working with many leaders in the Physical AI space doing similarly great things to [COMPANY].\u200b\n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "144180837568",
+"subject": "Connection with Peers of [COMPANY] / Scaling CV initiatives",
+"text": "Hi [NAME],\n\nHope all's well. Saw you know Ben [SENDER] from Motorway - I was recently\nspeaking to him about their work & challenges w/scaling their data curation\nand annotation. Given you manage computer vision initiatives, thought I'd\nreach out.\n\nHave actually been working and seeing a lot of success with other AI\ninspection companies like yours (e.g. Tractable, UVEye, Baker Hughes).\nWould love to share what I've been hearing from these peers & learn more\nabout your ongoing priorities. Are you free Friday afternoon for a call?\n\nBit of context on Encord...we're a computer vision scale-up (recently\nraised a $30M Series B) focused on consolidating data curation, annotation,\nworkflow management and model evaluation under one platform."
+},
+{
+"id": "144217351407",
+"subject": "Woven",
+"text": "Hey [NAME]\u200b,\n\nWe've recently started working with Woven, and noticed that you used to work in the CV team there, so thought it could be interesting to explore if we can help at [COMPANY] in a similar way.\n\nWoven's Vision team faced challenges with existing data curation & visualisation solutions (Voxel51), which lacked the speed & scalability required to efficiently search through their training datasets.\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through their datasets (using embeddings visualisations, quality metric filters & natural language searches), enabling Vision teams to avoid bottlenecks in model development.\n\nWould love to chat / share some ideas based on what we've been learning from working with Woven and similar partners in the space.\n\nWould you be open to having a quick coffee chat later this week?"
+},
+{
+"id": "144290566339",
+"subject": "Encord // [SENDER] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nHappy to exchange over email first to ensure a productive meeting."
+},
+{
+"id": "144368710873",
+"subject": "Getting in touch after your interest in Encord",
+"text": "Hi [NAME],\n\nThanks for requesting some more information on Encord.\n\nCould we schedule: [LINK] a call later today (or beyond if better) to see how Encord could be a fit for you and the team?"
+},
+{
+"id": "144417980606",
+"subject": "Expanding your CV team - time for proper CV Data Ops tooling",
+"text": "Hi [NAME],\n\nSaw you're hiring another CV Engineer! Great news.\n\nYou've likely heard Encord's name - series B, $50m+ raised, YC-backed\nComputer Vision Data Platform.\n\nWe're typically right for firms expanding their CV capabilities, like\n[COMPANY].\n\nTop names like Pickle Robot, UVeye, Intenseye, Tractable, Automotus etc use\nus because their old annotation tools (CVAT, V7 etc.) and curation tools\n(Voxel51) were inadequate at scale.\n\nBased on your growth, I think it's now highly valuable for Encord and\n[COMPANY] to chat.\n\nAny time to suit you and the team in the coming week or two? (My calendar's\nhere\n<[LINK]>\n.)"
+},
+{
+"id": "144421659872",
+"subject": "Encord <> Carehub // 1-1 Meeting?",
+"text": "Hello,\n\nHope all's well! Just saw that you requested a sign up for our platform for\nannotating educational audio assessments, track speakers and map learning\noutcomes to audio sections.\n\nWould be great to connect & discuss what we've been building and answer any\nquestions you might have from the work you're conducting at Carehub. Are\nyou free this week for a short call?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "144434193602",
+"subject": "Congrats on rejoining Carwow // Improving data infra <> Encord",
+"text": "Hi [NAME],\n\nCongrats on rejoining Carwow! I saw you're focused on strengthening your\ndata infrastructure and defining the technical edge of your data product.\nGiven you're using Roboflow, I imagine scaling brings its challenges.\n\nWe work with AI inspection teams like UVEye and Tractable, who turned to us\nwhen they needed more advanced annotation, scalable data curation, and\ndeeper model evaluation. As a video-native platform, we've helped solve\nframe sync and performance issues at scale.\n\nWould love to share insights from these teams and hear about your\npriorities. Are you free Friday afternoon for a quick chat?\n\nFor context, Encord recently raised a $30M Series B-we consolidate data\ncuration, annotation, workflow management, and model evaluation into one\nplatform."
+},
+{
+"id": "144446357746",
+"subject": "Drones & Robotics summit | Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI saw that you'd be speaking at the Drones & Robotics summit in NYC and thought I'd reach out. I'd love to grab coffee at the conference and trade some notes since we're working with some of your peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "144483218663",
+"subject": "Saw your interest in us at Encord - setting up time to speak?",
+"text": "Madhukanth,\n\nI saw your interest in us at Encord (Multimodal AI Data Development\nPlatform) - it'd be great to chat about your potential needs around data\ncuration and annotation.\n\nWhat can I specifically help you with?\n\nHow does a time suit you either later today or in the coming days?\n\nDo any times here\n<[LINK]>\nsuit you?"
+},
+{
+"id": "144491128008",
+"subject": "[Meeting] Nvidia GTC Yum! / Encord - AI multimodal scaling",
+"text": "Hi [NAME],\n\nI have been reading on Yum! Brands expansion of their AI use cases like\nVoice AI for Taco [SENDER] locations and thought it might be interesting having\na quick 20 min chat while we are both Nvidia GTC.\n\nWe are a series B ($50M) YC backed startup focused in optimizing and\ntraining foundational in images, video, audio and text. Indexing, curating,\nobject detection, segmentation, annotation, and model evaluation. In short\nwe help you go to market faster, cheaper, and better.\n\nSome companies you may have heard of who use us today are Phillips,\nStanford University,  and Toyota.\n\nWould love to introduce you to our Co-founder and Head of US."
+},
+{
+"id": "144500197568",
+"subject": "[Invite] Encord Physical AI Leaders Dinner @ Kokkari SF",
+"text": "Hi [NAME],\n\nOur Co-Founders, [SENDER] & [SENDER], will be hosting an intimate Physical AI roundtable dinner for customers & CxOs and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Kokkari in San Francisco on Thursday February 27th 6:30-9:30pm, capping attendance to ~25 people.\n\nAttendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Archetype AI, Physical Intelligence, Cobot, The Bot Company etc. We will also be joined by a few of our investors, including Next47 and CRV.\n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help computer vision teams get better models to market, faster. For context, we're working with many leaders in the Physical AI space doing similarly great things to [COMPANY].\u200b\n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "144510863603",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "144704077031",
+"subject": "Woven",
+"text": "Hey [NAME]\u200b,\n\nWe've recently started working with Woven, so thought it could be interesting to explore if we can help at Oxa in a similar way.\n\nWoven's Vision team faced challenges with existing data curation & visualisation solutions (Voxel51), which lacked the speed & scalability required to efficiently search through their training datasets.\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through their datasets (using embeddings visualisations, quality metric filters & natural language searches), enabling Vision teams to avoid bottlenecks in model development.\n\nWould love to chat / share some ideas based on what we've been learning from working with Woven, Wayve, and similar partners in the space.\n\nWould you be open to having a quick coffee chat next week?"
+},
+{
+"id": "144776061115",
+"subject": "Woven",
+"text": "Hey [NAME]\u200b,\n\nWe've recently started working with Woven, so thought it could be interesting to explore if we can help at [COMPANY] in a similar way.\n\nWoven's Vision team faced challenges with existing data curation & visualisation solutions (Voxel51), which lacked the speed & scalability required to efficiently search through their training datasets.\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through their datasets (using embeddings visualisations, quality metric filters & natural language searches), enabling Vision teams to avoid bottlenecks in model development.\n\nWould love to chat / share some ideas based on what we've been learning from working with Woven, Wayve, and similar partners in the space.\n\nWould you be open to having a quick coffee chat next week?"
+},
+{
+"id": "144933001428",
+"subject": "Read your piece in IMVE - conversation on Vision Data Ops?",
+"text": "Hi [NAME],\n\nReaching out as I read the article in IMVE and thought it'd be worth\nconnecting!\n\nI noticed your AI models analyse and classify defects - we work with a lot\nof clients in this space too, providing the AI Data Development tools\n(curation, annotation, active learning etc)\n\nCurious how you're approaching your data curation and annotation for your\nmodels?\n\nPerhaps you've come across Encord - our platform is used by teams like\nTractable, UVEye, Kibsi, Intenseye and many others on the defect inspection\nand other vision use-cases.\n\nI'd like to propose a conversation with you on the value for Maddox AI in\nexploring Enord's integrated AI Data Development platform.\n\nDoes that sound at all relevant? If so, when might work in the coming days\nfor an intro chat?\n\nVery best,"
+},
+{
+"id": "144937200841",
+"subject": "Inspect Deploy <> Encord | 1-1 Meeting?",
+"text": "Hi [NAME],\n\nHope all's well! Just saw that you requested a sign up for our platform.\n\nWould be great to connect & discuss what we've been building and answer any\nquestions you might have from the work you're conducting over at Inspect\nDeploy. I see you do video analytics - we are actually video native\n(avoiding issues in frame synching & model performance issues). Are you\nfree early next week for a short call?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "144977356024",
+"subject": "[NAME], optimising AI Data Ops for ATLAN",
+"text": "Hi [NAME],\n\nReaching out on optimising your AI Data Ops (data curation, annotation\ntooling etc.) at ATLAN\n\nEncord (series B, $50m+ raised, top-tier VC backed) works with Skydio,\nZeitview and many others in the UAV drone space, who use our end-to-end\nplatform for their AI data & model development.\n\nI'd like to suggest time together on a call in the coming days.\n\nAny times here\n<[LINK]>\nsuit you?"
+},
+{
+"id": "145143685357",
+"subject": "[Meeting] Nvidia GTC / Encord - Vision AI",
+"text": "Hi [NAME],\n\nI will be attending Nvidia GTC in a few weeks and was surprised to learn\nabout the [COMPANY] Rail projects that are using vision in order to detect\nrail problems.\n\nWe are a Computer Vision data quality company helping build best in class\nAI/ML workflows. We are based in SF so a neighbor to you if you are in\nMenlo Park.\n\nWould you be open to speaking to me briefly for 15-30 minutes before or\nduring GTC, so I can learn more about these projects?"
+},
+{
+"id": "145144285430",
+"subject": "[NAME], intro chat on AI Data Ops?",
+"text": "Hi [NAME],\n\n[SENDER] here [SENDER] - Series B, $50m+ raised, YC-alum AI Data platform,\nserving multimodal AI teams globally like Nvidia, Philips, Synthesia,\nFlawless AI, Captions, and many others.\n\nThought it'd be great to chat about Faculty's model development and AI Data\nOps.\n\nMight any time work for a 20 minute intro chat in the coming week or two?\n\nHappy to do online or in-person, if in London."
+},
+{
+"id": "145145386232",
+"subject": "Just onboarded Baker Hughes & Toyota-Woven",
+"text": "Hi [NAME]\u200b, \n\nI noticed your work with the [COMPANY] robotics team and thought I'd reach out since we're working with some of your peers like Baker Hughes, Toyota-Woven, Pickle Robot, Novarc, etc on building similar offshore logistics / robotics, oil/gas visual inspection products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145160100083",
+"subject": "[NAME] - chat with the team on Computer Vision data ops?",
+"text": "Hi [NAME],\n\nHope you're well - my team will be over at Nvidia GTC in a few weeks.\n\nEncord is serving many of the robotics and physical AI companies, on their\nAI Data Ops (data curation, annotation, eval etc.) with our End-to-End\nplatform.\n\nWondered if you'd be open to a chat at the event or on a call?"
+},
+{
+"id": "145289540812",
+"subject": "Starling 2 Logis | Just onboarded Toyota-Woven & Zeitview",
+"text": "Hi [NAME]\u200b, \n\nI noticed the recent Starling 2 Logis's improved computer vision & navigation performance and thought I'd reach out since we're working with some of your peers like Toyota-Woven, Zeitview, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145289558241",
+"subject": "Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI just read about your partnership w/ Onward Robotics (whom I'm quite familiar with) and thought I'd reach out since we're working with some of your peers like Slamcore, Toyota-Woven, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145345489120",
+"subject": "[COMPANY]'s AI Data Operations for Computer Vision",
+"text": "[NAME],\n\nCurious what annotation & curation tools [COMPANY]'s using for Computer\nVision data ops?\n\nEncord (series B, $50m+ raised, VC-backed) serves folks like NVidia,\nPhilips, Baker Hughes and many other CV & multimodal AI teams on their AI\ndata development needs.\n\nI think it'd be good to connect with you and the team - open to a\nconversation?"
+},
+{
+"id": "145364888784",
+"subject": "Just onboarded Baker Hughes & Toyota-Woven",
+"text": "Hi [NAME]\u200b, \n\nI noticed your work with the [COMPANY] Center of Excellence and thought I'd reach out since we're working with some of your peers like Baker Hughes, Toyota-Woven, Pickle Robot, Novarc, etc on building similar offshore logistics / robotics, oil/gas visual inspection products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145365013718",
+"subject": "Spoke to Nima | Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI spoke to Nima a few months ago post Series B about potentially improving Path's data pipelines. Looks it wasn't a priority then but thought I'd reach back out since we've recently partnered with some of your peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145389962469",
+"subject": "coffee in London?",
+"text": "[NAME],\n\nI see you and the team are focused on Computer Vision & gen-AI use-cases.\n\nEncord (series B, $50m+ raised, YC-alum) serves Computer Vision & gen-AI\nteams globally like Synthesia, Flawless AI, Captions, and many others.\n\nThought it'd be great to look at how [COMPANY]'s AI Data & model development\ncould benefit.\n\nIf you're in London, I thought it'd be good to connect in person. Do any\ntimes work for you?"
+},
+{
+"id": "145838519503",
+"subject": "Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI'm reaching out as we've recently onboarded some of your peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145848451300",
+"subject": "Starling 2 Logis | Just onboarded Toyota-Woven & Zeitview",
+"text": "Hi [NAME]\u200b, \n\nI noticed the recent Starling 2 Logis's improved computer vision & navigation performance and thought I'd reach out since we're working with some of your peers like Toyota-Woven, Zeitview, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145850456290",
+"subject": "Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI just read the Jan CBC article about Promise and thought I'd reach out since we're working with some of your peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar construction logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145975239883",
+"subject": "[NAME], an introduction to Encord - and good to have spoken, Rahat",
+"text": "Hi [NAME],\n\nReaching out after speaking with Rahat just now.\n\nEncord (series B, $50m+ raised, AI Data Ops) is the leading end-to-end\ncomputer vision data platform; clients include Veo, Spiideo etc. in\nsports-tech, alongside many other computer vision teams globally (Philips,\nBaker Hughes, Synthesia, Tractable and hundreds more) working on C.V. for\nvideo and image analytics.\n\nFolks use our data curation, annotation and review platform to assist with\nimproving model quality and delivery speed, while keeping development costs\nlow as they scale through better end-to-end data management and by allowing\nthem to curate/annotate high resolution videos natively.\n\nGiven the focus that [COMPANY] has going forward and the potential timeliness\nhere, I thought it'd make sense for us to connect as soon as it suits you,\nover an introductory conversation.\n\nHow does a 30 minute time slot suit you in the coming week for a video\ncall? Feel free to add time into my calendar here\n<[LINK]>\nif easiest, or let me know when would be best."
+},
+{
+"id": "145975771334",
+"subject": "Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI saw the recent Series A announcement and thought I'd reach out since we're working with some of your peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145980550368",
+"subject": "Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI saw the recent acquisition by Zebra news and thought I'd reach out since we're working with some of their peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar warehouse logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145980570837",
+"subject": "Just onboarded Toyota-Woven & Pickle Robot",
+"text": "Hi [NAME]\u200b, \n\nI just read the Jan CBC article about Promise and thought I'd reach out since we're working with some of your peers like Toyota-Woven, Pickle Robot, Novarc, etc on building similar construction logistics / robotics products & ADS. \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "145985562842",
+"subject": "[NAME], Yossi said I should reach out to arrange to speak",
+"text": "Hi [NAME],\n\nHope you're well - I spoke with [NAME] who told me I should connect with\nyou on your AI data operations, around data curation, annotation and review\ntooling for better models.\n\nEncord (series B, AI Data Development, $50m+ raised), serves global teams\nlike Viz AI, Rapid AI, Iterative Health and many others.\n\nWhen suits you well for a conversation, either this afternoon or next week?"
+},
+{
+"id": "145985694955",
+"subject": "Exhibitor directory in csv or similar",
+"text": "Hello,\n\nIs it possible to receive a download of exhibitors in a spreadsheet format?"
+}
+]

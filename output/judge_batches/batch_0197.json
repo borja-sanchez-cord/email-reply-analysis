@@ -1,0 +1,202 @@
+[
+{
+"id": "321591692507",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321631945937",
+"subject": "talk at Fully Connected - foundation models and digital twins",
+"text": "Hi [NAME],\n\nSaw that you're speaking at Fully Connected next month, interested to get\nyour take on how teams can access business value from foundation models.\nI'm part of our ML Team at Encord (based in London), wondering if you'd\nhave 20 or so mins that day for a coffee?\n\nContext on me and us - appreciate this is out of the blue. We've been\nworking on the data side of model training, with leading enterprise teams\nincl. Safi, Owkin, Phillips - partnering with Weights and Biases on a lot\nof this work.\n\nLet me know if you're around for a catch up, and can get something in the\nbooks"
+},
+{
+"id": "321648669916",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321888084158",
+"subject": "Exploring data curation & annotation for AStuff\u2019s off-road autonomy projects",
+"text": "Hi [NAME],\n\nWe recently started working with Ouster on improving quality assurance for\ntheir LiDAR labels, which is how I came across [COMPANY].\n\nWe partner with teams across the off-road autonomy space (from John Deere\nand Overland AI to Anduril) as well as self-driving and ADAS groups at\nWoven by Toyota, Otiv, and Nexar.\n\nFor off-road systems in particular, we've helped teams mine and surface\nedge-case data (e.g. desert terrain, fog, low-light conditions) to\nprioritise for annotation and model retraining.\n\nWould you be open to a short chat or demo to see where Encord could fit\ninto AStuff's 2D and 3D ML stack? If nothing else, would be great to get\nyour candid feedback on what we've built and for you to see what is out\nthere."
+},
+{
+"id": "321950092507",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321977779409",
+"subject": "Multimodal Dinner - SF - 30 Oct",
+"text": "Hi [NAME],\n\nOur founder [SENDER] is hosting a small dinner in SF on Thursday, 30th\nOctober at Spruce. I'd love to extend an invite.\n\nThe evening's theme is the multimodal shift in AI - the convergence of\nvision, language and sensor data for autonomous systems. We're keeping it\nsmall (c.20 guests), mostly heads of AI/ technical leaders joining from\nteams e.g. 1X, the Bot Company, Glydways etc. I thought you might enjoy\nbeing part of the discussions.\n\nFor context - Encord supports leading physical AI teams (e.g. Boston\nDynamics, Woven by Toyota & Physical Intelligence) automate their\nannotation pipelines at scale + unify image, video and point cloud data\ndevelopment in one place.\n\nHappy to share the full event details if you can make it?"
+},
+{
+"id": "322044083443",
+"subject": "Follow-up on labeling setup Adam mentioned",
+"text": "Hi [NAME],\n\nShame we missed each other at Actuate, but I managed to catch-up with Adam,\nand he mentioned you currently insource labelling due to the US-based\nworkforce requirement and that 2D tools like CVAT have been sufficient so\nfar.\n\nWe've onboarded 1X last week (alongside Boston Dynamics earlier this year)\nto help their perception teams move past those same CVAT-style limitations,\nespecially for captioning and multimodal tasks like vision-language\nalignment and QA. They've been able to keep control of their data while\nimproving throughput and label quality.\n\nWould it make sense to share how they approached it and where Encord fits\ninto their ML pipeline? Even if you're continuing to insource, it might\ngive you a few ideas for scaling your perception and evaluation workflows."
+},
+{
+"id": "322130431174",
+"subject": "Multimodal Dinner - SF - 30 Oct",
+"text": "Hi [NAME],\n\nOur founder [SENDER] is hosting a small dinner in SF on Thursday, 30th\nOctober at Spruce. I'd love to extend an invite.\n\nThe evening's theme is the multimodal shift in AI - the convergence of\nvision, language and sensor data for autonomous systems. We're keeping it\nsmall (c.20 guests), mostly heads of AI/ technical leaders joining from\nteams e.g. 1X, the Bot Company, Glydways etc. I thought you might enjoy\nbeing part of the discussions.\n\nFor context - Encord supports leading physical AI teams (e.g. Boston\nDynamics, Woven by Toyota & Physical Intelligence) automate their\nannotation pipelines at scale + unify image, video and point cloud data\ndevelopment in one place.\n\nHappy to share the full event details if you can make it?"
+},
+{
+"id": "322153860323",
+"subject": "Onc AI / Encord - Catch up",
+"text": "Hi [NAME],\n\nHope you're doing well! [SENDER] mentioned you two connected a while back, and\nI wanted to introduce myself.\n\nWith your recent growth, I was curious if there are any new projects that\nmight need data annotation at scale. I'd love to hear what you're focused\non lately and share some updates from our side as well.\n\nAre you open to a quick chat next week? We're flexible Tue - Thu mornings\nPT - let me know what works for you."
+},
+{
+"id": "322178120944",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "322182726851",
+"subject": "[COMPANY] / Encord - Catch up",
+"text": "Hi [NAME],\n\nHope you're doing well! [SENDER] mentioned you guys connected last year. I\nwanted to introduce myself and check in to see how [COMPANY]'s AI road\nmap has evolved since then.\n\nI understand timing was right as you were pending FTE to work on DICOM\nlabeling project, curious if that problem has been solved given your recent"
+},
+{
+"id": "322196420813",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "322253546692",
+"subject": "1X & Boston Dynamics - how we helped robotics teams move beyond CVAT",
+"text": "Hi [NAME],\n\nI met Adam at Actuate, and he mentioned you currently insource labelling\ndue to the US-based workforce requirement and use 2D tools like CVAT.\n\nWe've onboarded 1X last week (alongside Boston Dynamics earlier this year)\nto help their perception teams move past CVAT's limitations i.e.\ninefficiencies of splitting out frames and struggling with rich captions.\nWe've allowed\nthem to keep control of their data while improving throughput and label\nquality.\n\nI'd like to show you our approach to saving them money while their models\nachieve incremental gains. Even if you're continuing to insource, it might\ngive you a few ideas for scaling your perception and evaluation workflows.\n\nDoes next week work? We're pretty free in the afternoons."
+},
+{
+"id": "322287809724",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "322636494059",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "322699804865",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "323545390309",
+"subject": "Vasile intro - Encord",
+"text": "Hi [NAME]\u00e9s - Vasile mentioned it could be worth our teams chatting around\nend of Oct,\n\nHappy to share more on why we're seeing teams move away from Segments,\nScale etc & the different approaches we're seeing towards annotation\nstrategies,\n\nWould be great to be introduced - we're quite open Monday or Tuesday PM\nnext week if that works for you?\n\nLet me know if you have 20-30 mins next week,"
+},
+{
+"id": "323565508823",
+"subject": "[NAME] - VLM",
+"text": "Hi [NAME],\n\nThanks for your interest in Encord's VLM master classes, I assume you are\nparticularly interested in 3D data workflows.\n\nI'd love to help you get started on the workspace and make sure you're\ngetting the most out of it. It'd be helpful to learn a bit more about your\nwork at United.\n\nWould you have 30min next week for a quick chat? I'm flexible Mon - Thu\nmornings PT."
+},
+{
+"id": "323662166216",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "323696962761",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "323701360842",
+"subject": "Missed you at ICCV",
+"text": "Hi [NAME],\n\nNoticed you and Michal were at ICCV, we had a booth there, so a shame we\nmissed you.\n\nWe spoke with Ivon earlier this year about potential alternatives to\nSageMaker for [COMPANY]'s chatbot and audio evaluation workflows - not sure if\nthat's your area as well?\n\nSince then, we've expanded our multimodal capabilities quite a bit. You can\nnow visualise 3D floorplans and text in the same interface (something Ivon\nwas particularly interested in), and we've launched our Physical AI suite\nfor 3D/PCD data, which has been a big unlock for other teams doing spatial\nreasoning work.\n\nWould you be open to a quick catch-up next week to show you what's new and\nsee if it aligns with your team's needs moving forward?"
+},
+{
+"id": "323791608020",
+"subject": "Missed you at ICCV",
+"text": "Hi [NAME],\n\nNoticed you were at ICCV, we had a booth there, so a shame we missed you.\n\nWe spoke with Ivon earlier this year about potential alternatives to\nSageMaker for [COMPANY]'s chatbot and audio evaluation workflows - not sure if\nthat's your area as well?\n\nSince then, we've expanded our multimodal capabilities quite a bit. You can\nnow visualise 3D floorplans and text in the same interface (something Ivon\nwas particularly interested in), and we've launched our Physical AI suite\nfor 3D/PCD data, which has been a big unlock for other teams doing spatial\nreasoning work.\n\nWould you be open to a quick catch-up next week to show you what's new and\nsee if it aligns with your team's needs moving forward?"
+},
+{
+"id": "323793446089",
+"subject": "[NAME] - Encord Workspace",
+"text": "Hi [NAME],\n\nGot a note that you're exploring Workspace. You're definitely in the right\nplace and I'd love to help you get started.\n\nIt'd be helpful to learn a bit about your use cases at Noonlight, so we can\ntailor a quick demo that fits your workflow. Many smart CCTV/surveillance\nteams are leveraging Encord to streamline data labeling and model eval.\n\nWould you have 30min next week for a quick chat? I'm flexible Mon to Thu\nmornings PT."
+},
+{
+"id": "324085370080",
+"subject": "Missed you at ICCV",
+"text": "Hi [NAME],\n\nNoticed you were at ICCV - we had a booth there and would've loved to\nconnect, shame we missed you as I'm big fans of Bot Auto.\n\nNow sure if you're familiar with Encord, but we've just released E-MM1, the\nworld's largest open multimodal dataset, and rolled out new tooling for\nLiDAR + RGB + radar fusion. I work with perception teams like Woven\n(Toyota), Nexar, and Otiv who are already using this to accelerate their\nperception model development.\n\nGiven your work on the NeuFlow series for optical flow estimation, I'd love\nto hear more about how you're approaching motion understanding and scene\nperception at Bot Auto, and see if there's scope to collaborate.\n\nWould you be open to a quick chat next week?"
+},
+{
+"id": "324087103724",
+"subject": "Missed you at ICCV",
+"text": "Hey [NAME],\n\nSpoke to [SENDER] Shoeb (he mentioned he's moved on from [COMPANY]), he said you and\nChris were at ICCV.\n\nWe must've just missed each other, we had a booth there and would have been\ngreat to meet, we're big fans of what [COMPANY]'s building.\n\nFor context, I work with teams like Skydio, Zipline and Acubed by Airbus,\nhelping their perception teams mine data edge cases and speed up annotation\nthrough our video-native suite (no breaking footage into frames).\n\nWould love to chat with the team at [COMPANY], hear how you're approaching the\nperception stack, and share how others in the space are using Encord to\ntighten their ML pipelines.\n\nI'll be in SF next week and the week after, happy to meet for a quick\ncoffee if you're around. Otherwise, we can keep it virtual.\n\nLet me know if Thurs the 30th works for you at all?"
+},
+{
+"id": "324221809861",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "324368567512",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "324462529743",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "324630924481",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "324860692706",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "327235571934",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "327498087627",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "327784882374",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "327792662757",
+"subject": "Following up from Arnab Bagchi",
+"text": "Hi [NAME],\n\nOur founder [SENDER] has been in touch with Arnab Bagchi over the years, who\nreferred us to you given his recent departure.\n\nUnderstood you guys were putting out some fires over the summer - but he\nmentioned that it would be worth reconnecting with the [COMPANY] team this time\nof year as you look at your model training pipelines and tooling.\n\nFor introductions sake - we work with robotics/AMR teams (Pickle Robot,\nBerkshire Grey, Locus etc.) to help them scale their training data\npipelines. Would it make sense to grab a virtual coffee and get introduced\nthis week?"
+},
+{
+"id": "327883652322",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "327890488555",
+"subject": "Encord: [COMPANY]'s request for information",
+"text": "Hi [NAME],\n\nHope you're well. I saw your request on the Encord website regarding data\nservice providers. It's great to see [COMPANY]'s name come through - we're\nbig fans and have had you on our radar for a while, so I have a good sense\nof where we could support.\n\nThat said, it'd be great to chat more specifically about what you're\nlooking for. Find available time this week?\n\n   - *10/28*: 10am - 1pm\n   - *10/29*: 11am - 12pm; 1pm - 2pm\n   - *10/30*: 9am - 12pm\n\nOnce confirmed, I'll send over a 30-min calendar invite. Looking forward to\nconnecting."
+},
+{
+"id": "327904128216",
+"subject": "Encord platform - working with defect detection teams",
+"text": "Hey [NAME], saw you checked out our online demo.\n\nWe work closely with a lot of players in the defect detection / predictive\nmaintenance space (Deepomatic, Cognex etc.) - enabling them to scale their\nannotation throughput and improve model performance. Would love to\nintroduce ourselves and learn what you're working on at Cyvl.\n\nWould you have 15/20 minutes this week to have a virtual coffee? Let me\nknow and can get something in the books,"
+},
+{
+"id": "327916896492",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nDid you get a chance to download the E-MM1 dataset? Curious which\nmodalities you're working with at Geospace.\n\nWe work with many industrial and utilities inspections teams for plant\nmonitoring, anomaly detection and surveillance use cases. Thought it might\nbe useful to show a quick demo of how teams like Baker Hughes and Zeitview\nleverage Encord to manage and annotate their camera/sensor data.\n\nWould love to show how Encord could fit into your workflow and speed up\ndata throughput. I'm flexible Tuesday to Thursday mornings PT - would any\ntime work for a quick call?"
+},
+{
+"id": "327982613736",
+"subject": "AI Leaders Dinner in Munich 26th of November - Encord",
+"text": "Hey [NAME],\n\nBelieve my founder [SENDER] has connected with you in the past - thought of\nyou as we're hosting an AI Leaders Dinner in Munich on the 26th of\nNovember. Confirmed attendees including BMW Group, Lufthansa, KUKA etc.\nWould be great to have you join us too if you're available and in the city?\n\nLet me know - I can share the invite,"
+},
+{
+"id": "328025439469",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nDid you manage to download the E-MM1 dataset? Given your focus at [COMPANY],\nI assume you are working with multiple modalities like cameras and sensors.\n\nWe work with a number of AV/ADAS and road-sensing teams like Woven\n(Toyota), Nexar, and Motive to streamline their multimodal data pipelines -\nfrom managing and annotatine road imagery and Lidar/Radar dataset to\nevaluating perception models in production.\n\nWould you be open to a quick demo that is representative of your current\nuse cases and explore how Encord might be of help? We're flexible Tue to\nThu mornings PT."
+}
+]

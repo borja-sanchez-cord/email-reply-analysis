@@ -1,0 +1,202 @@
+[
+{
+"id": "500864571598",
+"subject": "aie this week",
+"text": "Hi [NAME],\n\nSaw that Cambia was headed to AIE this year and wanted to invite you to the\nEncord booth (B13). For context, we work with healthcare AI/ML teams at\ncompanies like Highmark, UHC and AbbVie. We're the data layer behind their\nML models, everything from annotation and curation to model evaluation.\n\nIf you've got any time this week, feel free to stop by B13 or grab a slot\non my calendar here\n<[LINK]>."
+},
+{
+"id": "500985326828",
+"subject": "Wine tasting in Paris",
+"text": "Hi [NAME], \n\nSaw you're heading to Machina next week & would like to extend an invitation to a private wine-tasting evening we're hosting on Wednesday 8th July at Les Caves du Louvre. We're keeping the evening curated to ~30 people - mostly speakers from the summit, & other C-suite leaders and Heads of AI/ML.\n\nFor context, we're currently partnering with Agile on the robotics arm side and have gotten to know many of your colleagues, so it would be great to connect with you at Machina as well!\n\nPlease find the sign-up link here. Let me know if you're able to join, and I'll make sure to pencil you in."
+},
+{
+"id": "501026149593",
+"subject": "Coffee in Paris? (next week)",
+"text": "Hey [NAME]  - nice to meet,\n\nRecently caught up with [SENDER] I'm a part of the physical AI team\nat Encord working with defense companies - thought I'd reach out as I'm in\nParis for RAISE next week,\n\nWould be great to get introduced in person - would you be keen to grab a\ncoffee/lunch on mon-weds?"
+},
+{
+"id": "501064579307",
+"subject": "Is your eval layer as strong as your engagement stat?",
+"text": "Hi [NAME],\n\nFrom the research I've done, [COMPANY]'s agent teams close care gaps, verify coverage, and book appointments in one coordinated workflow.\n\nThe agentic AI infrastructure is strong. The gap most teams in this position hit is the human review layer, a systematic way to catch agent output errors before they reach members, and an audit trail that satisfies payer compliance requirements.\n\nWe work with healthcare and enterprise AI teams on that layer, including Appfolio and Synthesia on text and document workflows.\n\nWithout it:\n\n\u2022 \nAgent failures compound silently before member impact.\n\n\u2022 \nPayer audits surface gaps in model output traceability.\n\nWorth 20 minutes this week to show what that setup looks like?"
+},
+{
+"id": "501162131656",
+"subject": "Private Dining Room - August 6th, Party of 30-35",
+"text": "Hi [NAME],\n\nHope all is well. I would like to inquire about hosting a private event at\nyour restaurant on Thursday, August 6th.\n\nWe are looking for a private dining room that can comfortably accommodate a\nparty of 30 to 35 guests. Could you please let me know:\n\n   - Availability of a private room for this date\n   - Any minimum spend, room fee, or catering requirements\n   - Available menu options (set menu, plated, family-style, etc.)\n   - Any deposit or booking policies\n\nI would be happy to discuss further details, including timing and any\nspecial requests. You can reach me at 323 774 8382 or we can schedule a\ncall via email."
+},
+{
+"id": "501173569763",
+"subject": "One surgeon, two rooms - the data layer",
+"text": "Hi [NAME],\n\nYossi's post in February describes the end goal: one surgeon on a complex decompression in Room A, Dynamis executing routine bone milling autonomously in Room B. More patients treated, same surgical workforce.\n\nGetting there means training a new autonomous capability for every new procedure step. Each one needs an annotated operating room video from real cases. That annotation step sits between every completed procedure and every new training run.\n\nThe pattern we see at teams your size: the engineers building the models are also manually deciding what to annotate. At 10 cases a month, it is fine, but at 50 it becomes the bottleneck.\n\nWe work with Moon Surgical on exactly this & I thought it would be worth a 20-minute call next Thursday afternoon? Let me know."
+},
+{
+"id": "501174353084",
+"subject": "When the model gets it wrong, the member calls",
+"text": "Hi [NAME],\n\nYour payer customers sell [COMPANY] on member engagement and care gap closure. Both depend on your SLMs getting the recommendation right.\n\nThe gap most AI-first teams hit at your scale is knowing whether the model is working before it ships and being able to show that to a payer under HITRUST audit.\n\nWe work with Synthesia and Appfolio on that evaluation and curation layer. Teams come to us when model iteration is the priority and building evaluation infrastructure internally is slowing it down.\n\nIf relevant, do you have 20 minutes this Thursday to see if there is a parallel?"
+},
+{
+"id": "501174353139",
+"subject": "What ships when the eval loop breaks?",
+"text": "Hi [NAME],\n\nWe work with Synthesia and Appfolio on training data curation and model evaluation infrastructure, similar to what the [COMPANY] AI Models team is building for your SLMs and agent chains.\n\nML leads come to Encord:\n\n\u2022 \nModel iteration is blocked by the evaluation layer & not the model itself.\n\n\u2022 \nThe labelling pipeline design is still owned by ML engineers\n\n\u2022 \nHITRUST and payer SLAs make a hallucination a contractual problem\n\nWithout these issues fixed:\n\n\u2022 \nAgent failures compound before member impact.\n\n\u2022 \nPayer audits surface gaps in model output traceability.\n\nIf any of that is relevant, let's grab 20 minutes this week and i can show what that setup looks like?"
+},
+{
+"id": "501178364111",
+"subject": "What ships when the eval loop breaks ?",
+"text": "Hi [NAME],\n\nWe work with Synthesia and Appfolio on training data curation and model evaluation infrastructure, similar to what the [COMPANY] AI Models team is building for your SLMs and agent chains.\n\nML leads come to Encord:\n\n\u2022 \nModel iteration is blocked by the evaluation layer & not the model itself.\n\n\u2022 \nThe labelling pipeline design is still owned by ML engineers\n\n\u2022 \nHITRUST and payer SLAs make a hallucination a contractual problem\n\nWithout these issues fixed:\n\n\u2022 \nAgent failures compound before member impact.\n\n\u2022 \nPayer audits surface gaps in model output traceability.\n\nIf any of that is relevant, let's grab 20 minutes this week and i can show what that setup looks like?"
+},
+{
+"id": "501179107543",
+"subject": "RAISE 8th July Private Wine Tasting",
+"text": "Hi [NAME] - lovely to meet you and hope the first 5 months of your new job is going well! I've seen that Vijay is speaking at RAISE next month. Our founder, [SENDER] has told me to reach out to Vijay personally and invite him to a private event he is hosting on Wednesday evening (8th) - a wine-tasting held at Les Caves du Louvre. The guest list is C-suite only from attending speakers and guests at the event. \n\n      Please could you pass this forward to Vijay, it would be great to see him there if he is available - let me know and I'll pass the details forward"
+},
+{
+"id": "501193779417",
+"subject": "AI Leaders Dinner, 2nd July in London",
+"text": "Hi [NAME],\n\nNoticed the push at [COMPANY], and other game developers (Ubisoft & Krafton) on\nGenAI / agentic game content, & thought you'd be a great addition to an AI\nLeaders dinner my co-founder, [SENDER], is hosting on the 2nd July at Town near\nCovent Garden. Appreciate it's late notice!\n\nWe're keeping the dinner to ~15 people in a private room with drinks\nbeginning from 18:30. It'll be an informal setting (no slides, no\npresentations), and you'll be joined by AI leaders at DeepMind, Accenture,\nSky, etc.,\n\nLet me know if you're interested and I can send across the details."
+},
+{
+"id": "501201095920",
+"subject": "Meeting @ Machina: Encord Execs <> [COMPANY]",
+"text": "Hi [NAME], we've been following [COMPANY] for some time and saw that you will be\nspeaking at Machina.  Our founder [SENDER]\n<[LINK]>\nwill also be speaking, and [SENDER]\n<[LINK]>\nour Head of Physical AI will be there to meet with a number of our\ncustomers.\n\nIf you're not familiar with Encord\n<[LINK]>,\nwe work with many of the well known humanoid and robotics companies,\nincluding Agility Robotics, 1X, Boston Dynamics, and more.  We partner\nclosely with them on data validation across relevant data types (video, 3D,\nand sensor fusion), with the most advanced platform to support Physical AI\ndata workflows.\n\nCan we schedule time to meet the executive team in person?"
+},
+{
+"id": "501240329413",
+"subject": "EU AI Act and 9 cardiac indications",
+"text": "Hi [NAME],\n\nthe EU AI Act which comes into force in August requires a documented record\nof who labelled what for every model update. As i understand, MyCardium\nruns 9 indications across two cleared products, which if my math is\ncorrect, is nine separate records to keep current.\n\nThe gap is usually the paper trail behind it, which teams struggle with.\nWe work with abbvie and Conavi Medical team on annotating DICOM series\ntogether for their FDA submission.\n\nThought it would be relevant to you and am happy to chat further if you're\ninterested."
+},
+{
+"id": "501249111230",
+"subject": "abbvie's trial imaging QC results",
+"text": "Hi [NAME],\n\nAbbVie's pharma imaging team had a QC and adjudication problem across\nmultiple sites of trial data. I worked with them for a few weeks and got\nthem their annotation accuracy near 99%, with a full record of who reviewed\nwhich image.\n\nthought it was relevant to you and was curious if Core Lab is hitting the\nsame thing? Image QC and physician adjudication is a bottleneck across a\nfew teams we work with."
+},
+{
+"id": "501252638912",
+"subject": "Encord - Data Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "Zdravo [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of CDOs, CTOs and Founders from\nleading financial and insurance institutions and scale-ups. There will be\nno pitches or presentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501259862257",
+"subject": "EU AI Act and 9 cardiac indications",
+"text": "Hi [NAME],\n\nthe EU AI Act which comes into force in August requires a documented record\nof who labelled what for every model update. As i understand, MyCardium\nruns 9 indications across two cleared products, which if my math is\ncorrect, is nine separate records to keep current.\n\nThe gap is usually the paper trail behind it, which teams struggle with.\nWe work with abbvie and Conavi Medical team on annotating DICOM series\ntogether for their FDA submission.\n\nThought it would be relevant to you and am happy to chat further if you're\ninterested."
+},
+{
+"id": "501272039671",
+"subject": "ML ops & video processing",
+"text": "Hi [NAME] Yoon,\n\nSaw your focus on video ML at [COMPANY] and wanted to reach out as I support\nsimilar teams on short-form and long-form video processing using LLM/VLM.\n\nA common challenge teams at your scale face when building models:\nframe-accurate annotation, clear content-understanding rubric/measurements,\nscene classification, and multimodal curation (image, video, audio, 3D, etc)\n\nWould love to understand your scope and hear more about how you're\napproaching this at [COMPANY]. Open to a quick 20min chat later this week?"
+},
+{
+"id": "501291825398",
+"subject": "Machina Paris - let's meet",
+"text": "Hi [NAME] and Lukas,\n\nHow are you both doing?\n\nWanted to reach out and check if you are at Machina in Paris in 2 weeks.\nWould be great to meet and catch up.\n\nLet me know and we can meet by our booth."
+},
+{
+"id": "501292096743",
+"subject": "Private Dining Room \u2013 August 6th, Party of 30-35",
+"text": "Hi [NAME],\n\nHope all is well. I would like to inquire about hosting a private event at\nyour restaurant on Thursday, August 6th.\n\nWe are looking for a private dining room that can comfortably accommodate a\nparty of 30 to 35 guests. Could you please let me know:\n\n- Availability of a private room for this date\n- Any minimum spend, room fee, or catering requirements\n- Available menu options (set menu, plated, family-style, etc.)\n- Any deposit or booking policies\n\nI would be happy to discuss further details, including timing and any\nspecial requests. You can reach me at 323 774 8382 or we can schedule a\ncall via email."
+},
+{
+"id": "501294673103",
+"subject": "Encord - AI Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "Bonjour [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of CTOs, CXOs and Founders from\nleading financial and insurance institutions and scale-ups. There will be\nno pitches or presentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day, especially because [COMPANY] is an esteemed customer of ours. I can\nsend over more details if this sounds interesting."
+},
+{
+"id": "501299881153",
+"subject": "[NAME] - private Beneath the Louvre event (RAISE)",
+"text": "Hi [NAME] - nice to meet you,\n\nSaw you're in Paris for RAISE, I'd like to extend an invitation to a\nprivate wine-tasting evening we're hosting on Wednesday 8th July at Les\nCaves du Louvre.\n\nWe're keeping the evening curated to ~30 people - mostly speakers from the\nsummit, & other C-suite leaders and Heads of AI/ML.\n\nWe'd love to have you there - you can register here\n<[LINK]>,\nor get back to me and I'll pencil you in,"
+},
+{
+"id": "501365632231",
+"subject": "Encord - AI Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "HI [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of Founders and CTOs from leading\npharma companies and healthcare scale-ups. There will be no pitches or\npresentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501368924367",
+"subject": "[NAME] - private Beneath the Louvre event (RAISE)",
+"text": "Hi [NAME] - hope all's well in your end,\n\nSaw you're in Paris for RAISE, I'd like to extend an invitation to a\nprivate wine-tasting evening my CEO and founder is hosting on Wednesday 8th\nJuly at Les Caves du Louvre.\n\nWe're keeping the evening curated to ~30 people - mostly speakers from the\nsummit, & other C-suite leaders and Heads of AI/ML.\n\nWould be great to meet you in person, let me know if I could pencil you in,"
+},
+{
+"id": "501424554204",
+"subject": "cyroad and the labelling challenge",
+"text": "Hi [NAME],\n\nI saw [COMPANY] launch CyRoad for highway video intelligence this month. I\nassume that's a new domain-specific CLIP model on top of the ones you\ndescribed in December.\n\nWe spoke with Prabodh in your team 6 months ago. Back then, you were openly\nreviewing the data architecture. Given the new product launch, I thought\nI'd get back in touch since it means you're probably building new\nontologies from scratch.\nI'm curious how that's being handled for CyRoad specifically and wanted to\nshow how we helped Flock Safety with their edge-deployed cameras.\n\nDo you have some time to connect this week? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "501426458855",
+"subject": "Encord - AI Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "Bonjour [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of Ai Leaders, CTOs and Founders\nfrom leading financial institutions and finance scale-ups. There will be no\npitches or presentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501427465445",
+"subject": "Encord - AI Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "Bonjour [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of Ai Leaders, CTOs and Founders\nfrom leading financial institutions and finance scale-ups. There will be no\npitches or presentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501428112573",
+"subject": "cyroad and the labelling challenge",
+"text": "Hi [NAME],\n\nI saw [COMPANY] launch CyRoad for highway video intelligence this month. I\nassume that's a new domain-specific CLIP model on top of the ones you\ndescribed in December.\n\nWe spoke with Prabodh in your team 6 months ago. Back then, you were openly\nreviewing the data architecture. Given the new product launch, I thought\nI'd get back in touch since it means you're probably building new\nontologies from scratch.\nI'm curious how that's being handled for CyRoad specifically and wanted to\nshow how we helped Flock Safety with their edge-deployed cameras.\n\nDo you have some time to connect this week? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "501435879648",
+"subject": "Encord - Data Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "Hi [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of CDOs, CTOs and Founders from\nleading financial and insurance institutions and scale-ups. There will be\nno pitches or presentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501437288686",
+"subject": "Deep Learning Hiring - 1 person 2 jobs",
+"text": "Hi [NAME], \n\nI saw the Deep Learning Research Engineer role. \"Improve our data pipeline\" next to \"train models\" usually means one person doing two jobs?!\n\nWe work with teams hitting the same wall, labelling tools built for bounding boxes break down on person-crop embeddings, where identity ambiguity makes every annotation decision harder. \n\nAutomotus had 30,000 images, mostly near-duplicates, no fast way to find them. Embedding-based curation got them to ~10,000, no accuracy loss.\n\nWhat's eating more of your time right now, models or data pipeline? Would have to chat more if you're free."
+},
+{
+"id": "501437289674",
+"subject": "line in your ReID post that caught my eye",
+"text": "Hi [NAME],\n\nSaw the two Deep Learning Engineer openings referencing \"improve our data pipeline\" and \"build datasets\" alongside model training. Guessing your engineers are still maintaining the labelling infrastructure?\n\nThat tends to slow teams down right when they need to move fastest, especially post-Series A. \n\nTooling built for one detection task rarely stretches to the next, so every new hire spends part of their ramp rebuilding the pipeline instead of training models.\n\nWe saw the same at Automotus. Embedding-based curation cut their 30,000-image dataset to ~10,000 with no accuracy loss, and freed the engineers to get back to model work.\n\nLove the blog, by the way. If you're interested, it would be great to grab 20 minutes to chat later this week?"
+},
+{
+"id": "501437526221",
+"subject": "Deep Learning Hiring - 1 person 2 jobs",
+"text": "Hi [NAME], \n\nI saw the Deep Learning Research Engineer role. \"Improve our data pipeline\" next to \"train models\" usually means one person doing two jobs?!\n\nWe work with teams hitting the same wall, labelling tools built for bounding boxes break down on person-crop embeddings, where identity ambiguity makes every annotation decision harder. \n\nAutomotus had 30,000 images, mostly near-duplicates, no fast way to find them. Embedding-based curation got them to ~10,000, no accuracy loss.\n\nWhat's eating more of your time right now, models or data pipeline? Would have to chat more if you're free."
+},
+{
+"id": "501437625573",
+"subject": "Deep Learning Hiring - 1 person 2 jobs",
+"text": "Hi [NAME], \n\nI saw the Deep Learning Research Engineer role. \"Improve our data pipeline\" next to \"train models\" usually means one person doing two jobs?!\n\nWe work with teams hitting the same wall, labelling tools built for bounding boxes break down on person-crop embeddings, where identity ambiguity makes every annotation decision harder. \n\nAutomotus had 30,000 images, mostly near-duplicates, no fast way to find them. Embedding-based curation got them to ~10,000, no accuracy loss.\n\nWhat's eating more of your time right now, models or data pipeline? Would have to chat more if you're free."
+},
+{
+"id": "501440977139",
+"subject": "Encord - AI Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "Bonjour \u00c9tienne,\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of Ai Leaders, CTOs and Founders\nfrom leading financial institutions and finance scale-ups. There will be no\npitches or presentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501472849117",
+"subject": "Machina - quick coffee?",
+"text": "Hi [NAME] - nice to meet, \n\n[SENDER] & I lead the Physical AI team at Encord and we noticed that you'll be attending Machina next week. We know the team well, have met with Sven, Marian and Jimmy in the past and currently in the process of bringing some Franka arms onboard for our Lab in WC. \n\nWould love to tell you what we do and hear what you're going to be doing at Agile - let me know if you have some time to connect in Paris,"
+},
+{
+"id": "501474320589",
+"subject": "Challenge: Doubling Production Every Year",
+"text": "Hi [NAME], \n\nI saw the world ploughing record at Birch Farm last year in May. I hope you still have the record, it's extremely cool - I grew up on a farm and love to see the technology in this field progressing!\n\nWe work with agricultural robotics teams, including John Deere on one specific problem: closing the gap between the data the machines log in the field and data that actually improves the model.\n\nAs the fleet continues to double, that gap tends to widen faster than the team. \n\nDo you have 20 minutes next Thursday at 2 pm to see if we can help?"
+},
+{
+"id": "501507945704",
+"subject": "AgBot T2 Doubling Problem",
+"text": "Hi [NAME], \n\nWe just started working with John Deere on similar autonomous field robot perception use cases as agXeed, so I thought I'd reach out.\n\nMotion engineers in the agricultural robotics space come to us when:\n\n\u2022 \n\nField incident logs have no automated filter - engineers manually decide which obstacle events are worth pulling into a training dataset.\n\n\u2022 \n\nAnnotating LiDAR and camera captures from real field conditions requires a setup that general-purpose tools weren't built for.\n\n\u2022 \n\nThe loop from a field failure to a corrected labelled example in the retraining queue takes weeks, not days.\n\nDo you face similar issues at agXeed?\n\nIf so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free next Wednesday at 2pm."
+},
+{
+"id": "501508366552",
+"subject": "Wine tasting invitation",
+"text": "Hi [NAME],  \n\n I'd like to extend an invitation to a private wine-tasting evening we're hosting on Wednesday 8th July at Les Caves du Louvre. We're keeping the evening curated to ~30 people - mostly C-suite leaders and Heads of AI/ML. \n\n Please find the sign-up link  \nhere. Let me know if you're able to join, and I'll make sure to pencil you in."
+},
+{
+"id": "501508656357",
+"subject": "Wine tasting invitation",
+"text": "Hi [NAME],  \n\n I'd like to extend an invitation to a private wine-tasting evening we're hosting on Wednesday 8th July at Les Caves du Louvre. We're keeping the evening curated to ~30 people - mostly C-suite leaders and Heads of AI/ML. \n\n Please find the sign-up link  \nhere. Let me know if you're able to join, and I'll make sure to pencil you in."
+},
+{
+"id": "501508657346",
+"subject": "Wine tasting invitation",
+"text": "Hi [NAME],  \n\n I'd like to extend an invitation to a private wine-tasting evening we're hosting on Wednesday 8th July at Les Caves du Louvre. We're keeping the evening curated to ~30 people - mostly C-suite leaders and Heads of AI/ML. \n\n Please find the sign-up link  \nhere. Let me know if you're able to join, and I'll make sure to pencil you in."
+},
+{
+"id": "501563405540",
+"subject": "Meeting @ Machina: Encord Execs <> [COMPANY]",
+"text": "Hi [NAME],\n\nWe've had some conversations with your team in the past and our team would\nlove to find a time to connect if you'll be in Paris next week for Machina?\n Our founder [SENDER]\n<[LINK]>\nwill\nbe speaking, and [SENDER]\n<[LINK]>\nour\nHead of Physical AI will be there to meet with a number of our customers.\nWe work with many of the well known humanoid and robotics companies,\nincluding Agility Robotics, 1X, Boston Dynamics, and more.  We partner\nclosely with them on data validation across relevant data types (video, 3D,\nand sensor fusion), with the most advanced platform to support Physical AI\ndata workflows. Can we find a time at the conference to get introduced?\n\nSeparately, we are hosting an intimate wine tasting event, Wednesday\nevening, with founders and executives which I think you would enjoy.\nSharing the event details here if you have interest in joining us:\n[LINK]"
+}
+]

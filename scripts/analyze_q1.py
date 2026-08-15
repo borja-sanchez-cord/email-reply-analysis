@@ -344,6 +344,12 @@ def main():
     tag = args.tag or f"{args.type}_{args.year}_{args.outcome}_G{args.G}"
     if args.ca:
         tag += f"_{args.ca}"
+    # every filter and spec variant must be visible in the artefact name — a --tool run
+    # silently overwrote the main run's JSON before this suffix existed
+    if args.tool:
+        tag += f"_{args.tool}only"
+    if args.control_tool:
+        tag += "_ctrltool"
     if args.shuffle_seed:
         tag += f"_placebo{args.shuffle_seed}"
     res.to_json(os.path.join(OUT, f"q1_{tag}.json"), orient="records", indent=1)

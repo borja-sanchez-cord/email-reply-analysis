@@ -1,0 +1,202 @@
+[
+{
+"id": "359630331070",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "359632730321",
+"subject": "RoadRunner <> Encord",
+"text": "Hi [NAME],\n\nHope you're doing well. I was recently chatting with the team at Glacier\nRobotics about their recycling CV pipeline, and it immediately reminded me\nof the work RoadRunner is doing.\n\nCurious how you're handling your ML Ops + training data workflows these\ndays - most engineering leaders I speak with complain that open source or\ninternal tooling usually hit scaling limits as real-world data and edge\ncases surge - data curation, labeling, and QA becomes tough.\n\nQuick context about Encord: we're SF-based data labeling platform built for\ncomputer vision and multimodal AI (image, video, sensor etc). We're Series\nB ($50M raised) and support 200+ AI teams like Boston Dynamics, Physical\nIntelligence, Thinking Machines Lab, etc.\n\nGiven your ML background, I'd love your feedback on what we've built. I'm\npretty flexible Mornings (PT) before Thanksgiving -  would you be open to a\nquick 30 min chat?"
+},
+{
+"id": "359632744644",
+"subject": "Physical AI Leaders Dinner - San [SENDER] (NeurIPS [YEAR])",
+"text": "Hi [NAME],\n\nNoticed you're based in San [SENDER] - will you be at NeurIPS this year?\n\nOur co-founders, [SENDER] and [SENDER] are hosting a private dinner\nto kick off the conference on 2 Dec at Herb & Wood, and we'd love for you\nto join! It'll be an intimate event for ~30 CEO/CTOs and tech leaders in\nthe physical AI space to connect and chat.\n\nQuick recap on Encord... we're a SF-based data development platform ($50M\nraised series B) built for computer vision and multimodal AI, supporting\n200+ AI teams like Boston Dynamics and Physical Intelligence.\n\nLet me know if you're interested - I'll share more details and reserve a\nspot for you."
+},
+{
+"id": "359632794816",
+"subject": "[Invite] - NeurIPS AI Leaders Dinner - 2nd Dec",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nOur co-founders, [SENDER] and [SENDER], are hosting an invite-only dinner to kick\noff the conference (a small gathering of AI/ML leaders from across\nindustries) on 2nd December at 6:30pm at Herb & Wood, just a short walk\nfrom the venue. We'd love for you to join us.\n\nIn case you're not familiar with Encord - we're a multimodal data\ndevelopment platform working with frontier AI teams like Thinking Machine\nLabs, Synthesia, Captions and Flawless.\n\nLet me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "359681151187",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nI saw your team with be at RSNA in two weeks so I wanted to reach out for a coffee. We work with Flatiron Health, Viz.ai and Highmark Health to improve DICOM/NIfTI annotation quality - would love to connect at the conference.\n\nRadiology AI teams often struggle to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We solve this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierachical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "359681374415",
+"subject": "Ambience <> Encord",
+"text": "Hi [NAME],\n\nCongrats on Ambience being named as a Top Startup on LinkedIn - well\ndeserved! I've been digging into the healthcare AI space, and thought I'd\nreach out as I see Ambience's focus on documentation and audio use cases.\n\nMy team at Encord supports companies like Iterative Health, AXA, UiPath,\nand Mayo Clinic on their clinical data workflows - NER, OCR, document\nextraction, audio transcription, auto labeling etc.\n\nIn case Encord is new to you...we're a data development platform built for\nmultimodal AI (audio, text, image, video) supporting 200+ AI teams to\nstreamline annotation and improve data quality at scale.\n\nI'd love to get your thoughts on what we've built. I'm pretty flexible in\nthe mornings PT before thanksgiving - open to a quick 30 min chat?"
+},
+{
+"id": "359755201729",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "359774156021",
+"subject": "Encord <> ECR",
+"text": "Hi [NAME],\n\nGreat to see you partnering with Torc - this is huge!\n\nI saw you are hiring for a Senior AI Engineer. As your AI team grows, I can\nimagine you are dealing with terabytes of data that need to move\nefficiently through your annotation workflows. The Encord platform is\ndesigned exactly for that - helping teams manage data more effectively and\nget models to production faster.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free for a chat in the coming days? How would Thursday work?"
+},
+{
+"id": "359774189816",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nI saw [COMPANY] has a booth at RSNA - wondering if you'll be there? We work with ML teams at Flatiron Health, Viz.ai and Highmark Health - helping them improve annotation accuracy across DICOM/NIfTI, text and audio modalities - would love to connect over a coffee at the conference.\n\nA key problem we solve with Radiology AI teams is coordinating multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "359774315753",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME], \n\nI noticed you're attending NeurIPS this year, so I wanted to extend an invite from our founders [SENDER] . He's hosting a small dinner for Heads of ML/ Applied Research attending the San [SENDER] conference on Tuesday (12/2). We'd love to see you there! \n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests joining from Woven (Toyota), Skydio, Zipline and more. We're capping the attendance at 20 to ensure engaging discussions. \n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We unify curation, model-assisted annotations and human review across camera and sensor data in one platform, with the goals of improving training data quality for Physical AI team. \n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359781410007",
+"subject": "Move beyond CVAT",
+"text": "Hey [NAME],\n\nMany teams that are using CVAT are struggling by not having a fully\nintegrated annotation platform. In between data ingestion, curation,\nannotation, and evaluation there is scripts to stitch everything together.\n\nThis slows down the process of labeling and spends engineering resources\nthat could otherwise build core features for [COMPANY].\n\nWe have Elleven Labs, Synthesia, and other frontier visual image generation\nuse Encord to consolidate this experience.\n\nI'd like to invite you to check out [LINK] and let me know what you\nthink."
+},
+{
+"id": "359783269610",
+"subject": "[Invite] NeurIPS AI leaders Dinner - 2nd Dec",
+"text": "Hi [NAME],\n\nNoticed you attended ICCV, will you be going to NeauIPS next month too?\n\nOur co-founders, [SENDER] and [SENDER], are hosting an invite-only dinner to kick\noff the conference (a small gathering of AI/ML leaders from across\nindustries) on 2nd December at 6:30pm at Herb & Wood, just a short walk\nfrom the venue. We'd love for you to join us.\n\nIn case you're not familiar with Encord - we're a multimodal data\ndevelopment platform working with frontier AI teams like Thinking Machine\nLabs, Synthesia, Captions and Flawless.\n\nLet me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "359783281890",
+"subject": "Real-world learning for Phoenix",
+"text": "Hi [NAME],\n\nWe recently onboarded 1X, who similar to [COMPANY], is building\nhumanoids to solve general-purpose tasks. I saw you've built out\nteleoperation capabilities at Sanctuary - wanted to connect and see if\nyou're anticipating similar challenges for real-world robotic learning?\n\nFrom our work with 1X, Boston Dynamics and Physical Intelligence - we see\nannotation/ task description quality as a key challenge. They use Encord to\nannotate and correct time-aligned trajectory, with natural language\ncapability to iteratively improve policies.\n\nHow are you thinking about robotic training data at [COMPANY]? We're\nflexible morning times Wed to Fri if you've got 30 mins."
+},
+{
+"id": "359784829168",
+"subject": "Scaling AI data annotation",
+"text": "Hi [NAME],\n\nCongrats on your Series A funding! It's exciting to see the company grow.\n\nAt Encord, we support CV/ML teams by improving the quality of their\ntraining data and scaling annotation workflows, allowing them to focus on\nenhancing model accuracy and speeding up time to market. For a bit of\nbackground, Encord is a fast-growing data infrastructure platform trusted\nby over 200 AI teams across diverse industries. We specialize in VLM\napplications, particularly in areas like physical safety, surveillance, and\nrobotics.\n\nIt seems like there could be an opportunity to collaborate and accelerate\nyour data throughput as you scale. Would you be open to a brief chat in the\nnext few days?"
+},
+{
+"id": "359788160214",
+"subject": "NeurIPS AI Leaders Dinner - 2nd Dec",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nOur co-founders, [SENDER] and [SENDER], are hosting an invite-only dinner to kick\noff the conference (a small gathering of AI/ML leaders from across\nindustries) on 2nd December at 6:30pm at Herb & Wood, just a short walk\nfrom the venue. We'd love for you to join us.\n\nIn case you're not familiar with Encord, we're a multimodal data\ndevelopment platform. We work the likes of Instacart's Caper Cart and\nAugmodo in the retail tech space, helping them speed up annotation given\nthe sheer size of data, whilst working with their existing SKU catalogue\ntooling.\n\nLet me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "359805636826",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI noticed you've been following Encord - thanks for your interest!\n\nCurious to understand your work at [COMPANY], especially your focus on the\nAV/ADAS field - seems to be a great overlap with us.\n\nAs you may know, we work closely with the leading physical AI teams like\nBoston Dynamics, Physical Intelligence, and Woven (Toyota) to support their\nengineering team working on VLA/VLM models - helping them streamline\ntraining data pipeline and automate annotation for multimodal data (camera\n+sensor fusion).\n\nKeen to hear your thoughts on our product! Open to a quick chat next week?"
+},
+{
+"id": "359805747430",
+"subject": "ML Leaders Dinner - San [SENDER] - 2nd Dec",
+"text": "Hi [NAME],\n\nOur co-founders [SENDER] & [SENDER] are hosting a small dinner for\nHeads of ML/ Applied Research in San [SENDER] on Tuesday (12/2) in conjunction\nto NeurIPS. We'd love to see you there!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359807343847",
+"subject": "Physical AI leaders dinner @ NeurIPS [YEAR] San [SENDER]",
+"text": "Hi [NAME],\n\nHuge congrats on the Series D - amazing to see how fast [COMPANY] has scaled!\nWe've been following the journey and are big fans, especially given our\nfocus in physical AI and DefenseTech space, having worked on projects w/\nAnduril Industries, Shield AI, and Skydio.\n\nWill you be in San [SENDER] for NeurIPS this year? Our co-founders, [SENDER] and [SENDER] are hosting a private dinner for ~30 founders and\ntech leaders on 2 Dec at Herb and Wood, and we'd love for you to join us!\n\nIn case Encord is new to you...We're a Series B data development platform\nbuilt for advanced computer vision and multimodal AI (camera + sensor\nfusion). We support 200+ AI teams like Boston Dynamics, Physical\nIntelligence, and Zipline to automate their annotation pipelines at scale\nand unify image, video, and LiDAR/point cloud data workflows, often as a\ncomplement to Foxglove.\n\nHappy to share more details and save you a spot - let me know if you're\ninterested!"
+},
+{
+"id": "359809134786",
+"subject": "Physical AI dinner @NeurIPS San [SENDER]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] this year?\n\nOur co-founders, [SENDER] and [SENDER] are hosting a private dinner\nto kick off the conference on 2 Dec at Herb & Wood, and we'd love for you\nto join us! It'll be an intimate event for ~30 CEO/CTOs and tech leaders in\nthe physical AI space to connect and chat.\n\nQuick recap on Encord... we're a SF-based data development platform ($50M\nraised series B) built for computer vision and multimodal AI, supporting\n200+ AI teams like Boston Dynamics and Physical Intelligence.\n\nLet me know if you're interested - I'll share more details and reserve a\nspot for you."
+},
+{
+"id": "359809142976",
+"subject": "Physical AI dinner @NeurIPS San [SENDER]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] this year?\n\nOur co-founders, [SENDER] and [SENDER] are hosting a private dinner\nto kick off the conference on 2 Dec at Herb & Wood, and we'd love for you\nto join us! It'll be an intimate event for ~30 CEO/CTOs and tech leaders in\nthe physical AI space to connect and chat.\n\nQuick recap on Encord... we're a SF-based data development platform ($50M\nraised series B) built for computer vision and multimodal AI, supporting\n200+ AI teams like Boston Dynamics and Physical Intelligence.\n\nLet me know if you're interested - I'll share more details and reserve a\nspot for you."
+},
+{
+"id": "359828348108",
+"subject": "Encord <> ECR",
+"text": "Hi [NAME],\n\nExciting to see your partnership with Torc.\n\nI noticed you are hiring for a Senior AI Engineer. As your AI team grows, I\nimagine you are handling massive volumes of data that need to flow\nseamlessly through your annotation workflows. That's where the Encord\nplatform comes in. Designed to streamline data management and accelerate\nmodel development.\n\nI believe there's potential for synergy as you scale. Would you be\navailable for a quick chat in the next few days? How does Thursday work for\nyou?"
+},
+{
+"id": "359830446297",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nI saw [COMPANY] has a booth at RSNA - wondering if you'll be there? We work with ML teams at Flatiron Health, Viz.ai and Highmark Health - helping them improve annotation accuracy across DICOM/NIfTI, text and audio modalities - would love to connect over a coffee at the conference.\n\nA key problem we solve with Radiology AI teams is to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "359834316019",
+"subject": "ML Leaders Dinner @NeurIPS [YEAR]",
+"text": "Hi [NAME],\n\nNoticed Playstation has a paper on VQA at NeurIPS this year - wondering if\nyou're planning to attend in San [SENDER]? Our co-founders [SENDER] & [SENDER] will be hosting a small dinner for Heads of ML/ Applied Research\nTuesday (12/2) in conjunction to the conference. We'd love to see you there!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359834606806",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "359834631370",
+"subject": "AI Leaders Dinner @NeurIPS - San [SENDER] - 2 Dec",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] this year?\n\nOur co-founders, [SENDER] and [SENDER] are hosting a private dinner\nto kick off the conference on 2 Dec at Herb & Wood, and we'd love for you\nto join! It'll be an exclusive event for ~30 CEO/CTOs and tech leaders to\nconnect and chat.\n\nQuick recap on Encord... we're a SF-based data development platform ($50M\nraised series B) built for GenAI, computer vision, multimodal AI,\nsupporting 200+ AI teams like Thinking Machines Lab, Twelve Labs, Onfido,\nReducto, etc.\n\nLet me know if you're interested - I'll share more details and reserve a\nspot for you."
+},
+{
+"id": "359834633454",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME], \n\nCongrats on the launch of Marble - exciting to see you leading the frontier of spatial intelligence since ImageNet! Will you be at NeurIPS in two weeks? Our founder [SENDER] is hosting a small dinner for Heads of ML/ Applied Research attending the San [SENDER] conference on Tuesday (12/2). We'd love to see you there! \n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests joining from Woven (Toyota), Skydio, Zipline and more. We're capping the attendance at 20 to ensure engaging discussions. \n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We unify curation, model-assisted annotations and human review in one platform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359845568727",
+"subject": "Divergent <> Encord",
+"text": "Hi [NAME],\n\nCongrats on your new role! Noticed your focus on robotics automation and\nthought I'd reach out as we work closely with teams like Boston Dynamics,\nPhysical Intelligence, Woven (Toyota) and 1X to help them streamline data\npipeline for model training/fine tuning.\n\nCurious if you are developing in-house tooling for your 3d data\ndevelopment? Teams find value using Encord as we consolidate curation,\nannotation, QA, and model eval into one platform for multimodal AI (image,\nvideo, 3d point cloud).\n\nWould love to get your thoughts on our product and see if we can\ncomplement your current workflow. I'm pretty flexible mornings PT next week\n(before Thanksgiving).\n\nOpen to a quick chat?"
+},
+{
+"id": "359846194366",
+"subject": "Physical AI leaders dinner @ NeurIPS [YEAR] San [SENDER]",
+"text": "Hi [NAME],\n\nHuge congrats on the Series D - amazing to see how fast [COMPANY] has scaled!\nWe've been following the journey and are big fans, especially given our\nfocus in physical AI and DefenseTech space, having worked on projects w/\nAnduril Industries, Shield AI, and Skydio.\n\nWill you be in San [SENDER] for NeurIPS this year? Our co-founders, [SENDER] and [SENDER] are hosting a private dinner for ~30 founders and\ntech leaders on 2 Dec at Herb and Wood, and we'd love for you to join us!\n\nIn case Encord is new to you...We're a Series B data development platform\nbuilt for advanced computer vision and multimodal AI (camera + sensor\nfusion). We support 200+ AI teams like Boston Dynamics, Physical\nIntelligence, and Zipline to automate their annotation pipelines at scale\nand unify image, video, and LiDAR/point cloud data workflows, often as a\ncomplement to Foxglove.\n\nHappy to share more details and save you a spot - let me know if you're\ninterested!"
+},
+{
+"id": "359851193535",
+"subject": "[Invite] AI Leaders Dinner @ NeurIPS [YEAR]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] this year?\n\nOur co-founders, [SENDER] and [SENDER] are hosting a private dinner\nto kick off the conference on 2 Dec at Herb & Wood, and we'd love for you\nto join us! It'll be an intimate event for ~30 CEO/CTOs and tech leaders in\nthe physical AI space to connect and chat.\n\nQuick recap on Encord... we're a SF-based data development platform ($50M\nraised series B) built for computer vision and multimodal AI, supporting\n200+ AI teams like Boston Dynamics and Physical Intelligence.\n\nLet me know if you're interested - I'll share more details and reserve a\nspot for you."
+},
+{
+"id": "359857656014",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nGiven your focus on medical imaging, expect you'll be at RSNA in two weeks? We work with Flatiron Health, Viz.ai and Highmark Health to improve DICOM/NIfTI annotation quality - would love to connect over a coffee at the conference.\n\nA key problem we solve with Radiology AI teams is to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "359858646236",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME],\n\nCongrats on the PinFM paper and a very interesting lightning talk at the ML\nday! I wanted to see if you'll be at NeurIPS? Our founder [SENDER] is\nhosting a small dinner for Heads of ML/ Applied Research on Tuesday (12/2)\nin conjunction to the conference. I'd love to extend an invite if you're\ngoing!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359860469959",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME], \n\nNoticed [COMPANY] is publishing a few papers at NeurIPS'25 - wondering if you're heading to San [SENDER] for the conference? If so, our founders [SENDER] & [SENDER] is hosting a dinner for curated group of Heads of ML/ Applied Research on Tuesday (12/2). We'd love to see you there! \n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests joining from Woven (Toyota), Skydio, Zipline and more. We're capping the attendance at 20 to ensure engaging discussions. \n\nFor context: Encord helps 200+ AI teams improve training data quality at scale. For enterprises with sizeable internal annotation workforce, we've built out workflow management and productivity analytics to ensure research & program management teams have sufficient visibility over annotation process in addition to the output.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359864283366",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME], \n\nNoticed [COMPANY] is publishing a few papers at NeurIPS'25 - wondering if you're heading to San [SENDER] for the conference? If so, our founders [SENDER] & [SENDER] is hosting a dinner for curated group of Heads of ML/ Applied Research on Tuesday (12/2). We'd love to see you there! \n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests joining from Woven (Toyota), Skydio, Zipline and more. We're capping the attendance at 20 to ensure engaging discussions. \n\nFor context: Encord helps 200+ AI teams improve training data quality at scale. For enterprises with sizeable internal annotation workforce, we've built out workflow management and productivity analytics to ensure research & program management teams have sufficient visibility over annotation process in addition to the output.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359867952341",
+"subject": "ML Leaders Dinner - San [SENDER] - 2nd Dec",
+"text": "Hi [NAME],\n\nCongrats on the PinFM paper and the subsequent presentation at the ML day!\nI wanted to see if you'll be in NeurIPS in San [SENDER]? Our founder [SENDER] is hosting a small dinner for Heads of ML/ Applied Research on\nTuesday (12/2) in conjunction to NeurIPS. I'd love to extend an invite if\nyou're going!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359869806791",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME],\n\nCongrats on the PinFM paper and a very interesting lightning talk at the ML\nday! I wanted to see if you'll be at NeurIPS? Our founder [SENDER] is\nhosting a small dinner for Heads of ML/ Applied Research on Tuesday (12/2)\nin conjunction to the conference. I'd love to extend an invite if you're\ngoing!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359871931620",
+"subject": "Automating Annotation Tasks",
+"text": "Hi [NAME],\n\nNoticed you're gearing up your perception team to automate annotation, so I\nthought now might be a good time to connect. We work with Nexar, Motive,\nand Woven (Toyota), which, similar to [COMPANY], train their models from\nvehicle-mounted camera data.\n\nA typical challenge for those teams is to accelerate iteration speed when\nprototyping new model capabilities. We solve this by integrating data\ncuration and annotation - so teams can find rare events, run through a\nmodel for autolabel, and send human review for label quality in one place.\n\nHow are you thinking about the data flywheel at Hayden? I'm free Thursday\nmorning to connect."
+},
+{
+"id": "359883398358",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME],\n\nCongrats on the PinFM paper and a very interesting lightning talk at the ML\nday! I wanted to see if you'll be at NeurIPS? Our founder [SENDER] is\nhosting a small dinner for Heads of ML/ Applied Research on Tuesday (12/2)\nin conjunction to the conference. I'd love to extend an invite if you're\ngoing!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359885331670",
+"subject": "scaling data annotation workflows",
+"text": "Hi [NAME],\n\nI noticed you are hiring a Robotics Software Engineer for Perception &\nSensors. It's exciting to see you grow.\n\nWe work with defense teams like the Royal Navy to improve training data\nquality and scale annotation pipelines, so teams can focus on boosting\nmodel accuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200+ AI teams across industries - we're especially\nwell-versed in VLM use cases like physical AI and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free to check in this week?"
+},
+{
+"id": "359918269631",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME],\n\nCongrats on the PinFM paper and a very interesting lightning talk at the ML\nday! I wanted to see if you'll be at NeurIPS? Our founder [SENDER] is\nhosting a small dinner for Heads of ML/ Applied Research on Tuesday (12/2)\nin conjunction to the conference. I'd love to extend an invite if you're\ngoing!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "359918374080",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME],\n\nCongrats on the PinFM paper and a very interesting lightning talk at the ML\nday! I wanted to see if you'll be at NeurIPS? Our founder [SENDER] is\nhosting a small dinner for Heads of ML/ Applied Research on Tuesday (12/2)\nin conjunction to the conference. I'd love to extend an invite if you're\ngoing!\n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests\njoining from Woven (Toyota), Qualcomm, Electronic Arts and more. We're\ncapping the attendance at 20 to ensure engaging discussions.\n\nFor context: Encord helps 200+ AI teams improve data quality at scale. We\nunify curation, model-assisted annotations and human review in one\nplatform, with the goals of accelerating training dataset preparation.\n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+}
+]

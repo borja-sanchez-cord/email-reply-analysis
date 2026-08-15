@@ -1,0 +1,202 @@
+[
+{
+"id": "355959700706",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "355970181324",
+"subject": "[Invite] Physical AI dinner @ NeurIPS [YEAR] - 2 Dec",
+"text": "Hi [NAME],\n\nHope you've been well! Pity we missed you at our Actuate Mixer earlier in September while you were doing the dry fit integration. I have say - the new K7 looks fantastic (saw your release video on LinkedIn, it's slick!)\n\nWill you be at NeurIPS in San [SENDER] this year? Our co-founders, [SENDER] & [SENDER] are hosting a private dinner on 2 Dec at Herb and Wood to kick off the conference. We'd love for you to join us!\n\nIt'll be an intimate dinner for ~30 founders and tech leaders in the physical AI space to connect and chat. \n\nQuick context on Encord...we're a data development platform built for advanced computer vision and multimodal AI (image, video, 3d point cloud), supporting 200+ teams like Boston Dynamics, Woven by Toyota, Agility Robotics, and Fox Robotics.\n\nIf you're interested, I can share details and reserve a spot for you."
+},
+{
+"id": "355974286573",
+"subject": "[Invite] Happy Hour @ Neurips [YEAR]",
+"text": "Hi [NAME],\n\nAre you or anyone from the [SENDER] team headed to NeurIPS this year in San [SENDER]?\n\nEncord is hosting a happy hour with Invisible Technologies on 3 December. We'd love to welcome you if you're available that evening. \n\nYou'll be joining 60+ top engineers, researchers, AI/ML leaders for an evening of great conversations, over drinks and food at Sonoma Terrace (5min walk from conference). \n\nLet me know if you can join us and I'll share more details."
+},
+{
+"id": "355988768956",
+"subject": "Coffee in Austin - perception model accuracy",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about perception model\naccuracy. Given your role leading this team at [COMPANY] - I'd love to get\nyour perspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities to\nsolve this. Happy to also share how we work with ML teams in defense\nenvironments like Maxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (11/19) to\nThurs (11/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "355989515450",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "355994167501",
+"subject": "Coffee in Austin - annotation efficiency",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about data operations.\nGiven your role in the perception team at Saronic - I'd love to hear your\nperspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities.\nHappy to also share how we work with ML teams in defense environments like\nMaxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (11/19) to\nThurs (11/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "356013981916",
+"subject": "VLM chat",
+"text": "Hi [NAME]\n\nI was in touch with Rom earlier this year - sounds like building more\neffective VLM to automate heavy equipments is a focus for your team. We\nrecently onboarded 1X helping them improve data quality for VLM - so I\nwanted to see if you'd be open to exchange perspectives?\n\nFor context - Physical AI has been a strategic focus for Encord. We've been\nclosely working with teams at Boston Dynamics, Zipline and 1X to improve\nannotation quality on the intersection of vision, caption & sensor data.\n\nWould be great to get your candid feedback on what we've built out. Hows's\nTues/ Wed next week looking for a quick chat?"
+},
+{
+"id": "356030688482",
+"subject": "[COMPANY] <> Encord - Catch up",
+"text": "Hi [NAME],\n\nHope you're well! Heard great things about your work at [COMPANY] from my colleagues [SENDER] and [SENDER] - wanted to introduce myself as your POC at Encord.\n\nWe've launched the world's largest open-source multi-modal dataset, now supporting various modalities (audio, image, video, 3d, sensors). I'd love your feedback on these features, especially given your focus on models that combine computer vision and sensors.\n\nWould be nice to say hi and learn about what you're focused on lately. Can we catch up briefly next Tue - Thu?"
+},
+{
+"id": "356049668308",
+"subject": "Coffee in Austin - annotation efficiency",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about data operations.\nGiven your role in the perception team at [COMPANY] - I'd love to hear your\nperspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities to\nsolve this. Happy to also share how we work with ML teams in defense\nenvironments like Maxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (11/19) to\nThurs (11/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "356065877214",
+"subject": "Encord AI leaders dinner in San [SENDER] - NeurIPS [YEAR]",
+"text": "Hi [NAME],\n\nHope you've been well. I've heard great things about your work at Deep\nSentinel from my colleague [SENDER].\n\nNoticed you're based in San [SENDER] - curious if you'll be around for NeurIPS\nthis year?\n\nOur co-founders, [SENDER] & [SENDER] are hosting a private dinner\non 2 Dec at Herb and Wood, and we'd love for you to join us! It'll be an\nintimate dinner for ~30 founders and tech leaders to connect and chat.\n\nHappy to share details if you're interested?"
+},
+{
+"id": "356078560465",
+"subject": "Encord - perception data annotation",
+"text": "Hi [NAME],\n\nHamza mentioned it'd be good to connect with the AI team at [COMPANY].\nSeems like you're scaling up data collection effort - wanted to see if\nyou'd be open to a quick chat on how we can help?\n\nFor context - we help 1X, Physical Intelligence and Boston Dynamics improve\nannotation quality. We focus on automating annotation pipelines and\nintegrating capabilities to curate datasets and send to labelling in one\nplace.\n\nIt'd be great to understand those that align with your current workflows at\nMaven. Would Tuesday morning work for a 30 mins chat?"
+},
+{
+"id": "356161713374",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "356172029158",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "357027021015",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357082966243",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357110918378",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357111363822",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357203900623",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357205993688",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357326952681",
+"subject": "Coffee at Humanoid summit tomorrow?",
+"text": "Hi [NAME] - saw you're speaking at the humanoid summit in Berlin this week\n- wondering if you'd be open to coffee with our Robotics Team Lead (cc'd)?\n\nBeen working with the world's leading humanoid teams - Boston, Figure, 1x\netc. on scaling their VLA captioning and data curation/annotation workflows\n- would love to hear about the work you're up to at BMW Grp.\n\nLet me know and can get something in the books,"
+},
+{
+"id": "357327875259",
+"subject": "Coffee at Humanoid summit tomorrow?",
+"text": "Hi [NAME] - saw you're speaking at the humanoid summit in Berlin this week\n- wondering if you'd be open to coffee with our Robotics Team Lead (cc'd)?\n\nBeen working with the world's leading humanoid teams - Boston, Figure, 1x\netc. on scaling their VLA captioning and data curation/annotation workflows\n- would love to hear about the work you're up to at Deepmind.\n\nLet me know and can get something in the books,"
+},
+{
+"id": "357751455969",
+"subject": "[Invite] - NeurIPS Dinner Invite, 2nd Dec",
+"text": "Hi [NAME],\n\nNoticed you'll be at NeurIPS next month so wanted to personally invite you\nto a dinner my co-founders, [SENDER] and [SENDER], are hosting. It'll be a small\ngathering of AI/ML leaders from across industries to kick off the\nconference on 2nd December at 6:30pm at Herb & Wood, just a short walk from\nthe venue - we'd love for you to join us!\n\nIn case you're not familiar with Encord, we're working with your Caper\nCart's ML team (lead by Xiao Zhou) in China to help speed up their\nannotation workflows with our multimodal data development platform.\n\nLet me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357754803405",
+"subject": "Personal invite for [NAME]",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "357770555591",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "357794669807",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "357795122396",
+"subject": "Large scale SKU catalogues workaround",
+"text": "HI [NAME],\n\nWe recently onboarded Augmodo, and it made me think of [COMPANY]. We worked\nwith their CV team who were running large SKU catalogues and heavy video\npipelines, interested to know if this a challenge for [COMPANY] too?\n\nA common theme we find for autonomous checkout CV teams is scaling\nannotation and post-deployment updates without replacing their existing\ncatalogue tools. Encord's video-native tracking and lightweight\nmodel-in-the-loop workflows have helped teams cut labelling time, speed up\nstore rollouts, and keep retraining cycles tight while keeping their\ncurrent systems in place.\n\nThought it might be useful to compare notes on what we're seeing in the\nmarket and whether this could support [COMPANY] as you scale.\n\nIf you're open to a quick chat, next Thursday works well for me.\n\n-[SENDER]"
+},
+{
+"id": "357972430048",
+"subject": "Large SKU catalogues workaround",
+"text": "Hi [NAME],\n\nWe've been working with several retail CV teams (most recently Augmodo) who\nrun large SKU catalogues and ingest millions of frames a day. The common\npain we're seeing is:\n\n   - slow annotation throughput,\n   - inefficient frame-by-frame workflows\n   - difficulty connecting catalogue systems to labelling\n\nMost have adopted Encord for two things:\n\n   1. video-native tracking to massively increase frames labelled per action\n   2. SDK integration so they can plug in their own models, trigger\n   tracking flows, and tie annotations directly to their existing catalogue\n   tools (without replacing them)\n\nIf you're facing something similar at [COMPANY], happy to share more. I'm free\nnext Thursday if that works."
+},
+{
+"id": "358002202859",
+"subject": "[Invite] - NeurIPS AI leaders Dinner, 2nd of Dec",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nOur co-founders, [SENDER] and [SENDER], are hosting an invite-only dinner to kick\noff the conference (a small gathering of AI/ML leaders from across\nindustries) on 2nd December at 6:30pm at Herb & Wood, just a short walk\nfrom the venue. We'd love for you to join us.\n\nBy way of context, Encord is a multimodal data-development platform. We\nrecently onboarded Augmodo and also work with teams like Instacart's Caper\nCart group to speed up labelling and data iteration, while integrating\ndirectly with their catalogue systems so they don't have to replace\nexisting tooling.\n\nLet me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "358079796424",
+"subject": "improving training data quality",
+"text": "Hi [NAME], \n\nI noticed you are hiring Engineering roles across the board - exciting to see you grow.\n\nWe work with AV teams to improve training data quality and scale annotation pipelines, so teams can focus on boosting model accuracy and speed to market. Quick context: Encord is a data layer scale-up, helping over 200+ AI teams across industries - we're especially well versed in VLM use cases like AV/ADAS, construction, and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you scale. Are you free to check in this week?"
+},
+{
+"id": "358090281155",
+"subject": "Large SKU catalogues workarounds",
+"text": "Hi [NAME],\n\nWe've been working with several retail CV teams (most recently Augmodo) who\nrun large SKU catalogues and ingest millions of frames a day. The common\npain we're seeing is:\n\n   - slow annotation throughput,\n   - inefficient frame-by-frame workflows\n   - difficulty connecting catalogue systems to labelling\n\nMost have adopted Encord for two things:\n\n   1. video-native tracking to massively increase frames labelled per action\n   2. SDK integration so they can plug in their own models, trigger\n   tracking flows, and tie annotations directly to their existing catalogue\n   tools (without replacing them)\n\nIf you're facing something similar at AiFi, happy to share more. I'm free\nnext Thursday if that works."
+},
+{
+"id": "358116209861",
+"subject": "Large scale SKU catalogues workaround",
+"text": "Hi [NAME],\n\nWe recently onboarded Augmodo, and it made me think of Radius conversations\nwe had with Radius (Tarik). We worked with several retail CV teams running\nlarge SKU catalogues and heavy video pipelines, interested to know if this\na challenge for Radius too?\n\nA common theme across all of them is scaling annotation and post-deployment\nupdates without replacing their existing catalogue tools. Encord's\nvideo-native tracking and lightweight model-in-the-loop workflows have\nhelped teams cut labelling time, speed up store rollouts, and keep\nretraining cycles tight while keeping their current systems in place.\n\nThought it might be useful to compare notes on what we're seeing in the\nmarket and whether this could support Radius as you scale.\n\nIf you're open to a quick chat, next Thursday works well for me.\n\n-[SENDER]"
+},
+{
+"id": "358118090961",
+"subject": "Large scale SKU catalogues workaround",
+"text": "Hi [NAME],\n\nWe recently onboarded Augmodo, and it made me think of Radius conversations\nwe had with Radius (Tarik). We worked with several retail CV teams running\nlarge SKU catalogues and heavy video pipelines, interested to know if this\na challenge for Radius too?\n\nA common theme across all of them is scaling annotation and post-deployment\nupdates without replacing their existing catalogue tools. Encord's\nvideo-native tracking and lightweight model-in-the-loop workflows have\nhelped teams cut labelling time, speed up store rollouts, and keep\nretraining cycles tight while keeping their current systems in place.\n\nThought it might be useful to compare notes on what we're seeing in the\nmarket and whether this could support Radius as you scale.\n\nIf you're open to a quick chat, next Thursday works well for me.\n\n-[SENDER]"
+},
+{
+"id": "358226368744",
+"subject": "scaling annotation pipelines",
+"text": "Hi [NAME],\n\nI noticed you're expanding your engineering team - exciting to see the growth.\n\nWe partner with AV teams to improve training data quality and scale annotation pipelines, enabling teams to focus on boosting model accuracy and speeding up deployment. For context, Encord is a data-layer scale-up working with 200+ AI teams across industries, with strong expertise in VLM use cases such as AV/ADAS, construction, and robotics.\n\nIt seems like there could be a good opportunity to support your data workflows as you scale. Are you available for a quick chat this week?"
+},
+{
+"id": "358272534747",
+"subject": "Large SKU catalogues workaround",
+"text": "Hi [NAME],\n\nThought it would be worth updating you on how we onboarded Augmodo who were\nrunning large SKU catalogues and heavy video pipelines, interested to know\nif this a challenge for [COMPANY] too?\n\nA common theme we find for autonomous checkout CV teams is scaling\nannotation and post-deployment updates without replacing their existing\ncatalogue tools. We managed to find a solution whereby they kept their\ncurrent catalogue tooling but used Encord's video-native tracking and\nlightweight model-in-the-loop workflows have helped teams cut labelling\ntime, speed up store rollouts, and keep retraining cycles tight.\n\nThought it might be useful to compare notes on what we're seeing in the\nmarket and whether this could support [COMPANY] as you scale.\n\nIf you're open to a quick chat, next Thursday works well for me."
+},
+{
+"id": "358272724190",
+"subject": "ML Leaders Dinner @NeurIPS'25",
+"text": "Hi [NAME], \n\nI noticed you're speaking at the Embodied World Models workshop at NeurIPS - so I'd love extend an invite from our founders [SENDER] & [SENDER] . They're hosting a small dinner for Heads of ML/ Applied Research attending the San [SENDER] conference on Tuesday (12/2). We'd love to see you there! \n\nWe've reserved a private room at Herb & Wood from 6:30pm, with guests joining from Woven (Toyota), Skydio, Zipline and more. We're capping the attendance at 20 to ensure engaging discussions. \n\nFor context: Encord helps 200+ AI teams improve data quality at scale - incl. leading VLM/VLA teams e.g. 1X, Dyna Robotics & Physical Intelligence. We unify model-assisted annotations/ captioning and human review in one platform with the goals of accelerating training dataset preparation. \n\nWould you be interested in joining us in San [SENDER] on the 2nd?"
+},
+{
+"id": "358292367564",
+"subject": "[Invite] NeaurIPS AI Leaders Dinner, 2nd of Dec",
+"text": "Hi [NAME],\n\nNoticed you'll be at NeurIPS next month so wanted to personally invite you\nto a dinner my co-founders, [SENDER] and [SENDER], are hosting.\n\nIt'll be a small gathering of AI/ML leaders from across industries to kick\noff the conference on 2nd December at 6:30pm at Herb & Wood, just a short\nwalk from the venue - we'd love for you to join us!\n\nIn case you're not familiar with Encord - we're a multimodal data\ndevelopment platform working frontier AI teams like Thinking Machine Labs,\n1X, Dolby, Woven by Toyota and more. We help AI teams get better models to\nmarket, faster.\n\nLet me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "358294334688",
+"subject": "Scaling AV data pipelines",
+"text": "Hi [NAME]\n\nI noticed you are hiring a Director of AI - exciting to see you grow.\n\nWe work with AV teams to improve training data quality and scale annotation\npipelines, so teams can focus on boosting model accuracy and speed to\nmarket. Quick context: Encord is a data layer scale-up, helping over 200+\nAI teams across industries - we're especially well versed in VLM use cases\nlike AV/ADAS, construction, and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free to check in this week?"
+},
+{
+"id": "358321192138",
+"subject": "Large SKU catalogue workaround",
+"text": "Hi [NAME],\n\nWe've been working with several retail CV teams (most recently Augmodo) who\nrun large SKU catalogues and ingest millions of frames a day. The common\npain we're seeing is:\n\n   - slow annotation throughput,\n   - inefficient frame-by-frame workflows\n   - difficulty connecting catalogue systems to labelling\n\nMost have adopted Encord for two things:\n\n   1. video-native tracking to massively increase frames labelled per action\n   2. SDK integration so they can plug in their own models, trigger\n   tracking flows, and tie annotations directly to their existing catalogue\n   tools (without replacing them)\n\nIf you're facing something similar at [COMPANY], happy to share more. I'm free\nnext Thursday if that works."
+},
+{
+"id": "358364760300",
+"subject": "scaling AV data",
+"text": "Hi [NAME],\n\nCongrats on the partnership with ADASTEC - very impressive.\n\nWe work with AV teams to improve training data quality and scale annotation\npipelines, so teams can focus on boosting model accuracy and speed to\nmarket. Quick context: Encord is a data layer scale-up, helping over 200+\nAI teams across industries - we're especially well versed in VLM use cases\nlike AV/ADAS, construction, and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free to check in this week?"
+},
+{
+"id": "358368204020",
+"subject": "Large SKU catalogues workaround for data annoation",
+"text": "Hi [NAME],\n\nThought it would be worth sharing how we recently onboarded Augmodo, who\nwere dealing with large SKU catalogues and heavy video pipelines. Wondered\nif BrainCorp is seeing similar challenges with your in-store data?\n\nA common theme across retail and autonomous-checkout platforms is scaling\nannotation and post-deployment updates without ripping out existing\ncatalogue or metadata systems. Teams have been keeping their catalogue\ntools in place while using Encord's video-native tracking and lightweight\nmodel-in-the-loop workflows to cut labelling time, accelerate deployments,\nand keep retraining cycles tight.\n\nThought it might be useful to compare notes on what we're seeing in the\nmarket and whether this could support BrainCorp as you scale.\n\nIf you're open to a quick chat, next Thursday works well for me."
+}
+]

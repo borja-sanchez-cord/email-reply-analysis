@@ -1,0 +1,202 @@
+[
+{
+"id": "141263837386",
+"subject": "Just onboarded Zeitview | Drone Visual Inspection",
+"text": "Hi [NAME]\u200b, \n\nI'm reaching out as we've recently onboarded Zeitview & Buzz Solutions to help scale their data curation & annotation pipelines. Just like [COMPANY] they're leveraging vision models for advanced drone & robotics visual inspection use cases (remote site monitoring, inspection rounds, predictive maintenance, etc). \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "141267988711",
+"subject": "[Invite] Encord Physical AI Leaders Dinner @ Taverna 02/26",
+"text": "Hi [NAME],\n\nOur Co-Founders, [SENDER] & [SENDER], will be hosting an intimate Physical AI\nroundtable dinner for customers & technical leaders and we'd love for you\nto join if you're available. We've been following you guys for a while so\nit'd be great to meet in person.\n\nWe've booked a private dining room at Taverna in Palo Alto on Wednesday\nFebruary 26th 6:30-9:30pm, capping attendance to ~25 people.\n\nAttendees include CxOs & practitioners from leading VC-backed scale-ups\nsuch as Archetype AI, Verkada, Spot AI, Physical Intelligence, Ambi\nRobotics, Skydio, LVT etc. We will also be joined by a few of our\ninvestors, including Next47 and CRV.\n\nBit of context on Encord...we're a computer vision scale-up (recently\nraised a $30M Series B) focused on consolidating data curation, annotation,\nworkflow management and model evaluation under one platform. We work with\nmany physical security AI companies (Actuate, LVT, Rhombus Systems, Flock\nSafety, Voxel etc.) doing similarly great things to Axxon.\n\nThought it'd be a good opportunity to get connected - would you be\ninterested in joining? I can send over an invite if so."
+},
+{
+"id": "141268509896",
+"subject": "[Invite] Encord AI Leaders Dinner @ Kokkari 02/27",
+"text": "Hi [NAME],\n\nOur Co-Founders, [SENDER] & [SENDER], will be hosting an intimate AI roundtable\ndinner for customers & AI leaders and we'd love for you to join if you're\ninterested / can make it! Appreciate travel from Texas to SF might be a\nblocker... though I thought I'd extend the invite regardless. We've been\nfollowing you guys for a while as we work with a bunch of your smart city\npeers.\n\nWe've booked a private dining room at Kokkari in SF on Thursday February\n27th 6:30-9:30pm, capping attendance to ~25 people. Attendees include CxOs\nfrom leading VC-backed scale-ups & enterprises such as Archetype AI,\nStandard AI, Reality Defender, Carbon Robotics, Dolby, Physical\nIntelligence, Instacart etc. We will also be joined by a few of our\ninvestors, including Next47 and CRV.\n\nBit of context on Encord...we're a computer vision scale-up (recently\nraised a $30M Series B) focused on consolidating data curation, annotation,\nworkflow management and model evaluation under one platform.\n\nThought it was a good opportunity to get connected - would you be\ninterested in joining? I can send over an invite if so."
+},
+{
+"id": "141273364711",
+"subject": "[Invite] Encord AI Leaders Dinner @ Kokkari 02/27",
+"text": "Hi [NAME],\n\nCongrats on the promotion! Thought I'd reach out as we're hosting an AI\nroundtable dinner for customers & AI leaders & we'd love for you to join if\nyou're available / in SF at the time. Jordan is attending also, should be a\ngreat eve!\n\nWe've booked a private dining room at Kokkari in SF on Thursday February\n27th 6:30-9:30pm, capping attendance to ~25 people. Attendees include CxOs\n& practitioners from leading VC-backed scale-ups & enterprises such as\nArchetype AI, Standard AI, Reality Defender, Voxel, LVT etc. We will also\nbe joined by a few of our investors, including Next47 and CRV.\n\nLet me know if you're interested & I'll reserve you a spot."
+},
+{
+"id": "141283712218",
+"subject": "[Invite] Encord Physical AI Leaders Dinner @ Kokkari SF",
+"text": "Hi [NAME],\n\nOur Co-Founders, [SENDER] & [SENDER], will be hosting an intimate Physical AI roundtable dinner for customers & CxOs and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Kokkari in San Francisco on Thursday February 27th 6:30-9:30pm, capping attendance to ~25 people.\n\nAttendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Archetype AI, Physical Intelligence, Cobot, The Bot Company etc. We will also be joined by a few of our investors, including Next47 and CRV.\n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help computer vision teams get better models to market, faster. For context, we're working with many leaders in the Physical AI space doing similarly great things to AiFi.\u200b\n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "141377753290",
+"subject": "Pickle Robot Webinar recording",
+"text": "Hey [NAME],\n\nWe hosted a webinar: [LINK] Pickle Robot (Encord customer) yesterday - where we discussed how Robotics teams can streamline costs whilst scaling ML data management & training pipelines. \n\nThought you might find this interesting,"
+},
+{
+"id": "141453005030",
+"subject": "Pickle Robot Webinar recording",
+"text": "Hey [NAME],\n\nWe hosted a webinar: [LINK] Pickle Robot (Encord customer) yesterday - where we discussed how Robotics teams can streamline costs whilst scaling ML data management & training pipelines. \n\nThought you might find this interesting,"
+},
+{
+"id": "141474991329",
+"subject": "Woven by Toyota's data curation - why you might care",
+"text": "Hey [NAME]\u200b,\n\nWe've recently onboarded Woven by Toyota as customers, so I thought it'd make sense to reach out to see if we can help you and the team in a similar way.\n\nLike hundreds of CV & ML Ops teams who have come to us with their challenges, Woven's Computer Vision team faced problems with data curation (Voxel51 & internal tools), where they lacked the speed & scalability required to efficiently search through their training datasets.\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through billions of video and image data items (using embeddings visualisations, quality metric filters & natural language searches), enabling CV teams to avoid bottlenecks in model development. \n\nAre you open to exploring with me how Encord can help you and the team with your CV data development challenges?\n\nHow does a time suit for a call in the coming days? (Or any here: [LINK] suit?)\n\nVery best,"
+},
+{
+"id": "141475408072",
+"subject": "R.e. Tenyks news",
+"text": "Hey [NAME],\n\nWe've recently heard from several Tenyks customers who are looking for a new platform for data management / model monitoring - would love to discuss how we can help. \n\nLet me know if you're interested in having a chat,"
+},
+{
+"id": "141493076180",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "141554109685",
+"subject": "Just Onboarded Toyota-Woven | [COMPANY]-FS10",
+"text": "Hi [NAME]\u200b, \n\nI just saw the [COMPANY]-FS10 release a few weeks ago - congrats. I'm reaching out as we've recently onboarded Toyota-Woven to help scale their data curation & annotation pipelines. Just like [COMPANY] they're leveraging vision models for ADAS & DMS use cases (forward collision & lane departure warning, tailgating detection, etc). \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "141578219720",
+"subject": "Safi - Data mgmt & Active Learning",
+"text": "Hey [NAME],\n\nWe've recently onboarded Safi, which made me think of you guys.\n\nThey came to us looking to consolidate their data management tooling &\nfuture-proof for a move towards video annotations / managing growing data\nvolumes.\n\nWorth having a quick chat?"
+},
+{
+"id": "141584814301",
+"subject": "Just Onboarded Toyota-Woven | Cipia-FS10",
+"text": "Hi [NAME]\u200b, \n\nI just saw the Cipia-FS10 release a few weeks ago - congrats. I'm reaching out as we've recently onboarded Toyota-Woven to help scale their data curation & annotation pipelines. Just like Cipia they're leveraging vision models for ADAS & DMS use cases (forward collision & lane departure warning, tailgating detection, etc). \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following Cipia for a while now and get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "141589321944",
+"subject": "Just onboarded Zeitview | Drone Visual Inspection",
+"text": "Hi [NAME]\u200b, \n\nI'm reaching out as we've recently onboarded Zeitview & Buzz Solutions to help scale their data curation & annotation pipelines. Just like [COMPANY] they're leveraging vision models for advanced drone & robotics visual inspection use cases (remote site monitoring, inspection rounds, predictive maintenance, etc). \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "141615963329",
+"subject": "R.e. Tenyks news",
+"text": "Hey [NAME],\n\nWe've recently heard from several Tenyks customers who are looking for a new platform for data management / model monitoring - would love to discuss how we can help. \n\nLet me know if you're interested in having a chat,"
+},
+{
+"id": "141616148671",
+"subject": "R.e. Tenyks news",
+"text": "Hey [NAME],\n\nWe've recently heard from several Tenyks customers who are looking for a new platform for data management / model monitoring - would love to discuss how we can help. \n\nLet me know if you're interested in having a chat,"
+},
+{
+"id": "141626880223",
+"subject": "R.e. Tenyks news",
+"text": "Hey [NAME],\n\nWe've recently heard from several Tenyks customers who are looking for a new platform for data management / model monitoring - would love to discuss how we can help. \n\nLet me know if you're interested in having a chat,"
+},
+{
+"id": "141631433932",
+"subject": "R.e. Tenyks news",
+"text": "Hey [NAME],\n\nWe've recently heard from several Tenyks customers who are looking for a new platform for data management / model monitoring - would love to discuss how we can help. \n\nLet me know if you're interested in having a chat,"
+},
+{
+"id": "141649195252",
+"subject": "[NAME] - serving Skydio, Zeitview, etc on Computer Vision data ops",
+"text": "Hi [NAME],\n\nI hope you're having a good afternoon - I wanted to specifically reach out\nto you on your Computer Vision Data Operations at [COMPANY].\n\nCurious how you and the team are approaching your data curation, annotation\nand review workflows at present>\n\nMy team at Encord already serves some of the top drone companies on their\ncompanies on their data ops, hence the email.\n\nWould you or someone on your team be open to a conversation with me on how\nEncord can potentially serve [COMPANY] here?"
+},
+{
+"id": "141682083033",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "142085943485",
+"subject": "Getting in touch after your interest in Encord",
+"text": "Hi [NAME],\n\nThanks for requesting some more information on Encord.\n\nCould we schedule: [LINK] a call later this week to see how Encord could be a fit for you and the team?"
+},
+{
+"id": "142244999407",
+"subject": "[Invite] Encord AI Leaders Dinner @ Taverna 02/26",
+"text": "Hi [NAME],\u200b\n\nOur Founder/President [SENDER] Stig [SENDER] will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Taverna in Palo Alto on Wednesday February 26th starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nPrevious attendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Waymo, Synthesia, and Airbnb as well as larger orgs such as Baker Hughes, Philips & Nvidia. \n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "142409489613",
+"subject": "[Invite] Encord AI Leaders Dinner @ Taverna 02/26",
+"text": "Hi [NAME],\u200b\n\nOur Founder/President [SENDER] Stig [SENDER] will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Taverna in Palo Alto on Wednesday February 26th starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nPrevious attendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Waymo, Synthesia, and Airbnb as well as larger orgs such as Baker Hughes, Philips & Nvidia. \n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "142453934317",
+"subject": "Encord <> [COMPANY]",
+"text": "Hi [NAME],\n\nHope all's well! Just saw that you requested a sign up for our platform.\n\nWould be great to connect & discuss what we've been building and answer any\nquestions you might have from the work you're conducting at [COMPANY].\nAre you free this week for a short call?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "142501705917",
+"subject": "[Invite] Encord AI Leaders Dinner @ Il Buco 02/27",
+"text": "Hi [NAME],\u200b\n\nOur Head of AI will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Il Buco in Noho on Thursday February 27th starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nAttendees include Co-Founders, CEO's, CTOs & Heads of ML from leading VC-backed scale-ups such as Intenseye, Captions, and Emergence as well as larger orgs such as Siemens Healthineers. \n\nIn case you're not familiar with Encord - we're a London & SF-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "142551705844",
+"subject": "Encord / HCISD",
+"text": "Hello [NAME],\n\nThank you for reaching out to Encord. We saw you signed up to learn more\nabout our annotation services?\n\n--"
+},
+{
+"id": "142570011878",
+"subject": "Congratulations & working with Safi",
+"text": "Hey [NAME]\u200b,\n\nCongratulations on the recent appointment as CTO - have been following [COMPANY] for a while & excited to keep an eye on your next stage of growth. \n\nWe've actually just onboarded Safi, which made me think of you guys. \n\nWe've been helping them to consolidate their data management, visualisation & active learning tooling, manage growing data volumes & future-proof for a move towards a video-based architecture. \n\nLet me know if you're interested in having a chat, happy to share some ideas based on what we've been learning from working with similar visual inspection partners,"
+},
+{
+"id": "142570096834",
+"subject": "[Invite] Encord AI Leaders Dinner @ Il Buco 02/27",
+"text": "Hi [NAME],\u200b\n\nOur Head of AI will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Il Buco in Noho on Thursday February 27th starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nAttendees include Co-Founders, CEO's, CTOs & Heads of ML from leading VC-backed scale-ups such as Intenseye, Captions, and Emergence as well as larger orgs such as Siemens Healthineers. \n\nIn case you're not familiar with Encord - we're a London & SF-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "142574694643",
+"subject": "Ex-Woven",
+"text": "Hey [NAME]\u200b,\n\nWe've recently started working with Woven & noticed that you used to work there, so thought it could be interesting to explore if we can help at Oxa in a similar way.\n\nWoven's Vision team faced challenges with existing data curation & visualisation solutions (Voxel51 & internal tools), which lacked the speed & scalability required to efficiently search through their training datasets (capping out at ~1m images).\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through billions of data items (using embeddings visualisations, quality metric filters & natural language searches), enabling AV teams to avoid bottlenecks in model development.\n\nCould be good for us to chat / introduce ourselves & swap notes on what we're seeing in the space. \n\nWould you be open to having a quick coffee chat later this week?"
+},
+{
+"id": "142610546922",
+"subject": "Build your AI Models Faster & Cheaper",
+"text": "Hi [NAME]\u200b,\n\nWhile I was doing some research on [COMPANY]\u200b I noticed you may be building your own models. Encord helps support and consolidate the apps required to train and evaluate your AI models in a single place. We currently work with images, videos, audio, and text annotation/segmentation. We have had hundreds of new clients in [YEAR] and would love to see if we would be of value to your team.\n\nWe are focused on data curation/indexing, annotation/segmentation and model evaluation. Would it make sense to jump on a quick 30 minute call to give us feedback?"
+},
+{
+"id": "142610622679",
+"subject": "Encord",
+"text": "Hi there,\n\nI noticed you were interested in exploring Encord's image annotation\ncapabilities. I'm keen to learn more about your use case. Also happy to run\nyou through the platform and answer any questions you might have. Let me\nknow if you have a spare 30 minutes to chat this week or next.\n\nIncluding my calendar link here for convenience -\n[LINK]"
+},
+{
+"id": "142617684156",
+"subject": "Hiring for an MLOps Engineer",
+"text": "Hey [NAME]\u200b,\n\nCongratulations on the new role as Director of CV - also noticed that you're currently hiring for an MLOps Engineer - so thought it might make sense to introduce how Encord fits into the MLOps stack to see if there's a good fit with [COMPANY].\n\nMany CTOs of leading Sports Analytics AI teams we work with, notably Hudl, Veo, and Spiideo, were struggling to balance customer demand for new products with the exploding data management costs associated with re-training models.\n\nAt Encord, we've built a consolidated solution for data management, visualisation, and annotation - where teams can annotate native video (vs. breaking videos down frame-by-frame) - an approach which has helped Standard AI to save over $600k on annual annotation costs following its transition from CloudFactory.\n\nCould be good for us to chat / introduce ourselves and swap notes on what we've been learning from our partners in the Sports Analytics space.\n\nWould you be open to having a quick coffee chat later this week?"
+},
+{
+"id": "142664312016",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nI noticed you were interested in exploring Encord's auto annotation\ncapabilities. I'm keen to learn a bit more about your use case, also happy\nto run you through the platform and answer any questions you might have.\nLet me know if you have a spare 30 minutes to connect this week or next.\n\nIncluding my calendar link here for convenience -\n[LINK]"
+},
+{
+"id": "142726216933",
+"subject": "[Invite] Encord AI Leaders Dinner @ Taverna 02/26",
+"text": "Hi [NAME],\u200b\n\nOur Founder/President [SENDER] Stig [SENDER] will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Taverna in Palo Alto on Wednesday February 26th starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nPrevious attendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Waymo, Synthesia, and Airbnb as well as larger orgs such as Baker Hughes, Philips & Nvidia. \n\nIn case you're not familiar with Encord - we're an SF-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "142815113452",
+"subject": "Build your AI Models Faster & Cheaper",
+"text": "Hi [NAME]\u200b,\n\nWhile I was doing some research on [COMPANY]\u200b I noticed you may be building your own models. Encord helps support and consolidate the apps required to train and evaluate your AI models in a single place. We currently work with images, videos, audio, and text annotation/segmentation. We have had hundreds of new clients in [YEAR] and would love to see if we would be of value to your team.\n\nWe are focused on data curation/indexing, annotation/segmentation and model evaluation. Would it make sense to jump on a quick 30 minute call to give us feedback?"
+},
+{
+"id": "142815432920",
+"subject": "Encord // ADOC Solutions // 1-1 meeting?",
+"text": "Hi [NAME]\u00e9bastien,\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "142840314060",
+"subject": "Is building your AI models painful?",
+"text": "Hi [NAME] \n\nSaw you are working as Team Lead at [COMPANY].\u200b\n\nIf you spend a significant amount of time using different apps for annotating/labeling, curating/indexing data, and model eval, it may be time to consider an end to end platform like Encord. We have had hundreds of AI teams join us in [YEAR] to either optimize or consolidate their ML team workflows. Saving you time, money, and providing you speed to market. \n\nDon't become numb to the pain of building your ML workflows because they get you by. Make your life and your teams better God willing by using Encord.\n\nDoes this resonate with you?"
+},
+{
+"id": "142843910366",
+"subject": "Build your AI Models Faster & Cheaper",
+"text": "Hi [NAME]\u200b,\n\nWhile I was doing some research on [COMPANY]\u200b I noticed you may be building your own models. Encord helps support and consolidate the apps required to train and evaluate your AI models in a single place. We currently work with images, videos, audio, and text annotation/segmentation. We have had hundreds of new clients in [YEAR] and would love to see if we would be of value to your team.\n\nWe are focused on data curation/indexing, annotation/segmentation and model evaluation. Would it make sense to jump on a quick 30 minute call to give us feedback?"
+},
+{
+"id": "143135590612",
+"subject": "Catch-up & ICLR Singapore",
+"text": "Hi [NAME] Ling, [SENDER], Paul,\n\nWas chatting to [SENDER] & planning our conference visits for later in the year\n& noticed that ICLR is being hosted in Singapore this year - was wondering\nif the [COMPANY] team is planning to attend?\n\nWe're considering sponsoring the event, but have not attended before - so\nwas wondering if you have any insights on the conference (e.g. how it\ncompares to NeurIPS & other similar ML conferences) - would love to hear\nyour perspectives.\n\nHappy to chat for 5 minutes if that's easier,"
+},
+{
+"id": "143145467075",
+"subject": "[COMPANY] <> Encord // 1-1 meeting?",
+"text": "Hi [NAME],\n\nHope all's well! Just saw that you requested a sign up for our platform.\n\nWould be great to connect & discuss what we've been building and answer any\nquestions you might have from the work you're conducting at the Ifakara\nHealth Institute. Are you free this week for a short call?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+}
+]

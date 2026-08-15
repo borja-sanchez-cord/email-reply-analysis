@@ -1,0 +1,202 @@
+[
+{
+"id": "460925702388",
+"subject": "Intel's AI Pipeline",
+"text": "[NAME], \n\nThere's a pattern we keep seeing with ML teams at your stage: engineers burning sprint cycles on a pipeline stage that isn't the actual constraint. \n\nLabeling is usually the first thing to get attention; it's measurable, the team can point to output, and it's easy to staff up. But when we map the pipeline, the real throughput bottleneck is in curation or validation far more often than anyone expects. Model performance doesn't move. Nobody can explain why. \n\nWe built a diagnostic that identifies which stage it actually is for your setup; maps across curation, labeling, QA, and validation, and generates a fix-priority report. \n\nIf that's useful, I'll send it over."
+},
+{
+"id": "461443636435",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "461452351690",
+"subject": "Dinner w/ Data & Physical AI folks in Boston on 03/26",
+"text": "Hi [NAME], hope you're well.\n\nOur Director of Product will be visiting customers in Boston on 26 March\nand hosting a small dinner that evening in Seaport. We're looking to\nconnect and collaborate with Physical AI leaders across the\nCambridge/Boston ecosystem and would love to have you join.\n\nFor context, we've been working with humanoid and large behavioural model\nteams (including Boston Dynamics, Pickle Robot, and Toyota) on scaling\ntraining data collection, automated & manual labelling and active learning\nloops. Given your industry experience and work at RAI, I thought this would\nhave strong overlaps.\n\nWould love to connect either at dinner or, if easier, over a coffee on\n26/27th?\n\nLet me know if you're available and I can have our Events Lead share more\ndetails."
+},
+{
+"id": "461697048803",
+"subject": "Encord - Interest",
+"text": "Hi [NAME], thanks for your interest in Encord!\n\nI'd love to learn a bit more about your work so I can better understand how we can help:\nWhat prompted your interest in Encord? Rough size of team? Project stage and timeline? Our platform is available via an annual subscription, which tends to work well for teams with ongoing needs."
+},
+{
+"id": "461709776080",
+"subject": "Encord - Interest",
+"text": "Hi [NAME], thanks for your interest in Encord!\n\nI'd love to learn a bit more about your work so I can better understand how we can help:\nWhat prompted your interest in Encord? Rough size of team? Project stage and timeline? Our platform is available via an annual subscription, which tends to work well for teams with ongoing needs."
+},
+{
+"id": "461746980047",
+"subject": "Connecting w/ Data & Physical AI folks in Boston on 03/26",
+"text": "Hi [NAME],\n\nHope you're well. Our Director of Product will be visiting customers in Boston\non 26 March and hosting a small dinner that evening in Seaport. We're\nlooking to connect and collaborate with Physical AI leaders across the\nCambridge/Boston ecosystem and would love to have you join.\n\nOur ADAS project team has been speaking with the folks at [COMPANY] about\nthe core labelling work for perception stack and getting feedback on how to\ncreate the next gen of data tools for AV teams (scene understanding,\nmultimodal data ingestion etc.) Given your work at Zoox and [COMPANY] -\nthought to reach out and see if you'd be available for dinner or if easier,\na coffee on 26/27th?\n\nLet me know if you're available and I can have our Events Lead share more\ndetails."
+},
+{
+"id": "461778351345",
+"subject": "Connecting w/ Data & Physical AI folks in Boston on 03/26",
+"text": "Hi [NAME],\n\nHope you're well. Our Director of Product will be visiting customers in Boston\non 26 March and hosting a small dinner that evening in Seaport. We're\nlooking to connect and collaborate with Physical AI leaders across the\nCambridge/Boston ecosystem and would love to have you join.\n\nBelieve you've met my colleague [SENDER] - in the past, and we've\nworked with the [COMPANY] team as well to get feedback on how to create the\nnext gen of data tools for AV teams (scene understanding, multimodal data\ningestion, auto-segmentation etc.)\n\nGiven your work at both [COMPANY] and Mobileye - thought to reach out and see\nif you'd be available for dinner or if easier, a coffee on 26/27th?\n\nLet me know if you're available and I can have our Events Lead share more\ndetails."
+},
+{
+"id": "461869281518",
+"subject": "Dinner w/ Data & Physical AI folks in Boston on 03/26",
+"text": "Hi [NAME], hope you're well.\n\nOur Director of Product will be visiting customers in Boston on 26 March\nand hosting a small dinner that evening in Seaport. We're looking to\nconnect and collaborate with Physical AI leaders across the\nCambridge/Boston ecosystem and would love to have you join.\n\nFor context, we've been working with humanoid and large behavioural model\nteams (including Boston Dynamics, Pickle Robot, and Toyota) on scaling\ntraining data collection, automated & manual labelling and active learning\nloops. Given your industry experience and more recent work at RAI, I\nthought this would have strong overlaps.\n\nWould love to connect either at dinner or, if easier, over a coffee on\n26/27th?\n\nLet me know if you're available and I can have our Events Lead share more\ndetails."
+},
+{
+"id": "461886531811",
+"subject": "Hi [SENDER]",
+"text": "Hi [NAME],\n\nI've been working with Sai, Rishabjit, and Dishant on the labeling project,\nand we have a Slack channel set up for coordination there.\n\nI noticed you visited our website and wanted to reach out to see how I can\nhelp. Is this related to the current project, or are you exploring\nsomething new?\n\n-[SENDER]"
+},
+{
+"id": "461951478003",
+"subject": "Connecting w/ Data & Physical AI folks in Boston on 03/26",
+"text": "Hi [NAME],\n\nHope you're well. Our Director of Product will be visiting customers in Boston\non 26 March and hosting a small dinner that evening in Seaport. We're\nlooking to connect and collaborate with Physical AI leaders across the\nCambridge/Boston ecosystem and would love to have you join.\n\nFor context, we've been working with humanoid and large behavioural model\nteams (including Boston Dynamics, Pickle Robot, and Toyota) on scaling\ntraining data collection, automated & manual labelling and active learning\nloops. Given your work at RAI and previously on athenahealth's labelling\ntool, I thought this would have strong overlaps.\n\nWould love to connect either at dinner or, if easier, over a coffee on\n26/27th?\n\nLet me know if you're available and I can have our Events Lead share more\ndetails."
+},
+{
+"id": "462049028308",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "462059629809",
+"subject": "Encord - Interest",
+"text": "Hi [NAME], thanks for your interest in Encord!\n\nI'd love to learn a bit more about your work so I can better understand how we can help:\nWhat prompted your interest in Encord? Rough size of team? Project stage and timeline? Our platform is available via an annual subscription, which tends to work well for teams with ongoing needs."
+},
+{
+"id": "462119792864",
+"subject": "Encord <> Trener | Demo",
+"text": "Hi [NAME],\n\nI just had a quick chat with Asad (CC), learned more about Trener, and how\nyou build on top of Roboflow.\n\nI'm [SENDER], and leading Physical AI at Encord - we provide an AI data\nplatform to companies like Boston Dynamics, 1X, and Weave. We help ML teams\nbuild better models by specializing in data management and annotation\nacross all modalities, including complex 3D LiDAR.\n\nAsad mentioned it would make sense to get on a demo and show you how we\nhandle key robotics data annotation tasks like VLA captioning, time-series,\nand simple labeling.\n\nAre you free on Friday after 11am?"
+},
+{
+"id": "462122493115",
+"subject": "Encord - Interest",
+"text": "Hi [NAME], thanks for your interest in Encord!\n\nI'd love to learn a bit more about your work so I can better understand how we can help:\nWhat prompted your interest in Encord? Rough size of team? Project stage and timeline? Our platform is available via an annual subscription, which tends to work well for teams with ongoing needs."
+},
+{
+"id": "462125351152",
+"subject": "Encord",
+"text": "Hi [NAME] [NAME] , \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "462143442136",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "462152335574",
+"subject": "virtual coffee - repeatable EDA",
+"text": "Hi [NAME],\n\nI came across your UQCS talk on scaling MLOps, and the friction from\nturning EDA into a repeatable process resonates with what our founder [SENDER] is solving.\n\nHe's been building out a solution for ML platform teams to natively explore\nvisual data at petabyte scale - focusing on making the visualization and\nfiltering processes repeatable without a new Jupyter notebook each time.\n\n[SENDER]'s keen to trade notes on how you've handled this at [COMPANY] and get your\nfeedback on our approach. Would you be open to connecting with him for 30\nmin?"
+},
+{
+"id": "462347259101",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "462389221605",
+"subject": "[Invite] AI Autonomy Roundtable Dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed Dzyne will be at WACV and guessed you may be in Arizona as well.\n\nI met [SENDER] at WEST, and wanted to invite you to an AI leaders dinner\nour co-founders, [SENDER] and [SENDER], are hosting on 8 March alongside the\nconference for ~20 senior leaders in computer vision and AI - we'd love it\nif you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Skydio, Scout AI, Controp and the Royal Navy on\ntheir autonomous systems.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Boston Dynamics and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462439996643",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "462593857768",
+"subject": "[Invite] AI leaders roundtable @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed Dzyne will be at WACV and guessed you may be in Arizona as well.\n\nI met [SENDER] at WEST, and wanted to invite you to an AI leaders dinner\nour co-founders, [SENDER] and [SENDER], are hosting on 8 March alongside the\nconference for ~20 senior leaders in computer vision and AI - we'd love it\nif you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Skydio, Scout AI, Controp and the Royal Navy on\ntheir autonomous systems.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Boston Dynamics and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462594090196",
+"subject": "[Invite] AI leaders dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nGuessed you might be in Arizona for WACV given Alcatraz's computer vision\nfocus.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Vida, Onfido and Paravision in the IDV space.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Verkada, Nauto and Woven by Toyota.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462597815485",
+"subject": "AI & CV Leaders Roundtable Dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nGuessed you might be in Arizona for WACV given [COMPANY]'s computer vision focus.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Vida, Onfido in the IDV space, as well as\nAmbient AI and Rhombus Systems for AI video surveillance.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Verkada, Nauto and Woven by Toyota.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462644362437",
+"subject": "[Invite] AI Leaders Roundtable @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed Dzyne will be at WACV and guessed you may be in Arizona as well.\n\nI met [SENDER] at WEST, and wanted to invite you to an AI leaders dinner\nour co-founders, [SENDER] and [SENDER], are hosting on 8 March alongside the\nconference for ~20 senior leaders in computer vision and AI - we'd love it\nif you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Skydio, Scout AI, Controp and the Royal Navy on\ntheir autonomous systems.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Boston Dynamics and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462707913976",
+"subject": "[Invite] WACV AI Leaders Dinner - 8th of March",
+"text": "Hi [NAME],\n\nNoticed AV will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Scout AI, Skydio, and The Royal Navy on\nautonomy and object detection use cases.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from like Verkada, CACI\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462708474051",
+"subject": "[Invite] AI & CV Roundtable Dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nGuessed you might be in Arizona for WACV given [COMPANY]'s computer vision focus.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Vida, Onfido in the IDV space, as well as\nAmbient AI and Rhombus Systems for AI video surveillance.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Verkada, Nauto and Woven by Toyota.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462715504882",
+"subject": "[Invite] AI leaders dinner at WACV - 8th of March",
+"text": "Hi [NAME],\n\nBelieve you spoke to a colleague of mine at Encord last summer and noticed\n[COMPANY] will be at WACV, so guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nAs a reminder, Encord is a multimodal ML DataOps platform that helps\nPhysical AI and computer vision teams produce better quality data for their\nmodels - we work with companies like Airbnb, TripAdvisor and more in the\nreal estate space.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462718793973",
+"subject": "[Invite] AI leaders dinner for WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed AV will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Scout AI, Skydio, and The Royal Navy on\nautonomy and object detection use cases.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from like Verkada, CACI and Skydio.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462728328400",
+"subject": "Invite to AI leaders dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed AV will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Scout AI, Skydio, and The Royal Navy on\nautonomy and object detection use cases.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from like Verkada, CACI and Skydio.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462741429465",
+"subject": "[Invite] AI dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nBelieve you spoke to a colleague of mine at Encord last summer and noticed\nZillow will be at WACV, so guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nAs a reminder, Encord is a multimodal ML DataOps platform that helps\nPhysical AI and computer vision teams produce better quality data for their\nmodels - we work with companies like Airbnb, TripAdvisor and more in the\nreal estate space.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462756996305",
+"subject": "[Invite] AI leaders dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nGuessed you might be in Arizona for WACV given Alcatraz's computer vision\nfocus.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Vida, Onfido and Paravision in the IDV space.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Verkada, Nauto and Woven by Toyota.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462760123634",
+"subject": "[Invite] AI leaders dinner for WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed AV will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Scout AI, Skydio, and The Royal Navy on\nautonomy and object detection use cases.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from like Verkada, CACI and Skydio.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462769177841",
+"subject": "[Invite] AI leaders dinner at WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed AV will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Scout AI, Skydio, and The Royal Navy on\nautonomy and object detection use cases.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from like Verkada, CACI and Skydio.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462777103598",
+"subject": "AV at WACV - happy hour drinks",
+"text": "Hi [NAME]\n\nNoticed AV will be at WACV and guessed you may be in Arizona as well.\n\nEncord is hosting a happy hour mixer on the 8th of March for researchers\nand engineers in Computer Vision & Autonomy, and we'd love for you to join\nif you're going to be at the conference.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Skydio, Woven by Toyota, The Royal Navy on\ntheir object detection, collision avoidance and autonmous system models.\n\nWe've space reserved at Moonstone rooftop bar, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by peers and friends in the\nEncord network from people at Woven, Thinking Machine Labs and CACI.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462777245899",
+"subject": "[Invite] AI leaders roundtable @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed Dzyne will be at WACV and guessed you may be in Arizona as well.\n\nI met [SENDER] at WEST, and wanted to invite you to an AI leaders dinner\nour co-founders, [SENDER] and [SENDER], are hosting on 8 March alongside the\nconference for ~20 senior leaders in computer vision and AI - we'd love it\nif you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Skydio, Scout AI, Controp and the Royal Navy on\ntheir autonomous systems.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Boston Dynamics and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462786927808",
+"subject": "WACV AI Leaders Roundtable Dinner Invite - 8th of March",
+"text": "Hi [NAME],\n\nNoticed [COMPANY] will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Airbnb, TripAdvisor and more in the property\nspace.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462794501337",
+"subject": "[Invite] AI leaders roundtable dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed [COMPANY] will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Airbnb, TripAdvisor and more in the property\nspace.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462796446965",
+"subject": "[Invite] AI leaders dinner invite @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed [COMPANY] will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Airbnb, TripAdvisor and more in the real estate\nspace.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462796743916",
+"subject": "[Invite] AI Leaders Roundtable Dinner Invite - 8th of March",
+"text": "Hi [NAME],\n\nNoticed Zillow will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Airbnb, TripAdvisor and more in the property\nspace.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "462802225395",
+"subject": "[Invite] AI leaders roundtable dinner @ WACV - 8th of March",
+"text": "Hi [NAME],\n\nNoticed Zillow will be at WACV and guessed you may be in Arizona as well.\n\nOur co-founders, [SENDER] and [SENDER], are hosting a small dinner on 8 March\nalongside the conference for ~20 senior leaders in computer vision and AI -\nwe'd love it if you could join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI and computer vision teams produce better quality data for their models -\nwe work with companies like Airbnb, TripAdvisor and more in the real estate\nspace.\n\nWe've booked a private dining room at BATA, just a short walk from the\nvenue, from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Woven by Toyota, Skydio, Adobe and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+}
+]

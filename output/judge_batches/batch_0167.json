@@ -1,0 +1,202 @@
+[
+{
+"id": "255973226714",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]\u200b,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "255973226722",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]\u200b,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "256205702364",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "256975607001",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME] Hossain,\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nHappy to exchange over email first to ensure a productive meeting."
+},
+{
+"id": "257732907256",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "257823615181",
+"subject": "Accelerating iterations for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many fleet safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency. With\ncommon objectives of better driver protection, have you encountered similar\nbottlenecks at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   1. Model-assisted auto-labelling to cut down repetitive frame-by-frame\n   work\n   2. Consolidated platform for curation + annotation to reduce tooling\n   overhead\n   3. Org and project-level analytics to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparations / model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to bouncing ideas."
+},
+{
+"id": "257825585388",
+"subject": "Data preparation for operational safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many driver safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency for high\nquality datasets. With common objectives to better protect people &\nequipments for physical operations, I wonder if you've encountered similar\nchallenges at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   - *Model-assisted auto-labelling* to cut down repetitive frame-by-frame\n   work\n   - *Consolidated platform* for curation + annotation to reduce tooling\n   overhead\n   - *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparation/ model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to exchanging perspectives"
+},
+{
+"id": "257845198023",
+"subject": "Data preparation for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many driver safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency. With\ncommon objectives to protect drivers & equipments, I wonder if you've\nencountered similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   1. Model-assisted auto-labelling to cut down repetitive frame-by-frame\n   work\n   2. Consolidated platform for curation + annotation to reduce tooling\n   overhead\n   3. Org and project-level analytics to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparation/ model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to exchanging perspectives"
+},
+{
+"id": "257851167980",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved to video annotation which led to increased project complexity. Like many teams with large in-house workforce, they faced challenges around keeping up with changing data requirements, automating time-consuming repetitive tasks and extracting key insights to track productivity/ annotation accuracy. \n\nWith similar goals of building accurate model for driver safety at Powerfleet, I wonder if you've encountered similar challenges? If so, here's a few ways we can help: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data requirements at Powerfleet? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "257862575315",
+"subject": "Data requirements for new safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved towards video annotation to\ntrain their AI models. Like many driver safety teams, they faced challenges\naround handling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours, maintaining temporal consistency for annotation\nand managing data requirements & workforces for high quality datasets.\n\nWith [COMPANY]'s new wearable devices launching, I wonder if similar\nchallenges have been on your mind as you expand into new use cases? We've\nbuilt a few things that might help:\n\n   - *Model-assisted auto-labelling* to cut down repetitive frame-by-frame\n   work\n   - *Consolidated platform* for curation + annotation to reduce tooling\n   overhead\n   - *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching data requirements at [COMPANY]? I'm flexible Tuesdays\nto Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "258518223080",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I saw the recent demo of your pick & place robots - I wonder if you're anticipating similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we help warehouse robotics teams (e.g. Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to debugging/visualization tools.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "258831645892",
+"subject": "Improving grasping accuracy from better training data",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I saw the recent demo of your pick & place robots - I wonder if you're anticipating similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we help warehouse robotics teams (e.g. Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to debugging/visualization tools.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "258856360150",
+"subject": "Improving grasping accuracy from better data quality",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I saw the recent demo of your pick & place robots - I wonder if you're anticipating similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we help warehouse robotics teams (e.g. Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to debugging/visualization tools.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "258919463159",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "258949699820",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "258966020345",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "258966232284",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "259019325684",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "259027197154",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "259038315762",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "259041895613",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "259057770705",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]\u200b,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "259151305928",
+"subject": "Multimodal Annotation for Content Understanding",
+"text": "Hi [NAME],\n\nWe recently onboarded brand safety team as their annotation requirements\nincreased in complexity. Like many teams managing billions of datapoints\nacross visual, text & audio , they were looking to more efficiently align\nannotations across modalities and define workflows for human QA and output\neval at scale.\n\nI saw you're training content understanding models so I wanted to see if\nyou've ran into similar challenges? Here's how we helped similar projects:\n\n   - *Workflow builder *to automate manual labelling & orchestrate human\n   review workflows\n   - *Multimodal UI *to annotate/ evaluate video, audio & text together\n   - *Org and project-level analytics *to track data quality and annotation\n   efficiency\n\nHow are you approaching multimodal data requirements at IAS? I'm flexible\nTuesdays to Thursdays if you're open to bounce around some ideas."
+},
+{
+"id": "259219736813",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved\nfrom frame-based to video annotation. Like many driver safety teams, they\nfaced challenges around handling billions of miles of in-cab and dashcam\nfootage, e.g. surfacing relevant driver behaviours and maintaining temporal\nconsistency for high quality video datasets.\n\nI imagine Powerfleet is also working towards more accurate driver safety\nmodels, have you run into similar challenges? Sharing a few bullets on why\nMotive moved to Encord:\n\n   - *Model-assisted labelling* to cut down repetitive frame-by-frame work\n   - *Consolidated platform* for curation and annotation to reduce tooling\n   overhead\n   - *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching training data preparation at Powerfleet? I'm\nflexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "259669527778",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "259852678391",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "259872663791",
+"subject": "Multimodal Annotation for Content Understanding",
+"text": "Hi [NAME],\n\nWe recently onboarded brand safety team as their annotation requirements\nincreased in complexity. Like many teams managing billions of datapoints\nacross visual, text & audio, they were looking to more efficiently align\nannotations across modalities and define workflows for human QA and output\neval at scale.\n\nI saw you're managing MLOps at IAS so I wanted to see if you've ran into\nsimilar challenges? Here's how we helped similar projects:\n\n   - *Workflow builder *to automate manual labelling & orchestrate human\n   review workflows\n   - *Multimodal UI *to annotate/ evaluate video, audio & text together\n   - *Org and project-level analytics *to track data quality and annotation\n   efficiency\n\nHow are you approaching multimodal data requirements at IAS? I'm flexible\nTuesdays to Thursdays if you're open to bounce around some ideas."
+},
+{
+"id": "259889515756",
+"subject": "Multimodal Annotation for Content Understanding",
+"text": "Hi [NAME],\n\nWe recently onboarded brand safety team as their annotation requirements\nincreased in complexity. Like many teams managing billions of datapoints\nacross visual, text & audio, they were looking to more efficiently align\nannotations across modalities and define workflows for human QA and output\neval at scale.\n\nI saw you're managing data ops at IAS so I wanted to see if you've ran into\nsimilar challenges? Here's how we helped similar projects:\n\n   - *Workflow builder *to automate manual labelling & orchestrate human\n   review workflows\n   - *Multimodal UI *to annotate/ evaluate video, audio & text together\n   - *Org and project-level analytics *to track data quality and annotation\n   efficiency\n\nHow are you approaching multimodal data requirements at IAS? I'm flexible\nTuesdays to Thursdays if you're open to bounce around some ideas."
+},
+{
+"id": "259964060861",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "259964702953",
+"subject": "Data requirements for diver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "259966474471",
+"subject": "Data requirements for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in\ncomplexity and volume, which stretched their engineering capacity to\nmaintain & update internal tools. Like many teams managing in-house\nannotation workforces, they were looking to automate repetitive tasks and\nextract key insights into productivity / labelling accuracy.\n\nI imagine [COMPANY] is also working towards more accurate driver\nsafety models with Intelliview & in-cab monitoring - have you run into\nsimilar challenges? Sharing a few bullets on how we helped Motive:\n\n   -\n\n   *Model-assisted labelling* to cut down repetitive frame-by-frame work\n   -\n\n   *Workflow builder* to define, orchestrate and manage annotation projects\n   at scale\n   -\n\n   *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching evolving data annotation requirements at Platform\nScience? I'm flexible Tuesdays to Thursdays if you're open to exchanging\nperspectives."
+},
+{
+"id": "259995742411",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "260010676448",
+"subject": "Intro Alec & [SENDER] | AE @Encord",
+"text": "Hi [NAME] & [SENDER],\n\nWanted to put you in touch as Alec has expressed interest in the AE\nposition out of the SF office. [SENDER] leads our GTM hiring and will be the\nbest person to meet at this stage.\n\nWill let you both find a time to connect :)"
+},
+{
+"id": "260011206897",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "260026134753",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "260028445945",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "260030595309",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "260031756536",
+"subject": "Data requirements for video safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved towards video annotation to\ntrain their AI models. Like many driver safety teams, they faced challenges\naround handling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours, maintaining temporal consistency for annotation\nand managing data requirements & workforces for high quality datasets.\n\nI imagine [COMPANY] is working towards similar goals of more\naccurate safety models w/ Cabin Intelligent Monitor and Intelliview - have\nyou ran into similar challenges? Sharing a few reasons how we helped\nMotive:\n\n   - *Model-assisted auto-labelling* to cut down repetitive frame-by-frame\n   work\n   - *Consolidated platform* for curation + annotation to reduce tooling\n   overhead\n   - *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching data requirements at [COMPANY]? I'm flexible\nTuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "260031772912",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "260037064936",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+}
+]

@@ -1,0 +1,202 @@
+[
+{
+"id": "426469847237",
+"subject": "VAM Paper",
+"text": "Hey [NAME] - enjoyed reading the VAM paper - & thought it might make sense\nto chat,\n\nFor context, we work with Boston Dynamics, 1x, Picklerobot - providing the\nplatform to help scale data curation & annotation for training their\nvideo-based foundation models (inc. approaches beyond VLAs)\n\nNoticed you were growing the team rapidly - so was wondering if this was\nsomething top of mind for [YEAR]?\n\nLet me know if you'd be interested in having a quick chat in the coming\nweeks - happy to share how we've helped similar teams."
+},
+{
+"id": "426470072565",
+"subject": "VAM paper",
+"text": "Hey [NAME]  - enjoyed reading the VAM paper - & thought it might make\nsense to chat,\n\nFor context, we work with Boston Dynamics, 1x, Picklerobot - providing the\nplatform to help scale data curation & annotation for training their\nvideo-based foundation models (inc. approaches beyond VLAs)\n\nNoticed you were growing the team rapidly - so was wondering if this was\nsomething top of mind for [YEAR]?\n\nLet me know if you'd be interested in having a quick chat in the coming\nweeks - happy to share how we've helped similar teams."
+},
+{
+"id": "426472036601",
+"subject": "VAM paper",
+"text": "Hey [NAME],\n\nEnjoyed reading the VAM paper - & thought it might make sense to chat,\n\nFor context, we work with teams like 1x, Pickle Robot, Neura etc providing\nthe platform to help scale data curation & annotation for training their\nvideo-based foundation models (inc. approaches beyond VLAs)\n\nNoticed you were growing the team rapidly - so was wondering if this was\nsomething top of mind for [YEAR]?\n\nLet me know if you'd be interested in having a quick chat in the coming\nweeks - happy to share how we've helped similar teams."
+},
+{
+"id": "426496457977",
+"subject": "Invite to Physical AI panel in SF, Jan 29th",
+"text": "Hi [NAME],\n\nHope you're well.\n\nI wanted to invite you to a Physical AI panel in SF that Encord is hosting\nin collaboration with our partners, Weights & Biases and Anyscale - I\nthought this would be super relevant given your work at UnitX and the\nconversations you had with Encord last year.\n\nThe speakers will feature Chris Paxton (AI Lead at Agility Robotics) and\nmoderated by Chris Paulson (Senior Robotics DevRel at NVIDIA) as well\nc-suite from 1X and Dyna, to discuss the impact of recent developments\n(e.g. VLM/VLA, UMI, World Models, etc) as well first-hand perspectives on\ntraining and validating models in the physical world.\n\nThe event will take place from 5:30pm on Thursday 29th Jan at Weights &\nBiases's office in SF, *details can be found here\n<[LINK]>*\n- let me know if you can join us?"
+},
+{
+"id": "426500242632",
+"subject": "Invite to Physical AI Panel - SF, Jan 29th",
+"text": "Hi [NAME],\n\nI wanted to invite you to a Physical AI panel in SF that Encord is hosting\nin collaboration with our partners, Weights & Biases and Anyscale - I\nthought this would be super relevant given your work at [COMPANY] and the\nconversations we had with your team last year.\n\nThe speakers will feature Chris Paxton (AI Lead at Agility Robotics) and\nmoderated by Chris Paulson (Senior Robotics DevRel at NVIDIA) as well\nc-suite from 1X and Dyna, to discuss the impact of recent developments\n(e.g. VLM/VLA, UMI, World Models, etc) as well first-hand perspectives on\ntraining and validating models in the physical world.\n\nThe event will take place from 5:30pm on Thursday 29th Jan at Weights &\nBiases's office in SF, *details can be found here\n<[LINK]>*\n-"
+},
+{
+"id": "426500574432",
+"subject": "Invite to Physical AI Panel in SF, Jan 29th",
+"text": "Hi [NAME],\n\nI wanted to invite you to a Physical AI panel in SF that Encord is hosting\nin collaboration with our partners, Weights & Biases and Anyscale - I\nthought this would be super relevant given your work at [COMPANY] and the\nconversations we had with your team last year.\n\nThe speakers will feature Chris Paxton (AI Lead at Agility Robotics) and\nmoderated by Chris Paulson (Senior Robotics DevRel at NVIDIA) as well\nc-suite from 1X and Dyna, to discuss the impact of recent developments\n(e.g. VLM/VLA, UMI, World Models, etc) as well first-hand perspectives on\ntraining and validating models in the physical world.\n\nThe event will take place from 5:30pm on Thursday 29th Jan at Weights &\nBiases's office in SF, *details can be found here\n<[LINK]>*\n-"
+},
+{
+"id": "426500663485",
+"subject": "Physical AI & Robotics Panel in SF - 29 Jan",
+"text": "Hi [NAME],\n\nI'm hosting a Physical AI and Robotics panel -- how teams are building\nVLM/VLAs capable of generalizing across tasks and embodiments will be a\nmajor topic of discussion - which made me think of your work! Appreciate\ntravels to SF might be a blocker, thought I'd extend an invite regardless.\n\nThe event will be on the evening of 29th Jan, with [SENDER] Ho (1X), Chris\nPaxton (Agility Robotics), Jason Ma (Dyna Robotics) and Adrien Li-[SENDER]\nconfirmed as panelists, followed by an informal networking session after\nthe panel.\n\nWould love to see you there - let me know in case you're in town?"
+},
+{
+"id": "426534924514",
+"subject": "Referral from systems validation team - Encord ML DataOps",
+"text": "Hey [NAME],\n\nBeen chatting to some of your [COMPANY] colleagues across the systems\nvalidation, LiDAR eng, AI eng and functional owner teams about the CV\nDataOps pipelines at [COMPANY] and I was pointed in your direction for\nevaluation.\n\nFrom our conversations there were some common themes popping up around data\nmanagement pains. The key areas we support is around:\n\n   - Making better use of existing camera datasets across programs, rather\n   than re-collecting or re-annotating for each new customer or geography\n   - Active learning - so finding and prioritising the specific scenes and\n   edge cases that actually drive model improvements\n   - Reducing the cost and effort of annotation and review which is\n   currently significant\n\nFor a bit of context we are supporting ADAS teams like Woven-Toyota with\nthese exact problems at the moment.\n\nWould you have some in the next few weeks to explore where we could\npotentially help and explore wether there is any fit?"
+},
+{
+"id": "426545413338",
+"subject": "Web Agent Trajectory Evals",
+"text": "Hi [NAME],\n\nI saw the recent after_date filter added to Parallel's Search API, a solid\nimprovement for agent workflows where freshness impacts downstream\nreasoning and task success.\n\nWe've been working with Yutori on web agent trajectory evaluation,\ncapturing full end-to-end runs (search, navigation, tool calls) and running\nrepeatable, head-to-head evals to quantify regressions and improvements as\nweb systems change.\n\nGiven Parallel's focus on agent-friendly search and verification, I thought\nthis might be relevant to what you're building.\n\nCase study for context:\n\n[LINK]\n\nWould you or someone on your team be open to connecting?"
+},
+{
+"id": "426602446027",
+"subject": "Invite to Physical AI Panel - Jan 29th in SF",
+"text": "Hi [NAME],\n\nI wanted to invite you to a Physical AI panel in SF that Encord is hosting\nin collaboration with our partners, Weights & Biases and Anyscale - I\nthought this would be super relevant given your work at UnitX and the\nconversations we had with your team last year.\n\nThe speakers will feature Chris Paxton (AI Lead at Agility Robotics) and\nmoderated by Chris Paulson (Senior Robotics DevRel at NVIDIA) as well\nc-suite from 1X and Dyna, to discuss the impact of recent developments\n(e.g. VLM/VLA, UMI, World Models, etc) as well first-hand perspectives on\ntraining and validating models in the physical world.\n\nThe event will take place from 5:30pm on Thursday 29th Jan at Weights &\nBiases' office in SF, *details can be found here\n<[LINK]>*\n-"
+},
+{
+"id": "426614005988",
+"subject": "[Invite] Private AI Execs Dinner @ Le Pavillon (NYC, Jan 28)",
+"text": "Hi [NAME],\n\nOn behalf of my co-founders, [SENDER] and [SENDER], I'd love to invite you to an exclusive, off-the-record dinner for senior AI leaders on Wednesday, January 28th, at 6:30PM. \n\nWe are hosting a small group of 20 peers - specifically Chief AI Officers and Heads of ML building their own models - for a candid discussion held strictly under the Chatham House Rule. The evening will take place in the private dining room of the Michelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your travel to and from the venue. \n\nIn case Encord is new to you: we're a Series B ($50M) company based in SF, supporting 200+ teams working on multimodal AI, including Boston Dynamics, Thinking Machines Lab, and Synthesia. \n\nWith only a few seats remaining for this curated group, I'd love to have you join us for the conversation. \n\nCan I pencil you in?"
+},
+{
+"id": "426620175568",
+"subject": "ML Leaders Dinner - NYC - 28 Jan",
+"text": "Hi [NAME],\n\nOur founder [SENDER] <[LINK]>\nwill\nbe hosting a dinner for data & AI leaders in NYC. Made me think of you at\n[COMPANY] and we wanted to extend an invite.\n\nThe dinner will be from 6:30pm on *Wednesday 28th Jan *in the private\ndinning room of Le Pavillion (Michelin 1 star). We're centring the\nconversations on the role of data in ML development. We're capping the\nattendance to 20 guests with leaders joining from JP Morgan, Hinge,\nMotional etc.\n\nHappy to share details if you're around?"
+},
+{
+"id": "426633336026",
+"subject": "Physical AI Panel in SF - 29 Jan",
+"text": "Hi [NAME],\n\nHow are you settling into your new role at MARA?\n\nI'll be hosting a Physical AI & Robotics panel in SF Thursday next week (29\nJan) - how teams are managing vision and sensor data to train models in the\nreal world will be a key topic of discussion - which made me think of your\ntime at BRT!\n\nThe panel will feature Chris Paxton (Agility Robotics), Jason Ma (Dyna\nRobotics), [SENDER] Ho (1X) and Adrian Li-[SENDER] (Physical Intelligence) and\nmoderated by Chris Paulson from NVIDIA's Robotics DevRel team.\n\nWould you be interested to come along?"
+},
+{
+"id": "426652858558",
+"subject": "[NAME] - worth having a quick chat?",
+"text": "Nice to meet you, [NAME]\n\nMy co-founder [SENDER] has met with the [COMPANY] team in the recent months & I\nunderstand you're managing annotation tooling + services for [COMPANY].\n\nFor context, we work with teams like Woven by Toyota, Motional, and Volvo -\nproviding the platform to support auto-labelling workflows (2D + 3D) - a\nkey reason we've seen teams move over from Segments and Scale AI.\n\nWould be great to get your feedback on this as well, and explore how we'd\nbe able to help at [COMPANY].\n\nWould you be interested in having a quick chat at some point next week?"
+},
+{
+"id": "426669476071",
+"subject": "Min Kyu - document intelligence",
+"text": "Hi [NAME], \n\nCame across [SENDER] as I was digging into document intelligence having worked with Reducto, Appfolio and UiPath - really impressed by how you're leveraging AI for contract intelligence and legal workflows. \n\nFor context, Encord helps teams handle high-volume, multimodal data (text, image, video, PDFs, etc) for training of OCR/VLM/LLM models. Teams leverage our workflow orchestrator, model-assisted pre-labeling, smoother QA process so they can focus on building and fine tuning models. \n\nI'd love to learn how your team approaches the training data pipeline as you scale and plan for [YEAR]. Do you have 20 mins before the Xmas holiday or early Jan for a quick chat?"
+},
+{
+"id": "426673250521",
+"subject": "Heads of AI/ Data Dinner - NYC - 28 Jan",
+"text": "Hi [NAME],\n\nOur founder [SENDER] <[LINK]>\nwill\nbe hosting a dinner for data & AI leaders in NYC. Made me think of you at\n[COMPANY] and we wanted to extend an invite.\n\nThe dinner will be from 6:30pm on *Wednesday 28th Jan *in the private\ndinning room of Le Pavillion (Michelin 1 star). We're centring the\nconversations on the role of data in ML development. We're capping the\nattendance to 20 guests with leaders joining from JP Morgan, Hinge,\nMotional etc.\n\nHappy to share details if you're around?"
+},
+{
+"id": "426675394748",
+"subject": "Labeling Web Agent Data",
+"text": "Hey [NAME],\n\nSaw you came inbound a few months back to label web agent data after a YC\nevent.\n\nWe recently did a case-study with Yutori on this exact task. See here:\n\n[LINK]\n\nIs this something you're still exploring? Happy to schedule a call if its\nstill top of mind for you and the team\n\n-[SENDER]"
+},
+{
+"id": "426694387953",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nNoticed you're based in NYC - I wanted to invite you to an exclusive,\noff-the-record dinner for senior AI leaders on Wednesday, January 28th, at\n6:30 PM. We are hosting a small group of 20 peers - specifically Chief AI\nOfficers and Heads of ML building their own models (not only in healthcare)\n- for a candid discussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your\ntravel to and from the venue.\n\nWe only have a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "426707025136",
+"subject": "Physical AI & Robotics Panel in SF - 29 Jan",
+"text": "Hi [NAME],\n\nI'm hosting a Physical AI and Robotics panel -- how teams are building\nmodel capabilities to generalize across tasks and embodiments will be a\nmajor topic of discussion - which made me think of your work! Appreciate\ntravels to SF might be a blocker, thought I'd extend an invite regardless.\n\nThe event will be on the evening of 29th Jan, with [SENDER] Ho (1X), Chris\nPaxton (Agility Robotics), Jason Ma (Dyna Robotics) and Adrien Li-[SENDER]\nconfirmed as panelists, followed by an informal networking session after\nthe panel.\n\nWould love to see you there - let me know in case you're in town?"
+},
+{
+"id": "426707044589",
+"subject": "Human in the loop web grading",
+"text": "Hi [NAME],\n\nI read about [COMPANY]'s approach to evals which focuses on grading retrieval and\ndownstream task utility using open evals and LLM graders.\n\nLLM graders are good at does this look right, but have trouble with:\n- Did it complete the task but inefficiently\n- Did it solve the task with an incorrect assumption\n- Did the agent get 2/3 tasks correct\n\nWe've been working with Yutori on capturing full end-to-end runs and\nscoring them with structured failure taxonomies so improvements are\nmeasurable.\n\nCase study here:\n[LINK]\n\nIt's an evolving process on our side, would you or someone on your team be\nopen to connect briefly?"
+},
+{
+"id": "426727388398",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nNoticed you're based in NYC - I wanted to invite you to an exclusive,\noff-the-record dinner for senior AI leaders on Wednesday, January 28th, at\n6:30 PM. We are hosting a small group of 20 peers - specifically Chief AI\nOfficers and Heads of ML building their own models - for a candid\ndiscussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your\ntravel to and from the venue.\n\nWe only have a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "426734234822",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nNoticed you're based in NYC - I wanted to invite you to an exclusive,\noff-the-record dinner for senior AI leaders on Wednesday, January 28th, at\n6:30 PM. We are hosting a small group of 20 peers - specifically Chief AI\nOfficers and Heads of ML building their own models (not only in medical ai)\n- for a candid discussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your\ntravel to and from the venue.\n\nWe only have a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "426735941842",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nNoticed you're based in NYC - I wanted to invite you to an exclusive,\noff-the-record dinner for senior AI leaders on Wednesday, January 28th, at\n6:30 PM. We are hosting a small group of 20 peers - specifically Chief AI\nOfficers and Heads of ML building their own models (not only in healthcare)\n- for a candid discussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your\ntravel to and from the venue.\n\nWe only have a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "426763419855",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nNoticed you're based in NYC - I wanted to invite you to an exclusive,\noff-the-record dinner for senior AI leaders on Wednesday, January 28th, at\n6:30 PM. We are hosting a small group of 20 peers - specifically Chief AI\nOfficers and Heads of ML building their own models (not only in healthcare)\n- for a candid discussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your\ntravel to and from the venue.\n\nWe only have a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "426830268630",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data development platform trusted by leading IDV teams for data\ncuration, embeddings search & clustering - driving higher model accuracy\nand deeper visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "426841123045",
+"subject": "[NAME] - [COMPANY] Showcase",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] Showcase is leaning into immersive experiences for buyers\n- how is your team handling ML workflows around 3D assets and spatial\nunderstanding?\n\nAt Encord, we enable multimodal workflows where 3D floor plans, point\nclouds, and text annotations live in a single interface.\n\nWe've recently expanded this into a dedicated point-cloud offering for\nteams tackling spatial-reasoning challenges.\n\nWould you be open to learning more?"
+},
+{
+"id": "427215917291",
+"subject": "Invite: AI/ML Execs Dinner in NYC - 01/28",
+"text": "Hi [NAME],\n\nBig fan of [COMPANY], and I've had a couple of conversations with your team\n(Javen Jiang) and noticed you're based in the NYC area. So I wanted to\ninvite you to an exclusive dinner my co-founders - [SENDER] and [SENDER] - are\nhosting for exec AI leaders on Wednesday, January 28th, at 6:30 PM.\n\nWe are hosting a small group of ~20 peers - specifically founders, CTOs,\nChief AI Officers and Heads of ML building their own models - for a candid\ndiscussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon (happy to provide Uber credit to and from the\nvenue).\n\nI'd love to have you join the conversation. Can I pencil you in?"
+},
+{
+"id": "427395649761",
+"subject": "Brains, Bodies + Benchmarks - invite to Physical AI Panel in SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI panel in SF, featuring Chris Paxton (AI Lead at\nAgility Robotics) and moderated by Chris Paulson (Senior Robotics DevRel at\nNVIDIA) & we'd love for you to join us.\n\nThe event will take place from 5:30pm on Thursday 29th Jan at Weights &\nBiases's office in SF, with panelists from leading robotics teams, e.g. 1X\nand Dyna Robotics and more, followed by an informal networking session\nafter.\n\nThe discussion will centre around the impact of recent developments (e.g.\nVLM/VLA, UMI, World Models, etc) as well first-hand perspectives on\ntraining and validating models in the physical world.\n\nFull details on the panel here\n<[LINK]>\n- let me know if you can join us?"
+},
+{
+"id": "427403686092",
+"subject": "Enable infrastructure to train new AI models initiative",
+"text": "Hi [NAME],\n\nWe recently started working with AbbVie, and in that context I came across\n[COMPANY]'s article on the website mentioning you're looking for\npartnership opportunities to \"enable infrastructure to train new AI models\"\n- that focus very closely aligns to what we do.\n\nEncord is an ML data-ops platform used by healthcare and life sciences\nteams (including AbbVie, Optum, and Target RWE) to curate, align, annotate\nand QC multimodal data for training and evaluating AI models at scale.\n\nWe would love to start a conversation with [COMPANY] to understand how\nGenetech is approaching data alignment, governance, and AI infrastructure,\nand where external platforms may support upcoming initiatives.\n\nWould Tuesday or Thursday morning next week work?"
+},
+{
+"id": "427404210380",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of your work! So I'd love to\nextend an invite for you & the [COMPANY] team to attend.\n\nThe event will be on the evening of 29th Jan, confirmed panelists include:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427404917953",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nNoticed you're based in NYC - I wanted to invite you to an exclusive,\noff-the-record dinner for senior AI leaders on Wednesday, January 28th, at\n6:30 PM. We are hosting a small group of 20 peers - specifically Chief AI\nOfficers and Heads of ML building their own models (large companies & scale\nups) - for a candid discussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your\ntravel to and from the venue.\n\nWe only have a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "427414796524",
+"subject": "[Invite] AI/ML Execs Dinner in NYC, 01/28",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting an off-the-record dinner for senior AI\nleaders on Wednesday, Jan 28th, at 6:30 PM.\n\nFor context, we recently started working with AbbVie, and I came across\n[COMPANY]'s article on the website mentioning you're looking for\npartnership opportunities to \"enable infrastructure to train new AI models\"\n- that focus very closely aligns to what we do, hence we'd love to have you\njoin the dinner.\n\nIt'll be a small group of 20 peers - specifically Chief AI Officers and\nHeads of ML building their own models - for a candid discussion held\nstrictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon (we're happy to provide Uber transport to and\nfrom).\n\nWith only a few seats remaining for this curated group, I'd love to have\nyou join us for the conversation.\n\nCan I pencil you in?"
+},
+{
+"id": "427437296864",
+"subject": "Dataloop acquisition",
+"text": "Hi [NAME],\n\nBelieve some of my colleagues were in touch last summer around a potential\nmigration from Dataloop,\n\nFollowing the acquisition by Dell in December - there is significant\nuncertainty around Dataloop's product direction & viability as long-term\npartner.\n\nFrom our team's conversations with Georg - it seemed that future-proofing\nwas a key consideration, especially as you onboard new customers and\nexplore more video-based approaches.\n\nWould it be worth a quick catch-up this week? Happy to share more on how\nwe'd be able to support the migration,"
+},
+{
+"id": "427487296734",
+"subject": "[NAME] - chat",
+"text": "Hi [NAME],\n\nI came across your profile building R&D at socure and wanted to reach out\nas we recently started working with IDV teams and [COMPANY] came up as we were\nlooking at teams solving similar IDV challenges.\n\nA common theme we hear is the need to quickly understand failure modes and\ntighten the feedback loop between model performance and training data -\nespecially in high-stakes KYC/AML workflows where small error rates matter.\nCurious if this resonates with what you're seeing at [COMPANY].\n\nFor context, Encord helps IDV and FinTech teams to improve training data\nquality and evaluation across document, image, and video workflows to move\nfaster without compromising accuracy.\n\nWould you be open to a 20-min conversation next week to compare notes on\nhow you're approaching this for [YEAR]? Does *Wed 28 Jan* *1pm EST *work for\nyou?"
+},
+{
+"id": "427489123545",
+"subject": "Invite: AI/ML Execs Dinner in NYC - 01/28",
+"text": "Hi [NAME],\n\nMy founders, [SENDER] and [SENDER], are hosting an exclusive dinner for senior AI\nleaders on Wednesday, January 28th, at 6:30 PM in NYC - would love for\nyou to join.\n\nIt'll be for a small group of 20 peers - specifically Chief AI Officers and\nHeads of ML building their own models - for a candid discussion held\nstrictly under the Chatham House Rule. Guests include c-suite from AI\nstartups to large enterprises including Citi and Goldman Sachs.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon, (can provide an Uber Voucher to and from).\n\nFor context, Encord is a DataOps platform, we help AI teams produce better\ndata to build greater models and work with Acubed, Skydio, Zipline and\nother teams building autonomous flying systems.\n\nWe have a few spots remaining, can I pencil you in? Happy to send over\ndetails."
+},
+{
+"id": "427491662056",
+"subject": "Physical AI Panel - 29th Jan - SF",
+"text": "Hi [NAME],\n\nWe're hosting a Physical AI and Robotics panel - how teams are training\nmodels capable of generalizing across tasks and embodiments will be a major\ntopic of discussion -- which made me think of your work! So I'd love to\nextend an invite for you to attend.\n\nThe event will be on the evening of 29th Jan in SF, confirmed panelists\ninclude:\n\n   - [SENDER] Ho - Director of Evaluations at 1X\n   - Chris Paxton - AI Lead at Agility Robotics\n   - Jason Ma - Co-Founder of Dyna Robotics\n   - Adrien Li-[SENDER] - MTS at Physical Intelligence\n\nwith Chris Paulson from NVIDIA's robotics DevRel team moderating. The panel\nwill be followed by an informal networking session after.\n\nWould love to see you there - let me know if you can make it?"
+},
+{
+"id": "427512491252",
+"subject": "Invite: AI/ML Execs Dinner in NYC - 01/28",
+"text": "Hi [NAME],\n\nNoticed you're based in the NYC area, so I wanted to invite you to an\nexclusive dinner my co-founders - [SENDER] and [SENDER] - are hosting for exec AI\nleaders on Wednesday, January 28th, at 6:30 PM.\n\nWe are hosting a small group of ~20 peers - specifically founders, CTOs,\nChief AI Officers and Heads of ML building their own models - for a candid\ndiscussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon (happy to provide Uber credit to and from the\nvenue).\n\nFor context, Encord is a multimodal DataOps platform working with many of\nthe largest frontier AI labs - we help AI/ML teams manage, curate and\nannotate to produce better quality data for greater model performance.\n\nI'd love to have you join the conversation. Can I pencil you in?"
+},
+{
+"id": "427613159663",
+"subject": "Exec AI dinner - NYC, 01/28 [Invite]",
+"text": "Hi [NAME],\n\n[NAME] Xu came to one of our AI dinners in Palo Alto, and he introduced us\nto the Caper Cart annotation team in China before he left [COMPANY] - we're\nbig fans of what you're building over there.\n\nI noticed you're based in the NYC area, so I wanted to invite you to an\nexclusive dinner my co-founders - [SENDER] and [SENDER] - are hosting for exec AI\nleaders on Wednesday, January 28th, at 6:30 PM.\n\nIt'll be for a small group of ~20 peers - specifically founders, CTOs,\nChief AI Officers and Heads of ML building their own models - for a candid\ndiscussion held strictly under the Chatham House Rule.\n\nThe evening will take place in the private dining room of the\nMichelin-starred Le Pavillon (happy to provide Uber credit to and from the\nvenue).\n\nWould love for you to join, can I pencil you in? Happy to send more details\nover."
+},
+{
+"id": "427629161708",
+"subject": "Human Web Agent Evals",
+"text": "Hi [NAME],\n\nI saw the recent after_date filter added to Parallel Search API, and it\nreminded of trajectory eval work we've been doing.\n\nWe've been partnering with Yutori on end-to-end web agent evals. This\ncovers search, tool calling, navigation, so you can measure gains vs\nfoundational models.\n\nIt also helps understand not just whether a task succeeded, but *why* is a\nbehavior is better for web search.\n\nIt's an evolving process on our side, would you or someone on your team be\nopen to connecting briefly?\n\n-[SENDER]"
+},
+{
+"id": "427632152801",
+"subject": "Quick hello - Physical AI panel",
+"text": "Hey [NAME],\n\nI saw you'll be joining us at the Brains, Bodies & Benchmarks panel next\nweek - wanted to reach out for a quick hello!\n\nI'm putting together questions for the panelists this week - would love to\nget your input as we shape the discussion.\n\nAlso saw you checked out our interactive product tour - would love to\nbriefly introduce ourselves ahead of the event!\n\nFlexible tomorrow 9am - 10:30am or 11am - 1pm if you have 20 mins?"
+}
+]

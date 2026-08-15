@@ -1,0 +1,202 @@
+[
+{
+"id": "470119151842",
+"subject": "Curai x Encord - data & model eval",
+"text": "Hi [NAME],\n\nBy way of intro I lead AI/ML partnerships at Encord. We work with\nhealthcare AI teams from Mayo Clinic and Iterative Health on the data\ncuration, annotation, and model eval infrastructure.\n\nWanted to reach out as I saw your role leading platform engineering -\nbuilding the infra that needs to be fast, scalable, and accurate for both\nclinicians and patients is a meaningful problem to solve.\n\nTeams use us to manage training data pipeline and post-training deployment,\ntasks spanning across auto-labeling, HITL QA, and tracking where models\ndrift and underperform.\n\nFeel like there's real overlap with what you're building at Curai. Would\nyou be open to a quick intro?"
+},
+{
+"id": "470131779787",
+"subject": "ultrasound data pipeline",
+"text": "Hi [NAME], \n\n      Congrats on winning TechCrunch Disrupt and getting FDA approval!\n\n      I wanted to reach out because we've helped a few teams that outgrew Label Studio move to a platform built for more complex, multimodal data workflows. \n\n      For context: Encord (series C, $110M raised) works with advanced computer vision and multimodal (image, video, audio, DICOM) AI teams to improve training data quality at scale. We've been helping medical imaging teams like \n      viz.ai and Floy optimize complex ontology, model assisted pre-labeling, scalable QA, and standardized ingestion/export pipelines. \n\n      If this is on your roadmap for [YEAR], I'd love a chance to share how Encord can help."
+},
+{
+"id": "470134024391",
+"subject": "Label Studio + Snorkel -> where teams usually hit the wall",
+"text": "Hi [NAME], \n\n      Noticed you're running data labeling and model validation across Label Studio and Snorkel for \n      [COMPANY]'s GenAI workflows - curious how that stack's been holding up as things scale. \n\n      A pattern we see with similar teams: QA gets fragmented, multimodal use cases stretch the tooling, and workflows become code-heavy to maintain. That's usually when teams start consolidating tools and switch to Encord. \n\n      We support Onfido/Entrust, Veriff, and VIDA on unifying curation, annotation, QA, and model eval across modalities (docs, image, video, audio) - with tighter auditability for regulated environments.\n\n      Worth a 20-min chat next week to show you what that looks like in practice?"
+},
+{
+"id": "470134745317",
+"subject": "identity graph liability",
+"text": "Hi \n         [NAME], \n\n         Congrats on the Bolt partnership - scaling [COMPANY]'s ID graph and RiskOS signals across a network is a huge milestone! \n\n         When IDV systems expand to multiple merchants and massive volumes, the challenge isn't signal generation - it's tracking and auditing edge cases, false positives, and model decisions across the ecosystem, and feeding those insights back into the next iteration. \n\n         We work with IDV teams to make data review, labeling, and model eval systematic and auditable, so reliability and trust scale alongside deployment. \n\n          If useful, I'd love to grab 20 mins to compare notes on how you're thinking about maintaining model quality and governance as you roll out more partnerships."
+},
+{
+"id": "470142796019",
+"subject": "Re: Invite to Physical AI roundtable - 17th March",
+"text": "Hi [NAME],\n\nWill you be at Nvidia GTC later this month?\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nfor ~20 leaders in Physical AI, be great to get you along?\n\nYou may have seen Encord recently announced our Series C funding to further\nsupport Physical AI teams with our multimodal ML DataOps platform.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the conference. Attendees include founders, execs and Heads of AI from\nPhysical Intelligence, 1X, World Labs, Waymo and others.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470151704812",
+"subject": "Re: Physical AI roundtable dinner invite - 17th March",
+"text": "Hi [NAME],\n\nBig fans of [COMPANY] and have spoken to a number of your Perception team in\nregarding to scaling ML workflows.\n\nAssume you might be heading to Nvidia GTC? If so, my co-founder, [SENDER], is\nhosting a dinner in San Jose on the 17th of March for ~20 leaders in AI and\nAutonomy, and we'd love for you to join.\n\nYou may have seen that Encord just announced our Series C to further\nsupport Physical AI teams with our multimodal ML DataOps platform, now\nspanning data curation, annotation and 2D & 3D labelling automation. We're\nworking with teams such as Zipline, Skydio, Woven by Toyota, 1X and Phantom\nAI on large-scale autonomy workflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470151722175",
+"subject": "Re: Invite to execs AI audio roundtable - 16th of March, San Jose",
+"text": "Hi [NAME],\n\nBig fans of [COMPANY] - been following since the SPAC merger.\n\nNoticed you're based in Santa Clara, so wanted to invite you to a dinner my\nco-founder, [SENDER], is hosting alongside Nvidia GTC on the 17th of March for\n~20 leaders in Audio and AI - we'd love for you to join.\n\nIf Encord is new to you, we just raised our Series C and we're a multimodal\nML DataOps platform that helps AI teams produce better quality data for\ntheir models - we work with companies like DeepGram and Gradium with\ndiarization and word level annotation for their audio models.\n\nWe've booked a private dining room at BE.Steak.A, just a short walk from\nthe venue, from 6pm onwards - you'll be joined by execs, co-founders and\nHeads of AI in the Encord network from Thinking Machine Labs, Netflix,\nDisney, Udio, Neon, Speechmatics, Kyutai, and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470151751926",
+"subject": "[Invite] AI Leaders dinner - San Jose - Mar 17",
+"text": "Hi [NAME],\n\nOn behalf of my co-CEOs I'd love to invite you to a small dinner\nwe're hosting for AI leaders *on Tuesday, Mar 17 at Be.Steak.A. *\n\nIt'll be an intimate event with ~30 founders and senior execs to step away\nfrom the crowds at GTC, and connect in a relaxed setting over good food\nand drinks.\n\nFor context, Encord (we just announced our $60M series C) supports GenAI\nteams like Thinking Machines Lab, Synthesia, TwelveLabs, and Flawless to\nimprove training data quality & post-production results at scale.\n\nI'd love to save a seat for you - will you be in San Jose that night?"
+},
+{
+"id": "470157315297",
+"subject": "[Invite] Physical AI Happy Hour @GTC'26 - Mar 18",
+"text": "Hi [NAME],\n\nAre you heading to GTC this month in San Jose?\n\nEncord is hosting a happy hour on Wednesday 18 Mar. We'd love to welcome\nyou if you're available that evening.\n\nYou'll be joining 60+ top engineers, researchers, data scientists, and\nAI/ML leaders for an evening of great conversations, over drinks and food\nat the Goodtime Bar (walking distance from the conference).\n\nYou can sign up directly here\n<[LINK]>\n-\nor let me know if you can join us and I'll help you skip the waitlist :)"
+},
+{
+"id": "470159130824",
+"subject": "San Jose Dinner - 17 March",
+"text": "Hi [NAME],\n\nMy team will be hosting a dinner in San Jose, alongside GTC - which made me\nthink of you. (Also congrats on the promotion!)\n\nWe've booked a private dining room from 6pm on Tues 17th Mar at Be.Steak.\nWith AI product and engineering leaders joining from a mix of creative,\nrobotics and enterprise use cases.\n\nWould love to see you there - let me know if you can join us?"
+},
+{
+"id": "470164082874",
+"subject": "Re: invite to AI & Autonomy roundtable dinner - 17th March",
+"text": "Hi [NAME],\n\nAssume [COMPANY] will be heading to Nvidia GTC later this month - will you\nbe there too?\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nfor ~20 leaders in AI and Autonomy, and we'd love for you to join if you're\ngoing to be in the South Bay.\n\nIf Encord is new to you, we've just announced our Series C to further\nsupport Physical AI teams with our multimodal ML DataOps platform, now\nspanning data curation, annotation and 2D & 3D labelling automation. We're\nworking with teams such as Augmodo, Pickle Robot and 1x on large-scale 3D\nand autonomy workflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470164281540",
+"subject": "Re: Invite to Physical AI roundtable in San Jose - 17th of March",
+"text": "Hi [NAME],\n\nGuessing their is a good chance you'll be attending Nvidia GTC given you're\nin Palo Alto?\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nfor ~20 leaders in AI and Autonomy, and we'd love for you to join.\n\nIf Encord is new to you, we spoke to John Lee in regard to inmproving\n[COMPANY]'s 3D pipelines, as well as 2D. Since then, we've raised our Series\nC, for our multimodal ML DataOps platform that helps Physical AI teams\nproduce better quality data for their models - we work with companies like\nWoven by Toyota, 1X, and Phantom AI.\n\nWe've booked a private dining room at BE.Steak.A, just a short walk from\nthe venue, from 6pm onwards - you'll be joined by execs, co-founders and\nHeads of AI in the Encord network from Physical Intelligence, World Labs,\nWaymo and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470165946559",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI really liked your framing of digital trust as infrastructure - that\nresonates with how we think about supporting AI teams operating in\nhigh-stakes environments like [COMPANY].\n\nAcross identity and fraud teams, we often see data bottlenecks emerge where\nmodel performance, auditability, multimodal annotation, PII handling, and\nsynthetic ID detection all intersect. Curious whether similar challenges\nare surfacing as you think about scaling [COMPANY]'s data flywheel.\n\nWe've partnered with Entrust, Veriff, and DoubleVerify on similar workflows\nand would be happy to share learnings. If there's someone who owns the ML\npipeline on your team, I'd also appreciate a redirect.\n\nWould you be open to a brief intro?"
+},
+{
+"id": "470165996770",
+"subject": "Re: Physical AI Execs Roundtable Invite - San Jose, 17th of March",
+"text": "Hi [NAME],\n\nBy a way of introduction, I previously spoke with John regarding [COMPANY]'s\n3D annotation pipelines and wanted to follow up directly.\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nfor ~20 leaders in AI and Autonomy alongside Nvidia GTC, and we'd love for\nyou to join.\n\nIf Encord is new to you, we've just announced our Series C to further\nsupport Physical AI teams with our multimodal ML DataOps platform -\nspanning data curation, annotation and 3D labelling automation. We're\nworking with teams such as Woven by Toyota, 1X and Phantom AI on\nlarge-scale 3D and autonomy workflows.\n\nWe've booked a private dining room at BE.Steak.A, just a short walk from\nthe venue, from 6pm onwards - you'll be joined by execs, co-founders and\nHeads of AI in the Encord network from Physical Intelligence, World Labs,\nWaymo and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470177075400",
+"subject": "[Invite] Physical AI Dinner - GTC'26 - Mar 17",
+"text": "Hi [NAME],\n\nAre you going to GTC this year?\n\nMy co-CEOs are hosting a small dinner for Physical AI leaders in San Jose\non Tuesday, Mar 17 at Be.Steak.A, in conjunction with GTC.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nI'd love to save a seat for you - will you be able to join us?"
+},
+{
+"id": "470183739611",
+"subject": "Re: Physical AI roundtable dinner invite - 17th March",
+"text": "Hi [NAME],\n\nBig fans of [COMPANY] - and by a way of intro I've spoke to members in your\nSeattle research team about scaling your ML pipelines.\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nalongside the Nvidia GTC conference for ~20 execs in Physical AI, and it\nwould be great to have you join us if you'll be around.\n\nIf Encord's new to you, we just announced our Series C to further support\nPhysical AI teams with our multimodal ML DataOps platform, now spanning\ndata curation, annotation and 2D & 3D labelling automation - we're working\nclosely with teams from 1X, Boston Dynamics and Dyna on their VLA/VLM\nworkflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470183989472",
+"subject": "[Invite] Physical AI Dinner - GTC'26 - Mar 17",
+"text": "Hi [NAME],\n\nAre you going to GTC in San Jose this year?\n\nMy co-CEOs are hosting a small dinner on Tuesday, Mar 17 at Be.Steak.A, and\nWe'd love to have you join.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nMay I save you a seat?"
+},
+{
+"id": "470184135912",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nIt'll be an intimate evening with executives from 1X, Boston Dynamics,\nDyna, and a few others building at the frontier.\n\nIn case you're not familiar with Encord (Series C, $110M raised),  we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "470195633339",
+"subject": "Scaling perception data pipelines // learnings from Boston Dynamics & Scout AI",
+"text": "Hi [NAME],\n\nNoticed ARX is scaling its autonomy platform & thought it could be a worth\na quick introduction,\n\nFor context, Encord works with leading Physical AI teams including Boston\nDynamics, Woven by Toyota, and Scout AI - providing the platform + services\nto help scale their multimodal annotation pipelines.\n\nWould be great to be introduced & happy to share how we may be able to\nsupport as you grow the autonomy team.\n\nWould you be open to having a quick chat later this week / early next?"
+},
+{
+"id": "470196424892",
+"subject": "[Invite] Physical AI Dinner - GTC'26 - Mar 17",
+"text": "Hi [NAME],\n\nAre you going to GTC this year?\n\nMy co-CEOs are hosting a small dinner for Physical AI leaders in San Jose\non Tuesday, Mar 17 at Be.Steak.A, in conjunction with GTC.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nI'd love to save a seat for you - will you be able to join us?"
+},
+{
+"id": "470196439288",
+"subject": "[Invite] Physical AI Happy Hour @GTC'26 - Mar 18",
+"text": "Hi [NAME],\n\nAre you heading to GTC this month in San Jose?\n\nEncord is hosting a happy hour on Wednesday 18 Mar. We'd love to welcome\nyou if you're available that evening.\n\nYou'll be joining 60+ top engineers, researchers, data scientists, and\nAI/ML leaders for an evening of great conversations, over drinks and food\nat the Goodtime Bar (walking distance from the conference).\n\nYou can sign up directly here\n<[LINK]>\n-\nor let me know if you can join us and I'll help you skip the waitlist :)"
+},
+{
+"id": "470203498739",
+"subject": "GTC Dinner - 17th March",
+"text": "Hi [NAME]!\n\nI saw you're speaking at GTC later this month - so I'd like to extend an\ninvite to the dinner we're hosting alongside the conference on Tues 17th\nMarch.\n\nIt'll be c.10 mins drive from the McEnery Convention Center, with c.20 CxOs\nand Heads of AI joining from a mix of robotics, creative and enterprise use\ncases.\n\n[SENDER] & the team would love to catch up! Let me know if you can make it?"
+},
+{
+"id": "470203711717",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nIt'll be an intimate evening with executives from 1X, Boston Dynamics,\nDyna, and a few others building at the frontier.\n\nIn case you're not familiar with Encord (Series C, $110M raised),  we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "470215376082",
+"subject": "[Invite] Physical AI Dinner - GTC'26 - Mar 17",
+"text": "Hi [NAME],\n\nAre you going to GTC in San Jose this year?\n\nMy co-CEOs are hosting a small dinner on Tuesday, Mar 17 at Be.Steak.A, and\nWe'd love to have you join.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nMay I save you a seat?"
+},
+{
+"id": "470215499972",
+"subject": "Physical AI dinner - 17th March",
+"text": "Hi [NAME],\n\nBig fan of [COMPANY] - our companies have been in contact before but wanted to\nreach out personally.\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nalongside the Nvidia GTC conference for ~20 execs in Physical AI, and it\nwould be great to have you join us if you'll be around.\n\nIf Encord's new to you, we just announced our Series C to further support\nPhysical AI teams with our multimodal ML DataOps platform, now spanning\ndata curation, annotation and 2D & 3D labelling automation - we're working\nclosely with teams from 1X, Boston Dynamics and Dyna on their VLA/VLM\nworkflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470218529017",
+"subject": "Invite to Boston AI leaders dinner - Thurs 26th March",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting a private dinner for AI Leaders in Boston\n& we'd love to have you join us, if you're available.\n\nWe've reserved a private room at Mooo in Seaport on Thursday, 26th March,\nwith drinks kicking off at 6:30 pm. Confirmed attendees include CxOs and\nsenior technical leaders from Boston Dynamics, Pickle Robot, & SimpliSafe.\n\nIt'll be an informal, open-format evening - no slides or pitches, just\nbringing together like-minded people to discuss their experiences &\nchallenges working with AI data.\n\nLet me know if you're able to make it & I'll add you to the guest list,"
+},
+{
+"id": "470218817725",
+"subject": "Curai <> Encord",
+"text": "Hi [NAME],\n\nI came across your work at Curai on iterative pseudo-labeling and HITL for\nmedical conversations - really interesting approach to\nimproving clinical model reliability.\n\nWe've been supporting MedTech teams like Mayo Clinic and Iterative Health\non similar challenges: building high-quality clinical ground truth, scaling\nQA, and systematically surface edge cases and failure modes.\n\nFor context, Encord (Series C, $110M raised) helps AI teams streamline\ntraining data and evaluation workflows so research teams can iterate\nfaster.\n\nWould you be open to a quick 20-min intro this Thu / Fri to compare notes?"
+},
+{
+"id": "470220768449",
+"subject": "[Invite] Physical AI Dinner - GTC'26 - Mar 17",
+"text": "Hi [NAME],\n\nAre you going to GTC in San Jose this year?\n\nMy co-CEOs are hosting a small dinner on Tuesday, Mar 17 at Be.Steak.A, and\nWe'd love to have you join.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nMay I save you a seat?"
+},
+{
+"id": "470225960152",
+"subject": "[Invite] AI Leaders roundtable invite - San Jose, 17th March",
+"text": "Hi [NAME],\n\nBig fans of SoundHound - good to see revenues are up nearly 100%.\n\nNoticed you're based in Santa Clara, so wanted to invite you to a dinner my\nco-founder, [SENDER], is hosting alongside Nvidia GTC on the 17th of March for\n~20 leaders in Audio and AI - we'd love for you to join.\n\nIf Encord is new to you, we just raised our Series C and we're a multimodal\nML DataOps platform that helps AI teams produce better quality data for\ntheir models - we work with companies like DeepGram and Gradium with\ndiarization and word level annotation for their audio models.\n\nWe've booked a private dining room at BE.Steak.A, just a short walk from\nthe venue, from 6pm onwards - you'll be joined by execs, co-founders and\nHeads of AI in the Encord network from Thinking Machine Labs, Netflix,\nDisney, Udio, Neon, Speechmatics, Kyutai, and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470227649736",
+"subject": "Re: Physical AI execs roundtable dinner - 17th March",
+"text": "Hi [NAME],\n\nAssume [COMPANY] will be heading to Nvidia GTC later this month - will you\nbe there too?\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nfor ~20 leaders in AI and Autonomy, and we'd love for you to join if you're\ngoing to be in the South Bay.\n\nIf Encord is new to you, we've just announced our Series C to further\nsupport Physical AI teams with our multimodal ML DataOps platform, now\nspanning data curation, annotation and 2D & 3D labelling automation. We're\nworking with teams such as Augmodo, Standard AI, Pickle Robot and 1x on\nlarge-scale 3D and autonomy workflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470228134131",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nIt'll be an intimate evening with executives from 1X, Boston Dynamics,\nDyna, and a few others building at the frontier.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "470228169975",
+"subject": "[Invite] Physical AI Leaders Dinner @ GTC - Mar 17",
+"text": "Hi [NAME],\n\nOur leadership team is hosting a small, invite-only dinner for Physical AI\nleaders during NVIDIA GTC on Tuesday, Mar 17 at Be.Steak.A, and we'd love\nfor you to join.\n\nIt'll be an intimate evening with executives from 1X, Boston Dynamics,\nDyna, and a few others building at the frontier.\n\nIn case you're not familiar with Encord (Series C, $110M raised),  we help\nphysical AI teams with data collection, annotation, and policy evaluation\nacross vision and sensor modalities.\n\nI'd love to save you a seat - will you be in San Jose that night?"
+},
+{
+"id": "470229554392",
+"subject": "Re: Execs Physical AI roundtable - 17th March",
+"text": "Hi [NAME],\n\nAssume [COMPANY] will be heading to Nvidia GTC later this month - will you\nbe there too?\n\nMy co-founder, [SENDER], is hosting a dinner in San Jose on the 17th of March\nfor ~20 leaders in AI and Autonomy, and we'd love for you to join if you're\ngoing to be in the South Bay.\n\nIf Encord is new to you, we've just announced our Series C to further\nsupport Physical AI teams with our multimodal ML DataOps platform, now\nspanning data curation, annotation and 2D & 3D labelling automation. We're\nworking with teams such as 1X and Boston Dynamics on their VLA/VLM\nworkflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470233076985",
+"subject": "Re: Audio AI leaders roundtable - 17th March, San Jose",
+"text": "Hi [NAME],\n\nBig fans of SoundHound - so great to see revenues are up nearly 100%.\n\nNoticed SoundHound will be at Nvidia GTC, so guessing there is a good\nchance you'll in San Jose for it?\n\nIf so, my co-founder, [SENDER], is hosting a roundtable dinner for ~20 leaders\nin audio AI alongside Nvidia GTC on the 17th of March - we'd love for you\nto join.\n\nIf Encord is new to you, we just raised our Series C and we're a multimodal\nML DataOps platform that helps AI teams produce better quality data for\ntheir models - we work with companies like DeepGram and Gradium with\ndiarization and word level annotation for their audio models.\n\nWe've booked a private dining room at BE.Steak.A, just a short walk from\nthe venue, from 6pm onwards - you'll be joined by execs, co-founders and\nHeads of AI in the Encord network from Thinking Machine Labs, Netflix,\nDisney, Udio, Neon, Speechmatics, Kyutai, and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470234778837",
+"subject": "Re: Invite to Execs Physical AI Roundtable - 17th March",
+"text": "Hi [NAME],\n\nWill you be heading down to San Jose for Nvidia GTC - assume [COMPANY] will\nbe there?\n\nBecause my co-founder, [SENDER], is hosting a dinner alongside the conference\non the 17th of March for ~20 leaders in AI and Autonomy, and we'd love for\nyou to join.\n\nIf Encord is new to you, we've just announced our Series C to further\nsupport Physical AI teams with our multimodal ML DataOps platform -\nspanning data curation, annotation and labelling automation. We're working\nwith teams such as Woven by Toyota to Phantom AI on large-scale 3D and\nautonomy workflows.\n\nDinner will be held in a private room at BE.STEAK.A from 6pm, a short walk\nfrom the venue - you'll be joined by execs, co-founders and Heads of AI in\nthe Encord network from Outrider, Waymo, Nuro and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470236537055",
+"subject": "[Invite] Audio AI Roundtable in San Jose - 16th of March",
+"text": "Hi [NAME],\n\nSaw you're based in Santa Clara, so wanted to invite you to a dinner my\nco-founder, [SENDER], is hosting alongside Nvidia GTC on the 17th of March for\n~20 leaders in Audio and AI - we'd love for you to join.\n\nIf Encord is new to you, we just raised our Series C and we're a multimodal\nML DataOps platform that helps AI teams produce better quality data for\ntheir models - we work with companies like DeepGram and Gradium with\ndiarization and word level annotation for their audio models.\n\nWe've booked a private dining room at BE.Steak.A, just a short walk from\nthe venue, from 6pm onwards - you'll be joined by execs, co-founders and\nHeads of AI in the Encord network from Thinking Machine Labs, Netflix,\nDisney, Udio, Neon, Speechmatics, Kyutai, and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "470248911070",
+"subject": "[Invite] Encord AI Leaders Dinner - San Jose - Mar 17",
+"text": "Hi [NAME],\n\nWe're hosting a small dinner for Physical AI leaders in San Jose on\nTuesday, Mar 17 at Be.Steak.A, in conjunction with GTC.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nI'd love to save a seat for you - will you be able to join us?"
+},
+{
+"id": "470279540948",
+"subject": "[Invite] Physical AI Dinner - San Jose - Mar 17",
+"text": "Hi [NAME],\n\nAre you going to GTC this year?\n\nMy co-CEOs are hosting a small dinner for Physical AI leaders in San Jose\non Tuesday, Mar 17 at Be.Steak.A, in conjunction with GTC.\n\nIt'll be an intimate event with ~20 founders and senior execs to connect\nand share perspectives on key trends in physical AI in a relaxed setting\nover good food and drinks.\n\nFor context, Encord (Series C, $11M raised) supports teams like Boston\nDynamics, Motive, 1X and Woven (Toyota) on advanced CV and multimodal AI\npipelines.\n\nI'd love to save a seat for you - will you be able to join us?"
+},
+{
+"id": "470326196441",
+"subject": "Jenny <> [SENDER]",
+"text": "Hi [NAME], \n\n       [COMPANY] sits on one of the richest consumer datasets in the world - but I imagine getting that data into clean, well-curated training sets at scale is still where a lot of time gets lost. \n\n       We help ML teams cut data prep time and improve training data quality - from curation and annotation through to model eval - so teams can identify where models are failing faster and iterate. \n\n       Would love your take as someone working in the weeds - curious whether that maps to what you're experiencing. \n\n       Flexible Tuesdays to Thursdays if you're open to a quick chat."
+},
+{
+"id": "470332595427",
+"subject": "unstructured EHR data at scale",
+"text": "Hi \n      [NAME],\n\n      Parsing unstructured physician notes for patient matching is one of the harder NLP problems in healthcare AI. We're worked through it with Mayo Clinic and Iterative Health on similar EHR and document-heavy pipelines.  \n\n      The issues that kept slowing them down: annotation workflows that didn't scale, inconsistent label quality across doc types, and no audit trail for regulatory review. \n\n      Encord solved all three - LLM-assisted pre-labeling, HITL QA, and full label versioning that holds up under FDA scrutiny. \n\n      Given where Topography is heading with WaypointsOS, I'd say at least one is already on your radar - worth a 20-min call to compare notes?"
+}
+]

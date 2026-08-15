@@ -1,0 +1,202 @@
+[
+{
+"id": "301783846086",
+"subject": "scale training data pipeline @yembo",
+"text": "Hi [NAME],\n\nHeard great things about the work you are doing at [COMPANY] from your\ncolleagues [SENDER] and Janpreet at CVPR. Wanted to reach out since we recently\nhelped Zoopla (property inspection) scale their video data curation &\nannotation pipelines. Like [COMPANY], they leverage vision models for property\nscanning and 3D modeling.\n\nWe typically support ML teams looking to remove bottlenecks in scaling AI.\nWe specialise in video & work with many inspection / insurance companies\n(Protex, UVeye, Intenseye, Tractable) on digital twins, defect detection,\ninventory tracking, and AI-powered survey.\n\nQuick context: Encord is a data development platform built for advanced CV\nand multimodal AI (image, video, sensor, 3D/point cloud). We're venture\nbacked, series B, $50M+ raised, 100+ employees, and have supported 200+ AI\nteams to optimize their training data workflows.\n\nI'd love to get your expert opinion and candid feedback on what we've\nbuilt. Let me know if you're open for a quick chat Tuesday to Friday next\nweek?"
+},
+{
+"id": "301967028425",
+"subject": "[SENDER] - Encord",
+"text": "Hi [NAME],\n\nFollowing your Series A, what tools are you considering to scale your\ngrowing eng team?\n\nEncord is a data development platform helping AI teams annotate videos\nfaster and more accurately.\n\nWe recently supported *Motive, Milestone Systems & LVT* scale beyond\ninternal tools, and I'd love to explore how we could help Obvio too.\n\nWould you be open to learning more?"
+},
+{
+"id": "302697032947",
+"subject": "Tailored Demo for [COMPANY]",
+"text": "Hi [NAME],\n\nHope the interactive demo is helpful! Saw your recent focus is on\nadvertising intelligence agents - thought you might find our recent\nprojects with Hudl in sports broadcasting/ ad intelligence relevant.\n\nI'd love to better understand how Encord might be able to support your data\ndevelopment workflows at [COMPANY], and show a tailored demo based on that.\n\nWould you be open to explore over a 20-mins chat?"
+},
+{
+"id": "302809137367",
+"subject": "[NAME] - Annotation Efficiency",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with 200+ leading AI companies - nice to meet you!\n\nWe've built a platform that enables teams to curate data at scale and\nimprove annotation efficiency.\n\nI'd love to show you what we've built and hear your thoughts. Would you be\nopen to learning more?"
+},
+{
+"id": "302868888825",
+"subject": "Josh - Annotation",
+"text": "Hi [NAME],\n\nCongrats on your NIST FRTE ranking - what tools are you using to maintain\nhigh annotation quality?\n\nAt Encord, we've built a data management platform that helps teams curate\ndata at scale. We support IDV companies like Onfido identify failure modes\nand improve model performance.\n\nIt would be great to introduce you to our platform, would you be open to\nlearning more?"
+},
+{
+"id": "302926869692",
+"subject": "partner with invia",
+"text": "Hi [NAME],\n\nHope you've had a great start of the month! Thought I'd reach out since we\nstarted working with Osaro on similar perception models for warehouse AMR\nand your company has come up in a few conversations.\n\nWe work closely with AI/ML teams from Osaro, Rapid Robotics, Pickle Robot\nand Mytra, and a common challenge we see is keeping CV models sharp as\noperations scale. Teams often bogged down in data curation/annotation\ninstead of iterating on models.\n\nQuick context: Encord is a data development platform for physical\nAI/Robotics teams working with advanced CV and multimodal AI (image, video,\nLiDAR, 3d point cloud). We specialise in video annotation for edge cases\ntraining, object detection, motion tracking, fleet management for pick and\nplace robotics. We have helped 200+AI teams streamline annotation, QA, and\nworkflow management.\n\nWould you be open to a quick chat next week to see if this could support\ninVia? I'm flexible Tue - Thu PT but happy to adjust."
+},
+{
+"id": "303548656863",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ with model evaluation, edge case discovery and video curation to seamlessly send to annotators. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nSaronics recently came to us to scale their data pipelines, we're helping them automate pre-labelling with the latest models while retaining HITL QA. Their open-source and in-house tools were breaking down as pipelines matured, tying up engineers in glue code between tools rather than focusing on value added tasks.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free."
+},
+{
+"id": "303642368217",
+"subject": "[NAME] - Annotation Quality",
+"text": "Hi [NAME],\n\nCongrats on your NIST FRTE ranking - what tools are you using to maintain\nhigh annotation quality?\n\nAt Encord, we've built a data management platform that helps teams curate\ndata at scale. We support IDV companies like Onfido identify failure modes\nand improve model performance.\n\nIt would be great to introduce you to our platform and hear your feedback,\nwould you be open to learning more?"
+},
+{
+"id": "303698626796",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ with model evaluation, edge case discovery and video curation to seamlessly send to annotators. We can also demo the platform in the context of Seasats' workflows.\n\nSaronics recently came to us to scale their data pipelines, we're helping them automate pre-labelling with the latest models while retaining HITL QA. Their open-source and in-house tools were breaking down as pipelines matured, tying up engineers in glue code between tools rather than focusing on value added tasks.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free."
+},
+{
+"id": "303710554335",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ with model evaluation, edge case discovery and video curation to seamlessly send to annotators. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nSaronics recently came to us to scale their data pipelines, we're helping them automate pre-labelling with the latest models while retaining HITL QA. Their open-source and in-house tools were breaking down as pipelines matured, tying up engineers in glue code between tools rather than focusing on value added tasks.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free."
+},
+{
+"id": "303797441756",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with 200+ leading AI companies - nice to meet you!\n\nWe've built a platform that enables teams to curate data at scale and\nimprove annotation efficiency.\n\nI'd love to show you what we've built and hear your thoughts. Would you be\nopen to learning more?"
+},
+{
+"id": "303797494978",
+"subject": "Coffee @SF Tech Week?",
+"text": "Hi [NAME] - I saw you'll be at SF Tech Week soon. So I wanted to see if you'd\nbe open to a quick in-person coffee with the Encord team.\n\nKeen to hear your upcoming plans for Arvist. Perhaps you'd find our\nlearnings from scaling annotation pipelines for with other computer vision\nteams in warehouse environment interesting (e.g. Pickle Robot, Osaro,\nMytra, etc.)\n\nWhat are your thoughts on a quick coffee? Quite flexible Tues or Wed next\nweek - happy to show you around our SF office or if you prefer book a table\nsomewhere. lmk"
+},
+{
+"id": "303945878714",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ with model evaluation, edge case discovery and video curation to seamlessly send to annotators. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nSaronics recently came to us to scale their data pipelines, we're helping them automate pre-labelling with the latest models while retaining HITL QA. Their open-source and in-house tools were breaking down as pipelines matured, tying up engineers in glue code between tools rather than focusing on value added tasks.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free."
+},
+{
+"id": "304025622758",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ with model evaluation, edge case discovery and video curation to seamlessly send to annotators. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nSaronics recently came to us to scale their data pipelines, we're helping them automate pre-labelling with the latest models while retaining HITL QA. Their open-source and in-house tools were breaking down as pipelines matured, tying up engineers in glue code between tools rather than focusing on value added tasks.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free."
+},
+{
+"id": "304026042576",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI wanted to introduce myself as your new of contact at Encord - nice to\nmeet you.\n\nWe help over 200 AI teams streamline the feedback loop from annotation to\nmodel evaluation, including leading medical robotics companies such as\nAsensus Surgical.\n\nI'd love to walk you through the platform and hear your thoughts. Would you\nbe open to learning more next week?"
+},
+{
+"id": "306442843341",
+"subject": "Encord AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nHope you're doing good. [SENDER] and [SENDER] are hosting a private dinner in SF\nfor AI execs on Oct 30 at Spruce. They'd love to catch up with you.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems.\n\nWe're capping it to 30 guests including CxOs and tech leaders from\ncompanies like Zipline, Skydio, Mytra and Nimble Robotics.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "306915982547",
+"subject": "AI Exec Dinner - San Francisco - Oct 30th",
+"text": "Hi [NAME],\n\nHope you're doing well. Our co-founders, Erick and [SENDER], are hosting a\nprivate dinner for AI leaders in SF on October 30th @ Spruce, and we'd love\nfor you to join.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems. We're capping it to 30\nguests exclusively for CxOs and tech leaders in the Bay area.\n\nFor context, Encord is a $50M+ Series B ML data platform helping 200+ AI\nteams (Boston Dynamics, Physical Intelligence, Woven by Toyota, Twelve\nLabs) improve their training data quality at scale.\n\nHappy to share the full details if you can make it?"
+},
+{
+"id": "306916104389",
+"subject": "[Invite] AI Leaders Dinner @ Spruce, SF - Oct 30",
+"text": "Hi [NAME],\n\nHope you've had a great start of the month! Our co-founders, [SENDER] and\n[SENDER], are hosting a private dinner for AI leaders in SF on Oct 30 at\nSpruce, and we'd love for you to join.\n\nThe evening's theme is about the multimodal shift in AI - how vision is\nconverging with language, robotics, and embodied systems. It's an\ninvite-only group of ~30 CxOs and tech experts in the SF Bay area.\n\nFor context, Encord is a $50M+ Series B ML data platform helping 200+ AI\nteams (Boston Dynamics, PI, Woven by Toyota, 12 Labs, Standard AI) improve\ntheir training data quality at scale.\n\nHappy to share full details if you can make it?"
+},
+{
+"id": "307019391165",
+"subject": "Tailored Demo for [COMPANY]",
+"text": "Hi [NAME],\n\nHope you enjoyed the interactive demo! I noticed you're building AI\ncustomer researcher - thought you might find our audio/video transcription,\nclassification and sentiment analysis functionalities relevant.\n\nI'd love to better understand how Encord can support [COMPANY] in\nbuilding more accurate customer research models.\n\nWould you be open to a 20-mins chat to explore how we can help?"
+},
+{
+"id": "307025605846",
+"subject": "AI Exec Dinner @Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders, [SENDER] and [SENDER], are hosting a private dinner for AI\nleaders in SF on Oct 30 at Spruce, and we'd love for you to join.\n\nThe theme is multimodal shift in AI - how vision is converging with\nlanguage, robotics, and embodied systems. It's an invite-only group of ~30\nCxOs and tech leaders from companies like Voxel, Fox Robotics, and Figure\nAI.\n\nFor context, Encord is a $50M+ Series B ML data platform helping over 200\nAI teams (e.g. Boston Dynamics, PI, Woven by Toyota) improve training data\nquality at scale.\n\nHappy to share full details if you can make it?"
+},
+{
+"id": "307115688160",
+"subject": "Encord AI Leaders Dinner - San Francisco - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders are hosting a private dinner in San Francisco for AI\nleaders. We'd love for you to join us.\n\nIt will be at Spruce on Oct 30th. The evening's theme is multimodal shift\nin AI - how vision is converging with language, robotics, and embodied\nsystems. We're capping it to 30 guests including CxOs and tech leaders from\ncompanies like Zipline, Skydio, Mytra and Nimble Robotics.\n\nIn case Encord is new to you - we work with over 200 AI teams to improve\ntheir training data quality at scale.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "307119836376",
+"subject": "Encord AI Leaders Dinner - San Francisco - Oct 30th",
+"text": "Hi [NAME],\n\nHope you're doing well! Our co-founders, [SENDER] and [SENDER], are hosting a\nprivate AI Leaders' dinner in SF on Oct 30 at Spruce, and we'd love for you\nto join.\n\nTheme: The multimodal shift in AI - how vision is converging with language,\nrobotics, and embodied systems. It's an invite-only group of ~30 CxOs and\ntech leaders from companies like Viz.ai, Moon Surgical, Rapid Robotics, and\nVoxel.\n\nFor context, Encord is a $50M+ Series B ML data platform helping 200+ AI\nteams (Boston Dynamics, Pi, Twelve Labs) improve training data quality at\nscale.\n\nHappy to share full details if you can make it?"
+},
+{
+"id": "307152738536",
+"subject": "[NAME] - Fast Annotation",
+"text": "Hi [NAME],\n\nGiven your ML & CV background, I wanted to introduce you to Encord - we're\na YC-backed data development platform.\n\nWe help over 200 AI teams streamline the feedback loop from annotation to\nmodel evaluation, including leading medical robotics companies such as\nAsensus Surgical.\n\nI'd love to walk you through the platform and hear your thoughts. Would you\nbe open to learning more?"
+},
+{
+"id": "307264037087",
+"subject": "[Invite] AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nHope you're doing well! Our co-founders, [SENDER] and [SENDER], are hosting a\nprivate AI Leaders' dinner in SF on Oct 30 at Spruce, and we'd love for you\nto join.\n\nTheme: The multimodal shift in AI - how vision is converging with language,\nrobotics, and embodied systems. It's an invite-only group of ~30 CxOs and\ntech leaders from companies like Zipline, Skydio, Mytra and Nimble\nRobotics.\n\nFor context, Encord is a $50M+ Series B ML data platform helping 200+ AI\nteams (Boston Dynamics, Pi, Twelve Labs) improve training data quality at\nscale.\n\nHappy to share full details if you can make it?"
+},
+{
+"id": "307727320295",
+"subject": "Rohin - Deep Learning",
+"text": "Hi [NAME],\n\nSaw you're building out the ML team at [COMPANY]. Typically, companies at your\nstage run into scaling issues when using open-source annotation tools to\nproduce training data.\n\nI've helped many of our robotics customers (Rapid Robotics, Boston\nDynamics, Nimble) streamline their training data pipelines, so they can\nspeed up iteration (~5x faster data throughput). For context: Encord is a\ndata development platform for advanced CV and multimodal AI (video,\nsensor).\n\nIs it worth a chat to see if we could help you?"
+},
+{
+"id": "307727400156",
+"subject": "Partnership on CV training data",
+"text": "Hi [NAME],\n\nImpressive work leading AI at Mitchell, especially CV for damage detection.\nMy sense is that teams of your scale often run into bottlenecks when\ntraining data outgrows standard annotation tools. Curious if that resonates\nwith your experience.\n\nI've helped auto insurers (Tractable, UVeye, Intenseye) streamline claims\nworkflows and improve data quality with Encord - we're a data development\nplatform for CV and multimodal AI (image, video, 3D), leveraged by 200+ AI\nteams like Boston Dynamics and PI.\n\nYou're probably all set but open to see if we could complement your current\nsetup? I'm flexible Tue - Thur morning PT but happy to work around you."
+},
+{
+"id": "307761802429",
+"subject": "segments ai acquisition",
+"text": "Hi [NAME],\n\nNot sure if Uber's recent acquisition of segments ai is on your radar? Keen\nto hear if you foresee any changes with the 2D/3D annotation pipelines for\nyour autonomous vehicle development at [COMPANY].\n\nFor context - we help AgTech teams e.g. Carbon Robotics, Bloomfield AI and\nAigen  unify camera, LiDAR & radar data development in one platform. With\nthe goals of streamlining curation, annotation and evaluation massive\ndatasets at scale.\n\nWe'd love to share perspectives on the above. Would you be open to a quick\nchat next week weeks?"
+},
+{
+"id": "307763434742",
+"subject": "partner with [COMPANY]",
+"text": "Hi [NAME],\n\nWe recently started working with LiveView Tech and Flock Safety to help\nscale training data for security and surveillance vision models - similar\nto [COMPANY]'s work in threat detection and site monitoring.\n\nMany CV teams hit limits with in-house or open-source tools once real-world\ndata grows - managing billions of CCTV frames, ensuring temporal\nconsistency, and handling edge cases like PPE becomes tough. We help\nautomate labeling, support native video annotation, and add QA workflows to\nimprove data quality and model accuracy at scale.\n\nQuick context - Encord is a data development platform for advanced CV and\nmultimodal AI (image, video, sensor). We are $50M Series B and have helped\n200+ AI teams so far.\n\nAre you seeing similar challenges as you expand into new deployments? Happy\nto chat and compare notes."
+},
+{
+"id": "307763455194",
+"subject": "[Invite] AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders, [SENDER] & [SENDER], are hosting a private dinner in SF for AI\nleaders on Oct 30th at Spruce, and we'd love for you to join.\n\nThe evening's theme is about the multimodal shift in AI - how vision is\nconverging with language, robotics, and embodied systems. It's a small,\ninvite-only group (guests include CxOs and tech leaders from companies like\nViz.ai, Voxel, Compscience, and Rapid Robotics).\n\nFor context: Encord is a ML data layer scale-up ($50M+ Series B, 100+\nemployees). We helped over 200 AI teams (e.g. Boston Dynamics, UVeye,\nTwelve Labs) improve their training data quality at scale.\n\nWe're capping it to 30 guests - let me know if you can make it?"
+},
+{
+"id": "307767214317",
+"subject": "[Invite] AI Leaders Dinner @Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders are hosting a private dinner in SF for AI leaders on Oct 30\n@ Spruce, and we'd be delighted to have you join.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems. We're capping it to 30\nguests including CxOs and tech leaders from companies like Viz.ai, Moon\nSurgical, Rapid Robotics, and Voxel.\n\nFor context: Encord is a ML data layer scale-up ($50M+ Series B, 100+\nemployees). We helped over 200 AI teams (e.g. Boston Dynamics, Physical\nIntelligence, Twelve Labs) improve their training data quality at scale.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "307771789557",
+"subject": "demo - real workspace",
+"text": "Hi [NAME], \n\nWhat did you think of the Encord demo? \n\nCan I get you started using your own Encord workspace? \n\nI browsed your website, but I would love to hear a line or two on what ML pipeline problems you face in curation, annotation, or evaluation."
+},
+{
+"id": "307846580441",
+"subject": "Partner with [COMPANY]",
+"text": "Hi [NAME],\n\nI noticed you have computer vision listed as part of your solutions - I\nimagine you are building inhouse models.\n\nWe work with CV/ML teams to improve training data quality and scale\nannotation pipelines, so teams could focus on boosting model accuracy and\nspeed to market. Quick context: Encord is a data layer scale-up, helping\nover 200+ AI teams across industries - we're especially well versed in VLM\nuse cases like physical safety, surveillance, construction, and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you take\non more enterprise projects.\n\nDoes this sound interesting?"
+},
+{
+"id": "307864768755",
+"subject": "partner with [COMPANY]",
+"text": "Hi [NAME],\n\nWe recently started working with LiveView Tech and Flock Safety to help\nscale their CV training data pipe for surveillance, and your company came\nup in a few conversations.\n\nMany CV/ML teams of your size hit limits with in-house or open-source tools\nonce real-world data grows - managing billions of CCTV frames, ensuring\ntemporal consistency, and handling edge cases like PPE get tough fast.\n\nWe help by automating labeling, enabling native video annotations, and\nadding QA workflows to improve model accuracy and speed up iteration at\nscale.\n\nOpen to a quick chat on how we might complement your current setup?"
+},
+{
+"id": "307876506856",
+"subject": "[NAME] - vision pipeline",
+"text": "Hi [NAME],\n\nI've been following ImageVision's work in real-time analytics across\nsecurity, packaging, and industrial inspection - quite impressive range of\nuse cases.\n\nImagine you, like many of your safety/ surveillance customers, run into\nissues when training data outgrows in-house or open source tools: as vision\nmodels expand across diverse environments, keeping annotations consistent\nand edge cases covered can slow iteration. We've helped CV teams from LVT,\nFlock Safety, Rhombus, and Voxel tackle exactly this scaling challenge.\n\nQuick context: Encord is a data platform for CV and multimodal AI (images,\nvideos, 3D), bringing curation, annotation, workflow management, QA, and\nmodel eval into one place so teams can speed up iteration. We're $50M+\nSeries B and have supported 200+ AI teams.\n\nWorth a chat?"
+},
+{
+"id": "307885492422",
+"subject": "AI Leaders Dinner - San Francisco - Oct 30th",
+"text": "Hi [NAME],\n\nOur co-founders are hosting a private dinner in SF on October 30th @\nSpruce, and we'd love for you to join.\n\nThe evening's theme is multimodal shift in AI - how vision is converging\nwith language, robotics, and embodied systems. We're capping it to 30\nguests including CxOs and tech leaders from Voxel, Fox Robotics, and Figure\nAI.\n\nFor context: Encord is a ML data layer scale-up ($50M+ Series B, 100+\nemployees). We helped over 200 AI teams (e.g. Boston Dynamics, Physical\nIntelligence, Woven by Toyota) improve their training data quality at\nscale.\n\nHappy to share the full details if you can make it?"
+},
+{
+"id": "307911430392",
+"subject": "[Invite] Private AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nHope you had a great Mid-Autumn festival! I wanted to extend an invite -\nour co-founders, [SENDER] and [SENDER], are hosting a private dinner for AI\nleaders in SF on Oct 30 at Spruce, and we'd love to have you join.\n\nIt'll be an intimate group (~30 CxOs and founders) discussing the\nmultimodal shift in AI - where vision meets language, robotics, and\nembodied systems.\n\nFor context, Encord is a ML data layer scale-up working with teams like\nBoston Dynamics, PI, and Woven by Toyota to improve their training data\nquality at scale.\n\nHappy to share full details if you can make it?"
+},
+{
+"id": "307911550149",
+"subject": "[NAME] - Multimodal Redaction",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work in AI redaction across documents and\nvideos - really impressive breadth of use cases you're covering. I imagine\nyou are training your own deep learning vision models.\n\nMany teams we work with like LVT, Flock Safety, Rhombus, and Voxel face\nscaling challenges: as training data expand across diverse environments,\nannotation consistency, QA, and edge case handling start slowing iteration\nand risking model performance. Curious if you are running into any scaling\nissues training your data as you grow.\n\nFor conext: we're a data development platform for advanced CV and\nmultimodal AI (text, image, video, 3D). We provide automated pre-labeling,\nnative video annotation, HITL review, and model evaluation tools in a\nsingle platform. We are $50M Series B and have supported 200+AI teams so\nfar.\n\nOpen to learning more? I'm flexible Tuesdays to Thursdays morning PT but\nhappy to work around your schedule."
+},
+{
+"id": "307936017598",
+"subject": "Partnership with ImageVision",
+"text": "Hi [NAME],\n\nWe recently started working with LiveView Tech and Flock Safety to help\nscale their CV training data pipeline - similar to what you're building at\nimagevision with DL models for threat detection and site monitoring.\n\nMany CV teams hit limits with in-house or open-source tools once real-world\ndata grows - managing billions of CCTV frames, ensuring temporal\nconsistency, and handling edge cases like PPE gets tough fast. Encord helps\nby automating labelling, enabling native video annotation and adding QA\nworkflows to improve data quality and model accuracy at scale.\n\nQuick context - we're a $50M Series B data development platform for CV and\nmulti-modal data (image, video, 3D) helping 200+ AI teams like Actuate,\nVoxel, Zipline, and Boston Dynamics.\n\nWorth a quick chat to see how we might complement your current setup?"
+},
+{
+"id": "307936734442",
+"subject": "[Invite] Encord AI Leaders Dinner @ Spruce, SF - Oct 30th",
+"text": "Hi [NAME],\n\nHope you've had a great start of the month! [SENDER] and [SENDER] are hosting a\nprivate dinner in SF for AI leaders on Oct 30 at Spruce, and they'd love to\ncatch up with you.\n\nIt's a small, invite-only group (~30 CxOs and tech leaders) from the bay\narea, coming together to chat about the multimodal shift in AI - how vision\nis converging with language, robotics, and embodied systems.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "307937775811",
+"subject": "Reconnect - Johnson Control's AI roadmap",
+"text": "Hi [NAME],\n\nYour team connected with us last year and mentioned you were set on open\nsource tooling. I wanted to check in on how John Control's AI roadmap has\nevolved.\n\nWith your recent growth - curious if new challenges around scaling data\nhave come up. Many teams we work with have transitioned from multi-tool\nstack (CVAT, Voxel51, Segments + services) to Encord, consolidating\nannotation, QA, and model evaluation in one platform - often with total\ncost savings and less operational overhead.\n\nWould you be open to a quick chat to explore options ahead of your contract\nrenewal? I'm flexible Tue - Thu mornings PT but can adjust to your schedule."
+}
+]

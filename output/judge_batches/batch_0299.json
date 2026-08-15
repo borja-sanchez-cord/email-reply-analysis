@@ -1,0 +1,202 @@
+[
+{
+"id": "501589817565",
+"subject": "Machina - quick coffee?",
+"text": "Hi [NAME]\u00f6rn, \n\n[SENDER] & I lead the Physical AI team at Encord and we noticed that you'll be attending Machina next week. We've met some of your colleagues including [SENDER], Markus and other folks on the humanoid side. \n\nWould love to tell you what we do and hear what you're focused on at [COMPANY] - let me know if you have some time to connect in Paris,"
+},
+{
+"id": "501592717519",
+"subject": "Clinical AI data pipeline at [COMPANY] with [NAME]",
+"text": "Hi [NAME],  \n\n I saw [COMPANY] standardized 88% of prior-auth volume and now processes 83% in real time. Big milestone, congrats! \n\n We're working with a top-three US payer and Highmark Health to help them with the clinician review-and-audit layer underneath that kind of automation. \n\n I'd love your thoughts on how we've helped them scale the review without losing the audit trail. Happy to share what's been working and what hasn't. \n\n I'm free this Wednesday afternoon."
+},
+{
+"id": "501599545564",
+"subject": "Vision at Mount Sinai",
+"text": "Hi [NAME],  \n\n We work with Iterative Scopes and Proximie on the data layer for clinical video AI.  \n\n The Mount Sinai partnership caught my attention. Eight hospitals and 100,000 procedures is a significant production milestone. \n\n Teams moving into computer vision whilst scaling clinical AI come to us when: \n\n - Each new hospital site introduces OR environments the model hasn't seen. \n\n - Precision degradation at a flagship customer is a commercial risk before it's a technical one \n\n - The data infrastructure that proved the product in a pilot wasn't built to support the retraining cadence a new production deployment requires \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free this Thursday if that works."
+},
+{
+"id": "501611973856",
+"subject": "Invite - CV Leaders Lunch at Rosewood Hotel",
+"text": "Hi [NAME],\n\nIt was great meeting [SENDER] at Automate. He mentioned DeteX and the specific\nchallenges you face with damage detection footage retrieval and identifying\nedge cases.\n\nEncord is hosting an intimate lunch for technical leaders in computer\nvision at the Rosewood Hotel in Palo Alto on July 10th. We will have a\nsmall group of approximately 10 CxOs and AI/ML leaders from organizations\nsuch as the NBA, Doxel, Zeitview, and X (the moonshot factory).\n\nThe event kicks off at 1:00 PM with a fireside chat on establishing high\ndata quality discipline across the data lifecycle.\n\nWe would love to have you join us. You can find more details and RSVP here:\n[LINK]"
+},
+{
+"id": "501624739046",
+"subject": "Invite - Technical Leaders Private Lunch at Rosewood Hotel",
+"text": "Hi [NAME],\n\nIt was great speaking with your colleague Steffen at CVPR and showing him\nthe GIS view of our platform set up for Maxar and getting his thoughts on\ndata management.\n\nI'm reaching out because my co-founders [SENDER] and [SENDER] are hosting an\nintimate private lunch for technical leaders in computer vision &\ngeospatial on July 10th at the Rosewood Hotel, Lemon Room in Palo Alto.\n\nWe have a small, curated group of ~10 CxOs and AI/ML leaders from companies\nsuch as the NBA, Doxel, Maxar and X the moonshot factory (project\nbellweather) joining us.\n\nWill you be able to join? Happy to share more details:\n[LINK]"
+},
+{
+"id": "501639906510",
+"subject": "Encord - AI Leaders Private Wine Tasting, July 8th (RAISE)",
+"text": "HI [NAME],\n\nOn behalf of our CEO, [SENDER] (speaking at RAISE), I would like to\ninvite you to a private wine tasting at Caves du Louvre, in Paris, on July\n8th.\n\nYou will be joined by an exclusive group of Founders and CTOs from leading\npharma companies and healthcare scale-ups. There will be no pitches or\npresentations - just open conversations over some good wine.\n\nOur CEOs [SENDER] and [SENDER] would love for you to join us if you're available\non the day. I can send over more details if this sounds interesting."
+},
+{
+"id": "501681680626",
+"subject": "Invite - CV Leaders Private Lunch at Rosewood Hotel",
+"text": "Hi [NAME],\n\nMy co-founders [SENDER] and [SENDER] are hosting an intimate private lunch for\ntechnical leaders in computer vision & smart cities at the Rosewood Hotel,\nLemon Room in Palo Alto on July 10th.\n\nWe have a small group of ~10 CxOs and AI/ML leaders from companies such as\nthe NBA, Doxel, and X the moonshot factory joining us.\n\nKickoff is at 1 p.m. with a short fireside chat on the latest challenges\nand opportunities in deep learning and how they apply across geospatial,\nsecurity, and sports to name a few.\n\nFor context on Encord, we are a platform that helps AI teams train and run\ntheir models using the right data and aligning it across the full AI\nlifecycle. We works with over 300 ML teams, including Woven by Toyota,\nVoxel, Flock Safety, Boston Dynamics and more.\n\nWill you be able to join? Happy to share more details.\n\nP.S - Happy belated father's day!"
+},
+{
+"id": "501689087186",
+"subject": "Invite - CV Leaders Lunch at Rosewood Hotel",
+"text": "Hi [NAME],\n\nMy co-founders [SENDER] and [SENDER] are hosting an intimate private lunch for\ntechnical leaders in computer vision at the Rosewood Hotel, Lemon Room in\nPalo Alto on July 10th.\n\nWe have a small, curated group of ~10 CxOs and AI/ML leaders from companies\nsuch as the NBA, Doxel, and X the moonshot factory joining us.\n\nKickoff is at 1 p.m. with a short fireside chat on the challenges and\nopportunities in maintaining data quality in uncontrolled camera conditions.\n\nFor context on Encord, we are a platform that helps AI teams train and run\ntheir models using the right data and aligning it across the full AI\nlifecycle. We work with over 300 ML teams, including Woven by Toyota,\nTractable, UVeye, Flock Safety, Boston Dynamics and more.\n\nWill you be able to join? Happy to share more details."
+},
+{
+"id": "501791988927",
+"subject": "Machina - quick coffee?",
+"text": "Hi [NAME] - nice to meet,  \n\nI lead the Physical AI team at Encord and noticed that you'll be attending Machina next week. We're partnered closely with frontier labs and leading robotics companies, inc. Neura and Agility, supporting large-scale data collection and providing the data flywheel needed to prepare models for production. \n\n Saw you're building out the robotics venture at Almetra, and it would be great to connect to hear how you're approaching training and evaluation pipelines, particularly for VLMs. I've sent over a calendar placeholder to meet at the conference - let me know if it works for you. \n\n On a side note, we're hosting a  \nwine tasting event the Louvre - would be great to see you there!"
+},
+{
+"id": "501865796826",
+"subject": "SF Panel on multimodal benchmark & eval",
+"text": "Hi \n       [NAME], \n\n       Great to connect on LinkedIn. Wanted to share a bit more context:\n\n       A common theme we're seeing with multimodal customers like Dolby, TwelveLabs, and Synthesia is that the bottleneck has shifted to evals, benchmarking, and closing the feedback loop for agents and multimodal systems. \n\n       At Encord, we support that layer across docs, audio, vision, and 3D, particularly around post-training workflows (SFT/RLHF). \n       We're also putting together a small panel in July on this topic and would love to get your perspective - and potentially have you join as a speaker if you're interested. \n\n       Would you be open to a quick 20-min intro this Thu or Fri?"
+},
+{
+"id": "501866465486",
+"subject": "ML data ops",
+"text": "Hi [NAME], \n\n      I help Thinking Machines lab and Synthesia run high-velocity, large-scale HITL labeling projects across multimodal data. Thought it was worth reaching out. \n\n      A common challenge as these systems scale is managing hundreds of evaluators, maintaining consistent rubric quality, and closing the feedback loop for RLHF and model eval. That's the layer we help operationalize. \n\n      Given your work at \n      [COMPANY], I think there could be some interesting overlap. Worth a 20-min conversation this week?"
+},
+{
+"id": "501876535515",
+"subject": "CV Leadership Lunch w/ Encord at Rosewood on Sand Hill",
+"text": "Hi [NAME],\n\nWe would love to invite you to an intimate leadership lunch at the Rosewood\nHotel next Friday (July 10th). It'll be a small group of ~10 CV executives\nfrom companies where multimodal AI and CV models are critical to their\nbusiness.\n\nDetails: [LINK]\n\nWould you like to join us?\n\nLet me know if you'd like more details on the other attendees before\ncommitting, I think it will be worth your time :)\n\n-[SENDER]"
+},
+{
+"id": "501898215669",
+"subject": "CV Leadership Lunch w/ Encord at Rosewood on Sand Hill",
+"text": "Hi [NAME],\n\nWe would love to invite you to an intimate leadership lunch at the Rosewood\nHotel next Friday (July 10th). It'll be a small group of ~10 CV leaders\nfrom companies where multimodal AI and CV models are critical to their\nbusiness.\n\nDetails: [LINK]\n\nWould you like to join us?\n\nLet me know if you'd like more details on the other attendees before\ncommitting, I think it will be worth your time :)\n\n-[SENDER]"
+},
+{
+"id": "501899476212",
+"subject": "Encord invites you to private wine-tasting evening at the RAISE Summit, 8th July",
+"text": "Hi [NAME],\n\nOur Co-Founders - [SENDER] and [SENDER] Stig [SENDER] - are heading to\nMACHINA & RAISE Summit in Paris & would like to extend an invitation to a\nprivate wine-tasting evening we're hosting on Wednesday 8th July at Les\nCaves du Louvre.\n\nWe're keeping the evening curated to ~30 people - mostly speakers from the\nsummit, & other C-suite leaders and Heads of AI/ML within the Paris AI\necosystem.\n\nPlease find the sign-up link here\n<[LINK]>,\nor get back to me and I'll pencil you in."
+},
+{
+"id": "501912167612",
+"subject": "Encord AI Leaders Dinner at Spruce in SF",
+"text": "Hi [NAME],\n\nHope all's well! It's been a while since you last spoke with my colleagues\n[SENDER] and [SENDER] at our Spruce dinner last year.\n\n[SENDER] & [SENDER] are hosting a private dinner at Spruce in SF for AI execs on\nJuly 22nd.\n\nThe evening's theme is the multimodal shift in AI - how computer vision is\nconverging with language, robotics, and embodied systems. We're capping\nattendance at 15 guests exclusively for CxOs and tech leaders in the Bay\nArea.\n\nHappy to share details if you can make it?"
+},
+{
+"id": "501926653146",
+"subject": "CV Leadership Lunch w/ Encord at Rosewood on Sand Hill",
+"text": "Hi [NAME],\n\nWe would love to invite you to an intimate leadership lunch at the Rosewood\nHotel next Friday (July 10th). It'll be a small group of ~10 CV executives\nfrom companies where multimodal AI and CV models are critical to their\nbusiness.\n\nDetails: [LINK]\n\nWould you like to join us?\n\nLet me know if you'd like more details on the other attendees before\ncommitting, I think it will be worth your time :)\n\n-[SENDER]"
+},
+{
+"id": "501962626273",
+"subject": "pittsburgh. what changed.",
+"text": "Hi [NAME],  \n\n Quick one. my team works with Flock Safety on annotation and model evaluation for their LPR detection catalogue across hundreds of municipalities.  \n\n I saw Pittsburgh Public Schools just reported a significant drop in illegal passings this year, their COO credited the program with directly changing driver behavior.  \n\n Expanding AVA from stop-arm enforcement into general ALPR usually means the training data that got you that result wasn't built for the new detection task.  \n\n Is that a challenge felt at [COMPANY] right now? If so, would be great to chat next week."
+},
+{
+"id": "501966954700",
+"subject": "Less time finding data, more time on models",
+"text": "Hi [NAME], \n\nI saw the company's hiring pages for engineering roles and noticed your deep learning for fruit defect detection models. \n\nWe work with companies like John Deere on a similar detection workflow. Encord is the curation and annotation infrastructure that sits underneath their image-based defect and quality detection models. \n\nWhen their model got a new defect class wrong, they found the right training examples faster because Encord surfaced them automatically instead of engineers hunting through images manually.\n\nWith iQS Pro expanding into new geographies and fruit varieties, I thought i'd reach out before the annotation pipeline becomes a bottleneck. \n\nDo you have 20 minutes next week to compare notes on how you're managing that today?"
+},
+{
+"id": "501967197400",
+"subject": "quick question for the CEO",
+"text": "Hi [NAME],  \n\n Quick one. My team works with Automotus and Flock Safety on camera CV annotation and dataset curation pipelines. \n\n I saw the Series A and the push into enterprise security and retail. Expanding into new verticals on top of an existing detection pipeline usually means the labelling infrastructure hasn't caught up. Different environments, different edge cases & different failure modes per detection task. \n\n Is that a challenge at [COMPANY] right now?"
+},
+{
+"id": "502004048109",
+"subject": "[Invite] LLM/VLM eval webinar with Cohere",
+"text": "Hi [NAME], are SLM fine-tuning and chatbot quality relevant to you?\n\nSharing a webinar\n<[LINK]>\nwe're doing with Cohere on building scalable eval stacks with HITL.\n\nWould love to share more re how we support in this space. Happy to\nschedule something after the holidays to continue the convo!"
+},
+{
+"id": "502011264189",
+"subject": "CV Leadership Lunch w/ Encord at Rosewood on Sand Hill",
+"text": "Hi [NAME],\n\nWe would love to invite you to an intimate leadership lunch at the Rosewood\nHotel next Friday (July 10th). It'll be a small group of ~10 CV leaders\nfrom companies where multimodal and CV models are critical to their\nbusiness.\n\nDetails: [LINK]\n\nWould you like to join us?\n\nLet me know if you'd like more details on the other attendees before\ncommitting, I think it will be worth your time.\n\n*-[SENDER]*"
+},
+{
+"id": "502063670479",
+"subject": "when eo/ir data meets rf",
+"text": "Hi [NAME],  \n\n I saw the MoU with Ecliptic Defence and Space, combining electro-optical/infrared and RF sensor data for situational awareness. \n\n we work with Forterra on the labelling and QA behind edge-deployed defence perception models. Combining two sensor types usually means combining two labelling standards too, before either model can trust the other's ground truth. \n\n pulling two teams worth of training data into one pipeline is the kind of thing that slows your entire engineering team down.  \n\n I'm curious how that's being scoped? \n\n Do you have some time to connect early next week? If so, let me know and ill send over a link."
+},
+{
+"id": "502171266279",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "502199921851",
+"subject": "Encord Introduction",
+"text": "Hi [NAME],\n\n[SENDER] pointed me your way after we chatted on LinkedIn. He mentioned Label\nStudio briefly, which is part of why I wanted to reach out directly.\n\nEncord is a data layer platform that helps ML teams manage and improve the\ndata that feeds their models. We work with best-in-class teams like\nAttentive.ai, who are also building takeoff software for construction.\n\nWould love to find a time to learn more about what you're building at [COMPANY]\nand share what we've built at Encord."
+},
+{
+"id": "502203897028",
+"subject": "FDA clearance number two",
+"text": "Hi [NAME],\n\nI spoke with Dusan last Friday and he said to reach out to you directly.\n\nWith two 510(k) clearances now in place, every new autonomous capability\nDynamis adds requires its own documented training and test dataset.\n\nWe help teams like Moon Surgical and AbbVie turn surgical video into\nlabelled training data fast enough to keep the model roadmap moving, with a\nclean audit trail across all annotations - inside one platform.\n\nWorth 20 minutes to see if the same applies to you?"
+},
+{
+"id": "502239370433",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "502254773492",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502254801112",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502255185095",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502259955912",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502260430070",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502260834540",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502262164693",
+"subject": "Point rapide sur Spimed AI",
+"text": "Bonjour [NAME],\n\n[SENDER] de faire ta connaissance. Je travaille avec [SENDER] chez Encord.\n\nJe relisais vos \u00e9changes pr\u00e9c\u00e9dents autour des projets de Spimed AI sur\nl'analyse de plaque, la dissection aortique et l'embolie pulmonaire.\n\nJe sais qu'\u00e0 l'\u00e9poque vous aviez choisi RedBrick, principalement parce que\ncela faisait plus de sens commercialement pour la premi\u00e8re phase. Je\nvoulais simplement savoir si les choses avaient \u00e9volu\u00e9 depuis, en\nparticulier sur la labellisation des plaques, les workflows de revue\nradiologue ou les besoins de tra\u00e7abilit\u00e9 FDA.\n\nNous avons aussi compris que RedBrick commen\u00e7ait \u00e0 r\u00e9duire ses op\u00e9rations,\net nous avons r\u00e9cemment vu plusieurs \u00e9quipes passer sur Encord en raison\nd'une baisse de capacit\u00e9 d'ing\u00e9nierie et de support de leur c\u00f4t\u00e9.\n\nDe ce que vous aviez discut\u00e9 avec [SENDER], la plaque semblait \u00eatre le sujet\no\u00f9 la qualit\u00e9 d'annotation, le consensus entre reviewers et l'auditabilit\u00e9\npouvaient devenir plus importants \u00e0 mesure que le projet avan\u00e7ait.\n\nJe serai \u00e0 Paris la semaine prochaine avec notre \u00e9quipe MedTech. Ce serait\nsuper de prendre un caf\u00e9 ou un d\u00e9jeuner si tu as un moment."
+},
+{
+"id": "502271783126",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "502272965848",
+"subject": "data collection challenges",
+"text": "Hi [NAME],  \n\n I noticed you're in the data collection team at [COMPANY]. Are you also part of the curation process? If so i would love to show you how we free up your time to be better spent elsewhere on operations. \n\n Please let me know."
+},
+{
+"id": "502284407024",
+"subject": "Invite - AI Leaders in MedTech (Padel Event, 13th July)",
+"text": "Hi [NAME],\n\nLovely to meet you, I work with Will at Encord, he is OoO so am messaging\non his behalf.\n\nOur co-founders are hosting a padel event for AI leads, VPs and founders in\nthe medical field in the evening of July 13th. We've got some people from\nAstraZeneca, Merck & several Series A/B startup founders and I wanted to\nextend the invite to Nicola if she is free.\n\nThe evening will be a relaxed environment with food, drinks, and plenty of\ntime to connect with others working across the AI ecosystem.\n\nWe're keeping attendance limited and would love to have her there. Please\nlet me know and i will send over further details."
+},
+{
+"id": "502301062378",
+"subject": "Wine-tasting evening at the RAISE Summit, 8th July",
+"text": "Hi [NAME],\n\nSaw you're heading to RAISE next week & would like to extend an invitation\nto a private wine-tasting evening we're hosting on Wednesday 8th July at\nLes Caves du Louvre.\n\nWe're keeping the evening curated to ~30 people - mostly speakers from the\nsummit, & other C-suite leaders and Heads of AI/ML.\n\nPlease find the sign-up link here\n<[LINK]>,\nor get back to me and I'll pencil you in."
+},
+{
+"id": "502303652038",
+"subject": "Introduction - [SENDER] & Encord",
+"text": "Hi [NAME],\n\nI hope this email finds you well and that you had a great 4th.\n\nMy aunt Cathy sent me your contact information, I appreciate your being\nopen to speaking.\n\nI'd love to find a time to introduce myself, tell you a bit more about what\nwe've built at Encord and learn more about what you're working on at TRSS.\nHappy to work around your schedule."
+},
+{
+"id": "502305356017",
+"subject": "Wine-tasting evening at the RAISE Summit, 8th July",
+"text": "Hey [NAME],\n\nSaw you're heading to RAISE next week & would like to extend an invitation to a private wine-tasting evening we're hosting on Wednesday 8th July at Les Caves du Louvre. \n\nWe're keeping the evening curated to ~30 people - mostly speakers from the summit, & other C-suite leaders and Heads of AI/ML.\n\nPlease find the sign-up link here, or get back to me and I'll pencil you in."
+},
+{
+"id": "502306461932",
+"subject": "RAISE Summit 8th/9th July - coffee?",
+"text": "Hey [NAME], \n\n Seen [COMPANY] are heading to the RAISE summit in Paris - are you joining also? It would be great to catch you for a coffee if so. \n\n Bit of context on me, lead our Partnerships team at Encord, and been working with companies like Synthesia, Thinking Machine Labs, & Dolby to stop their MLOps becoming the bottleneck for model iteration.  \n\n Let me know if the 8th / 9th is better for you - can be flexible."
+}
+]

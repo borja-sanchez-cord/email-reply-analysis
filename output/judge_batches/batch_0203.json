@@ -1,0 +1,202 @@
+[
+{
+"id": "353539552484",
+"subject": "Intro [SENDER] / [NAME]",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work on 4Sight, really impressive approach to 4D\nLiDAR perception. I just moved to the Bay Area from Germany and would love\nto meet in person to learn more about what you're building and where you're\ntaking the platform.\n\nWe've been partnering with teams like Woven by Toyota and Zipline to fuse\ntheir 2D and 3D ML pipelines - not just to speed up development, but to\nbuild long-term infrastructure for perception workflows.\n\nI imagine [COMPANY] has a strong foundation already, but it could be valuable to\nexchange perspectives and see if there's scope for collaboration now or\ndown the line.\n\nWould you be open to a quick in-person chat next week? Thursday's open on\nmy side, and happy to come by your office. Looping in [SENDER] (CC) to\nschedule for us."
+},
+{
+"id": "353539621080",
+"subject": "Intro Wenlong / [SENDER]",
+"text": "Hi [NAME],\n\nI just saw that you are hiring ML Engineers. Love seeing your product\ndeveloping and your team growing!\n\nWe've been partnering with Robotics teams like 1X and Physical\nIntelligence. They are using our Physical AI Suite to streamline their data\nannotation workflows.\n\nI imagine you have a strong foundation already, but it could be valuable to\nexchange perspectives and see if there's scope for collaboration now or\ndown the line.\n\nWould you be open to a quick in-person chat next week? Tuesday is open on\nmy side, and happy to come by your office."
+},
+{
+"id": "353546507482",
+"subject": "Encord - perception data annotation",
+"text": "Hi [NAME],\n\nHamza mentioned it'd be good to connect with the AI team at [COMPANY].\nUnderstood you checked out our platform in the past for annotation - was\nwondering if the coming weeks might be a better time to connect?\n\nQuick recap - we help physical AI teams e.g. 1X, Physical Intelligence and\nBoston Dynamics improve annotation quality. They come to us when scaling up\nreal-world data collection effort - for more automated annotation pipelines\nand integrated capabilities to curate datasets and send to labelling.\n\nIt'd be great to understand areas of the platform that aligns with your\ncurrent workflows at Maven. Would Friday morning work for a 30 mins chat?"
+},
+{
+"id": "353575318731",
+"subject": "Coffee in Austin - Perception data accuracy",
+"text": "Hi [NAME],\n\nWe just onboarded 1X, who like [COMPANY] is building models to understand &\ninteract with complex human environments. We'll be in Austin next week &\nwanted to see if you'd be up for a coffee? Thought you might find what\nwe've learned interesting.\n\nWhat Encord focuses on: improving data quality when real-world data\ncollection scales up. That's why we're unifying 2D and LiDAR annotation and\nVLM captioning in one platform - a niche we developed with robotics teams\ne.g. Physical Intelligence, Boston Dynamics, and Dyna Robotics.\n\nWould you be open to exchange perspectives? We're in Austin Wed (10/19) to\nThurs (10/20) next week - can swing by your office or meet at a coffee shop\nnearby."
+},
+{
+"id": "353587492072",
+"subject": "Encord <> [COMPANY]",
+"text": "Hi [NAME] and [SENDER],\n\nBeen following [COMPANY] for a bit now and curious to hear how it's going.\n\nWe are partnering with defense and security teams like Skydio and the Royal\nNavy, not just to speed up model development, but to build long-term data\ninfrastructure.\n\nWould love to check in with you and see if there's a scope for\ncollaboration now or in the future. Are you available next week? Looping in\n[SENDER] (CC) to schedule for us."
+},
+{
+"id": "353596996847",
+"subject": "Coffee in Austin - autonomous driving data",
+"text": "Congrats on your recent founding announcement - [NAME]! How are you\nthinking about changing training data requirements as [COMPANY]'s L4 system &\ndelivery robots expand into different locations?\n\nYou might find our learnings with other autonomous driving teams (Woven by\nToyota, Wayve, Motional, etc.) interesting. From our perspective -\niteration speed is critical when it comes to improving perception model\nperformance in long tail scenarios.\n\nWe solve this by integrating data curation, autolabelling and human review\non 2D and point cloud data in one unified front end.\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353597257924",
+"subject": "[SENDER] / [NAME]",
+"text": "Hi [NAME],\n\nImpressive work you are doing at Firmatek. Was just curious if you are\nalready training any models?\n\nWould love to grab a virtual coffee to dive deeper into how we've been\npartnering with teams like Woven by Toyota and Zipline to fuse their 2D and\n3D ML pipelines - not just to speed up development, but to build long-term\ninfrastructure for perception workflows."
+},
+{
+"id": "353602756838",
+"subject": "Coffee in Austin - surgical robot reliability",
+"text": "Hi [NAME],\n\nI wanted to reach out since our leadership team will be in Austin next\nweek. We work with surgical robotic teams e.g. Moon Sugrical, Kaliber Labs\nand Telos Health who, similar to [COMPANY], are building high-precision\nsystems for operations - it'd be great to connect whilst we're in town!\n\nFor context - we help surgical AI teams improve annotation reliability.\nWith Encord, they can better orchestrate annotation to QA workflows, reduce\nmanual labelling times and refocus clinical expert effort on label quality.\nWe've also built our tool to capture the granularities of surgical contexts\n- complex schema and coordination between modalities (image, video, DICOM,\nNiFTI, etc.)\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353603013869",
+"subject": "Multimodal Dataset / E-MM1",
+"text": "Hey [NAME]\n\nHope you enjoyed exploring the Encord multimodal dataset (E-MM1)! I've\nactually met your colleague Amrith at CVPR earlier this year - what a small\nworld!\n\nI'd love to hear what caught your eye within the dataset - we'll gladly\nshare more behind the scenes on how we put this collection together. (& you\nmight also find our work with Maxar on high-res geospatial data annotation\ninteresting.\n\nWould love to chat more - how's this Friday morning looking for you?"
+},
+{
+"id": "353604761812",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353734410426",
+"subject": "Coffee in Austin - perception pipeline",
+"text": "Congrats on your recent founding announcement - [NAME]! How are you\nthinking about changing perception data requirements as [COMPANY]'s L4 system\n& delivery robots expand into different locations?\n\nYou might find our learnings with other autonomous driving teams (Woven by\nToyota, Wayve, Motional, etc.) interesting. From our perspective -\niteration speed is critical when it comes to improving perception model\nperformance in long tail scenarios.\n\nWe're solving this by integrating data curation, autolabelling and human\nreview on 2D and point cloud data in one unified front end.\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353756671199",
+"subject": "Coffee in Austin - Surgical data accuracy",
+"text": "Hi [NAME],\n\nI wanted to reach out since our leadership team will be in Austin next\nweek. We work with surgical robotic teams e.g. Moon Sugrical, Kaliber Labs\nand Telos Health who, similar to [COMPANY], are building high-precision\nsystems for operations - it'd be great to connect.\n\nFor context - we help surgical AI teams improve annotation reliability.\nWith Encord, they can better orchestrate annotation to QA workflows,\nreducing manual labelling times and refocus clinical expert effort on label\nquality. We've also built our tool to capture the granularities of surgical\ncontexts - complex onotology and coordination between modalities (image,\nvideo, DICOM, NiFTI, etc.)\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353797190895",
+"subject": "Encord - perception data annotation",
+"text": "Hi [NAME],\n\nHamza mentioned it'd be good to connect with the AI team at [COMPANY]\non annotation efficiency. Seems like you're scaling up data collection\neffort - wanted to see if you'd be open to a quick chat in the coming days?\n\nFor contexts - we help 1X, Physical Intelligence and Boston Dynamics\nimprove annotation quality. We focus on automating annotation pipelines and\nintegrating capabilities to curate datasets and send to labelling in one\nplace.\n\nIt'd be great to understand those that align with your current workflows at\nMaven. Would Friday morning work for a 30 mins chat?"
+},
+{
+"id": "353808958675",
+"subject": "Thoughts on perception tooling",
+"text": "Hi [NAME],\n\nI've been following AEye's work on 4Sight, and it's a really impressive\napproach to 4D LiDAR perception. Thought I'd reach out as I've recently\nbeen working with teams from Woven by Toyota, Zipline, and Boston Dynamics\nto fuse their 2D and 3D ML pipelines in Encord.\n\nAs a result, we've been building out LiDAR-specific functionality in close\ncollaboration with their AI teams, and are now looking to work with others\nleading the space like AEye to help shape the next wave of perception\ntooling.\n\nWould you be open to a short chat to see the platform and share your\nperspective? I'd love to get your candid feedback and compare notes on\nwhere perception data infrastructure is heading.\n\nI'm SF-based and happy to come by next week and give you a demo (Thursday's\nopen my side) - or we can set up a quick virtual call if easier."
+},
+{
+"id": "353808966871",
+"subject": "Encord",
+"text": "Hi [NAME] Chen, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353809019090",
+"subject": "Coffee in Austin - perception data",
+"text": "Congrats on your recent founding announcement - Andrey! How are you\nthinking about changing training data requirements as [COMPANY]'s L4 system &\ndelivery robots expand into different locations?\n\nYou might find our learnings with other autonomous driving teams (Woven by\nToyota, Wayve, Motional, etc.) interesting. From our perspective -\niteration speed is critical when it comes to improving perception model\nperformance in long tail scenarios.\n\nWe're solving this by integrating data curation, autolabelling and human\nreview on 2D and point cloud data in one unified front end.\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353810340061",
+"subject": "AEye's future of perception tooling",
+"text": "Hi [NAME],\n\nI've been following AEye's work on 4Sight, and it's a really impressive\napproach to 4D LiDAR perception. Thought I'd reach out as I've recently\nbeen working with teams from Woven by Toyota, Zipline, and Boston Dynamics\nto fuse their 2D and 3D ML pipelines in Encord.\n\nAs a result, we've been building out LiDAR-specific functionality in close\ncollaboration with their AI teams, and are now looking to work with others\nleading the space like AEye to help shape the next wave of perception\ntooling.\n\nWould you be open to a short chat to see the platform and share your\nperspective? I'd love to get your candid feedback and compare notes on\nwhere perception data infrastructure is heading.\n\nI'm SF-based and happy to come by next week and give you a demo (Thursday's\nopen my side) - or we can set up a quick virtual call if easier."
+},
+{
+"id": "353810484440",
+"subject": "Re: fusing AEyes 2D and 3D ML pipelines",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work on 4Sight, and it's a really impressive\napproach to 4D LiDAR perception. Thought I'd reach out as I've recently\nbeen working with teams from Woven by Toyota, Zipline, and Boston Dynamics\nto fuse their 2D and 3D ML pipelines in Encord.\n\nAs a result, we've been building out LiDAR-specific functionality in close\ncollaboration with their AI teams, and are now looking to work with others\nleading the space like [COMPANY] to help shape the next wave of perception\ntooling.\n\nWould you be open to a short chat to see the platform and share your\nperspective? I'd love to get your candid feedback and compare notes on\nwhere perception data infrastructure is heading.\n\nI'm SF-based too and happy to come by next week and give you a demo\n(Thursday's open my side) - or we can set up a quick virtual call if easier."
+},
+{
+"id": "353810667729",
+"subject": "Re: thoughts on the future of perception tooling",
+"text": "Hi [NAME],\n\nI've been following AEye's work on 4Sight, and it's a really impressive\napproach to 4D LiDAR perception. Thought I'd reach out as I've recently\nbeen working with teams from Woven by Toyota, Zipline, and Boston Dynamics\nto fuse their 2D and 3D ML pipelines in Encord.\n\nAs a result, we've been building out LiDAR-specific functionality in close\ncollaboration with their AI teams, and are now looking to work with others\nleading the space like AEye to help shape the next wave of perception\ntooling.\n\nWould you be open to a short chat to see the platform and share your\nperspective? I'd love to get your candid feedback and compare notes on\nwhere perception data infrastructure is heading.\n\nI'm SF-based and happy to come by next week and give you a demo (Thursday's\nopen my side) - or we can set up a quick virtual call if easier."
+},
+{
+"id": "353810688209",
+"subject": "Intro Encord <> [NAME]",
+"text": "Hi [NAME],\n\nVery curious about your stealth company - sounds like it's right down our\nalley. I've also been following AEye's work on 4Sight, really impressive\napproach to 4D LiDAR perception.\n\nAt Encord, we've been partnering with teams like Woven by Toyota and\nZipline to fuse their 2D and 3D ML pipelines - not just to speed up\ndevelopment, but to build long-term infrastructure for perception workflows.\n\nI just moved to the Bay Area from Germany and would love to chat to learn\nmore about what you're building and where you're taking the platform. Let's\nfind some time - happy to come by your office. Looping in [SENDER] (CC) to\nschedule for us."
+},
+{
+"id": "353812852984",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353824153795",
+"subject": "Coffee in Austin - Surgical data accuracy",
+"text": "Hi [NAME],\n\nI wanted to reach out since our leadership team will be in Austin next\nweek. We work with surgical robotic teams e.g. Moon Sugrical, Kaliber Labs\nand Telos Health who, similar to [COMPANY], are building high-precision\nsystems for operations - it'd be great to connect while we're in town.\n\nFor context - we help surgical AI teams improve annotation reliability.\nWith Encord, they can better orchestrate annotation to QA workflows,\nreducing manual labelling times and refocus clinical expert effort on label\nquality. We've also built our tool to capture the granularities of surgical\ncontexts - complex onotology and coordination between modalities (image,\nvideo, DICOM, NiFTI, etc.)\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353859214559",
+"subject": "Coffee in Austin - surgical robot op",
+"text": "Hi [NAME],\n\nI wanted to reach out since our leadership team will be in Austin next\nweek. We work with surgical robotic teams e.g. Moon Sugrical, Kaliber Labs\nand Telos Health who, similar to [COMPANY], are building high-precision\nsystems for operations - it'd be great to connect.\n\nFor context - we help surgical AI teams improve annotation reliability.\nWith Encord, they can better orchestrate annotation to QA workflows,\nreducing manual labelling times and refocus clinical expert effort on label\nquality. We've also built our tool to capture the granularities of surgical\ncontexts - complex onotology and coordination between modalities (image,\nvideo, DICOM, NiFTI, etc.)\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353895759058",
+"subject": "Intro Encord & Atomos",
+"text": "Will, Ryan, and [NAME],\n\nI saw you are hiring a principal research engineer. Love seeing your team\ngrowing!\n\nI've been following your journey from Fathom to Atomos, really exciting\nstuff. We've been partnering with Robotics teams like 1X and Physical\nIntelligence - they are using our Physical AI Suite to streamline their\ndata annotation workflows.\n\nCould be valuable to exchange perspectives and see if there's scope for\ncollaboration now or down the line. Lmk when's a good time. Monday/Tuesday\nis open on my side. Looping in [SENDER] (CC) to schedule for us."
+},
+{
+"id": "353914144964",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353916219603",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353949866184",
+"subject": "Intro Encord",
+"text": "Hi [NAME],\n\nVery cool what you are building at STAIDIUM - I used to play football when\nI was young, and I would have loved that.\n\nI wanted to check in and see if you are training any AI models currently\nand what your data annotation workflows look like.\n\nWe are working with sports analytics companies like Veo and Spiideo - not\njust to speed up model development, but to build long-term infrastructure.\n\nAre you available for a call this Friday or next Monday?"
+},
+{
+"id": "353966361841",
+"subject": "Encord x [COMPANY]",
+"text": "Pranu, [NAME], and Nikolaos,\n\nCongrats on your partnership with Tiffany!\n\nI wanted to reach out and check how it's going with [COMPANY]. Surveillance is\nour bread and butter - we are working with 200+ AI teams to accelerate\ntheir model development by consolidating large-scale data curation,\nannotation, workflow automation, and model eval in one platform.\n\nI imagine [COMPANY] already has a strong foundation, but it could be valuable\nfor both sides to exchange perspectives and see if there's scope for\ncollaboration now or down the line.\n\nAre you available early next week?"
+},
+{
+"id": "354055826679",
+"subject": "Encord",
+"text": "Hi [NAME] Zhuoqi, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354502191331",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354656813256",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354678726849",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354708820198",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354726292666",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354771237097",
+"subject": "NeurIPS meet - up?",
+"text": "Hi [NAME],\n\nAre you going to be at NeurIPS this year? Would be great to meet for a\ncoffee and catch up.\n\nYou might find our learnings with other AI-powered camera teams\n(Metropolis, Flock Safety, Milestone Systems) interesting. We focus on\nhelping them utilize camera data (especially video) to train AI models at\nscale - with more efficient curation methods and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nHappy to put something on the calendar already - I am sure it's going to be\na busy week."
+},
+{
+"id": "354772861118",
+"subject": "NeurIPS - Private AI Leaders Dinner invite",
+"text": "Hi [NAME],\n\nWill you be at NeurIPS in San [SENDER] next month?\n\nEncord is hosting an exclusive dinner to kick off the conference. In case you're not familiar with Encord - we're an SF and London-based data development platform (working with teams like Woven by Toyota, Skydio, Zipline, Dyna Robotics) built to help AI teams get better models to market, faster.\n\nIt'll be a group of other AI/ML leaders from across the industry at dinner, so it will be a great way to meet different people. We'd love to have you there if you're available and interested.\n\nKey details:\n2 December, 6.30pm - 9pm Herb and Wood: [LINK] (top rated restaurant in San [SENDER]) Exclusive room and bar for 30+ AI leaders Let me know if you'd like to join us, and I'll send you the invite."
+},
+{
+"id": "354776082620",
+"subject": "Coffee in Austin - LPR accuracy",
+"text": "Hi [NAME],\n\nI saw Flash recently updated the camera spec - curious how you're thinking\nabout improving vision model accuracy with the new data inputs?\n\nYou might find our learnings with other AI-powered camera teams\n(Metropolis, Flock Safety, Milestone Systems) interesting. We focus on\nhelping them utilize camera data (especially video) to train AI models at\nscale - with more efficient curation method and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nOur leadership team will be in Austin Wed (10/19) to Thurs (10/20) - would\nyou be open to a coffee?"
+},
+{
+"id": "354783858920",
+"subject": "Finding specific data within logs",
+"text": "Hi [NAME],\n\nI've spoken so some of your colleagues in the perception team in regard to\nthe in-house ML tooling and a few of the challenges around finding specific\ndata within logs.\n\nWe work with teams like Skydio and Zeitview, and recently built\nfunctionality for Zipline that I think could be particularly relevant to\n[COMPANY] - e.g. a data management platform that helps teams curate large\ndatasets and quickly find the most relevant moments in video using\nembeddings, similarity, and natural language search.\n\nZeitview were able to double their dataset size and throughout while\nreducing team size - you can find the case study here\n<[LINK]>\n.\n\nWould you be open to a quick call to see whether this could be useful for\n[COMPANY], now or in the future? Monday or Thursday next week would work on our\nside but happy to flex."
+},
+{
+"id": "354797523190",
+"subject": "Coffee in Austin - Encord",
+"text": "Hi [NAME],\n\nI was in touch with Jaewoon earlier this year - sounds like improving pick\n& place accuracy is a focus for your team. He also mentioned you're the\nbest person to connect with on annotation pipeline - so I was wondering if\nyou'd be open to a coffee while we're in Austin?\n\nFrom our perspectives - label accuracy is an area we can explore. We've\nbeen solving similar challenges with Osaro, Ambi Robotics and Pickle Robot\n- whom similar to Contoro requires precise segmentation + 3D -> 2D\nprojection.\n\nWould love to get your thoughts on annotation pipeline automation &\naccuracy. We'll be in town Wed (10/19) and Thurs (10/20) next week - would\nsometime in the afternoon work for a coffee?"
+},
+{
+"id": "354803663050",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+}
+]

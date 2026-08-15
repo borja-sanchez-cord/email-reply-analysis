@@ -1,0 +1,202 @@
+[
+{
+"id": "253286646975",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "253289214156",
+"subject": "Encord & [COMPANY]",
+"text": "Hi [NAME],\n\nPretty cool to read up about the acquisition of Mirriad's - very impressive\nto see the young AI company buying up the legacy player. We work\nwith Synthesia, Flawless, Captions and other content AI companies who\nstruggled with ensuring annotators actually label with care (rather than\nrushing for incentives).\n\nWe've helped those teams navigate that balance ssing our data analytics\nsuite to identify the most valuable samples to label or review, and by\nbuilding QA workflows around HITL annotation - so high-impact samples get\nhigh-quality labels, every time.\n\nIn case encord isn't familiar - we're a multimodal data curation and\nannotation platform (Series B, $50m raised, 100+ FTEs).\n\nWould love to set up a time to see if we can support you with any\nchallenges in your ML pipeline and introduce ourselves  - let me know if\nyou're free for a quick call and demo of our platform?"
+},
+{
+"id": "253290383595",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. With injection attacks becoming more common in the IDV space, I thought solving for model accuracy in high-stake situations might be something on your mind? \n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about the data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253290424545",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "253290770636",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given FaceTec's operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about data to model performance feedback loop at FaceTec? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253290890487",
+"subject": "Encord & Verdant",
+"text": "Hi [NAME],\n\nCongratulations on Verdant making THRIVE's Top 50 - looks like you're\nbuilding something really impactful in CV. We work with teams like Aigen\n(robotics for de-weeding) who used to struggle with surfacing the right\nedge cases for annotation - it was hurting their model performance. These\ndays, we mostly help them curate the right data and tie that directly into\ntheir annotation workflows, which has made a big difference and streamlined\ntheir ML pipelines as they scale into new use cases.\n\nNot sure how familiar you are with Encord - we're a data development\nplatform focused on helping CV and multimodal teams build better models\n(been around ~5 years, 70+ people, backed by top VCs).\n\nWould you be up for a quick intro call to see if we could help in any way?"
+},
+{
+"id": "253292733628",
+"subject": "Encord & Verdant \u2013 CV for de-weeding",
+"text": "Hi [NAME],\n\nCongratulations on Verdant making THRIVE's Top 50 - looks like you're\nbuilding something really impactful in CV. We work with teams like Aigen\n(robotics for de-weeding) who used to struggle with surfacing the right\nedge cases for annotation - which was hurting their model performance.\nThese days, we mostly help them curate the right data and tie that directly\ninto their annotation workflows, which has made a big difference and\nstreamlined their ML pipelines as they scale into new use cases.\n\nNot sure how familiar you are with Encord - we're a data development\nplatform focused on helping CV and multimodal teams build better models\n(been around ~5 years, 70+ people, backed by top VCs).\n\nWould you be up for a quick intro call to see if we could help in any way?"
+},
+{
+"id": "253293224122",
+"subject": "Model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253353505014",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given Aware's operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at Aware, Inc.? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253363631338",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Zipline, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "253376174314",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "253376565442",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given FaceTec's operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about data to model performance feedback loop at FaceTec? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253378106578",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about the data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253378153672",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - We support over 200 AI teams to close the feedback loop on model performance faster. They typically leverage our workflow orchestrator (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about the data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253378234586",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253378270400",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253378288826",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253378301158",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253379659999",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "253381703903",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "253381856460",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. With injection attacks becoming more common in the IDV space, I thought solving for model accuracy in high-stake situations might be something on your mind? \n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about the data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253382280387",
+"subject": "Encord & [COMPANY]",
+"text": "Hi [NAME],\n\nCongratulations on Verdant making THRIVE's Top 50 - looks like you're\nbuilding something really impactful in CV. We work with teams like Aigen\n(robotics for de-weeding) who used to struggle with surfacing the right\nedge cases for annotation - it was hurting their model performance. These\ndays, we mostly help them curate the right data and tie that directly into\ntheir annotation workflows, which has made a big difference and streamlined\ntheir ML pipelines as they scale into new use cases.\n\nNot sure how familiar you are with Encord - we're a data development\nplatform focused on helping CV and multimodal teams build better models\n(been around ~5 years, 70+ people, backed by top VCs).\n\nWould you be up for a quick intro call to see if we could help in any way?"
+},
+{
+"id": "253392021722",
+"subject": "Encord & [COMPANY]",
+"text": "Hi [NAME],\n\nPretty cool to read up about the acquisition of Mirriad's - very impressive\nto see the young AI company buying up the legacy player. We work\nwith Synthesia, Flawless, Captions and other content AI companies who\nstruggled with ensuring annotators actually label with care (rather than\nrushing for incentives).\n\nWe've helped those teams navigate that balance ssing our data analytics\nsuite to identify the most valuable samples to label or review, and by\nbuilding QA workflows around HITL annotation - so high-impact samples get\nhigh-quality labels, every time.\n\nIn case encord isn't familiar - we're a multimodal data curation and\nannotation platform (Series B, $50m raised, 100+ FTEs).\n\nWould love to set up a time to see if we can support you with any\nchallenges in your ML pipeline and introduce ourselves  - let me know if\nyou're free for a quick call and demo of our platform?"
+},
+{
+"id": "253392085226",
+"subject": "Encord & Athena",
+"text": "Hi [NAME],\n\nCongratulations on the merger with Sightline - excited to hear what's in\nAthena's journey. We've recently started working with Anduril and Shield\nAI's CV teams, who were facing challenges with curating edge case datasets\nand tracking small objects on the horizon (often just a few pixels). I\nwanted to check if you're encountering similar issues?\n\nWe're helping them improve dataset curation with embedding and similarity\nsearch, and automating tracking with SAM2 and interpolation techniques for\nsmoother ML pipelines.\n\nIf Encord's new to you, we're a multimodal data curation and annotation\nplatform with a focus on video. We're Series B, have raised $50M, and now\nhave over 120 employees.\n\nWould love to find time to introduce ourselves. Let me know if you're free\nfor a quick chat in the next few weeks."
+},
+{
+"id": "253413799156",
+"subject": "Encord & Verdant",
+"text": "Hi [NAME],\n\nCongratulations on Verdant making THRIVE's Top 50 - looks like you're\nbuilding something really impactful in CV. We work with teams like Aigen\n(robotics for de-weeding) who used to struggle with surfacing the right\nedge cases for annotation - which was hurting their model performance.\nThese days, we mostly help them curate the right data and tie that directly\ninto their annotation workflows, which has made a big difference and\nstreamlined their ML pipelines as they scale into new use cases.\n\nNot sure how familiar you are with Encord - we're a data development\nplatform focused on helping CV and multimodal teams build better models\n(been around ~5 years, 70+ people, backed by top VCs).\n\nWould you be up for a quick intro call to see if we could help in any way?"
+},
+{
+"id": "253436099791",
+"subject": "Encord & [COMPANY]",
+"text": "Hi [NAME],\n\nPretty cool to read up about the acquisition of Mirriad's - very impressive\nto see the young AI company buying up the legacy player. We work\nwith Synthesia, Flawless, Captions and other content AI companies who\nstruggled with ensuring annotators actually label with care (rather than\nrushing for incentives).\n\nWe've helped those teams navigate that balance ssing our data analytics\nsuite to identify the most valuable samples to label or review, and by\nbuilding QA workflows around HITL annotation - so high-impact samples get\nhigh-quality labels, every time.\n\nIn case encord isn't familiar - we're a multimodal data curation and\nannotation platform (Series B, $50m raised, 100+ FTEs).\n\nWould love to set up a time to see if we can support you with any\nchallenges in your ML pipeline and introduce ourselves  - let me know if\nyou're free for a quick call and demo of our platform?"
+},
+{
+"id": "253443330289",
+"subject": "Encord & Athena",
+"text": "Hi [NAME],\n\nCongratulations on the merger with Sightline - excited to hear what's in\nAthena's journey. We've recently started working with Anduril and Shield\nAI's CV teams, who were facing challenges with curating edge case datasets\nand tracking small objects on the horizon (often just a few pixels). I\nwanted to check if you're encountering similar issues?\n\nWe're helping them improve dataset curation with embedding and similarity\nsearch, and automating tracking with SAM2 and interpolation techniques for\nsmoother ML pipelines.\n\nIf Encord's new to you, we're a multimodal data curation and annotation\nplatform with a focus on video. We're Series B, have raised $50M, and now\nhave over 120 employees.\n\nWould love to find time to introduce ourselves. Let me know if you're free\nfor a quick chat in the next few weeks."
+},
+{
+"id": "253502180582",
+"subject": "Encord & Verdant",
+"text": "Hi [NAME],\n\nCongratulations on Verdant making THRIVE's Top 50 - looks like you're\nbuilding something really impactful in CV. We work with teams like Aigen\n(robotics for de-weeding) who used to struggle with surfacing the right\nedge cases for annotation - which was hurting their model performance.\nThese days, we mostly help them curate the right data and tie that directly\ninto their annotation workflows, which has made a big difference and\nstreamlined their ML pipelines as they scale into new use cases.\n\nNot sure how familiar you are with Encord - we're a data development\nplatform focused on helping CV and multimodal teams build better models\n(been around ~5 years, 70+ people, backed by top VCs).\n\nWould you be up for a quick intro call to see if we could help in any way?"
+},
+{
+"id": "253517379772",
+"subject": "Encord & [COMPANY]",
+"text": "Hi [NAME],\n\nPretty cool to read up about the acquisition of Mirriad's - very impressive\nto see the young AI company buying up the legacy player. We work\nwith Synthesia, Flawless, Captions and other content AI companies who\nstruggled with ensuring annotators actually label with care (rather than\nrushing for incentives).\n\nWe've helped those teams navigate that balance ssing our data analytics\nsuite to identify the most valuable samples to label or review, and by\nbuilding QA workflows around HITL annotation - so high-impact samples get\nhigh-quality labels, every time.\n\nIn case encord isn't familiar - we're a multimodal data curation and\nannotation platform (Series B, $50m raised, 100+ FTEs).\n\nWould love to set up a time to see if we can support you with any\nchallenges in your ML pipeline and introduce ourselves  - let me know if\nyou're free for a quick call and demo of our platform?"
+},
+{
+"id": "253517421813",
+"subject": "Encord & Athena \u2013 working with Anduril & Shield AI",
+"text": "Hi [NAME],\n\nCongratulations on the merger with Sightline - excited to hear what's next\nfor your company. We've recently started working with Anduril and Shield\nAI's CV teams, who were facing challenges with curating edge case datasets\nand tracking small objects on the horizon (often just a few pixels). I\nwanted to check if you're encountering similar issues?\n\nWe're helping them improve dataset curation with embedding and similarity\nsearch, and automating tracking with SAM2 and interpolation techniques for\nsmoother ML pipelines.\n\nIf Encord's new to you, we're a multimodal data curation and annotation\nplatform with a focus on video. We're Series B, have raised $50M, and now\nhave over 120 employees.\n\nWould love to find time to introduce ourselves. Let me know if you're free\nfor a quick chat in the next few weeks."
+},
+{
+"id": "253526368480",
+"subject": "Encord @ [COMPANY]",
+"text": "Hi [NAME],\n\nPretty cool to read up about the acquisition of Mirriad's - very impressive\nto see the young AI company buying up the legacy player. We work\nwith Synthesia, Flawless, Captions and other content AI companies who\nstruggled with ensuring annotators actually label with care (rather than\nrushing for incentives).\n\nWe've helped those teams navigate that balance ssing our data analytics\nsuite to identify the most valuable samples to label or review, and by\nbuilding QA workflows around HITL annotation - so high-impact samples get\nhigh-quality labels, every time.\n\nIn case encord isn't familiar - we're a multimodal data curation and\nannotation platform (Series B, $50m raised, 100+ FTEs).\n\nWould love to set up a time to see if we can support you with any\nchallenges in your ML pipeline and introduce ourselves  - let me know if\nyou're free for a quick call and demo of our platform?"
+},
+{
+"id": "253538986191",
+"subject": "Encord & Athena - working w/ Anduril & Shield AI",
+"text": "Hi [NAME],\n\nCongratulations on the merger with Sightline - excited to hear what's in\nAthena's journey. We've recently started working with Anduril and Shield\nAI's CV teams, who were facing challenges with curating edge case datasets\nand tracking small objects on the horizon (often just a few pixels). I\nwanted to check if you're encountering similar issues?\n\nWe're helping them improve dataset curation with embedding and similarity\nsearch, and automating tracking with SAM2 and interpolation techniques for\nsmoother ML pipelines.\n\nIf Encord's new to you, we're a multimodal data curation and annotation\nplatform with a focus on video. We're Series B, have raised $50M, and now\nhave over 120 employees.\n\nWould love to find time to introduce ourselves. Let me know if you're free\nfor a quick chat in the next few weeks."
+},
+{
+"id": "253725783267",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about the data to model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253765281987",
+"subject": "Model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253835228371",
+"subject": "Model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "253855207628",
+"subject": "Coffee with [SENDER] in Boston? - 6th August",
+"text": "Hi [NAME] - my co-founder [SENDER] will be in Boston/NYC visiting customers next week, so wanted to see if you'd be open to getting together for a quick coffee while he's in town.\n\nWe're building a multimodal AI data development platform - working with frontier teams including Boston Dynamics, Thinking Machine Labs & Onfido - to bring together data governance, annotation, and model evaluation in a single platform. \n\nWe'd love to explore if there's an opportunity to work with [COMPANY] in the near to mid-term - or to simply start a conversation now to build a relationship for the future.\n\nIt'd be great to say hello and meet in-person - any chance you're around for a quick coffee?"
+},
+{
+"id": "254035844318",
+"subject": "Coffee with [SENDER] in NYC - 7th/8th August?",
+"text": "Hi [NAME] - my co-founder [SENDER] will be in NYC next week, so wanted to see if you'd be open to getting together for a quick coffee while he's in town.\n\nWe're building a multimodal AI data development platform - working with frontier teams including Boston Dynamics, Thinking Machine Labs & Onfido - to bring together data governance, annotation, and model evaluation in a single platform. \n\nWe'd love to explore if there's an opportunity to work with [COMPANY] in the near to mid-term - or to simply start a conversation now to build a relationship for the future.\n\nIt'd be great to say hello and meet in-person - any chance you're around for a quick coffee?"
+},
+{
+"id": "254072156372",
+"subject": "Coffee with [SENDER] in NYC - 7th/8th August?",
+"text": "Hi [NAME] - my co-founder [SENDER] will be in NYC next week, so wanted to see if you'd be open to getting together for a quick coffee while he's in town.\n\nWe're building a multimodal AI data development platform - working with frontier teams including Boston Dynamics, Thinking Machine Labs & Onfido - to bring together data governance, annotation, and model evaluation in a single platform. \n\nWe'd love to explore if there's an opportunity to work with [COMPANY] in the near to mid-term - or to simply start a conversation now to build a relationship for the future.\n\nIt'd be great to say hello and meet in-person - any chance you're around for a quick coffee?"
+},
+{
+"id": "254079062262",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "254083609820",
+"subject": "Coffee with [SENDER] in NYC - 7th/8th August?",
+"text": "Hi [NAME] - my co-founder [SENDER] will be in NYC next week, so wanted to see if you'd be open to getting together for a quick coffee while he's in town.\n\nWe're building a multimodal AI data development platform - working with frontier teams including Boston Dynamics, Thinking Machine Labs & Onfido - to bring together data governance, annotation, and model evaluation in a single platform. \n\nWe'd love to explore if there's an opportunity to work with [COMPANY] in the near to mid-term - or to simply start a conversation now to build a relationship for the future.\n\nIt'd be great to say hello and meet in-person - any chance you're around for a quick coffee?"
+}
+]

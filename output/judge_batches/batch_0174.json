@@ -1,0 +1,202 @@
+[
+{
+"id": "280641175739",
+"subject": "Isabelle [SENDER] intro r.e. scaling Multimodal training data",
+"text": "Hey [NAME] - great to meet you,\n\n[SENDER] on my team reached out to Isabelle [SENDER] a few weeks ago, who suggested\nthat we get in touch with you\n\nI lead a Multimodal team here at Encord, working with several frontier AI\nteams including Thinking Machine Labs, Boston Dynamics & Wayve - helping\nthem to push the frontiers of their respective industries by building\nscalable multimodal annotation, curation, & model evaluation pipelines.\n\nImagine you very likely have a handle on lots of this tooling built\nin-house, but could be interesting to chat if there's an openness to\nconsolidate or explore more scalable tooling - happy to share some thoughts\non how we've helped similar enterprise teams to move to the next level of\nscale,\n\nLet me know if you'd be open to having a quick chat in the coming weeks,"
+},
+{
+"id": "280648674521",
+"subject": "[NAME] - still looking for partners for QA & Validation?",
+"text": "Hey [NAME],\n\nThinking back to our conversations earlier this year - and was curious to\nknow if you're still looking for additional partners for validating the\nperception stack / generating training data?\n\nOver the last six months we've seen lots of inbound demand from Physical AI\nteams (inc. Woven-by-Toyota, Motional, Aptiv) looking to diversify 3D point\ncloud annotations / verifications away from Scale AI, Kognik etc - so was\ncurious to hear if you're also open to exploring additional partners?\n\nKnow when we chatted previously we focused on the 2D curation stack - but\nhappy to find a time to set-up a demo of our 3D suite if this is of\ninterest?"
+},
+{
+"id": "280703623400",
+"subject": "Would love to chat, Pierre",
+"text": "Hi [NAME],\n\nHave been seeing lots of exciting Multimodal developments at [COMPANY] lately\n& thought it could be interesting to chat,\n\nAs a quick intro, I lead a Multimodal team at Encord, working closely w/\nseveral frontier teams (Thinking Machine Labs, Kyutai, ElevenLabs etc), to\nprovide the platform to help scale their Multimodal annotation, curation,\nand model evaluation pipelines.\n\nImagine you very likely have a handle on lots of this tooling already, but\ncould be interesting to chat if there's an openness to take a look at how\nother frontier teams are setting up for the next level of scale,\n\nLet me know if this sounds interesting & I'll suggest some times for the\ncoming weeks,"
+},
+{
+"id": "280721943738",
+"subject": "[NAME] - any big changes w/ annotations?",
+"text": "Hi [NAME] - hope you've had a good summer,\n\nBeen a few months since we last caught up - so curious to understand how\nyou're thinking about [COMPANY]'s annotation strategy over the coming\nmonths?\n\nKnow when we last spoke, seemed like there were a few different threads -\nwith the majority of labelling being classifications / objection detection\nand surgical video / VLM training making up a smaller proportion\n\nIs this still broadly the case, or are you looking to scale the more\ncomplex annotation use cases? (e.g. Video event tracking, Audio, VLM\nfine-tuning)\n\nLet me know if it makes sense to catch-up, & I'll be happy to suggest some\ntimes for the coming weeks,"
+},
+{
+"id": "280727693502",
+"subject": "Any big changes on annotation strategy?",
+"text": "Hi [NAME], [SENDER], Chris - hope you all had a great summer,\n\nBeen a while since we last spoke - & curious to hear how you're thinking\nabout annotation at [COMPANY] moving forwards?\n\nOn our side, we've been partnering closely with Thinking Machine Labs,\nKyutai, and Speechmatics to support complex emotion tagging &\ntranscriptions tasks - so was interested to understand if this is something\nyou were also open to revisit?\n\nLet me know if it makes sense to catch-up & will suggest some times for the\ncoming weeks,"
+},
+{
+"id": "280777383143",
+"subject": "Improve surgical annotation accuracy",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts - critical function to connect surgical insights with robotic operations. We've been working with Moon Surgical, Kaliber Labs, and Telos Health at similar intersections, helping them improve annotation consistency across surgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our capabilities like temporal interpolation & tracking, nested attributes, and workflow orchestration have helped them reduce manual labelling time, capture granular surgical context, and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with what you're seeing at [COMPANY]? We're flexible morning times CT."
+},
+{
+"id": "280790270194",
+"subject": "Physical AI Mixer @ Actuate SF - 23rd Sept",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on general-purpose humanoid robots, I thought there's\na good chance you might be at Actuate in a few weeks. We're hosting a\nPhysical AI Mixer walking distance from the main conference & we'd love to\nextend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm\non Tuesday, 23 Sept. With robotics leaders joining from Physical\nIntelligence, Zipline, Dyna Robotics and more (many of them you will see on\nstage at the conference!)\n\nFor context - Encord supports leading physical AI teams (e.g. Boston\nDynamics, Skydio & Woven by Toyota) automate their annotation pipelines at\nscale as well as unify image, video and point cloud data development in one\nplace, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280790308032",
+"subject": "[Encord] Physical AI Mixer @ Foxglove Actuate",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for incident resolution and thought you\nmight be at their conference Actuate in a few weeks. We're hosting a\nPhysical AI Mixer as a side event on Tuesday, 23 Sept and we'd love to\nextend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading physical AI teams e.g.\nBoston Dynamics, Skydio & Woven by Toyota. Mainly helping them automate\nannotation pipelines at scale as well as unify 2D + 3D data development in\none place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280792109267",
+"subject": "Physical AI Mixer @ Foxglove Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for incident resolution and thought you\nmight be at their conference Actuate in a few weeks. We're hosting a\nPhysical AI Mixer as a side event on Tuesday, 23 Sept and we'd love to\nextend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Skydio & Woven by Toyota. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280793962731",
+"subject": "Physical AI Mixer @ Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for debugging and thought you might be at\ntheir conference Actuate in a few weeks. We're hosting a Physical AI Mixer\nas a side event to the conference on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Fox Robotics & Skydio. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280795714747",
+"subject": "Physical AI Mixer @ Foxglove Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for incident resolution and thought you\nmight be at their conference Actuate in a few weeks. We're hosting a\nPhysical AI Mixer as a side event on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Skydio & Woven by Toyota. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280797475029",
+"subject": "Improve surgical annotation accuracy",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts - critical function to connect surgical insights with robotic operations. We've been working with Moon Surgical, Kaliber Labs, and Telos Health at similar intersections, helping them improve annotation consistency across surgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our capabilities like temporal interpolation & tracking, nested attributes, and workflow orchestration have helped them reduce manual labelling time, capture granular surgical context, and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with what you're seeing at [COMPANY]? We're flexible morning times PT."
+},
+{
+"id": "280804679905",
+"subject": "Physical AI Mixer @ Foxglove Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for incident resolution and thought you\nmight be at their conference Actuate in a few weeks. We're hosting a\nPhysical AI Mixer as a side event on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Skydio & Woven by Toyota. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280813640930",
+"subject": "Annotation consistency for surgical robots",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts - critical function to connect surgical insights with robotic operations. We've been working with Moon Surgical, Kaliber Labs and Telos Health at similar intersections, helping them improve annotation consistency across surgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our platform capabilities like temporal interpolation & tracking, nested attributes and workflow orchestration have helped them reduce manual labelling time, capture granular surgical context, and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with what you're seeing at [COMPANY]? We're flexible morning times PT."
+},
+{
+"id": "280813649121",
+"subject": "Physical AI Mixer @ Foxglove Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for incident resolution and thought you\nmight be at their conference Actuate in a few weeks. We're hosting a\nPhysical AI Mixer as a side event on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Skydio & Woven by Toyota. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280831106259",
+"subject": "Physical AI Mixer @ Actuate - 23rd Sept",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on general-purpose humanoid robots, I thought there's\na good chance you might be at Actuate in a few weeks. We're hosting a\nPhysical AI Mixer walking distance to the main conference, and we'd love\nfor you to join and keep the conversations going.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm\non Tuesday, 23 Sept. With robotics leaders joining from Physical\nIntelligence, Zipline, Dyna Robotics and more (many of them you will see on\nstage at the conference!)\n\nIn case Encord is new to you - we support leading physical AI teams (e.g.\nBoston Dynamics, Skydio & Woven by Toyota) automate their annotation\npipelines at scale as well as unify image, video and point cloud data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280834702569",
+"subject": "Physical AI Mixer @ Actuate - 23rd Sept",
+"text": "Hi [NAME],\n\nConsidering [COMPANY]'s focus on general-purpose humanoid robots, I thought\nthere's a good chance you might be at Actuate in a few weeks. We're hosting\na Physical AI Mixer nearby the main conference venue, and we'd love for you\nto join us + catch up!\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm\non Tuesday, 23 Sept. With robotics leaders joining from Physical\nIntelligence, Zipline, Dyna Robotics and more (many of them you will see on\nstage at the conference!)\n\nQuick update since you last heard [SENDER] - we now support leading\nPhysical AI teams (e.g. Boston Dynamics, Skydio & Zipline). Mainly help\nautomating their annotation pipelines at scale as well having expanded our\nplatform to support point cloud data.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280850320575",
+"subject": "Physical AI Mixer @ Foxglove Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for incident resolution and thought you\nmight be at their conference Actuate in a few weeks. We're hosting a\nPhysical AI Mixer as a side event on Tuesday, 23 Sept and we'd love to\nextend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading physical AI teams e.g.\nBoston Dynamics, Skydio & Woven by Toyota. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280859318512",
+"subject": "Encord - Catch up",
+"text": "Hi [NAME],\n\nMy colleague [SENDER] passed on your contact mentioning now might be a\nbetter time to reconnect.\n\nWe also just moved Honeycomb from Labelbox on a very similar insurance\nlabelling use case - thought we could share perspectives on why they\ndecided on the switch.\n\nWould next week make sense for a catch up? We're flexible morning times MT."
+},
+{
+"id": "280862914758",
+"subject": "Physical AI Mixer @ Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for debugging and thought you might be at\ntheir conference Actuate in a few weeks. We're hosting a Physical AI Mixer\nas a side event to the conference on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Fox Robotics & Skydio - helping them automate annotation\npipelines at scale as well as unify image, video & LiDAR data development\nin one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "280864704724",
+"subject": "Physical AI Mixer @ Foxglove Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for debugging and thought you might be at\ntheir conference Actuate in a few weeks. We're hosting a Physical AI Mixer\nas a side event to the conference on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Fox Robotics & Skydio. Mainly helping them automate\nannotation pipelines at scale as well as unify image, video & LiDAR data\ndevelopment in one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "281366365406",
+"subject": "[Invite] London AI Leaders Dinner - 23/09",
+"text": "Hi [NAME], Angela,\n\nHope you had a good summer - excited to share details of an upcoming event\nwe're hosting in London,\n\n[SENDER], our CEO, is hosting an intimate roundtable dinner for AI & Data\nLeaders in London and we'd love for you to join us.\n\nWe've reserved a private dining room for ~20 guests at the Coal Office,\nKings Cross on Tuesday 23rd September, starting at 6:30 PM. Confirmed\nattendees include CxOs and senior technical leaders from Synthesia,\nDeepMind, and Cohere.\n\nIt'll be an informal, open-format evening - no slides or pitches, just\nbringing together like-minded people to discuss their experiences &\nchallenges working with AI data.\n\nWould [NAME] be interested in joining / available on the 23rd?"
+},
+{
+"id": "281371294969",
+"subject": "Physical AI Mixer @ Actuate - 23 Sept",
+"text": "Hi [NAME],\n\nI saw your team is using Foxglove for debugging and thought you might be at\ntheir conference Actuate in a few weeks. We're hosting a Physical AI Mixer\nas a side event to the conference on Tuesday 23 Sept evening and we'd love\nto extend an invite.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm.\nWith robotics leaders joining from Physical Intelligence, Zipline, Dyna\nRobotics and more (many of them you will see on stage at the conference!)\n\nIn case Encord is new to you - we support leading Physical AI teams e.g.\nBoston Dynamics, Fox Robotics & Skydio - helping them automate annotation\npipelines at scale as well as unify image, video & LiDAR data development\nin one place, often as a complement to Foxglove.\n\nWe're capping the attendance to 40 guests - so let me know if you can make\nit!"
+},
+{
+"id": "281401143524",
+"subject": "Strawberry picking accuracy - Encord reconnect",
+"text": "Hi [NAME],\n\nI understand your team recently joined forces with Tortuga to scale automated strawberry harvesting. Presumably the robotic stacks are more integrated and your robotic fleet have increased in size, I wanted to see if now is a good time to reconnect? \n\nQuick update on Encord since you last heard from us: We onboarded Bloomfield AI on similar fruit harvesting use case (& in adjacent berry types!) We've also expanded our 3D modality support with for AgTech customers, with the goals of unifying 2D+3D annotation, dataset curation and label QA capabilities in one platform. All with the goal of accelerating data iteration cycles for more accurate vision systems (and missing fewer strawberries.)\n\nHow are you thinking about pick accuracy at [COMPANY]? We're flexible morning times ET if you're open to a catch up."
+},
+{
+"id": "281402556631",
+"subject": "[NAME] - any plans to scale Annotation?",
+"text": "Hey [NAME] - hope you had a good summer,\n\nJust tried to give you a quick call - curious to know if there's any plans\nto scale up annotation efforts at Sevensense?\n\nWe've recently released our Physical AI / 3D point cloud suite - following\nmonths of co-development with Woven-by-Toyota & Boston Dynamics - so was\ncurious to know if there were plans on the roadmap to annotate more either\nin 2D video or 3D point cloud?\n\nLet me know if this is something you're thinking about at Sevensense & will\nbe happy to find a time to chat,"
+},
+{
+"id": "281457400043",
+"subject": "[Invite] London AI Data Leaders Dinner - 23/09",
+"text": "Hi [NAME],\n\nOur CEO, [SENDER] is hosting an intimate roundtable dinner for AI & Data Leaders in London and we'd love for you to join us, if you're available.\n\nWe've reserved a private dining room for ~20 guests at the Coal Office, Kings Cross on Tuesday 23rd September, starting at 6:30 PM. Confirmed attendees include CxOs and senior technical leaders from Synthesia, DeepMind, and Cohere.\n\nIt'll be an informal, open-format evening - no slides or pitches, just bringing together like-minded people to discuss their experiences & challenges working with AI data.\n\nWould you be interested in joining / available on the 23rd?"
+},
+{
+"id": "281472521417",
+"subject": "Just called",
+"text": "Hi [NAME] - hope you had a good summer,\n\nLooking over notes from the team who mentioned that you could be open to\nre-evaluating Encord vs. Supervisely towards the end of this year?\n\nWe've been doing lots of work in the Sports Analytics / Advertising space -\nso wondering if you'd be open to having a quick catch-up to run through\nsome of the new product updates\n\nSeparately - we're hosting another AI dinner on the 23rd September - would\nyou be available to join?"
+},
+{
+"id": "281497404653",
+"subject": "Picking accuracy for autonomous strawberry harvest",
+"text": "Hi [NAME],\n\nI understand your team recently joined forces with Oishii to scale automated strawberry harvesting. We're supporting Bloomfield AI on similar vision-based fruit measurement models (in adjacent berry types!) I'd love to connect and see if some of the challenges they faced might resonate with you (presumably now the systems are more integrated.)\n\nIn case Encord is new to you - AgTech teams (e.g. Bloomfield AI, Carbon Robotics & Four Growers) work with us to streamline data annotation efforts. We help automate 2D and 3D annotation pipelines (e.g. object/ keypoint detection & instance segmentation) as well as unify dataset curation and label QA capabilities in one platform. All with the goal of accelerating data iteration cycles for more accurate vision systems (and missing fewer strawberries.)\n\nHow are you thinking about training data quality/ model accuracy? We're flexible morning times MT if you're open to exchanging insights."
+},
+{
+"id": "281498077433",
+"subject": "Improve surgical annotation accuracy",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts - a critical function to connect surgical insights with robotic operations. We've been working with Moon Surgical, Kaliber Labs, and Telos Health at similar intersections, helping them improve annotation consistency across surgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our capabilities like temporal interpolation & tracking, nested attributes and workflow orchestration have helped them reduce manual labelling time, capture granular surgical contexts (e.g. event detection or instrument use) and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with what you're seeing at [COMPANY]? We're flexible morning times PT."
+},
+{
+"id": "281528264914",
+"subject": "Your annotation pipeline can be more scalable",
+"text": "Hi [NAME],\n\nI understand your team recently joined forces with Tortuga to scale automated strawberry harvesting. Presumably the robotic stacks are more integrated and your robotic fleet have increased in size, I wanted to see if now is a good time to reconnect? \n\nQuick update on Encord since you last heard from us: We onboarded Bloomfield AI on similar fruit harvesting use case (& in adjacent berry types!) We've also expanded our 3D modality support with for AgTech customers, with the goals of unifying 2D+3D annotation, dataset curation and label QA capabilities in one platform. All with the goal of accelerating data iteration cycles for more accurate vision systems (and missing fewer strawberries.)\n\nHow are you thinking about pick accuracy at [COMPANY]? We're flexible morning times ET if you're open to a catch up."
+},
+{
+"id": "281579033821",
+"subject": "Surgical data annotation accuracy",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts -\ncritical function to connect surgical insights with robotic operations.\nWe've been working with Moon Surgical, Kaliber Labs, and Telos Health at\nsimilar intersections, helping them improve annotation consistency across\nsurgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our\ncapabilities like temporal interpolation & tracking, nested attributes, and\nworkflow orchestration have helped them reduce manual labelling time,\ncapture granular surgical context, and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with\nwhat you're seeing at [COMPANY]? We're flexible morning times PT."
+},
+{
+"id": "281579190466",
+"subject": "Picking accuracy for autonomous strawberry harvest",
+"text": "Hi [NAME],\n\nI understand your team recently joined forces with Oishii to scale automated strawberry harvesting. We're supporting Bloomfield AI on similar vision-based fruit measurement models (in adjacent berry types!) I'd love to connect and see if some of the challenges they faced might resonate with you (presumably now the systems are more integrated.)\n\nIn case Encord is new to you - AgTech teams (e.g. Bloomfield AI, Carbon Robotics & Four Growers) work with us to streamline data annotation efforts. We help automate 2D and 3D annotation pipelines (e.g. object/ keypoint detection & instance segmentation) as well as unify dataset curation and label QA capabilities in one platform. All with the goal of accelerating data iteration cycles for more accurate vision systems (and missing fewer strawberries.)\n\nHow are you thinking about training data quality/ model accuracy? We're flexible morning times MT if you're open to exchanging insights."
+},
+{
+"id": "281588803770",
+"subject": "Surgical video - annotation accuracy",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts -\ncritical function to connect surgical insights with robotic operations.\nWe've been working with Moon Surgical, Kaliber Labs, and Telos Health at\nsimilar intersections, helping them improve annotation consistency across\nsurgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our\ncapabilities like temporal interpolation & tracking, nested attributes, and\nworkflow orchestration have helped them reduce manual labelling time,\ncapture granular surgical context, and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with\nwhat you're seeing at [COMPANY]? We're flexible morning times PT."
+},
+{
+"id": "281603762408",
+"subject": "Scaling up annotation for FruitScope Vision",
+"text": "Congrats on the Series A announcement [NAME]!\n\nI imagine your data collection effort is growing as FruitScope is deployed\nonto more farms. We've supported many AgTech companies (Carbon Robotics,\nFour Growers and Bloomfield AI) on similar journeys. I'd love to connect\nand see if some of the challenges they faced might resonate with you.\n\nFor context, Encord helps your annotation pipelines be more scalable by\nautomating object detection/ classfication tasks/ We also integrate\nlabelling with dataset curation and label QA capabilities - all with the\ngoal of accelerating model iteration cycles and increasing annotation\nefficiency.\n\nHow are you thinking about scaling your training data? We're flexible\nmorning times PT if you're open to a chat."
+},
+{
+"id": "281630973115",
+"subject": "Surgical video - annotation accuracy",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] is expanding surgical data annotation efforts - a\ncritical function to connect surgical insights with robotic operations.\nWe've been working with Moon Surgical, Kaliber Labs, and Telos Health at\nsimilar intersections, helping them improve annotation consistency across\nsurgical video, robotic ops and medical imaging (DICOM/NIfTI).\n\nWith Encord, surgical teams consolidate these tasks in one platform. Our\ncapabilities like temporal interpolation & tracking, nested attributes, and\nworkflow orchestration have helped them reduce manual labelling time,\ncapture granular surgical contexts and flag deviations more reliably.\n\nWould you be open to a quick chat to see if those challenges resonate with\nwhat you're seeing at [COMPANY]? We're flexible morning times PT."
+},
+{
+"id": "281694491842",
+"subject": "In the Loop: Human Data Roundtable - Sept 10 SF",
+"text": "Hi [NAME],\n\nOur President, [SENDER] is co-hosting an intimate roundtable for Human\nData leaders with our partner Prolific on Wednesday, Sept 10 in SF. We'd\nlove to extend an invite.\n\nThe event will run from 6:30 pm- 9:30pm, and with guests and experts\njoining from leading AI labs and companies including Adobe, Luma AI, Canva,\netc.\n\nHuman expertise is at the heart of effective AI. That's why Encord and\nProlific are creating space for peer conversations amongst leaders who\ncollect, curate, and validate the data that powers the most exciting models\ntoday.\n\nWe're keeping to max 20 people - so let me know if you can make it!"
+},
+{
+"id": "282005994683",
+"subject": "[Encord] Physical AI Mixer @ Actuate - 23rd Sept",
+"text": "Hey [NAME], [NAME],\n\nIt's been a while, how's things?\n\nExpect you might be at Actuate\n<[LINK]>\nin a few weeks, I noticed Vivek is speaking! We're sponsoring the event &\nhosting a Physical AI Mixer just a few steps from the main conference, we'd\nlove for you both to join if you can make it.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm\non Tuesday, 23 Sept. With execs joining from Physical Intelligence,\nZipline, Dyna Robotics, Agility Robotics, BotCo, Nimble Robotics etc. (many\nof them you will see on stage at the conference!)\n\nWe're capping attendance to 40 guests - so let me know if you can make it!"
+},
+{
+"id": "282032159966",
+"subject": "[Encord] Physical AI Mixer @ Actuate - 23rd Sept",
+"text": "Morning [NAME],\n\nIt's been a while, how's things?\n\nExpect you might be at Actuate\n<[LINK]>\nin a few weeks. We're sponsoring the event & hosting a Physical AI Mixer\njust a few steps from the main conference, we'd love for you to join if you\ncan make it.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm\non Tuesday, 23 Sept. With execs joining from Physical Intelligence,\nZipline, Dyna Robotics, Agility Robotics, BotCo, Nimble Robotics etc. (many\nof them you will see on stage at the conference!)\n\nWe're capping attendance to 40 guests - so let me know if you can make it!"
+},
+{
+"id": "282064560315",
+"subject": "[Encord] Physical AI Mixer @ Actuate - 23rd Sept",
+"text": "Morning [NAME],\n\nIt's been a while, how's things?\n\nExpect you might be at Actuate\n<[LINK]>\nin a few weeks. We're sponsoring the event & hosting a Physical AI Mixer\njust a few steps from the main conference, we'd love for you to join if you\ncan make it.\n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm\non Tuesday, 23 Sept. With execs joining from Physical Intelligence,\nZipline, Dyna Robotics, Agility Robotics, BotCo, Nimble Robotics etc. (many\nof them you will see on stage at the conference!)\n\nWe're capping attendance to 40 guests - so let me know if you can make it!"
+},
+{
+"id": "282071326956",
+"subject": "Physical AI Mixer @ Actuate - 23rd Sept",
+"text": "Hi [NAME],\n\nI saw your colleague Austin is speaking at Foxglove's conference \"Actuate\" in SF in a few weeks - thought you might be attending too? We're hosting a Physical AI mixer alongside to the main conference - would love to extend an invite! \n\nWe've booked a private lounge at Ebb & Flow (open bar + food) from 6:30pm on Tuesday, 23 Sept. With robotics leaders joining from Physical Intelligence, Zipline, Dyna Robotics and more. \n\nQuick recap on Encord: We support leading physical AI teams (e.g. Boston Dynamics, Skydio & Woven by Toyota) automate their annotation pipelines at scale as well as unify image, video and point cloud data development in one place (often as a complement to Foxglove hence sponsoring the conference :) \n\nWe're capping the attendance to 40 guests - so let me know if you can make it!"
+}
+]

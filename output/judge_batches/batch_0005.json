@@ -1,0 +1,202 @@
+[
+{
+"id": "123156317378",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with Alcatraz, as we're\nseeing a lot of momentum in the fraud detection & broader digital identity\nspace of late, so keen to trade notes & build a relationship. Not sure if\nyour team has any plans to reevaluate their data curation & annotation\ninfra this year? Either way it'd be great to introduce ourselves & get your\nfeedback on what we're building. I've included a short blurb of what we do\nbelow.\n\nEncord is an SF-based data development platform (raised our Series B last\nyear) built to help computer vision & multimodal AI teams get better models\nto market, faster. 150+ of the world's top AI teams are leveraging Encord\nto:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123156794593",
+"subject": "Scaling ML at Gravis",
+"text": "Hey [NAME]\u200b,\n\nNoticed you recently joined Gravis to lead the perception team & were hiring for a Senior ML Engineer, so it seems like fine-tuning your ML models could be top of mind for this year?\n\nWe work with leading robotics CTOs (including Pickle Robot, Carbon Robotics & Dexory) who were on a similar growth trajectory to Gravis, and were frustrated by slow model re-training hurting their ability to launch new ML products.\n\nWe built Encord to help AI teams remove data bottlenecks (focusing on data curation, annotation & active learning), so you can realise new revenue opportunities, faster.\n\nOpen to learning more?"
+},
+{
+"id": "123156998369",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with Alcatraz, as we're\nseeing a lot of momentum in the fraud detection & broader digital identity\nspace of late, so keen to trade notes & build a relationship. Not sure if\nyour ML team has any plans to reevaluate their data curation & annotation\ninfra this year? Either way it'd be great to introduce ourselves & get your\nfeedback on what we're building. I've included a short blurb of what we do\nbelow.\n\nEncord is an SF-based data development platform (raised our Series B last\nyear) built to help computer vision & multimodal AI teams get better models\nto market, faster. 150+ of the world's top AI teams are leveraging Encord\nto:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123163103466",
+"subject": "[YEAR] AI roadmap",
+"text": "Hey [NAME]\u200b,\n\nCongratulations on your recent appointment as CTO - I've been following Korro for some time & was curious to understand how you're thinking about AI model re-training to drive product improvements this year?\n\nGiven the behavioural complexities I imagine you're tracking across occupational therapy and healthcare settings, thought it could be relevant to introduce how Encord can help you capture this complexity in the training data (& improve vs. basic annotation tooling). \n\nMany of the CTOs / Heads of AI we work with were frustrated by the architectures of their existing annotation tooling (often CVAT or V7) limiting their ability to capture rich information from images / videos, as these labelling structures only support one level of depth.\n\nWe built Encord to support dynamic and nested labelling architecture of infinite depth, so you build richer, and more insightful models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "123163800767",
+"subject": "[YEAR] AI roadmap",
+"text": "Hey [NAME]\u200b,\n\nI've been following Korro for some time & was curious to understand how you're thinking about AI model re-training to drive product improvements this year?\n\nGiven the behavioural complexities I imagine you're tracking across occupational therapy and healthcare settings, thought it could be relevant to introduce how Encord can help you capture this complexity in the training data (& improve vs. basic annotation tooling). \n\nMany of the CTOs / Heads of AI we work with were frustrated by the architectures of their existing annotation tooling (often CVAT or V7) limiting their ability to capture rich information from images / videos, as these labelling structures only support one level of depth.\n\nWe built Encord to support dynamic and nested labelling architecture of infinite depth, so you build richer, and more insightful models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "123163807932",
+"subject": "[YEAR] AI roadmap",
+"text": "Hey [NAME]\u200b,\n\nI've been following Korro for some time & was curious to understand how you're thinking about AI model re-training to drive product improvements this year?\n\nGiven the behavioural complexities I imagine you're tracking across occupational therapy and healthcare settings, thought it could be relevant to introduce how Encord can help you capture this complexity in the training data (& improve vs. basic annotation tooling). \n\nMany of the CTOs / Heads of AI we work with were frustrated by the architectures of their existing annotation tooling (often CVAT or V7) limiting their ability to capture rich information from images / videos, as these labelling structures only support one level of depth.\n\nWe built Encord to support dynamic and nested labelling architecture of infinite depth, so you build richer, and more insightful models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "123164147938",
+"subject": "[YEAR] AI roadmap",
+"text": "Hey [NAME]\u200b,\n\nI've been following [COMPANY] for some time & was curious to understand how you're thinking about AI model re-training to drive product improvements this year?\n\nGiven the behavioural complexities I imagine you're tracking across occupational therapy and healthcare settings, thought it could be relevant to introduce how Encord can help you capture this complexity in the training data (& improve vs. basic annotation tooling). \n\nMany of the CTOs / Heads of AI we work with were frustrated by the architectures of their existing annotation tooling (often CVAT or V7) limiting their ability to capture rich information from images / videos, as these labelling structures only support one level of depth.\n\nWe built Encord to support dynamic and nested labelling architecture of infinite depth, so you build richer, and more insightful models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "123178093813",
+"subject": "[YEAR] AI roadmap",
+"text": "Hey [NAME]\u200b,\n\nI've been following Korro for some time & was curious to understand how you're thinking about AI model re-training to drive product improvements this year?\n\nGiven the behavioural complexities I imagine you're tracking across occupational therapy and healthcare settings, thought it could be relevant to introduce how Encord can help you capture this complexity in the training data (& improve vs. basic annotation tooling). \n\nMany of the CTOs / Heads of AI we work with were frustrated by the architectures of their existing annotation tooling (often CVAT or V7) limiting their ability to capture rich information from images / videos, as these labelling structures only support one level of depth.\n\nWe built Encord to support dynamic and nested labelling architecture of infinite depth, so you build richer, and more insightful models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "123178189046",
+"subject": "[YEAR] AI roadmap",
+"text": "Hey [NAME]\u200b,\n\nI've been following Korro for some time & was curious to understand how you're thinking about AI model re-training to drive product improvements this year?\n\nGiven the behavioural complexities I imagine you're tracking across occupational therapy and healthcare settings, thought it could be relevant to introduce how Encord can help you capture this complexity in the training data (& improve vs. basic annotation tooling). \n\nMany of the CTOs / Heads of AI we work with were frustrated by the architectures of their existing annotation tooling (often CVAT or V7) limiting their ability to capture rich information from images / videos, as these labelling structures only support one level of depth.\n\nWe built Encord to support dynamic and nested labelling architecture of infinite depth, so you build richer, and more insightful models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "123184927982",
+"subject": "Encord AI Leaders Dinner",
+"text": "Hi [NAME],\n\n[SENDER] mentioned that you might be interested in attending our AI Leaders\nDinner on the 23rd @ Browns in Covent Garden.\n\nWe'll have cocktails first starting at 7:00pm and then dinner around 8:00\nor so. You can also join us later in the evening if that works better for\nyou.\n\nI just wanted to check in since we only have 1-2 spots left. Are you able\nto make it? If so, I'll send over an invite."
+},
+{
+"id": "123191789776",
+"subject": "AI event at GitHub HQ in SF",
+"text": "Hi [NAME],\n\nHope you enjoyed some down time over the holidays!\n\nThought I'd reach out as we're hosting an AI event at GitHub HQ in SF on\nJan 28th (and another at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA). For this one we're focusing on AI leaders operating in the\nPhysical AI space... for context we currently have confirmed speakers from\nArchetype AI, Spot AI, Physical Intelligence.\n\nThink you and [COMPANY] would be a great fit for this if you're open to it?\nEither way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n-"
+},
+{
+"id": "123199261944",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the digital authentication space, so keen to\ntrade notes & build a relationship. Not sure if your ML team has any plans\nto reevaluate their data infra stack this year? Either way it'd be great to\nintroduce ourselves & get your feedback on what we're building. I've\nincluded a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123199451336",
+"subject": "[RSVP]: London AI Leaders Dinner",
+"text": "Hey [NAME],\n\nNice to meet you - [SENDER] passed on your details for the London AI Leaders\ndinner we're hosting next Thursday.\n\nWe've got 25 guests confirmed, including Heads of AI from Dexory, Paper\nCup, and Eleven Labs.\n\nWe're hoping to confirm final numbers with the restaurant tomorrow - just\nchecking if you are able to join?"
+},
+{
+"id": "123200783551",
+"subject": "[COMPANY] <> Encord | Reconnect",
+"text": "Hey [NAME],\n\n\u00c7a fait un petit moment - j'esp\u00e8re que tout va bien de ton c\u00f4t\u00e9 et je te\nsouhaite une bonne ann\u00e9e!\n\nJ'ai \u00e9chang\u00e9 avec Saman r\u00e9cemment qui m'a dit que vous aviez fait pas mal\nde progr\u00e8s depuis l'\u00e9t\u00e9 dernier et j'ai vu que vous \u00e9tiez en train\nd'\u00e9largir l'\u00e9quipe de vision & data eng.\n\nCe serait super de se faire un catch up d\u00e9but F\u00e9vrier afin de discuter de\nvos plans cette ann\u00e9e et comment vous allez manager l'aspect scale de la\nchose :) On a aussi d\u00e9velopp\u00e9 pas mal de nouvelles features de notre c\u00f4t\u00e9\net je serai curieux d'avoir ton feedback dessus.\n\nEst-ce que tu as des dispos la premi\u00e8re semaine de F\u00e9vrier?\n\nAu plaisir,"
+},
+{
+"id": "123201049824",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? Not sure if your team has any plans to\nreevaluate their data curation/annotation infra this year? Either way it'd\nbe great to introduce ourselves & get your feedback on what we're building.\nI've included a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123204175094",
+"subject": "[Invite] Encord AI Leaders Dinner @ Browns 23/01",
+"text": "Hi [NAME],\u200b\n\nOur Founder/CEO [SENDER] will be hosting an intimate roundtable dinner with customers & AI leaders and we'd love for you to join if you're available.\n\nWe've booked a private dining room at Browns in Covent Garden London on Thursday January 23rd starting at 6:30pm, capping attendance to ~20 people. Join us to meet & share perspectives with fellow AI leaders on key trends heading into [YEAR].\n\nPrevious attendees include Co-Founders, CEO's, CTOs & Heads of ML etc. from leading VC-backed scale-ups such as Waymo, Synthesia, and Airbnb as well as larger orgs such as Baker Hughes, Philips & Nvidia. \n\nIn case you're not familiar with Encord - we're an London-based data development platform (recently raised our Series B) built to help Multimodal AI teams get better models to market, faster. \n\nThought it was a good opportunity to get connected - would you be interested in joining? I can send over an invite if so."
+},
+{
+"id": "123208402149",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the Physical Security space (currently working\nw/ the likes of LVT, Flock Safety, Rhombus Systems, Actuate, Percipient\netc.), so keen to trade notes & build a relationship.\n\nNot sure if your team has any plans to reevaluate their data infra stack\nthis year? Either way it'd be great to introduce ourselves & get your\nfeedback on what we're building. I've included a short blurb of what we do\nbelow.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123215289548",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the Physical Security space (currently working\nw/ the likes of LVT, Flock Safety, Rhombus Systems, Actuate, Percipient\netc.), so keen to trade notes & build a relationship.\n\nNot sure if your ML team has any plans to reevaluate their data infra stack\nthis year? Either way it'd be great to introduce ourselves & get your\nfeedback on what we're building. I've included a short blurb of what we do\nbelow.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123220039909",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the digital authentication space, so keen to\ntrade notes & build a relationship. Not sure if your ML team has any plans\nto reevaluate their infra stack this year? Either way it'd be great to\nintroduce ourselves & get your feedback on what we're building. I've\nincluded a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123234912455",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee with our co-founders, [SENDER] & [SENDER], in the coming weeks? We're very\nfamiliar with [COMPANY], as we're seeing a lot of momentum in the Physical\nSecurity space (working w/ the likes of LVT, Flock Safety, Rhombus Systems,\nActuate, Percipient etc.), so keen to trade notes & build a relationship.\nNot sure if your ML team has any plans to reevaluate their data infra stack\nthis year? Either way it'd be great to introduce ourselves & get your\nfeedback on what we're building. I've included a short blurb of what we do\nbelow.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123242806513",
+"subject": "[Encord] [SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the AI video editing space (working w/ the\nlikes of Flawless & Synthesia), so keen to trade notes & build a\nrelationship. Not sure if your ML team has any plans to reevaluate their\ndata infra stack this year? Either way it'd be great to introduce ourselves\n& get your feedback on what we're building. I've included a short blurb of\nwhat we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123244964064",
+"subject": "Encord / [COMPANY]",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you'd be open to a quick virtual coffee\nin the coming weeks? We're very familiar with [COMPANY] so keen to trade\nnotes & build a relationship. Not sure if your team has any plans to\nreevaluate their data infra (annotation, curation, model eval etc.) stack\nthis year? Either way it'd be great to introduce ourselves, get your\nfeedback on what we're building, learn a bit more about what you're working\non etc. I've included a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123248567487",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you'd be open to a quick virtual coffee\nin the coming weeks? We're very familiar with Osaro, as we're seeing a lot\nof momentum in the Physical AI space (currently working w/ Ambi Robotics,\nPickle Robot, Rapid Robotics, Archetype AI, Physical Intelligence etc.), so\nkeen to trade notes & build a relationship. Not sure if your ML team has\nany plans to reevaluate their data infra stack (curation, annotation, model\neval etc.) this year? Either way it'd be great to introduce ourselves & get\nyour feedback on what we're building. I've included a short blurb of what\nwe do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123252448490",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee with our co-founders, [SENDER] & [SENDER], in the coming weeks? We're very\nfamiliar with Nimble, as we're seeing a lot of momentum in the Physical AI\nspace (currently working w/ the likes of Archetype AI, Rapid Robotics,\nPickle Robot, Physical Intelligence), so keen to trade notes & build a\nrelationship. Not sure if your ML team has any plans to reevaluate their\ndata infra stack this year? Either way it'd be great to introduce ourselves\n& get your feedback on what we're building. I've included a short blurb of\nwhat we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123252449514",
+"subject": "[Encord] [SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the AI video editing space (working w/ the\nlikes of Flawless & Synthesia), so keen to trade notes & build a\nrelationship. Not sure if your ML team has any plans to reevaluate their\ndata infra stack this year? Either way it'd be great to introduce ourselves\n& get your feedback on what we're building. I've included a short blurb of\nwhat we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123262335164",
+"subject": "[SENDER] / Derik - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you'd be open to a quick virtual coffee\nwith our co-founder, [SENDER] & [SENDER], in the coming weeks? We're very familiar\nwith [COMPANY], as we're seeing a lot of momentum in the Physical AI space\n(currently working w/ Ambi Robotics, Pickle Robot, Rapid Robotics,\nArchetype AI, Physical Intelligence etc.), so keen to trade notes & build a\nrelationship. Not sure if your ML team has any plans to reevaluate their\ndata infra stack this year? Either way it'd be great to introduce ourselves\n& get your feedback on what we're building. I've included a short blurb of\nwhat we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123272992989",
+"subject": "AI event at GitHub HQ in SF",
+"text": "Hi [NAME],\n\nHope you enjoyed some down time over the holidays!\n\nJust FYI we're hosting an AI event at GitHub HQ in SF on Jan 28th (and\nanother at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA). For this one we're focusing on AI leaders operating in the\nPhysical AI space. For context, we currently have confirmed speakers from\nArchetype AI, Spot AI, Pickle Robot.\n\nThink you and Industrial Next would be a great fit for this if you're open\nto it? Either way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n- thanks!"
+},
+{
+"id": "123278739651",
+"subject": "AI event at GitHub HQ in SF",
+"text": "Hi [NAME]\n\nHope you enjoyed some down time over the holidays!\n\nThought I'd reach out as we're hosting an AI event at GitHub HQ in SF on\nJan 28th (and another at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA). We're focusing on AI leaders operating in the Physical AI space\nfor this one...currently we have confirmed speakers from Archetype AI, Spot\nAI, Physical Intelligence.\n\nThink you and Osaro would be a great fit for this if you're open to it?\nEither way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n- thanks!"
+},
+{
+"id": "123278740668",
+"subject": "[Encord] [SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with [COMPANY], as we're\nseeing a lot of momentum in the AI video editing space (working w/ the\nlikes of Flawless & Synthesia), so keen to trade notes & build a\nrelationship. Not sure if your team has any plans to reevaluate their data\ninfra stack this year? Either way it'd be great to introduce ourselves &\nget your feedback on what we're building. I've included a short blurb of\nwhat we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123281072342",
+"subject": "Encord & Mendaera",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you & Josh would be open to a quick\nvirtual coffee with our co-founders in the coming weeks? We've been\nfollowing Mendaera for a while, as we're seeing a lot of momentum in the\nsurgical AI space (working w/ the likes of Asensus Surgical, MMI, Orsi\nAcademy, Kaliber etc.), so keen to trade notes & build a relationship. Not\nsure if your team has any plans to reevaluate your annotation infra this\nyear? Regardless it'd be great to introduce ourselves & get your feedback\non what we're building. I've included a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision teams get better models to market,\nfaster. 150+ of the world's top AI teams are leveraging Encord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123282876626",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you'd be open to a quick virtual coffee\nin the coming weeks? We've been following Mendaera for a while, as we're\nseeing a lot of momentum in the surgical AI space (working w/ the likes of\nAsensus Surgical, MMI, Orsi Academy, Kaliber etc.), so keen to trade notes\n& build a relationship. Not sure if your team has any plans to reevaluate\nyour annotation infra this year? Regardless it'd be great to introduce\nourselves & get your feedback on what we're building. I've included a short\nblurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision teams get better models to market,\nfaster. 150+ of the world's top AI teams are leveraging Encord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123283175628",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hi [NAME],\n\nHappy New Year - hope you had a nice break over the holidays!\n\nI was wondering if you'd be open to a quick virtual coffee in the coming\nweeks? We've been following [COMPANY] for a while now & we're working w/ a few\nof your peers (Motive etc.) so keen to trade notes & build a relationship.\nNot sure if your AI team has any plans to reevaluate their data infra setup\nthis year? Either way it'd be great to introduce ourselves properly, get\nyour feedback on what we're building, learn a bit more about [COMPANY] etc.\n\nHope all is well and chat soon,"
+},
+{
+"id": "123295852789",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hi [NAME],\n\nHappy New Year! I'm reaching out to see if you'd be open to a quick virtual\ncoffee in the coming weeks? We're very familiar with Drone Deploy, as we're\nseeing a lot of momentum in your space (working w/ the likes of Skydio\netc.), so keen to trade notes & build a relationship. Not sure if your team\nhas any plans to reevaluate their data infra stack this year? Either way\nit'd be great to introduce ourselves & get your feedback on what we're\nbuilding. I've included a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision & multimodal AI teams get better\nmodels to market, faster. 150+ of the world's top AI teams are leveraging\nEncord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123304675553",
+"subject": "[SENDER] / [NAME] - Quick Virtual Coffee",
+"text": "Hi [NAME],\n\nI'm sorry to bother you - I've made a presentation (see attached) for you\nthat details how we support many of the leading AI video surveillance\ncompanies today - Flock Safety, LVT, Milestone Systems, Actuate etc.\nAppreciate your busy, however if you can spare 15 minutes to have a quick\nchat I'd be very grateful. Genetec's use case is our bread and butter - so\neven just getting the opportunity to introduce myself & to get your candid\nfeedback as we look to scale from here (we just raised our Series B) would\nbe awesome! :)"
+},
+{
+"id": "123306827968",
+"subject": "Encord & Farmwise",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you'd be open to a quick virtual coffee\nin the coming weeks? We've been following Farmwise for a while now & we're\nseeing a lot of momentum in your space (working w/ the likes of Aigen &\nCarbon Robotics etc.), so keen to trade notes & build a relationship. If\nI'm not mistaken you were using Kili for annotation - not sure if you have\nany plans this year to reevaluate your data infra stack? Either way it'd be\ngreat to introduce ourselves & get your feedback on what we're built. I\nappreciate your annotation requirements aren't hugely complex, however the\nvalue would come from consolidating data curation, annotation & model eval\nunder one roof."
+},
+{
+"id": "123312440533",
+"subject": "AI event at GitHub HQ in SF",
+"text": "Hi [NAME],\n\nHope you enjoyed some down time over the holidays!\n\nThought i'd reach out as we're hosting an AI event at GitHub HQ in SF on\nJan 28th (and another at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA). For this one we're focusing on AI leaders operating in the\nPhysical AI space. For context, we currently have confirmed speakers from\nArchetype AI, Pickle Robot & Spot AI\n\nThink you and Nimble would be a great fit for this if you're open to it?\nEither way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n- thanks!"
+},
+{
+"id": "123312628936",
+"subject": "Re: [Invite] Encord dinner @ Kokkari 08/22",
+"text": "Hi [NAME],\n\nHope you enjoyed some down time over the holidays!\n\nThought i'd reach out as we're hosting an AI event at GitHub HQ in SF on\nJan 28th (and another at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA). For this one we're focusing on CxOs operating in the Physical AI\nspace. For context, we currently have confirmed speakers from Archetype AI,\nPickle Robot & Ambi.\n\nThink you and [COMPANY] would be a great fit for this if you're open to it?\nEither way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n- thanks!"
+},
+{
+"id": "123315779792",
+"subject": "AI event at GitHub HQ in SF",
+"text": "Hi [NAME],\n\nHope you enjoyed some down time over the holidays!\n\nThought I'd reach out as we're hosting an AI event at GitHub HQ in SF on\nJan 28th (and another at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA). For context, for this one we currently have confirmed speakers\nfrom Archetype AI, Spot AI & Pickle Robot - all venture-backed startups\nbuilding CV products at a similar stage to you.\n\nThink you (or someone from your team) and Sewer AI would be a great fit for\nthis if you're open to it? Either way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n- thanks!"
+},
+{
+"id": "123317415109",
+"subject": "[SENDER] / [NAME] - Intro",
+"text": "Hi [NAME],\n\nHappy New Year! I was wondering if you'd be open to a quick virtual coffee\nwith our co-founders, [SENDER] & [SENDER], in the coming weeks? We've been\nfollowing [COMPANY] for a while, as we're working w/ many names in\nyour space (Asensus Surgical, MMI, Orsi Academy etc.), so keen to trade\nnotes & build a relationship. Not sure if your team has any plans to\nreevaluate their annotation infra this year? Regardless it'd be great to\nintroduce ourselves & get your feedback on what we're building. I've\nincluded a short blurb of what we do below.\n\nEncord is an SF-based data development platform (raised a $30M Series B\nlast year) built to help computer vision teams get better models to market,\nfaster. 150+ of the world's top AI teams are leveraging Encord to:\n\n   - Easily curate, manage, visualise & search their unstructured training\n   data at scale\n   - Build active learning workflows to analyse both raw & labelled data,\n   identifying model blindspots & find rare edge case\n   - Automate parts of their annotation process - typically seeing 6-10x\n   throughput gain"
+},
+{
+"id": "123317572811",
+"subject": "AI event at GitHub HQ in SF",
+"text": "Hi [NAME],\n\nHope you enjoyed some down time over the holidays!\n\nThought i'd reach out as we're hosting an AI event at GitHub HQ in SF on\nJan 28th (and another at the end of Feb, will be a series).\n\nWe're inviting a handful of people who are building AI products to share\ntheir experience in 20 min lightning talks (past speakers from Adobe,\nNVIDIA).\n\nThink you and [COMPANY] would be a great fit for this if you're open to it?\nEither way let me know if you're interested!\n\nFYI link to event is here\n<[LINK]>\n- thanks!"
+}
+]

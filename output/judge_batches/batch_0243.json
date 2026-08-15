@@ -1,0 +1,202 @@
+[
+{
+"id": "449140672706",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How ML teams are designing scalable evaluation systems according\nto customer feedback will be a central topic -- which made me think of\nyou!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449144338654",
+"subject": "ML Leaders' Dinner - 26 Feb - Motive & Nauto Joining",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb*. How teams are training and validating models for safe operations\nwill be a theme at the dinner, which made me think of you!\n\nThe dinner will be at Niku Steakhouse from 6pm, with a curated group of\nc.20 heads of ML and engineering leaders joining from Motive, Nauto, Nuro,\netc.\n\nWould love to see you there - can you make it?"
+},
+{
+"id": "449201209581",
+"subject": "[NAME] - ML Ops",
+"text": "Hi \n       [NAME], \n\n       We recently started working with Entrust (Onfido) to better understand model failure modes and tighten the loop between model drift and data fixes - especially where the margin for error is low.\n\n       Given [COMPANY]'s focus on IDV and fraud risk, I imagine you're thinking about similar questions: spotting where models break, improving training data representativeness, and reducing false positives as edge cases evolve. \n\n       Encord helps IDV teams operationalize that feedback loop across data curation, labeling, HITL QA, and model eval in regulated environments. \n\n       If this is something you're actively working on, let's put 20 min on the calendar and see if we're solving adjacent problems. I'm pretty flexible Tue - Thu - should I send a couple of times?"
+},
+{
+"id": "449201927396",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi \n       [NAME], \n\n       We recently started working with Entrust (Onfido) to better understand model failure modes and tighten the loop between model drift and data fixes - especially where the margin for error is low.\n\n       Given [COMPANY]'s focus on IDV and fraud risk, I imagine you're thinking about similar questions: spotting where models break, improving training data representativeness, and reducing false positives as edge cases evolve. \n\n       Encord helps IDV teams operationalize that feedback loop across data curation, labeling, HITL QA, and model eval in regulated environments. \n\n       If this is something you're actively working on, let's put 20min on the calendar and see if we're solving adjacent problems. I'm pretty flexible Tue - Thu - should I send a couple of times?"
+},
+{
+"id": "449267761369",
+"subject": "[NAME] - computer vision",
+"text": "Hi \n       [NAME],\n\n       Congrats on your promotion to VP of AI! I noticed you're looking at AI tool adoption. Curious - is improving labeling throughput and multimodal (image, video, audio, text) support priorities when it comes to choosing annotation tools?\n\n       At Encord, we support video-centric CV/ML teams with curation, annotation, and model evaluation with model-assisted pre-labeling, native video rendering, automated QA and HITL review. We're working with smart camera and surveillance teams like LVT, Flock Safety, and Milestone Systems to move from point solutions like Voxel51 and CVAT to a consolidated setup that boosts throughput 6x and improves model accuracy by 30%. \n\n       Would you be open to a quick chat to see if we could drive similar results at Vivint? We're flexible morning times MT next week."
+},
+{
+"id": "449303517378",
+"subject": "Worth a quick look if you are building Audio/ Voice AI",
+"text": "Hi [NAME],\n\nQuick heads-up on a masterclass we're hosting that I think you'd find quite\nuseful.\n\nWe're running a short master class on Thursday 12 Feb on how teams are\nbuilding *production-ready audio AI* - covering real workflows for audio\nannotation, transcription, and training data pipelines (hands-on demo).\n\nWe'll also share how teams are using *audio agents* to speed up labeling\nand validation without sacrificing quality.\n\nIf you're working on speech, voice, or conversational systems, it should be\na solid use of time. You can join live or just get the recording.\n\nRegister here\n<[LINK]>\n."
+},
+{
+"id": "449486031052",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nI'm inviting you to an exclusive, off-the-record dinner for senior AI leaders on Wednesday, January 28th, at 6:30 PM.\n\nWe are hosting a small group of 20 peers - specifically Chief AI Officers and Heads of ML building their own models - for a candid discussion held strictly under the Chatham House Rule. The evening will take place in the private dining room of the Michelin-starred Le Pavillon, and we'll provide a $50 Uber credit for your travel to and from the venue.\n\nWith only a few seats remaining for this curated group, I'd love to have you join us for the conversation.\n\nCan I pencil you in?\n\nRegistration: [LINK]"
+},
+{
+"id": "449620209855",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "449704456426",
+"subject": "ML Leaders' Dinner - London!",
+"text": "Hi [NAME],\n\nHow was NeurIPS? If you're back in London, I'd love to extend an invite to\nthe dinner our co-founder [SENDER] is hosting on *Thursday 26th Feb*.\n\nWe're bringing together a curated group of 20 ML leaders joining from Flo\nHealth, Deliveroo, ConnexAI, etc. The dinner will take place at SO|LA in\nsoho from 6:30pm.\n\nWould love to see you there! Let me know if you can make it?"
+},
+{
+"id": "449860407541",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nI wanted to invite you to an exclusive dinner for senior AI leaders on\nThursday, February 26th. We are hosting a small group of 20 peers -\nspecifically Chief AI Officers and Heads of ML building their own models\nfor a discussion around building with multimodal data.\n\nWe're booking out SO|LA\n<[LINK]>\nin\nSoho, a Michelin starred restaurant known for its Californian cuisine, with\ndrinks kicking off at 6:30pm.\n\nFor context, this is a series of events where we bring Chief AI Officers\nand Heads of ML who are working in the AI/ML space. The goal is a candid,\noff-the-record discussion - no slides, no sales pitches.\n\nConfirmed attendees include Novartis, Medtronic etc  - more details here:\n[LINK]\n\nLet me know if I should save you a seat?"
+},
+{
+"id": "449864160486",
+"subject": "AI Leaders Dinner",
+"text": "Hi [NAME],\n\nI wanted to invite you to an exclusive dinner for senior AI leaders on\nThursday, February 26th.\n\nWe are hosting a small group of 20 peers - specifically Chief AI Officers\nand Heads of ML building their own models for a discussion around building\nwith multimodal data.\n\nWe're booking out SO|LA\n<[LINK]>\nin\nSoho, a Michelin starred restaurant known for its Californian cuisine, with\ndrinks kicking off at 6:30pm.\n\nFor context, this is a series of events where we bring Chief AI Officers\nand Heads of ML who are working in the AI/ML space. The goal is a candid,\noff-the-record discussion - no slides, no sales pitches.\n\nConfirmed attendees include P&G, Deliveroo etc  - more details here:\n[LINK]\n\nAppreciate you' re based in Barnet - let me know if you'd like to join us?"
+},
+{
+"id": "449885694138",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "449885715662",
+"subject": "AI Leaders' Dinner - London - 26 Feb",
+"text": "Hi [NAME],\n\n[SENDER] mentioned you're based in London. We're hosting a dinner here\non Thursday 26th Feb which made us think of you!\n\nThe dinner will be at SO|LA in soho from 6:30pm with a curated guestlist of\n20 ML leaders joining from Flo Health, Deliverro, ConnexAI, etc.\n\nHappy to share the full details if you're free that evening?"
+},
+{
+"id": "449931186379",
+"subject": "[London] AI Leaders' Dinner - 26 Feb",
+"text": "Hi [NAME],\n\nMy colleague [SENDER] passed on your contact, mentioning you're in\nLondon. We'll be hosting a dinner here on Thurs 26th Feb and we'd love to\nextend an invite.\n\nThe dinner will be at SO|LA in soho from 6:30pm with a curated list of 20\nML leaders joining from Flo Health, Deliveroo, ConnexAI, etc.\n\n[SENDER] & the team would love to see you there! Let me know if you can make it?"
+},
+{
+"id": "449932968123",
+"subject": "[London] AI Leaders' Dinner - 26 Feb",
+"text": "Hi [NAME],\n\nMy colleague [SENDER] passed on your contact, mentioning you're in\nLondon. We'll be hosting a dinner here on Thurs 26th Feb and we'd love to\nextend an invite.\n\nThe dinner will be at SO|LA in soho from 6:30pm with a curated list of 20\nML leaders joining from Flo Health, Deliveroo, ConnexAI, etc.\n\nThe Encord team would love to see you there! Let me know if you can make it?"
+},
+{
+"id": "449988099297",
+"subject": "ML Leaders' Dinner - London",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] will be hosting a dinner for 20 ML and Data\nleaders in London on *Thursday 26th Feb. *Saw you're based here so I'd love\nto extend an invite!\n\nIt'll be a curated group of applied research and human data practitioners,\njoining from Flo Health, Deliveroo, ConnexAI, etc. The dinner will take\nplace at SO|LA in Soho from 6:30pm.\n\nFor context, Encord helps 200+ ML teams improve data quality and\naccessibility. Teams typically leverage us to unify curation,\n(auto)annotation and evaluation in one place.\n\nWould love to see you there! Let me know if you can make it?"
+},
+{
+"id": "450088844522",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nCongrats on the raise!\n\nWe just onboarded Neon on organizing and identifying valuable audio data\ncollected by phone agents and thought it overlaps with what you're building\nat [COMPANY].\n\nEncord works with voice AI teams (Udio, Thinking Machines Lab) that build\nTTS/ASR/STS models and voice agents, supporting them on tasks like voice\nactivity detection, diarisation, word-level transcription, and model eval\nand preference ranking.\n\nWould love to grab 20 min of your time and hear about how you are handling\ndata at Simple - would Wed/ Thu next week work for you?"
+},
+{
+"id": "450132072656",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb, *and we'd love to extend an invite!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of CV/ML leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "450140942535",
+"subject": "Quick note - invite to MLOps Dinner",
+"text": "Hi [NAME],\n\nReaching out as we're hosting a private dinner for senior AI Data Leaders\nin London and we'd love for you to join us, given your background in\ncompute strategy, ML infra and MLOps at [COMPANY].\n\nWe're booking out SO|LA in Soho, a Michelin starred restaurant known for\nits Californian cuisine, for the event on Thursday, 26th Feb with drinks\nkicking off at 6:30pm.\n\nAppreciate this is out of the blue. For context, this is a series of events\nwhere we bring Chief AI Officers and Heads of ML who are actively building\ntheir own models. The goal is a candid, off-the-record discussion - no\nslides, no sales pitches. We've recently hosted these dinners in SF,\nMunich, Zurich, and New York.\n\nShall I save you a spot? Let me know and I'll get the team to share details,"
+},
+{
+"id": "450226620648",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at Assembly.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450232036546",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at Otter.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450233839864",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at Otter.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450241042671",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nHope you're well.\n\nI wanted to put an upcoming webinar Encord is hosting on your radar -\nthought it could be useful for your work at Heidi.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n- feel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450329011440",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at [COMPANY].\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450329018572",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - feel\nfree to circulate as thought it could be useful for your team's work at\nOtter.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450339810546",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at [COMPANY].\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450343406779",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at Assembly.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450343479485",
+"subject": "Re-evaluate Encord?",
+"text": "Hey [NAME],\n\nI know you met [SENDER] and the team early last year. It appeared you went\nahead with some other tools in the mix.\n\nAs we started the year - I wanted to see if re-opening a conversation\naround the data curation, model eval and annotation make sense?"
+},
+{
+"id": "450345205952",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at [COMPANY].\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450376931527",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at Speak.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450384135401",
+"subject": "Webinar Invite: Building Production Audio AI",
+"text": "Hi [NAME],\n\nWanted to put an upcoming webinar Encord is hosting on your radar - thought\nit could be useful for your work at Otter.\n\nOn February 12th will discuss what it means to build production ready Audio\nAI.\n\nIt covers agents, automated transcription, and best practices for speaker\ndetection.\n\nYou can see and sign up for the event here\n<[LINK]>\n-\nfeel free to circulate with anyone else in your team who might find it of\nvalue.\n\nAny questions, let me know - hope it's useful."
+},
+{
+"id": "450617076977",
+"subject": "[COMPANY] <> Encord - catch up",
+"text": "Hi [NAME],\n\nHope you're well! I noticed you're hiring for AI eval specialist and\nannotators - figured this might be a good time to reach out.\n\nYour team spoke with us last June while evaluating annotation tools. Since\nthen, we've helped several enterprise teams transition from Label Studio\nand SuperAnnotate as their data volume and complexity grew - especially\naround QA, model eval and multimodal workflows (text, audio, image, video,\netc).\n\nWould be great to hear what's on your roadmap and see if it makes sense to\nrevisit the conversation.\n\nOpen to a quick 30-min catch-up next Wed or Thu?"
+},
+{
+"id": "450644923618",
+"subject": "Ergo/Next <> Encord - catch up",
+"text": "Hi [NAME],\n\nHope you've been well! You spoke with my colleague [SENDER] last August about\nannotation workflows for your production on various AI bots - thought I'd\nreach out and see if it might make sense to pick things back up.\n\nCurious if you've been working on any new projects as you think\nabout formalizing annotation and QA for [YEAR].\n\nHappy to have a quick sync and see if priorities have changed. Would next\nWed / Thu work for you?"
+},
+{
+"id": "450680925389",
+"subject": "LandingAI <> Encord",
+"text": "Hi [NAME],\n\nI've been following LandingAI's work on agentic document extraction,\nespecially how you're tackling long-tail document variability with DPT-2.\n\nI work closely with teams building production document AI systems, and a\ncommon theme we're seeing is what happens after models went into\nproduction: reviewing extraction failures, adjudicating edge cases, and\nturning real-world errors into systematic procut and model improvements.\n\nWould love to grab 20 mins to compare notes and see if any resonate as you\nevaluate and iterate ADE as usage scales - Would next Thu / Fri work for\nyou for a quick chat?"
+},
+{
+"id": "450721933544",
+"subject": "SF dinner? 26 Feb",
+"text": "Hey [NAME],\n\nIf you happen to be in SF on Feb 26, our founder [SENDER] is hosting a\nsmall dinner for some AI folks to share experiences in training and\nvalidating models in the real world.\n\nA couple of in-car camera system teams, e.g. Motive and Nauto will be there\nand we'd love for you to be part of the conversation.  We're keeping the\ngathering intimate, ~20 AI eng and product leaders.\n\nBit of a backstory: we focus on data quality and accessibility. For\nAI-native teams, that usually means orchestrating autolabelling and human\nreview at scale.\n\nWill you be free to join us? Happy to send over the details if so!"
+},
+{
+"id": "450755246282",
+"subject": "Percise Audio Labeling",
+"text": "Hi [NAME],\n\nI saw the project you, Etienne, and Mahmoud worked on around a low-latency\nhuman detection system the amount of manual labeling that went into it is\nimpressive. Truly, du savoir-faire \u00e0 la fran\u00e7aise.\n\nAt Encord, we've been working with foundational audio labs like Gradium and\nKyutai on audio labeling. Our editor can help make your labels even more\ngranular and improve upstream model accuracy.\n\nCheck out this quick Loom walkthrough:\n\n*Accelerating Multilingual Audio Workflows in Encord | 8 October [YEAR]* - Watch\nVideo\n<[LINK]>\n<[LINK]>\n\nWould you be open to a brief discussion to see if this could help your team\nin the future?\n-[SENDER]"
+},
+{
+"id": "451143362779",
+"subject": "SF Dinner - Niku Steakhouse",
+"text": "Hi [NAME],\n\nMy colleague [SENDER] mentioned you're based in SF. We're hosting a\ndinner later this month which made me think of you!\n\nWe're bringing together a curated group of 20 ML leads, from the likes of\neBay, Airbnb, Descript, etc. The dinner will be on Thursday 26th of Feb at\nNiku Steakhouse.\n\nHappy to send over the full details if you're around?"
+},
+{
+"id": "451154221295",
+"subject": "Next <> Encord",
+"text": "Hi [NAME],\n\nHope you've been well! You spoke with my colleague [SENDER] last August about\nannotation workflows for your production on various AI bots - thought I'd\nreach out and see if it might make sense to pick things back up.\n\nCurious if you've been working on any new projects as you think\nabout formalizing annotation and QA for [YEAR].\n\nHappy to have a quick sync and see if priorities have changed. Would next\nWed / Thu work for you?"
+},
+{
+"id": "451200531646",
+"subject": "Quick follow up from NRF - Pensa",
+"text": "Hi [NAME], \n\n        Hope you had a great week at \n        NRF - looked like a busy one for Pensa. Since we didn't get a chance to connect in New York, I wanted to follow up. \n\n        It'd be great to grab 20-min to compare notes on where you're taking vision and perception AI and workflows this year, and share what we're seeing across other retail tech teams working on similar problems across DIR, DSR, SKU management using existing and new devices. \n\n        Would next Wednesday or Thursday work for a quick virtual coffee? If there's a better time, feel free to throw one back."
+},
+{
+"id": "451216342258",
+"subject": "Przemek - Kolacja",
+"text": "Dzie\u0144 Dobry Panie Przemku,\n\nMi\u0142o Pana pozna\u0107 - zauwa\u017cy\u0142am, \u017ce jest Pan w Londynie i chcia\u0142abym zaprosi\u0107\nPana na kolacj\u0119 z naszej globalnej serii dla community AI/ML.\n\nNa ten wiecz\u00f3r rezerwujemy restauracj\u0119 *SO|LA w Soho\n<[LINK]>*\n(gwiazdka\nMichelin, kuchnia kalifornijska). Widzimy si\u0119 w *czwartek 26 lutego* -\nzaczynamy drinkami o 18:30.\n\nTo cz\u0119\u015b\u0107 naszego cyklu spotka\u0144 \u201eoff the record\" (zero slajd\u00f3w czy sales\ntalks), podczas kt\u00f3rych go\u015bcimy Chief AI Officers oraz C-suite z firm\nrozwijajacych w\u0142asne modelam ML. Chcemy w nieformalnej atmosferze wymieni\u0107\nsi\u0119 do\u015bwiadczeniami i porozmawia\u0107 o wyzwaniach zwi\u0105zanych z budow\u0105\nmultimodal AI.\n\nPoprzednie edycje go\u015bci\u0142y w SF, Nowym Jorku, Zurychu i Monachium.\n\nBy\u0142oby super si\u0119 pozna\u0107 - czy mia\u0142by Pan ochot\u0119 do nas do\u0142\u0105czy\u0107?\n\nPozdrawiam,\nKasia [SENDER]\n\n*AI // ML*\n\n[image: image.png]"
+}
+]

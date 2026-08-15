@@ -1,0 +1,202 @@
+[
+{
+"id": "454408589523",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454417957070",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454423010511",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "456013424840",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Overland.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456121499834",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Overland.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456141266132",
+"subject": "[NAME] - audio agent masterclass chat",
+"text": "Hi [NAME],\n\nThanks for signing up for our Audio Agent + Annotation masterclass last\nweek. I noticed you couldn't make it - happy to share the recording if\nhelpful.\n\nWe covered practical workflows for improving audio agent accuracy,\ntightening feedback loops, and scaling human review without slowing down\ndeployment.\n\nCurious what are you currently working on in this space? If relevant, I'd\nlove to share a few ideas and show a quick demo tailored to your setup.\n\nOpen to a quick 20-min virtual coffee this or next week?"
+},
+{
+"id": "456141344964",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Overland.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456181199055",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Overland.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456187143361",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows.\n\nIt's this Thursday 19th at 9am PT, and I thought it could be useful for you\nand your team at [COMPANY].\n\nWant me to send you the link to register?"
+},
+{
+"id": "456190656717",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be useful for you\nand your team at [COMPANY].\n\nWant me to send you the link to register?"
+},
+{
+"id": "456201885915",
+"subject": "[NAME] - Audio Agent Masterclass chat",
+"text": "Hi [NAME],\n\nThanks for signing up for our Audio Agent + Annotation masterclass last\nweek. I noticed you couldn't make it - happy to share the recording if\nhelpful.\n\nWe covered practical workflows for improving audio agent accuracy,\ntightening feedback loops, and scaling human review without slowing down\ndeployment.\n\nCurious what are you currently working on in this space? If relevant, I'd\nlove to share a few ideas and show a quick demo tailored to your setup.\n\nOpen to a quick 20-min virtual coffee this or next week?"
+},
+{
+"id": "456234976448",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Overland.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456238567643",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Overland.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456240359666",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at [COMPANY].\n\nWant me to send you the link to register?"
+},
+{
+"id": "456249631976",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at [COMPANY].\n\nWant me to send you the link to register?"
+},
+{
+"id": "456260677831",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows.\n\nIt's this Thursday 19th at 9am PT, and I thought it could be useful for you\nand your team at Bot Auto.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456260700396",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at [COMPANY].\n\nWant me to send you the link to register?"
+},
+{
+"id": "456290891980",
+"subject": "Webinar: Building Robust 3D Data Pipelines",
+"text": "Hi [NAME],\n\nEncord is hosting a Webinar on building robust 3D data pipelines covering\nmanual cuboids to scalable workflows (including our new product update, 3D\nauto-labeling).\n\nIt's this Thursday 19th at 9am PT, and I thought it could be of interest to\nyou and your team at Dapster.\n\nWant me to send you the link to register?"
+},
+{
+"id": "456314117350",
+"subject": "Caf\u00e9 \u00e0 Paris le 9 Mars?",
+"text": "Hey [NAME],\n\nComment vas-tu? \u00c7a fait un petit moment :)\n\nJe suis de passage \u00e0 Paris dans quelques semaines (la semaine du 9 mars\npour \u00eatre exact) et je me demandais si tu serais dispo pour boire un caf\u00e9\net catch up? Pas de probl\u00e8me si tu n'es pas dispo, on se fera \u00e7a une\nprochaine fois.\n\nAu plaisir,"
+},
+{
+"id": "456754441419",
+"subject": "AI Leaders Dinner: Feb 26th London",
+"text": "Hi [NAME],\n\nSaw the focus on simulation training and partnership with NVIDIA Cosmos on\nmultimodal search. Would be great to learn more about how the team is\napproaching this - we're hosting a private dinner and would love to have\nyour voice in the room.\n\nA few details below:\n- Michelin-Starred SO|LA in Soho on Thursday, 26th Feb.\n- You'll be joined by execs, co-founders and Heads of AI in the Encord\nnetwork from companies like Locus Robotics, Maihem, Deliveroo & Motorway,\netc.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we work with\ncompanies like Woven by Toyota, Nexar and Pickle Robot on ADAS and physical\nAI use-cases.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "456938974398",
+"subject": "Niku Steakhouse - AI Leaders Dinner Chat?",
+"text": "Hi [NAME],\n\nJust finalising the last few attendees- we've got leaders from some really\ninteresting frontier labs and enterprises attending so it's shaping up to\nbe a very engaging evening.\n\nWe're currently deciding on some light discussion topics for the dinner (to\ninform the seating plan) - would love to be introduced and hear what's top\nof mind for you from a research / engineering perspective if you have 15\nmins to chat this week?\n\n-[SENDER]"
+},
+{
+"id": "456942213313",
+"subject": "Invite: AI Leaders dinner in SF - Feb 26th @ Niku Steakhouse",
+"text": "Hi [NAME],\n\n[SENDER], our co-founder, is hosting a dinner in SF on the 26th of Feb, and\nwe'd love to have you join us.\n\nAs a reminder, we're a multimodal ML DataOps platform (video, image, LiDAR)\n- I was talking to Lifeng about how we support the likes of Ambi Robotics,\n1X, Dyna, Boston Dynamics with their VLA/VLM workflows. Lifeng thought our\nembeddings-based data curation and search could be worth showing you at\nsome point.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be be joined by co-founders and Execs in\nthe Encord network from the likes of Chef Robotics, 1X and Ambi Robotics\nfor some good food, candid conversation and absolutely no slides.\n\nWill you be able to join? If so, I'll send over the master calendar invite\nwith full details attached.\n\nHope to see you there."
+},
+{
+"id": "456958267592",
+"subject": "Chatted to Ammar",
+"text": "Hi [NAME] - nice to meet you,  \n\n I spoke with Ammar last week and it sounds like you guys are happy with your internal process for annotation. As datasets get larger and more complex, do you anticipate any bottlenecks with the in-house approach?  \n\n I'd love to share more about some of the work we've done around object detection and pose estimation - with teams like Flock Safety and Intenseye & see if we could also help at [COMPANY].  \n\n Would you have time to catch-up later this week / early next? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "456969647291",
+"subject": "Chatted to Ammar",
+"text": "Hi [NAME] - nice to meet you,  \n\n I spoke with Ammar last week and it sounds like you guys are happy with your internal process for annotation. As datasets get larger and more complex, do you anticipate any bottlenecks with the in-house approach?  \n\n I'd love to share more about some of the work we've done around object detection and pose estimation - with teams like Flock Safety and Intenseye & see if we could also help at [COMPANY].  \n\n Would you have time to catch-up later this week / early next? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "456969648327",
+"subject": "Chatted to Ammar",
+"text": "Hi [NAME] - nice to meet you,  \n\n I spoke with Ammar last week and it sounds like you guys are happy with your internal process for annotation. As datasets get larger and more complex, do you anticipate any bottlenecks with the in-house approach?  \n\n I'd love to share more about some of the work we've done around object detection and pose estimation - with teams like Flock Safety and Intenseye & see if we could also help at [COMPANY].  \n\n Would you have time to catch-up later this week / early next? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "456974914806",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\n       Thanks again for your interest in our AI After Hours events in the past - I wanted to reach out and properly introduce myself. \n\n       I'd love to grab a quick virtual coffee to share more about future events we have in place in SF and learn a bit more about how \n       [COMPANY] is thinking about data and ML workflows. My team at Encord work closely with vision AI teams dealing with complex, multimodal data to scale annotation, HITL QA, and model iteration without slowing teams down.\n\n       Would you be open to a 20-min next week for a brief chat? Happy to work around your schedule."
+},
+{
+"id": "457030277346",
+"subject": "AI Leaders Dinner: Feb 26th London",
+"text": "Hi [NAME],\n\nSaw the focus on simulation training and partnership with NVIDIA Cosmos on\nmultimodal search. Would be great to learn more about how the team is\napproaching this - we're hosting a private dinner and would love to have\nyour voice in the room.\n\nA few details below:\n- Michelin-Starred SO|LA in Soho on Thursday, 26th Feb.\n- You'll be joined by execs, co-founders and Heads of AI in the Encord\nnetwork from companies like Locus Robotics, Maihem, Deliveroo & Motorway,\netc.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we work with\ncompanies like Woven by Toyota, Nexar and Pickle Robot on ADAS and physical\nAI use-cases.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "457030650099",
+"subject": "AI Leaders Dinner: Feb 26th London",
+"text": "Hi [NAME],\n\nSaw the focus on simulation training and partnership with NVIDIA Cosmos on\nmultimodal search. Would be great to learn more about how the team is\napproaching this - we're hosting a private dinner and would love to have\nyour voice in the room.\n\nA few details below:\n- Michelin-Starred SO|LA in Soho on Thursday, 26th Feb.\n- You'll be joined by execs, co-founders and Heads of AI in the Encord\nnetwork from companies like Locus Robotics, Maihem, Deliveroo & Motorway,\netc.\n- Chatham House rules: no slides, no sales pitches.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we work with\ncompanies like Woven by Toyota, Nexar and Pickle Robot on ADAS and physical\nAI use-cases.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "457087551711",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457087554759",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457222325489",
+"subject": "Chatted with Itay",
+"text": "[NAME] - nice to meet you, \n\n Recently spoke with Itay (and Jenna back in December [YEAR]), around how we can help with scaling annotation requirements / HITL workflows & I understand you may be the best person to continue the conversation. \n\n I'd love to share more about some of the work we've done around document extraction and summarisation - with teams like Reducto, Entrust, and JP Morgan & see if this could also help at WiseDocs.  \n\n Would you have time to connect later this week? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "457241948356",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457241949377",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457251672311",
+"subject": "[NAME] - hindi & arabic // working with Kyutai",
+"text": "Hi [NAME] - spoke with Sami before he left - he mentioned your team is seeing\na surge in demand for Arabic and Hindi and suggested we connect.\n\nSounds like you needed native speakers in low resource languages (Hindi,\nArabic, amongst others) - we provide that and stand out from other\nproviders through the automation our annotation tooling provides.\n\nTeams like *Kyutai *got to speed up model retraining cycles using our\nwaveform-based labelling editor with models-in-the-loop to handle\nmillisecond-accurate timestamps, emotion tagging, speaker crosstalk etc\n\nSince you're thinking about winning more deals - would you have for a brief\nchat next week? Happy to tell you what's worked with other teams,"
+},
+{
+"id": "457282788563",
+"subject": "AI Leaders Dinner - [NAME]",
+"text": "Hi [NAME],\n\nWe're hosting a private dinner for senior AI Data Leaders in London and\nwe'd love for you to join us. We're booking out SOILA in Soho, a Michelin\nstarred restaurant known for its Californian cuisine, for the event on\nThursday, 26th Feb with drinks kicking off at 6:30pm.\n\nIt will be a small, curated group of 20 ML leaders working to tackle\nchallenges in building multimodal AI.\n\nAre you available to join us?"
+},
+{
+"id": "457299104982",
+"subject": "Is your 3D data pipeline slowing model development?",
+"text": "Hi [NAME],\n\nI've noticed that many of the to ML teams I speak to in the physical AI space find 3D cuboid labeling to be a big bottleneck in their pipeline.\n\nAs point cloud datasets grow, drawing cuboids frame by frame turns into a slow, expensive grind and it's hard to scale.\n\nSo we're hosting a short, 20-minute masterclass on the 19th of Feb to walk through how teams are moving away from manual-first 3D annotation and into autolabeling workflows, where models generate cuboids and humans focus on review, fixes, and edge cases.\n\nYou can save your spot here: [LINK] Or, if you can't make it live, sign up: [LINK] anyway and we'll send you the recording."
+},
+{
+"id": "457303450833",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "457311536320",
+"subject": "Is your 3D data pipeline slowing model development?",
+"text": "Hi [NAME],\n\nI've noticed that many of the to ML teams I speak to in the physical AI space find 3D cuboid labeling to be a big bottleneck in their pipeline.\n\nAs point cloud datasets grow, drawing cuboids frame by frame turns into a slow, expensive grind and it's hard to scale.\n\nSo we're hosting a short, 20-minute masterclass on the 19th of Feb to walk through how teams are moving away from manual-first 3D annotation and into autolabeling workflows, where models generate cuboids and humans focus on review, fixes, and edge cases.\n\nYou can save your spot here: [LINK] Or, if you can't make it live, sign up: [LINK] anyway and we'll send you the recording."
+},
+{
+"id": "457400443117",
+"subject": "Alfonso - chatted with Maria",
+"text": "Hi [NAME] - have been following the [COMPANY] team for some time now &\nnoticed the planned EU and US expansion of LOLA so thought I'd reach out to\nintroduce myself.\n\nI lead the voice AI team here at Encord and we've been working with several\nfrontier AI teams (inc. Kyutai, Udio) and medical teams like Abbvie,\nfocusing on increasing their clinical annotation throughput and HITL\nverification flows to accelerate the fine-tuning of their voice agents -\nwith traceability needed for 510(k).\n\nIf this sounds interesting, would be happy to chat & share what we're\nseeing work well for our other partners that require hallucination free,\nexplainable and clinically correct datasets.\n\nLet me know if you're be open to a 30-minute chat early next week?"
+},
+{
+"id": "457446638814",
+"subject": "Alfonso - chatted with Maria",
+"text": "Hi [NAME] - have been following the [COMPANY] team for some time now &\nnoticed the planned EU and US expansion of LOLA so thought I'd reach out to\nintroduce myself.\n\nI lead the voice AI team here at Encord and we've been working with several\nfrontier AI teams (inc. Kyutai, Udio) and medical teams like Abbvie,\nfocusing on increasing their clinical annotation throughput and HITL\nverification flows to accelerate the fine-tuning of their voice agents -\nwith traceability needed for 510(k).\n\nIf this sounds interesting, would be happy to chat & share what we're\nseeing work well for our other partners that require hallucination free,\nexplainable and clinically correct datasets.\n\nLet me know if you're be open to a 30-minute chat early next week?"
+}
+]

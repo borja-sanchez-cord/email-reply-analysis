@@ -1,0 +1,8 @@
+cold_pitch / 2025 / replied — n=5153
+contrast                            raw FE        p  +len ctrl        p  short-only        p  n_short
+any proof (>=1)                       -6.1   0.0049       -3.7   0.1183        -6.2   0.0006     1368
+proof matches industry (>=4)          -2.8   0.0023       -1.2   0.2149        -0.1   0.9543     1368
+value_specificity top2                -3.6   0.0135       -2.8   0.0361        -3.4   0.0961     1368
+pain_hypothesis top2                  -1.9   0.0258       -0.9   0.2775        -1.7   0.4862     1368
+why_now                               +4.6   0.0000       +4.1   0.0000        +3.1   0.2337     1368
+recipient_centricity top2             +5.3   0.0001       +5.0   0.0001        +9.4   0.0202     1368

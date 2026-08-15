@@ -1,0 +1,202 @@
+[
+{
+"id": "503083541695",
+"subject": "[COMPANY] Autonomy <> Encord",
+"text": "Hi [NAME], I met your colleague Claudia at the Automate conference a few\nweeks ago and wanted to connect on your autonomy stack supporting the\nAutonomous Tugger.\n\nI lead GTM efforts for Physical AI at Encord where we partner with some of\nthe fastest growing companies across ADAS/AV and robotics. Our platform\nhandles multi-cam video, LiDAR point clouds, and telemetry data in the same\ninterface, allowing us to take on large annotation workloads to support\nyour research and model development efforts at scale.  Ouster's LiDAR is\ncommon across a number of our customer deployments that we support at scale.\n\nTime to connect next week to share more?"
+},
+{
+"id": "503231639786",
+"subject": "audit trail behind evicore's pa decisions",
+"text": "Hi [NAME],  \n\n I saw eviCore just went live with Pharmacy Forward last week and I know CMS's [YEAR] deadline for auditable, traceable authorization decisions is six months out. \n\n We work with a top 3 US health-services firm running an internal LLM against clinical records for prior authorization. \n\n The problem for them was building a layer where clinicians review the model's output against the source, flag what's wrong, and route the hard cases, with a full audit trail behind every decision.  \n\n With regulatory scrutiny on how medical criteria gets applied only growing, the audit trial is extremely important by [YEAR]! \n\n I'd love to show you how we built it for them. Are you free Thursday or early next week?"
+},
+{
+"id": "503231666392",
+"subject": "audit trail behind evicore's pa decisions",
+"text": "Hi [NAME],  \n\n I saw eviCore just went live with Pharmacy Forward last week and I know CMS's [YEAR] deadline for auditable, traceable authorization decisions is six months out. \n\n We work with a top 3 US health-services firm running an internal LLM against clinical records for prior authorization. \n\n The problem for them was building a layer where clinicians review the model's output against the source, flag what's wrong, and route the hard cases, with a full audit trail behind every decision.  \n\n With regulatory scrutiny on how medical criteria gets applied only growing, the audit trial is extremely important by [YEAR]! \n\n I'd love to show you how we built it for them. Are you free Thursday or early next week?"
+},
+{
+"id": "503296516307",
+"subject": "Accelerating takeoff model fine tuning | Khalil Alami Intro",
+"text": "Hi [NAME],\n\nKhalil Alami pointed me your way after we chatted on LinkedIn. He mentioned\nthat you would be the person to talk to at Togal regarding data pipelines.\n\nEncord is a data layer platform that helps ML teams manage and improve the\ndata that feeds their models. We're currently working with best-in-class\nconstruction takeoff software teams like Attentive across their annotation,\ncuration and QA workflows.\n\nWould love to find a time to learn more about what you're building at Togal\nand share about the tooling we've developed at Encord."
+},
+{
+"id": "503333013739",
+"subject": "content moderation at Riot",
+"text": "Hi [NAME],  \n\n I've been following Riot's expansion from text moderation into multilingual voice safety for VALORANT. \n\n One challenge we see as teams scale across languages and modalities is keeping ground truth consistent: guidelines drift, edge cases multiply, and QA becomes increasingly difficult. \n\n Curious if that's something your team is running into, or if the bigger challenge is improving model precision and reducing false positives?"
+},
+{
+"id": "503333050585",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333050612",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333051578",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333170394",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333170401",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333256380",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333256385",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503333256423",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334516947",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334516972",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334643902",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334643939",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334774975",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334922455",
+"subject": "RL post training & human eval",
+"text": "Hi \n      [NAME], \n\n      I came across your work on agentic RL/post-training and VLM and thought it's worth a quick connect as I support teams like Yutori, Synthesia and Thinking Machines Lab on similar projects. \n\n      One pattern we're seeing is that the bottleneck has shifted from training models to building reliable human eval and post-training infra. As RL recipes become more sophisticated, collecting high-quality preference/rubric and closing the feedback loop becomes more important. \n\n      I think there are interesting overlaps here. Would you be open to a quick 20-min chat to compare notes?"
+},
+{
+"id": "503334957278",
+"subject": "enterprise multimodal eval stack",
+"text": "Hi [NAME],  \n\n We're hosting a 30-min session with Cohere on next Thursday (July 16) on the infrastructure behind benchmarking//eval. Thought this might be relevant. \n\n We'll cover where automated evals break down, what robust eval pipelines look like, and common scaling pitfalls for human and agent feedback.  \n\n Feel free to register \nhere if you'd like to join live. Or sign up to receive the recording afterward."
+},
+{
+"id": "503334989005",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nSeen \n      [COMPANY]' work on the DoD edge deployments and the model remediation use cases , congrats!!\n\nMy team at Encord works with defense-adjacent CV teams on the data layer that sits before training - annotation, curation, eval workflows for imagery and sensor data. We're working with teams doing similar things (satellite CV, object detection in regulated environments).\n\nGiven your customer-facing work on Chariot deployments, would love 20 mins to get your honest take on whether the annotation/data prep piece is a gap you see in practice -  or something customers have figured out.\n\nLet me know if worth a quick chat later this week?"
+},
+{
+"id": "503335080123",
+"subject": "[Invite] VIP seat for FIFA World Cup - June 22 - Santa Clara",
+"text": "Hi \n        [NAME],\n\n        My co-founder \n        [SENDER] is hosting a small group of ~8 senior tech executives for the \n        FIFA World Cup on June 22 at Levi's Stadium - Jordan v Algeria. \n\n        We're keeping it intentionally intimate: private hospitality (elevated seats, open bar, post-match meet & greet with players). With folks joining from Adobe, Netflix, Tubi and T-Mobile, I thought you'd be a great fit for the night. \n\n        Happy to share details if you're around town. Can I save a seat for you?"
+},
+{
+"id": "503339598053",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nSeen [COMPANY]' work on the DoD edge deployments and the model\nremediation use cases, congrats!!\n\nMy team at Encord works with defense-adjacent CV teams on the data layer\nthat sits before training: annotation, curation, eval workflows for imagery\nand sensor data. We're working with teams doing similar things (satellite\nCV, object detection in regulated environments).\n\nGiven your customer-facing work on Chariot deployments, would love 20 mins\nto get your honest take on whether the annotation/data prep piece is a gap\nyou see in practice -  or something customers have figured out.\n\nLet me know if worth a quick chat later this week?"
+},
+{
+"id": "503340504257",
+"subject": "[Invite] Multimodal AI Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi [NAME],\n\nMy CEO [SENDER]\n<[LINK]>\nis\nhosting an AI leaders' dinner at the Michelin-starred Spruce\n<[LINK]>\non\nThursday, Jul 30 and we'd love to have you join us!\n\nIt'll be an intimate gathering of ~15 CxOs and Heads of ML building models\nand working with multimodal data (audio, vision, language, 3D).\nConversations will focus on the successes and challenges of setting up\ntraining data flywheels and fine-tuning with agents/HITL.\n\nWe have guests joining from Adobe, Dolby, and Netflix. Given your work at\nSnap, we'd love to have your voice represented.\n\nCan I save you a seat?"
+},
+{
+"id": "503344778428",
+"subject": "[Invite] Gaming & Streaming AI Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi [NAME],\n\nMy CEO [SENDER]\n<[LINK]>\nis\nhosting an AI leaders' dinner at the Michelin-starred Spruce\n<[LINK]>\non\nThursday, Jul 30 and we'd love to have you join us!\n\nIt'll be an intimate gathering of ~15 CxOs and data leads building models\nand working with multimodal data (audio, vision, language, 3D) acorss media\nstreaming and gaming. Conversations will focus on the successes and\nchallenges of setting up training data flywheels and fine-tuning with\nagents/HITL.\n\nWe have guests joining from Roblox, Riot, Dolby, and Netflix. Given your\nwork leading data at EA, we'd love to have your voice represented.\n\nCan I save you a seat if you're in town that week?"
+},
+{
+"id": "503359330494",
+"subject": "Swarmbotics <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere\nwe partner with a number of defense tech companies on their autonomous\nrover and drone operations across vision and VLA model capabilities.\n\nWe help teams like Forterra automate their annotation pipelines across\nmulti cam video, 3D, and telemetry data, with native support for SAM3, SOTA\nmodels, or BYO models for model assisted annotation.\n\nIf this is relevant now or will be as you scale up operations of your\nground based UAVs, I'd love to connect and share a bit more about Encord.\nLet me know if there is a good day to connect in the coming week or two?"
+},
+{
+"id": "503380884720",
+"subject": "Swarmbotics <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere\nwe partner with a number of defense tech companies on their autonomous\nrover and drone operations across vision and VLA model capabilities.\n\nWe help teams like Forterra automate their annotation pipelines across\nmulti cam video, 3D, and telemetry data, with native support for SAM3, SOTA\nmodels, or BYO models for model assisted annotation.\n\nIf this is relevant now or will be as you scale up operations of your\nground based UAVs, I'd love to connect and share a bit more about Encord.\nLet me know if there is a good day to connect in the coming week or two?"
+},
+{
+"id": "503431180479",
+"subject": "AI leaders dinner invite - August 13th, London",
+"text": "Hi [NAME],\n\nWanted to invite you to an upcoming AI leaders dinner our co-founder, [SENDER],\nis hosting in London - we'd love to have you join us.\n\nWe're hosting ~15 founders, execs and heads of AI building interesting\ncomputer vision and physical AI use cases - you'll be joined by people from\nDeepMind to Sky.\n\nI know you've spoken with my colleagues at Encord before, but as a\nreminder, we're an ML DataOps platform helping teams streamline their CV,\nVLA/VLM tasks.\n\nLet me know if you can make it and I'll send the details."
+},
+{
+"id": "503444465855",
+"subject": "An Evening on Surgical AI, SRS - Thursday 23rd July",
+"text": "Hi [NAME], pleasure to meet you. \n\n We are hosting an exclusive networking dinner during SRS for surgical AI leaders to share their experience and challenges building AI in surgery and medtech. \n\n The evening will take place at \nThe Salon at the Premier Steakhouse, Diplomat Prime on Thursday 23rd July. We expect great conversation with attendees ranging from surgical robotics startups to established medtech leaders. \n\n Encord runs this type of event across major conferences and tech hubs. The agenda stays entirely attendee-led, with no slides or presentations, to keep us up to speed on what is state-of-the-art in surgical AI. \n\n We'd love to have you join if you're interested. \n\n I will send over a formal invite if you are."
+},
+{
+"id": "503484939497",
+"subject": "Cortex Launch with Seven Agents - One data problem",
+"text": "Hi [NAME], \n\nSaw Cortex launch this week. Training a VLM on construction drawings while running document agents in parallel means two distinct data problems: labelled drawing sheets for the vision side, and output review to catch wrong answers before they reach a GC on a live project.\n\nWe worked with OnsiteIQ on their construction vision models. After moving their annotation and data infrastructure to Encord they hit 5x faster data throughput and cut project setup from 2 months to 2 weeks.\n\nThe pattern we see at teams your stage: the internal tooling that got you to launch stops scaling when model count and project volume rise at the same time. The slow part stops being generating outputs and starts being closing the loop between a model getting something wrong and a corrected example making it back into training.\n\nWorth 20 minutes to talk through how you're handling that on the drawing side?\n\nPlease let me know."
+},
+{
+"id": "503487072452",
+"subject": "Scaling multimodal data pipelines // learnings from Synthesia & Thinking Machines",
+"text": "Hi [NAME],\n\nSeen the work you are doing on the data team at Reflection, & thought it was worth a quick intro.\n\nSimilar leading teams at Synthesia, Thinking Machine Labs, and Twelve Labs all approached us with the same story -- as teams look to iterate fast, the bottleneck becomes the data infrastructure (curation, annotation + HITL workflows, eval) that sit behind the models themselves.\n\nWould be great to share more on how we've worked with similar teams to speed up iteration cycles.\n\nAre you open to connecting over a call this / next week?"
+},
+{
+"id": "503499002065",
+"subject": "[Invite] GenAI & Creatives Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi [NAME], \n\n        [SENDER] is hosting an AI leaders' dinner in SF at the Michelin-starred \n        Spruce on Thursday, Jul 30. He and [SENDER] would love to catch up in person!\n\n        Format will be an intimate gathering of ~15 CxOs and VPs of AI. Conversations will focus on training data and eval as gen-video quality bars keep rising. \n        We have guests joining from Adobe, Canva, and Dolby. \n\n       Can I save you a seat?"
+},
+{
+"id": "503499012301",
+"subject": "[Invite] Multimodal AI Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi \n        [NAME], \n\n        My CEO \n        [SENDER] is hosting an AI leaders' dinner at the Michelin-starred \n        Spruce on Thursday, Jul 30 and we'd love to have you join us!\n\n        It'll be an intimate gathering of ~15 CxOs and senior tech leads building models and working with multimodal data (audio, vision, language, 3D). Conversations will focus on the successes and challenges of setting up training data flywheels and fine-tuning with agents/HITL. \n\n        We have guests joining from Adobe, Dolby, and Netflix. Given your work leading audio/video for [COMPANY] research, we'd love to have your voice represented. \n\n       Can I save you a seat?"
+},
+{
+"id": "503511057624",
+"subject": "[Invite] GenAI & Creatives Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi [NAME], \n\n         My CEO \n         [SENDER] is hosting an AI leaders' dinner at the Michelin-starred \n         Spruce on Thursday, Jul 30 and we'd love to have you join us!\n\n         It'll be an intimate gathering of ~15 CxOs and senior tech leads building models and working with multimodal data (audio, vision, language, 3D). Conversations will focus on the successes and challenges of setting up training data flywheels and fine-tuning with agents/HITL. \n\n         We have guests joining from Roku, Adobe, Dolby, and Netflix. Given your work leading GenAI for [COMPANY], we'd love to have your perspective represented. \n\n        Can I save you a seat?"
+},
+{
+"id": "503526457590",
+"subject": "[COMPANY] // text & video annotation // training data",
+"text": "Hi [NAME],\n\nHope you've been well! You spoke with the Encord team last year about text\nand video annotation projects.\n\nI wanted to reach out and see if now's a better time to pick up the\nconversation? We're keen to understand how the projects went and if the\nscope has expanded since. We're working with a few gaming companies on\ncontent moderation and ID verification projects across audio, text, and\nvision, which reminded me of [COMPANY].\n\nHappy to walk through what we've built since we last spoke and get your\ntake on whether it's still relevant. Do you have 20 minutes to catch up in\nthe coming weeks?"
+},
+{
+"id": "503528373473",
+"subject": "[Invite] GenAI & Creatives Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi [NAME],\n\nMy CEO [SENDER]\n<[LINK]>\nis\nhosting an AI leaders' dinner at the Michelin-starred Spruce\n<[LINK]>\non\nThursday, Jul 30, starting at 6pm. We'd love to extend an invite.\n\nIt'll be an intimate gathering of ~15 CxOs and founders building models and\nworking with multimodal data (audio, vision, language, 3D). Conversations\nwill focus on the successes and challenges of setting up training data\nflywheels and fine-tuning with agents/HITL, and how teams are thinking\nabout eval as the quality bar for AI-generated and AI-edited output keeps\nrising.\n\nWe have guests joining from Adobe, Canva, Dolby, and Netflix. Given the\npace at which VSCO's AI Lab has been shipping, we'd love to have your voice\nin the room!\n\nCan I save you a seat if you're in town that week?"
+},
+{
+"id": "503530749128",
+"subject": "[Invite] Gaming & Streaming AI Leaders Dinner @Spruce SF - Jul 30",
+"text": "Hi [NAME],\n\nMy CEO [SENDER]\n<[LINK]>\nis\nhosting an AI leaders' dinner at the Michelin-starred Spruce\n<[LINK]>\non\nThursday, Jul 30, starting at 6pm. We'd love to extend an invite!\n\nIt'll be an intimate gathering of ~15 CxOs and VPs of Eng building models\nand working with multimodal data (audio, vision, language, 3D) acorss media\nstreaming and gaming. Conversations will focus on the successes and\nchallenges of setting up training data flywheels and fine-tuning with\nagents/HITL.\n\nWe have guests joining from Epic, Riot, Dolby, and Netflix. Given your work\nleading AI acceleration at [COMPANY], we'd love to have your perspectives\nrepresented.\n\nCan I save you a seat?"
+},
+{
+"id": "503537472705",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME], \n\n          Great to connect on LinkedIn. [SENDER] mentioned great chats with you at the Hollywood dinner.\n\n          Would love to continue the conversation and learn more about your focus at \n          [COMPANY]. We recently started working with a couple of gaming/media teams on multimodal content moderation and safety (chats, text, audio, avatar, and vision). I figured there might be some interesting overlaps to share and get your thoughts on :)\n\n          Would you be open to a quick 30-min catch up later this week?"
+},
+{
+"id": "503541258447",
+"subject": "AI/ML Leaders Dinner",
+"text": "Hi [NAME],\n\nGreat to be connected via email. Given your work leading data\ninfrastructure, analytics, and AI systems at Firework, I thought you might\nbe interested in a small dinner we're hosting in SF on *August 6* for AI\nleaders building production AI and perception systems.\n\nHere's the Luma link with more details and registration to hold your spot:\n[LINK]\n\nWould be great to have you there and hear your perspective. Happy to answer\nany questions or provide additional context. (Can support with any\ntransportation needs if helpful)."
+},
+{
+"id": "503541505270",
+"subject": "[COMPANY] <> Encord - catch up",
+"text": "Hi [NAME],\n\nHope you've been well! I was revisiting earlier conversations you had with\nmy colleague [SENDER] and wanted to reconnect and introduce myself.\n\nWe recently started working with a few gaming and entertainment companies\nand have hence enhanced our multimodal features to support cross-modality\nand cross-team collaborations.\n\nCurious if now's a better time to pick things back up? Happy to arrange a\nquick catch up and hear what's new on your end."
+}
+]

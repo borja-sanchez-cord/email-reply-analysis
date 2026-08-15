@@ -1,0 +1,202 @@
+[
+{
+"id": "296503796969",
+"subject": "VapiCon - Coffee?",
+"text": "Hi [NAME]\n\nI saw you focus on conversational speech models so I expect you might be at\nVapiCon next week. I wanted to reach out for a coffee and learn how you're\nthinking about data quality.\n\nI've been working on projects with Udio, Kyutai and Speechmatics in similar\nspaces to you. That seems to be a common challenge for Voice AI teams which\nin turn affects the word error rate and output naturalism.\n\nWe've been approaching this from a tooling angle - e.g. unifying\npre-labelling, manual adjustment and QA in one place for transcription,\ndiarization and emotion/ sentiment recognition.\n\nWould love to hear how you're approaching this. My team will be at VapiCon\nall day on 2nd Oct - if you're open to a quick chat?"
+},
+{
+"id": "296503886050",
+"subject": "Congrats on the IPO!",
+"text": "Hi [NAME],\n\nJust saw the great news about Kodiak's IPO! Hope you're celebrating for\nthis huge day!\n\nI saw you're recently hiring for an AI engineer for flywheel automation &\nthought automating annotations is something we can collaborate on.\n\nOur customer Woven by Toyota leverage us to curate, annotate & evaluate\npetabytes of self-driving training data - which I imagine is at comparable\nscale to Kodiak. - keen to get your thoughts on how we've approached that\nproject.\n\nLet me know if you have 30 mins in the coming week? Until then hope you're\ncelebrating in style!"
+},
+{
+"id": "296521735366",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nCongrats on Chatterbox Multilingual's recent launch! Given your focus on\nTTS/ASR I thought you might be at VapiCon next week - would love to grab a\ncoffee if you're heading there.\n\nFor context - I'm working on data ops projects with Speechmatics, Kyutai\nand Udio in audio AI space, helping them build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and manual adjustment/ human QA in one\nplatform, so annotators can focus on assessing labelling accuracy for\ntranscription, diarization and non-speech contexts.\n\nWould you be open to a chat? We'll be at VapiCon all day on 2nd Oct."
+},
+{
+"id": "296539836663",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nGiven your focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\nthe Voice AI space. Would love to connect at the conference if you're\ngoing?\n\nFor context - Encord helps Voice AI teams build more accurate datasets with\nthe objective of reducing word error rate and increasing naturalism of\nmodel outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on labelling accuracy and\nresearch teams can spend less time wrangling data.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296559661248",
+"subject": "Coffee at VapiCon",
+"text": "Hi [NAME],\n\nGiven Wellsaid's focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\naudio gen space. Would love to connect at the conference if you're going?\n\nFor context - Encord helps Voice AI teams build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on assessing labelling accuracy\nfor transcription, diarization and non-speech contexts.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296559662304",
+"subject": "Coffee at VapiCon",
+"text": "Hi [NAME],\n\nGiven Wellsaid's focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\naudio gen space. Would love to connect at the conference if you're going?\n\nFor context - Encord helps Voice AI teams build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on assessing labelling accuracy\nfor transcription, diarization and non-speech contexts.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296570424519",
+"subject": "ITC Vegas catch up with Ravin",
+"text": "Hi [NAME],\n\nCongrats on being selected to speak at ITC Vegas!\n\nI'll be following but wanted to reach out since we already work with some\nof your peers (Intenseye, UVeye, Tractable) on their annotation workflows\nfor car damage detection + assessment.\n\nWe've seen CV teams in auto insurance cut model iteration time by\nautomating edge-case QA and streamlining review workflow (something I\nimagine is also top of mind for Ravin).\n\nCurious if you'd be open to a virtual coffee before the event to compare\nnotes. Happy to work around your schedule."
+},
+{
+"id": "296596927683",
+"subject": "training data pipeline @ [COMPANY]",
+"text": "Hi [NAME],\n\nCongrats on your recent partnership with Skydio! Thought I'd reach out\nsince Skydio is also a customer.\n\nWe've been working with them and other inspection companies like Zeitview,\nBuzz, Tractable on similar computer vision models for diverse environments.\nTheir CV teams turn to us because they often face challenges as they scale\nwith managing massive volumes of video, images and 3D training data.\n\nQuick context on Encord: we're a data development platform for advanced CV\nand multimodal AI. We bring data curation, annotation, workflow management\n& model evaluation into one place, so teams can focus more on building\nbetter models.\n\nKeen to hear if these challenges resonate and how you're thinking about\nyour training data as you scale. I'm flexible Tuesdays to Thursdays if you\nare open to chat."
+},
+{
+"id": "297048472798",
+"subject": "training data pipeline @ imubit",
+"text": "Hi [NAME],\n\nI read about [COMPANY]'s partnership with Preem to lower emissions, great work\nfor driving sustainability in industrial AI (and making the earth greener!)\nThought I'd reach out as we work with companies like Zeitview, Buzz\nsolutions and Baker Hughes on similar CV projects to detect defects / leaks\nat oil rigs and other power plants.\n\nWe've been helping their teams scale annotation for high-volume, complex\ndatasets so they can accelerate model development, improve predictive\naccuracy, and deploy AI faster. Curious to learn if CV inspection is on\n[COMPANY]'s roadmap as well.\n\nQuick context on Encord: we're a data development platform for advanced CV\nand multimodal AI (image, video, 3D, sensor etc). We bring data curation,\nannotation, workflow mgmt & model evaluation into one platform, so teams\ncan focus more on building better AI models.\n\nDo you have time over the next week or two to learn more? Let me know what\nworks for you, and I'll send a calendar invite along accordingly."
+},
+{
+"id": "297412577481",
+"subject": "Boston Dinner - Encord",
+"text": "[NAME] - thought of you as we'll be hosting a dinner in Boston on 15th Oct.\nWould love to have you join and hear what you're up to since the Las Vegas\nlaunch!\n\nIt will be a small gathering for 15 Physical AI leaders, starting from\n6:30pm with confirmed attendees from Boston Dynamics, Motional, Symbotic,\netc.\n\nWould love for you to join - can you make it?"
+},
+{
+"id": "299431604463",
+"subject": "Actuate - [SENDER] Jazayeri intro",
+"text": "Hi [NAME],\n\nHad the pleasure of meeting [SENDER] at Actuate last week who suggested that we\nconnect,\n\nWe've been working closely with Tayyab's team at Woven (not sure if you\noverlapped during your time there?) - providing the platform to support AI\ndata management, curation & annotation workflows, so was curious to explore\nif we could support in a similar way at [COMPANY]\n\nWondering if you'd have time for a quick chat in the coming weeks? Would be\ngreat to be introduced,\n\nCopying in my colleague @[SENDER] <[EMAIL]> who can help\nto coordinate if this of interest,"
+},
+{
+"id": "299540634867",
+"subject": "Video Surveillance - data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY] workflow.\n\nLet me when is a good time to chat - afternoons PT are usefully pretty free.\n\n-[SENDER]"
+},
+{
+"id": "299540635875",
+"subject": "Video Surveillance - data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY] workflow.\n\nLet me when is a good time to chat - afternoons PT are usefully pretty free.\n\n-[SENDER]"
+},
+{
+"id": "299563725025",
+"subject": "Video Surveillance - data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY] workflow.\n\nLet me when is a good time to chat - afternoons PT are usefully pretty free.\n\n-[SENDER]"
+},
+{
+"id": "299601646820",
+"subject": "Video Surveillance - data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY] workflow.\n\nLet me when is a good time to chat - afternoons PT are usefully pretty free.\n\n-[SENDER]"
+},
+{
+"id": "299621817534",
+"subject": "Video Surveillance - data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY] workflow.\n\nLet me when is a good time to chat - afternoons PT are usefully pretty free.\n\n-[SENDER]"
+},
+{
+"id": "299758323951",
+"subject": "Video Surveillance - data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY] workflow.\n\nLet me when is a good time to chat - afternoons PT are usefully pretty free.\n\n-[SENDER]"
+},
+{
+"id": "299809153267",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with other geospatial leaders such as Maxar & Xoople.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love the opportunity to show you what\nwe've built and hear your thoughts. Would you be open to learning more?"
+},
+{
+"id": "299887658217",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI wanted to introduce myself as your new point of contact at Encord - nice\nto meet you.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love to present what we've built and hear\nyour thoughts. Would you be open to learning more?"
+},
+{
+"id": "300162325701",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300162649303",
+"subject": "Multimodal AI Panel @SF Tech Week",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on video editing via AI capabilities across video,\ntext and audio, I thought you'd be interested in our upcoming panel on\nMultimodal AI - featuring experts from OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalisation and risks in multimodal systems, followed by a mixer with\npanelists and peers.\n\nQuick recap - we help 200+ ML teams to streamline data development,\nunifying curation, annotation, and validation across vision, audio, and\ntext.\n\nHappy to share full details if you're interested in joining?"
+},
+{
+"id": "300271724764",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300279203009",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300279215295",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300285851875",
+"subject": "Multimodal AI Panel - 8 Oct",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on the intersection of speech & NLP, I thought you'd\nbe interested in our upcoming Multimodal AI panel on 8th Oct  - featuring\nexperts from OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalization and risks in multimodal systems, followed by a mixer with\npanelists and guests.\n\nFor context - Encord helps 200+ ML teams to streamline data development,\nunifying curation, annotation and model evaluation across vision, audio,\nand text.\n\nHappy to share the full agenda if you can make it?"
+},
+{
+"id": "300298609912",
+"subject": "Multimodal AI @SF Tech Week",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on video editing with AI capabilities across video,\ntext and audio, I thought you'd be interested in our upcoming panel on\nMultimodal AI - featuring experts from OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalisation and risks in multimodal systems, followed by a mixer with\npanelists and guests.\n\nFor context - we help 200+ ML teams to streamline data development,\nunifying curation, annotation, and validation across vision, audio, and\ntext.\n\nHappy to share full details if you're interested in joining?"
+},
+{
+"id": "300376299759",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300376313051",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300376598762",
+"subject": "Multimodal AI @SF Tech Week",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on video editing with AI capabilities across video,\ntext and audio, I thought you'd be interested in our upcoming panel on\nMultimodal AI - featuring experts from OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalisation and risks in multimodal systems, followed by a mixer with\npanelists and guests.\n\nFor context - we help 200+ ML teams to streamline data development,\nunifying curation, annotation, and validation across vision, audio, and\ntext.\n\nHappy to share full details if you're interested in joining?"
+},
+{
+"id": "300378128601",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300378436808",
+"subject": "Multimodal AI @SF Tech Week",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on video editing with AI capabilities across video,\ntext and audio, I thought you'd be interested in our upcoming panel on\nMultimodal AI - featuring experts from OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalisation and risks in multimodal systems, followed by a mixer with\npanelists and guests.\n\nFor context - we help 200+ ML teams to streamline data development,\nunifying curation, annotation, and model evaluation across vision, audio,\nand text.\n\nHappy to share full details if you're interested in joining?"
+},
+{
+"id": "300393147639",
+"subject": "Multimodal AI @SF Tech Week",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus on video editing with AI capabilities across video,\ntext and audio, I thought you'd be interested in our upcoming panel on\nMultimodal AI - featuring experts from OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalisation and risks in multimodal systems, followed by a mixer with\npanelists and guests.\n\nFor context - we help 200+ ML teams to streamline data development,\nunifying curation, annotation, and model evaluation across vision, audio,\nand text.\n\nHappy to share full details if you're interested in joining?"
+},
+{
+"id": "300406011117",
+"subject": "Multimodal AI Panel - 8th Oct",
+"text": "[NAME] - congrats on the launch of lipsync-2-pro - I'm sure you've put a\nbunch of work to put the model in production!\n\nGiven sync.'s focus on the intersection of video & voice, I thought you'd\nbe interested in our Multimodal AI panel on 8th Oct - featuring experts\nfrom OpenAI, xAI, and Microsoft.\n\nWe'll cover tough questions & current perspectives on benchmarking,\npersonalization and risks in multimodal systems, followed by a mixer with\npanelists and guests.\n\nFor context - Encord helps 200+ ML teams to streamline data development,\nunifying curation, annotation and model evaluation across vision, audio,\nand text.\n\nHappy to share the full agenda if you can make it?"
+},
+{
+"id": "300407405786",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300413082866",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300453779676",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300465288422",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of SLB's workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300481707221",
+"subject": "Video data curation and annotation",
+"text": "Hi [NAME],\n\nSharing a quick loom here: [LINK] on how we help w/ video curation and annotation. We can also demo the platform in the context of [COMPANY]'s workflows.\n\nLet me when is a good time to chat - afternoons PT next week are pretty free.\n\n-[SENDER]"
+},
+{
+"id": "300482102471",
+"subject": "Multimodal AI Panel - 8 Oct",
+"text": "Hi [NAME],\n\nGiven your work on the intersection of medical imaging, NLP and speech at\n[COMPANY] - I wanted to extend an invite to the Multimodal panel we're hosting\non *8th Oct*, as part of the SF Tech Week.\n\nIt will feature experts from OpenAI, xAI and Microsoft, covering questions\n& current perspectives on benchmarking, personalization and risks in\nmultimodal systems, followed by a mixer with panelists and guests.\n\nFor context - Encord helps 200+ ML teams to streamline data development,\nunifying curation, annotation and model evaluation across vision, audio,\nand text.\n\nHappy to share the full even details if you can make it?"
+},
+{
+"id": "300512916700",
+"subject": "Multimodal AI Panel - 8 Oct",
+"text": "Hi [NAME],\n\nGiven your focus on multimodal datasets & deep learning systems, I thought\nour upcoming Multimodal AI panel on 8th Oct might be interesting for you.\n\nIt'll feature experts from OpenAI, xAI and Microsoft, covering tough\nquestions & current perspectives on benchmarking, personalization and risks\nin multimodal systems. After the panel there'll also be plenty of time to\nmingle with panelists and guests.\n\nFor context - Encord helps 200+ ML teams to streamline data development,\nunifying curation, annotation and model evaluation across vision, audio,\nand text.\n\nHappy to share the full event agenda if you can make it?"
+}
+]

@@ -1,0 +1,202 @@
+[
+{
+"id": "448991017195",
+"subject": "Worth a quick look if you are building Audio/ Voice AI",
+"text": "Hi [NAME],\n\nQuick heads-up on a masterclass we're hosting that I think you'd find quite\nuseful.\n\nWe're running a short master class on Thursday 12 Feb on how teams are\nbuilding *production-ready audio AI* - covering real workflows for audio\nannotation, transcription, and training data pipelines (hands-on demo).\n\nWe'll also share how teams are using *audio agents* to speed up labeling\nand validation without sacrificing quality.\n\nIf you're working on speech, voice, or conversational systems, it should be\na solid use of time. You can join live or just get the recording.\n\nRegister here\n<[LINK]>\n."
+},
+{
+"id": "448992122105",
+"subject": "E-MM1 - let's continue the conversation!",
+"text": "Hi [NAME],\n\nThanks for checking out our multimodal dataset! Curious what caught your\neyes amongst the 100M data points?\n\nI saw your focus is on industrial robotics - happy to cover also how we\nsupport curation, annotation and evaluation projects across image, video\nand LiDAR.\n\nHow's later this week looking for you to continue the conversation? I'm\nflexible afternoon times Wed to Fri."
+},
+{
+"id": "448996340958",
+"subject": "[Invite] Ai & Autonomy Execs Dinner @ Niku, SF - Feb 26th",
+"text": "Hi [NAME],\n\nBy a way of introduction, we've spoke to a number of your team in regard to\nyour 2D and 3D ML pipelines - big fans of what you've built at [COMPANY].\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI & Autonomy, and we'd love for you to join.\n\nFor context, Encord is a multimodal (video, image, LiDAR) ML DataOps\nplatform that works with companies like Woven by Toyota, Fox Robotics and\nmore to produce better data for their autonomous driving models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Outrider, Phantom AI and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "448997837045",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *And we'd love to extend an invite!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Motive,\nNauto, Nuro etc.\n\nFor context - we help 200+ ML teams to improve data quality. Teams\ntypically leverage Encord to curate, (auto)annotate and evaluate training\ndata in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449004781804",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders on *Thursday\n26th Feb. *Deploying and validating models for autonomous systems will be a\ncentral dinner topic - which made me think of you! Appreciate travels to SF\nmight be a blocker, thought I'd extend an invite regardless.\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\ncurated group of c.20 heads of ML and engineering leaders joining from\nCaterpillar, General Motors, 1X, etc.\n\nFor context - we help 20+ robotics & autonomy teams accelerate data\nfeedback loops. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details -- let me know if you're by chance in CA?"
+},
+{
+"id": "449004867817",
+"subject": "AI/ML Leaders Dinner",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449008640225",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *And we'd love to extend an invite!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Motive,\nNauto, Nuro etc.\n\nFor context - we help 200+ ML teams to improve data quality. Teams\ntypically leverage Encord to curate, (auto)annotate and evaluate training\ndata in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449008751843",
+"subject": "Scaling Data Pipelines",
+"text": "Hi [NAME],\n\nNoticed you're growing your AI engineering team to accelerate model\ndevelopment and thought Encord might be relevant.\n\nWe're an ML Ops platform that helps robotics teams scale data pipelines, so\nyou can focus on model iteration rather than data cleaning & annotation.\n\nWe work with over 200 AI teams such as Woven (Toyota), Zipline & PI, and\nwe're deeply integrated into VLA use cases across robotics and autonomy.\n\nIt would be great to explore how we could help enhance data throughput as\nyou scale - are you open to learning more?"
+},
+{
+"id": "449013700794",
+"subject": "UMV mini - LiDAR sensors",
+"text": "Hi [NAME],\n\nSaw RAI's recent blog post on the progress you made on the UMV mini and\nincorporating LiDAR (alongside other hardware) for motion planning and\nnavigation. Given your background in 3D algos, thought I'd reach out.\n\nI'm working with our robotics partners in the space, including teams like\nBoston Dynamics, Pickle Robot, and ADAS teams including Woven by Toyota, on\nrobotics data collection, multimodal annotation/VLA captioning, and policy\nevaluation in deployments.\n\nI know your future work in [YEAR] will involve more sophisticated learning\nalgorithms and larger, more diverse datasets, so keen to get your feedback\non what we've built to solve those problems - worst case, we'd exchange\nperspectives from our work across domain-specific and general-purpose\nrobotics teams.\n\nWould you have 15/20 mins this week to swap notes? Weds/Thurs works well\nfor me."
+},
+{
+"id": "449014073536",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *-- We'd love to extend an invite!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb,\nNetflix, Ebay, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449017446600",
+"subject": "AI/ML Leaders Dinner @ Niku, SF - Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449017460948",
+"subject": "AI/ML Leaders Dinner @ Niku, SF - Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449019246803",
+"subject": "AI Roundtable in SF @Niku, Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449021296881",
+"subject": "ML & Data Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How teams are managing multimodal data for AI systems will be a\ncentral theme -- which made me think of you!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449021633776",
+"subject": "Worth a quick look if you are building Audio/ Voice AI",
+"text": "Hi [NAME],\n\nQuick heads-up on a masterclass we're hosting that I think you'd find quite\nuseful.\n\nWe're running a short master class on Thursday 12 Feb on how teams are\nbuilding *production-ready audio AI* - covering real workflows for audio\nannotation, transcription, and training data pipelines (hands-on demo).\n\nWe'll also share how teams are using *audio agents* to speed up labeling\nand validation without sacrificing quality.\n\nIf you're working on speech, voice, or conversational systems, it should be\na solid use of time. You can join live or just get the recording.\n\nRegister here\n<[LINK]>\n."
+},
+{
+"id": "449024653518",
+"subject": "AI/ML Leaders Dinner in SF @ Niku, Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449024659682",
+"subject": "AI Exec Dinner in SF @ Niku - Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449025118401",
+"subject": "Invite to AI & Autonomy Leaders dinner in SF - Feb 26th",
+"text": "Hi [NAME],\n\nBy a way of introduction, we've spoke to a number of your team in regard to\nyour 2D and 3D ML pipelines - big fans of what you've built at [COMPANY].\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI & Autonomy, and we'd love for you to join.\n\nFor context, Encord is a multimodal (video, image, LiDAR) ML DataOps\nplatform that works with companies like Woven by Toyota, Fox Robotics and\nmore to produce better data for their autonomous driving models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Outrider, Phantom AI and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449026436317",
+"subject": "AI/ML Leaders Dinner in SF, Feb 26th @ Niku",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449026453708",
+"subject": "AI/ML Leaders Dinner in SF - Feb 26th @ Niku",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449026468054",
+"subject": "AI Execs Dinner @ Niku, SF - Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449030276330",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *-- We'd love to extend an invite!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449032852672",
+"subject": "[NAME] - Encord chat",
+"text": "Hi \n      [NAME], \n\n      Thanks for your interest in Encord's Physical AI & Robotics meet up last week. \n\n      Though we did not manage to catch each other in person - I'd still love a quick 15-20min virtual hello to share more about a few upcoming events we're planning. If useful, we can also chat about how we might support your training data workflow and ML pipeline at [COMPANY] - happy to keep it informal. \n\n      No pressure - let me know if you have some time this Thu/Fri?"
+},
+{
+"id": "449034806476",
+"subject": "[Invite] Private AI Leaders Dinner - SF - Feb 26",
+"text": "Hi \n         Chris, \n\n         Congrats on your BOLO launch - exciting milestone! \n\n         If you're around SF on Thursday, Feb 26, my co-founders are hosting an exclusive dinner for senior AI leaders at Niku Steakhouse (Michelin starred), and we'd love to have you join us. \n\n         We're bringing together ~20 founders, CxOs, and Heads of AI/ML from frontier labs, scale-ups, and fortune 500 that are building and fine-tuning their models - no decks, no press, just candid conversations over great food and drinks. \n\n         We'd love your perspective at the table - can I save you a seat?"
+},
+{
+"id": "449035533522",
+"subject": "[Invite] Private AI Leaders Dinner - SF - Feb 26",
+"text": "Hi \n      [NAME], \n\n      I came across your work leading Data and ML at Niantic Labs and thought I'd reach out. My co-founders have been bringing together small groups of AI leaders in the Bay for informal meetups, and I'd love to include you. \n\n      We're hosting a private dinner on \n      Thursday, Feb 26 at Michelin starred \n      Niku Steakhouse in SF. It'll be ~20 founders, CxOs, and heads of AI/MLs who are actively building and deploying models - no decks, no press, just candid conversations over great food and drinks. \n\n      For context, Encord works with teams like Synthesia, Captions, Flawless, Boston Dynamics on training data quality and model performance at scale.\n\n      We'd love your perspective at the table - can I pencil you in?"
+},
+{
+"id": "449039374578",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How teams are validating models for reliable enterprise\ndeployment will be a central topic -- which made me think of you!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449043066084",
+"subject": "ML Leaders' Dinner - 26 Feb - Motive & Nauto Joining",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb*. How teams are training and validating models for safe operations\nwill be a theme at the dinner, which made me think of you!\n\nThe dinner will be at Niku Steakhouse from 6pm, with a curated group of\nc.20 heads of ML and engineering leaders joining from Motive, Nauto, Nuro,\netc.\n\nWould love to see you there - can you make it?"
+},
+{
+"id": "449046665463",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nAs model iterations speed up, the bottleneck shifts to evaluating whether\nthe new version actually improves across edge cases - overlapping speakers,\nlow-confidence transcriptions. Comparing outputs side by side at scale is a\nreal pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "449048377562",
+"subject": "ML & Data Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How teams are managing multimodal data for AI systems will be a\ncentral theme -- which made me think of you!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449049932000",
+"subject": "AI/ML Leaders Dinner in SF @ NIku - Feb 26th",
+"text": "Hi [NAME],\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI, and we'd love for you to join.\n\nIf Encord is new to you, we're a multimodal ML DataOps platform that helps\nAI teams produce better quality data for their models - we support\ncompanies like AbbVie, Target RWE and Stryker on their models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Netflix, Docusign and Incode.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449057468614",
+"subject": "ML Leaders' Dinner - 26 Feb - Motive & Nauto Joining",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb*. How teams are training and validating models for safe operations\nwill be a theme at the dinner, which made me think of you!\n\nAppreciate travels to SF might be a blocker, thought I'd extend an invite\nregardless... The dinner will be at Niku Steakhouse from 6pm, with a\ncurated group of c.20 heads of ML and engineering leaders joining from\nMotive, Nauto, Nuro, etc.\n\nWould love to see you there - can you make it?"
+},
+{
+"id": "449057626349",
+"subject": "Invite to AI & Autonomy Leaders dinner in SF - Feb 26th",
+"text": "Hi [NAME],\n\nBy a way of introduction, we've spoke to a number of your team in regard to\nyour 2D and 3D ML pipelines - big fans of what you've built at [COMPANY].\n\nMy co-founder, [SENDER], is hosting a dinner in SF on the Feb 26th for ~20\nleaders in AI & Autonomy, and we'd love for you to join.\n\nFor context, Encord is a multimodal (video, image, LiDAR) ML DataOps\nplatform that works with companies like Woven by Toyota, Fox Robotics and\nmore to produce better data for their autonomous driving models.\n\nWe've booked a private dining room at the Michelin-starred Niku Steakhouse\nin SoMa from 6pm onwards - you'll be joined by execs, co-founders and Heads\nof AI in the Encord network from Outrider, Phantom AI and more.\n\nWould you be interested in joining? If so, I'll send over the full details."
+},
+{
+"id": "449064457413",
+"subject": "SF Dinner - 26 Feb",
+"text": "Hi [NAME] -- it's been a while, how's things?\n\nWe'll be hosting another dinner on *Thursday 26th Feb* in SF. How teams are\norchestrating human feedback mechanisms at scale will be a central theme,\nwhich made me think of you!\n\nThe dinner will be at Niku Steakhouse from 6pm, with a curated group of\nc.20 leaders joining from Ebay, Airbnb, Descript, etc.\n\nWould love to catch up - let me know if you can make it?"
+},
+{
+"id": "449064591576",
+"subject": "ML & Data Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How teams are managing multimodal data for AI systems will be a\ncentral theme -- which made me think of you!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449069671650",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "449075082468",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How ML teams are designing scalable evaluation systems according\nto customer feedback will be a central topic -- which made me think of\nyou!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449076815038",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better on\ntough audio. Comparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams use us to cut\naudio review cycles by and catch regressions before they ship.\n\nWorth a 30-minute call this Thursday or Friday to see if this maps to what\nyou're running into?"
+},
+{
+"id": "449113713881",
+"subject": "[NAME] - BOLO",
+"text": "Hi \n        [NAME], \n\n        Congrats on the BOLO/POI launch, very timely given what hospitals are dealing with now - real-time identification can be a big game changer compared to manual logs. \n\n       Reaching out as I work with teams building high-stakes computer vision and identity systems (e.g. LiveViewTech, Flock Safety, Rhombus). A common theme I see is what comes after deployment: understanding where models fail, surface edge cases, reviewing false positives, and maintaining auditable trails as data volumes scale. \n\n       If useful, I'd love to grab 20 mins to say hello, learn more about your focus for [YEAR], and share a few patterns we're seeing across similar teams. \n\n       Happy to keep it informal - would you have 20 mins this Thursday or Friday?"
+},
+{
+"id": "449128423636",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How ML teams are managing multimodal data will be a key theme\nfor the dinner -- which made me think of you!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Ebay,\nDescript, Reducto, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+},
+{
+"id": "449133734094",
+"subject": "ML Leaders' Dinner - SF - 26 Feb",
+"text": "Hi [NAME],\n\nOur founder, [SENDER] is hosting a small dinner for AI leaders in\nSF on *Thursday\n26th Feb. *How ML teams are designing scalable evaluation systems according\nto customer feedback will be a central topic -- which made me think of\nyou!\n\nWe've booked a private dining room at Niku Steakhouse from 6pm, with a\nsmall group (c.20 guests) of ML and Data leaders joining from Airbnb, Ebay,\nDescript, etc.\n\nFor context - we help 200+ ML teams to improve data quality and\naccessibility. Teams typically leverage Encord to curate, (auto)annotate\nand evaluate training data in one place.\n\nHappy to share the full details if you'd be in town?"
+}
+]
