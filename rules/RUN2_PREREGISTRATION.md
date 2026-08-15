@@ -523,3 +523,81 @@ be re-run before the report. The §9.3 baselines shift again, to 10.8% / 6.0% at
 | §9.5 fix | `tests/test_reply_matching.py` — 13 tests: real misattributed pairs rejected, genuine replies (incl. punctuation variants and replies to follow-up touches) still matched |
 
 Total: 43 tests, passing.
+
+---
+
+### 9.7 Blinding defects found at judge-build time — the §5.4 gate was itself defective
+
+Found 2026-08-15, **before any judging was paid for**, by executing the operator
+instruction pinned in `RESUME.md`: *build the batches, run the checker, then print 20 real
+judge items and read them with your own eyes.* The checker alone would not have been
+enough — the most serious defect was in the checker.
+
+Six defects, all in the redaction path, none of which changes any Layer-1 result:
+
+| # | defect | measured impact before fix |
+|---|---|---|
+| D8 | `prune_common_words` used corpus frequency as a proxy for "ordinary English word" | **29.8% of judge items carried a sender name** |
+| D9 | the subject line never had `EMAIL_RE` applied | 66 items shipped `sender@encord.com` in the subject |
+| D10 | `split_signature` missed curly apostrophes, non-English sign-offs, and sign-offs with a trailing clause | full signature blocks (name + job title) survived |
+| D11 | `check_blinding.py` pruned the vocabulary it was auditing | 4,543 leaking items reported **clean** |
+| D12 | a bare domain typed as prose (`Encord.com`) has no scheme, so `URL_RE` missed it | 25 items |
+| D13 | the recipient greeting kept a real first name when HubSpot held no `firstname`, or the rep used a nickname | 13.3% of items greeted a real person while 77% greeted `[NAME]` |
+
+**D8 is the one that matters, and it is a lesson about proxies.** The run-1 leak was
+sender names surviving in signatures; §5.4 was written to stop it. The fix redacted every
+name token, which over-redacted ordinary words (an owner surnamed *Short* turned "a short
+call" into "a [SENDER] call"), so a pruning rule was added: a token appearing in more than
+2% of emails is vocabulary, not identity. That reasoning inverts exactly where it matters —
+**a prolific rep's name is frequent because they are prolific.** It pruned `decaudaveine`,
+`fourati`, `kirpalani`, `landau`, `hansen`, `sweeney` and `ulrik` (13.2% of items). The
+result was a 29.8% leak rate: the run-1 number, reproduced by the fix written to prevent it.
+
+The replacement asks a question frequency cannot answer: **does the token ever appear
+lowercase?** Ordinary words do, constantly; names do not. It is evaluated on the text as
+the judge will see it — signature stripped, addresses and URLs removed — because two
+earlier attempts were evaluated on the wrong string and each let a name through
+(`james.sweeney@encord.com` made `james` and `sweeney` look like words; a lowercase handle
+inside a to-be-stripped signature did the same for `zainab`).
+
+**D11 is the structural lesson and is why the gate must never be trusted alone.** The
+checker called `prune_common_words()` and then searched only for the tokens that survived
+pruning. Any token the builder wrongly classified as an ordinary word was, by construction,
+a token the checker would not look for. **An audit that inherits the assumption it is
+auditing cannot fail.** This is the same defect class as §9.4 and as
+`docs/LEARNINGS_FOR_NEXT_RUN.md` #12. The checker now searches the full unpruned
+vocabulary and reports the pruning decision as a separate reviewable list.
+
+Result after fixes: **0 leaks across 12,462 items, all six checks at zero, exit 0.**
+The pruned-as-ordinary list is now `billing, growth, hello, jan, kit, marketing, max, near,
+ray, short, team, will` — every entry an ordinary word or a calendar term, reviewed by eye.
+Two knowingly accepted residuals: `max` (72 items) and `kit` (4) are genuinely ambiguous,
+and redacting them would damage prose the judge must rate.
+
+The counting splitter `split_signature()` was **deliberately left untouched** — feature
+counts and the committed Layer-1 results depend on it. The judge path uses a separate,
+stricter `split_signature_strict()`, pinned by a test asserting the counting variant has
+not moved.
+
+Tests: `tests/test_judge_redaction_v2.py` — 18 tests, one per defect plus positive
+controls. Suite total **61, passing**. Test D9 caught a real ordering bug while being
+written: bare-domain redaction ran before address redaction, so the domain half of
+`james.sweeney@encord.com` became `[LINK]`, `EMAIL_RE` then failed to match, and the local
+part — the sender's name — survived.
+
+### 9.8 Judge corpus tied to the analysis frame
+
+Selecting the judge corpus straight from `pushes_G30` swept in openers no frame contains:
+replies inside an existing thread ("Re: Techex Expo" → *"Assume you're busy with the
+presentation?"*) and one triathlon training plan. **3,183 of 15,173 items (21%) could never
+enter any analysis and would have been paid for.** In the other direction, 487 rows that
+are in a frame had no judge coverage, which would have left the pre-registered G21/G45
+robustness runs with holes.
+
+The corpus is now the union of the G21/G30/G45 frames: **12,462 items, 312 batches**, 0
+outside any frame, 100.0% coverage of G30 `cold_pitch` + `event_invite`. Judging remains
+independent of the **type** classifier — types are not consulted — so the two blind passes
+still do not depend on each other. Frame membership is decided by eligibility, never by
+outcome, so blinding is unaffected. This supersedes the "14,769 openers" figure in §6
+stage 7; it is an efficiency change that cannot alter a result, and it removed every
+over-redacted item (items >15% placeholder tokens: 21 → **0**).

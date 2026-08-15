@@ -187,6 +187,84 @@ CONTACT_LINE_RE = re.compile(
 ORG_TITLE_RE = re.compile(r"^\s*[^\n]{0,60}\s(@|at)\s+Encord\s*$", re.I)
 
 
+# --- strict variant, judge path only (RUN2_PREREGISTRATION §9.7) --------------------
+#
+# split_signature() below is TUNED FOR COUNTING and is left exactly as audited — the
+# feature tables and the committed Layer-1 results depend on it. The judge path has a
+# different requirement: a signature that survives does not merely add a few words to a
+# count, it tells the judge WHO WROTE THE EMAIL, which breaks rule 1 of the study.
+#
+# Measured failures of the counting splitter, found by reading built judge items:
+#   "À bientôt,"                                  non-English sign-off, not in the list
+#   "Hope all’s well,"                            curly apostrophe, ASCII-only pattern
+#   "All the best, and hopefully speak soon,"     sign-off with a trailing clause
+#   "Looking forward to continue the conversation,"        same
+# Each left a full signature block in place — 29.8% of items carried a sender name.
+#
+# This variant is deliberately MORE aggressive. Over-cutting costs a judge a sentence of
+# body text; under-cutting costs the study its blinding. The asymmetry is not close.
+
+TYPO_MAP = str.maketrans({"’": "'", "‘": "'", "“": '"', "”": '"',
+                          "–": "-", "—": "-", " ": " "})
+
+SIGNOFF_WORDS = (
+    r"best|best regards|kind regards|warm regards|regards|thanks|thank you|many thanks|"
+    r"cheers|all the best|sincerely|thanks so much|br|rgds|speak soon|chat soon|"
+    r"talk soon|looking forward|hope all'?s well|hope this helps|appreciate it|"
+    r"much appreciated|yours|warmly|thx|hope that helps|any questions|let me know|"
+    # non-English sign-offs seen in this corpus
+    r"a bientot|à bientôt|bien à vous|bien a vous|cordialement|merci|à très vite|"
+    r"viele gr[üu][ßs]e|mit freundlichen gr[üu][ßs]en|beste gr[üu][ßs]e|"
+    r"saludos|un saludo|grazie|hartelijke groet|med venlig hilsen"
+)
+SIGNOFF_STRICT_RE = re.compile(rf"^({SIGNOFF_WORDS})\b[^\n]*$", re.I)
+
+
+def _is_signoff_line(s):
+    """A sign-off, allowing a short trailing clause ('All the best, and speak soon,').
+
+    Bounded to 8 words so an ordinary body sentence that merely starts with 'Thanks'
+    ('Thanks for taking the time to walk me through the pipeline last week') is not
+    mistaken for one.
+    """
+    if not SIGNOFF_STRICT_RE.match(s):
+        return False
+    return len(s.split()) <= 8
+
+
+def split_signature_strict(text, names=()):
+    """Return (body, signature) for the JUDGE path. Never used for feature counts.
+
+    Cuts at the earliest of: the counting splitter's triggers, a broadened sign-off
+    line (above), or a line that is nothing but a known internal person's name
+    ('Charlotte Decaudaveine', 'Skander'). Searched from 30% into the message — lower
+    than the counting splitter's 40%, because these emails are short and a sign-off can
+    legitimately land early.
+    """
+    text = (text or "").translate(TYPO_MAP)
+    lines = text.splitlines()
+    n = len(lines)
+    start = max(1, int(n * 0.3))
+    name_set = {x.lower() for x in names}
+    for i, ln in enumerate(lines):
+        if i < start:
+            continue
+        s = ln.strip()
+        if not s:
+            continue
+        bare = re.sub(r"[^A-Za-z\s'\-]", "", s).strip()
+        hit = (SIG_DELIM_RE.match(s) or _is_signoff_line(s) or CONTACT_LINE_RE.match(s)
+               or ORG_TITLE_RE.match(s))
+        if not hit and 1 <= len(bare.split()) <= 3 and bare:
+            # a line that is only a name, e.g. "Skander" / "Charlotte Decaudaveine"
+            words = [w.lower() for w in bare.split()]
+            if all(w in name_set for w in words):
+                hit = True
+        if hit:
+            return "\n".join(lines[:i]).strip(), "\n".join(lines[i:]).strip()
+    return text.strip(), ""
+
+
 def split_signature(text):
     """Return (body, signature).
 

@@ -66,14 +66,30 @@ def main():
         return 1
     print(f"checking {len(items)} judge items across {len(dirs)} dir(s)\n")
 
-    # the same pruned vocabulary the builder used, measured on the same texts
+    # RUN2_PREREGISTRATION §9.7 — THE CHECK USES THE FULL, UNPRUNED VOCABULARY.
+    #
+    # This script previously called prune_common_words() and then searched only for what
+    # survived pruning. That made the gate blind to the builder's own worst failure mode:
+    # any token the builder wrongly decided was an ordinary word was, by construction,
+    # also a token the checker would not look for. The builder pruned `decaudaveine`,
+    # `fourati`, `kirpalani` and `ulrik` — real surnames — and the gate reported those
+    # 4,543 affected items as clean. An audit that inherits the assumption it is auditing
+    # cannot fail (docs/LEARNINGS_FOR_NEXT_RUN.md #12; §9.4 is the same defect class).
+    #
+    # Now: every token is searched. Hits are split into two classes so the pruning
+    # DECISION is visible and reviewable rather than silent.
     texts = [(x.get("subject", "") + " " + x.get("text", "")) for _, x in items]
-    vocab = bjb.prune_common_words(bjb.build_sender_vocab(), texts)
-    vocab_res = [(t, re.compile(rf"\b{re.escape(t)}\b", re.I)) for t in vocab]
+    full_vocab = bjb.build_sender_vocab()
+    scrub = [bjb.EMAIL_RE.sub(" ", bjb.URL_RE.sub(" ", t)) for t in texts]
+    kept = set(bjb.prune_common_words(full_vocab, scrub))
+    pruned = full_vocab - kept
+    vocab_res = [(t, re.compile(rf"\b{re.escape(t)}\b", re.I)) for t in sorted(full_vocab)]
 
     leaks = Counter()
+    warn = Counter()
     examples = {}
     name_hits = Counter()
+    pruned_hits = Counter()
 
     for batch, x in items:
         blob = (x.get("subject", "") or "") + "\n" + (x.get("text", "") or "")
@@ -82,14 +98,23 @@ def main():
             if m:
                 leaks[label] += 1
                 examples.setdefault(label, []).append((batch, x["id"], m.group(0)[:80]))
+        hit_ident = hit_pruned = False
         for tok, rx in vocab_res:
             m = rx.search(blob)
-            if m:
-                leaks["sender name token"] += 1
+            if not m:
+                continue
+            if tok in kept:
+                if not hit_ident:
+                    leaks["sender name token"] += 1
+                    examples.setdefault("sender name token", []).append(
+                        (batch, x["id"], m.group(0)[:80]))
+                hit_ident = True
                 name_hits[tok] += 1
-                examples.setdefault("sender name token", []).append(
-                    (batch, x["id"], m.group(0)[:80]))
-                break
+            else:
+                if not hit_pruned:
+                    warn["pruned-as-ordinary token"] += 1
+                hit_pruned = True
+                pruned_hits[tok] += 1
 
     print("=== LEAK CHECK (any non-zero blocks the launch) ===")
     for label, _ in CHECKS:
@@ -102,6 +127,15 @@ def main():
             print(f"      {b} {i}: {s!r}")
     if name_hits:
         print(f"\n  sender tokens that leaked, by frequency: {name_hits.most_common(20)}")
+
+    print("\n=== PRUNED-AS-ORDINARY (reported, does not block — REVIEW THIS LIST) ===")
+    print(f"  tokens the builder chose not to redact: {sorted(pruned)}")
+    print(f"  items containing one: {warn['pruned-as-ordinary token']} of {len(items)} "
+          f"({100 * warn['pruned-as-ordinary token'] / len(items):.1f}%)")
+    if pruned_hits:
+        print(f"  by frequency: {pruned_hits.most_common(25)}")
+    print("  Every entry must be a word a judge would read as ordinary English or a "
+          "calendar term.\n  A surname here means the pruning rule is wrong again (§9.7).")
 
     print("\n=== OVER-REDACTION (reported, does not block) ===")
     heavy = []
