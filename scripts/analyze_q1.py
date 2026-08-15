@@ -88,6 +88,9 @@ KAPPA = {"research_signal": 0.749, "why_now": 0.716, "pain_hypothesis": 0.694,
          "peer_tone": 0.320, "economy": 0.220}
 
 
+CONTROL_TOOL = False   # set by --control-tool
+
+
 def reliability(dim):
     k = KAPPA.get(dim)
     if k is None:
@@ -122,13 +125,31 @@ def wilson_diff(k1, n1, k2, n2, z=1.96):
     return lo, hi
 
 
-def fe_estimate(df, mask, outcome):
-    """§3 primary spec: LPM with sender fixed effects, SEs clustered by sender."""
-    d = pd.DataFrame({"y": df[outcome].astype(float), "x": mask.astype(float),
-                      "s": df["sender_local"]})
+def fe_estimate(df, mask, outcome, control_tool=False):
+    """§3 primary spec: LPM with sender fixed effects, SEs clustered by sender.
+
+    control_tool adds `tool_sent` — whether the send was also logged by a sequencer
+    (Apollo/Amplemarket). See §9.9: "mailbox" means HubSpot holds a Gmail record, NOT
+    that a human typed it. Apollo sends through Gmail, so its emails carry both records
+    and the cross-route dedup keeps the Gmail one — Apollo IS in the study. Its share of
+    2025 cold pitches is 16.5%; of 2026, 43.6%.
+
+    Tool-sent openers reply 1.9pp lower after features and sender (p=0.018), so the
+    control matters for LEVELS. It does not matter for the EFFECTS this study reports:
+    every headline feature keeps its sign in both routes and no interaction is
+    detectable (templated p=0.76, short p=0.58, why_now p=0.18). Off by default so the
+    committed 2025 estimates are reproducible; on, it is a sensitivity check.
+    """
+    cols = {"y": df[outcome].astype(float), "x": mask.astype(float),
+            "s": df["sender_local"]}
+    extra = ""
+    if control_tool and "tool_sent" in df.columns:
+        cols["t"] = df["tool_sent"].astype(float)
+        extra = "t + "
+    d = pd.DataFrame(cols)
     if d["x"].nunique() < 2 or d["s"].nunique() < 2:
         return np.nan, np.nan, np.nan
-    m = smf.ols("y ~ x + C(s)", data=d).fit(
+    m = smf.ols(f"y ~ x + {extra}C(s)", data=d).fit(
         cov_type="cluster", cov_kwds={"groups": d["s"]})
     return m.params["x"], m.bse["x"], m.pvalues["x"]
 
@@ -205,7 +226,7 @@ def analyse(df, outcome, judge_cols):
         k2, n2 = int(b[outcome].sum()), len(b)
         lo, hi = wilson_diff(k1, n1, k2, n2)
         agree, total, details = within_rep(df, mask, outcome)
-        fe_b, fe_se, fe_p = fe_estimate(df, mask, outcome)
+        fe_b, fe_se, fe_p = fe_estimate(df, mask, outcome, CONTROL_TOOL)
         rows.append({
             "feature": name, "family": family, "reliability": reliability(dim),
             "n_with": n1, "rate_with": round(100 * k1 / n1, 1),
@@ -250,10 +271,25 @@ def main():
                     help="§3: results are reported split by ca_class, never pooled silently")
     ap.add_argument("--shuffle-seed", type=int, default=0,
                     help="§5.2 placebo: permute the outcome within sender, then run unchanged")
+    ap.add_argument("--tool", default="", choices=["", "hand", "tool"],
+                    help="§9.9: restrict to Gmail-only sends or sequencer-logged sends")
+    ap.add_argument("--control-tool", action="store_true",
+                    help="§9.9: add tool_sent as a covariate in the FE spec (sensitivity)")
     ap.add_argument("--tag", default="")
     args = ap.parse_args()
 
+    global CONTROL_TOOL
+    CONTROL_TOOL = args.control_tool
+
     df = pd.read_parquet(os.path.join(DATA, f"frame_G{args.G}.parquet"))
+    # §9.9 send-route flag, if built
+    tp = os.path.join(DATA, "tool_flag.parquet")
+    if os.path.exists(tp):
+        tf = pd.read_parquet(tp)
+        tf["email_id"] = tf["email_id"].astype(str)
+        df["email_id"] = df["email_id"].astype(str)
+        df = df.merge(tf[["email_id", "tool"]], on="email_id", how="left")
+        df["tool_sent"] = df["tool"].notna()
     jp = os.path.join(DATA, "judge_scores.parquet")
     judge_cols = []
     if os.path.exists(jp):
@@ -265,6 +301,8 @@ def main():
     df = df[(df["type"] == args.type) & (df["year"] == args.year)]
     if args.ca:
         df = df[df["ca_class"] == args.ca]
+    if args.tool and "tool_sent" in df.columns:
+        df = df[df["tool_sent"] == (args.tool == "tool")]
     if args.shuffle_seed:
         # §5.2 placebo: break the feature-outcome link but preserve each sender's
         # base rate, matching the within-sender design being tested

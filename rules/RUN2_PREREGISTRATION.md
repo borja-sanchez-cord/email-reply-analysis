@@ -601,3 +601,63 @@ still do not depend on each other. Frame membership is decided by eligibility, n
 outcome, so blinding is unaffected. This supersedes the "14,769 openers" figure in §6
 stage 7; it is an efficiency change that cannot alter a result, and it removed every
 over-redacted item (items >15% placeholder tokens: 21 → **0**).
+
+### 9.9 What "mailbox" actually means — Apollo IS in the study
+
+Established 2026-08-15, after the operator challenged the claim that sequencer mail was
+excluded. **The channel label does not mean what its name suggests, and two statements
+made earlier in this run were wrong.**
+
+`build_timeline.py` sets `channel = mailbox` when HubSpot's `source == "EMAIL"` (a Gmail
+sync record) and `sequencer` when `source == "INTEGRATION"` (a tool's own log). It then
+de-duplicates across routes and, on a tie, **keeps the mailbox record** (`ch_rank`
+mailbox=0 < sequencer=1).
+
+Apollo sends *through* Gmail. So an Apollo email produces **both** records, the dedup
+keeps the Gmail one, and it enters the study labelled `mailbox`. Amplemarket does not
+leave a matching Gmail record (62,237 sends in 2026, only 430 with a Gmail twin), so it
+stays `sequencer` and is excluded.
+
+**Therefore: Apollo is included, Amplemarket is almost entirely excluded, and this was
+true in both years.** The rule never changed; only the mix did.
+
+| study population (frame openers) | 2025 | 2026 |
+|---|---|---|
+| also logged by a tool | **15.6%** | **53.6%** |
+| cold pitches, tool-logged | 16.5% | 43.6% |
+| tools present | Apollo 1,344 | Apollo 1,712, Amplemarket 155 |
+
+Two corrections to the record. (a) "We never counted Apollo" — **wrong**; 16.5% of 2025
+cold pitches are Apollo. (b) "2026's Gmail slice is the hand-written residue" —
+**wrong, and backwards**: the tool-logged share of the study population more than
+tripled. Apollo volume rose (27,150 → 45,859 sends); it was never replaced, Amplemarket
+was added on top.
+
+**Does the mix shift distort the study? Tested, and no.**
+
+1. *Level.* Tool-sent openers reply **1.9pp lower** after features and sender FE
+   (p=0.018). Reply-matching composition is near-identical by route (76% vs 81% matched
+   by thread), which argues against a large attribution gap, but genuine
+   worse-performance and residual under-capture cannot be fully separated. Reported as a
+   limitation.
+2. *Slope — the one that matters.* Every headline feature keeps its sign in **both**
+   routes: templated −5.8 / −5.4, short ≤100 +4.5 / +5.2, subject-question +4.6 / +3.8,
+   2+ questions −2.3 / −3.7, why_now +5.1 / +2.4, recipient-centricity +6.6 / +0.6
+   (hand / tool). Formal interaction tests find no difference: templated p=0.757, short
+   p=0.582, why_now p=0.178. The only sign flip, `has bold`, has p=0.65 on the tool arm
+   — noise, not a flip.
+
+So the reweighting hazard — that a 2026 prediction could fail purely because the
+hand/tool blend changed — is **not supported by the data**. The findings are properties
+of the email, not of the send route.
+
+Implemented: `data/tool_flag.parquet`; `analyze_q1.py --tool {hand,tool}` and
+`--control-tool`. The control is **off by default** so the committed 2025 estimates stay
+reproducible; with it on, no headline effect moves by more than 0.1pp.
+
+**Known scope leak, documented not hidden:** 155 Amplemarket openers (65 of them 2026
+cold pitches, ~5% of that cell) are inside the study because they did leave a Gmail
+twin. The stated rule excludes Amplemarket. They are left in place — removing them
+post-hoc, after their existence was discovered, is the kind of after-the-fact filtering
+this pre-registration exists to prevent — and every 2026 test is additionally reported
+with `--tool hand`, which excludes them entirely.
