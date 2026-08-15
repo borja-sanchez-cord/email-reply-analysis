@@ -55,18 +55,32 @@ labelling agents do **not** need re-running.
 4. ~~Q2 re-run~~ — 2025 only (holdout), `output/q2_curve_all_2025_G30.csv`.
 5. ~~Findings + predictions committed~~ — `docs/13_layer1_2025_findings.md` (P1–P9).
 
-### Next — judging (Round 2), in this order
+### Round 2 — DONE 2026-08-15, do not redo
 
-```bash
-.venv/bin/python scripts/build_judge_batches.py
-.venv/bin/python scripts/check_blinding.py           # must exit 0 or judges do not launch
-# then the 20-example read below — MANDATORY (operator instruction)
-# then judge on Sonnet (~$110), 10% re-score, Fable 1,000-email cross-check (~$50)
-# then halo check + judged-vs-counted correlation check, Layer-2 analysis on 2025,
-# commit Round-2 predictions — only THEN open 2026, once, for both rounds
-```
+1. ~~Judge batches~~ — six blinding defects found by READING items (§9.7), gate rebuilt,
+   0 leaks across 12,462 items. Corpus tied to the frame union (§9.8).
+2. ~~Judging~~ — 312 Sonnet batches + gap-fills; every id verified from disk;
+   `data/judge_scores.parquet` (12,462 rows, hard invariants in
+   `scripts/assemble_judge_scores.py`).
+3. ~~Validation~~ — halo PASS (mean |r| .188, PC1 28.4%); repeatability by top-2-box
+   kappa: `economy` .22 and `peer_tone` .32 FLAGGED, Fable-vs-Sonnet gap −0.016
+   (ambiguous questions, not a weak model). `scripts/judge_agreement.py`.
+4. ~~Layer-2 analysis on 2025~~ — `docs/14_layer2_2025_findings.md`. Headline:
+   `why_now` +4.6pp (q<1e-4, 10/11 reps, survives length control);
+   research_signal/bespokeness/ask_clarity NULL; recipient_centricity +5.3pp
+   exploratory; length control kills pain/proof-industry negatives.
+5. ~~Pre-holdout audit~~ — `docs/15_preholdout_audit.md`. 7 prediction rules revised
+   blind (Q2–Q4 → equivalence bounds, P3/P4/P6 → direction-only, P5 untestable);
+   all committed numbers reproduce by hand; §9.9 send-route work (Apollo IS in,
+   effects hold in both routes, 2/29 interactions ~ chance).
+6. `output/results_2025.json` — every 2025 number extracted from artifacts for the
+   results page / report brainstorm (pending with operator).
 
-Full stage order in §6 of the pre-registration.
+### Next — the 2026 holdout (opened once, both rounds together)
+
+Predictions P1–P9 (`docs/13`) + Q1–Q9 (`docs/14`) under the audit-revised rules
+(`docs/15` §1). Commands mapped in docs/15 §4. Then: results package → report
+brainstormed WITH the operator (his structure, my draft as input — see memory).
 
 ## Environment
 
