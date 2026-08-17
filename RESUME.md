@@ -38,7 +38,7 @@ real and not model drift. `interested` 6.0% → 6.9%.
 
 ```bash
 cd /Users/borja/builds/v2_email_replies_analysis
-.venv/bin/python -m pytest tests/ -q                 # must be 43 passed
+.venv/bin/python -m pytest tests/ -q                 # must be 67 passed
 ls output/type_labels | wc -l                        # must be 485
 ```
 
