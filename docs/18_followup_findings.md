@@ -147,7 +147,7 @@ Recorded so nobody re-runs them.
 
 | # | hypothesis | verdict |
 |---|---|---|
-| C1 | templates can't carry a why-now | **DEAD END** — 70.7% do, vs 71.8% hand-written. Identical. |
+| C1 | templates can't carry a why-now | **DEAD END on presence** — 70.7% do, vs 71.8% hand-written. Identical. **But see `docs/19` §5: on DEPTH it is a live mechanism** — 42.1% vs 62.0% state a *recipient-specific* occasion, −0.52 grades within sender (p=0.0002). Presence was all a yes/no could see. |
 | C2 | the why-now inside a template is weaker, so works less | **DEAD END** — interaction p=0.216. The apparent +5.4 vs +2.6 gap is noise. |
 | C3 | the text is simply worse | **PARTIAL** — controlling for all 19 measured text features moves the penalty only −5.40 → −3.95pp. **73% is not explained by anything we can measure in the writing.** |
 | C4 | it scales with how many copies you send | **DEAD END** — flat. 2 copies (3.9%) is as bad as 25+ (5.6%); per-doubling p=0.33. A cliff, not a slope: the moment you reuse a body you pay full price. |
@@ -200,10 +200,14 @@ pattern matters more than the instances.
 
 ## F. Open items
 
-- **Grade why-now 1–5** rather than yes/no (~$15 re-judge). Currently we can say a why-now
-  helps, but not how much a *specific* occasion beats a generic one — which is exactly what
-  a coaching tool would need, and exactly where Goodhart bites (templates already comply
-  nominally 70% of the time).
+- ~~**Grade why-now 1–5** rather than yes/no (~$15 re-judge).~~ **DONE 2026-08-17 —
+  `docs/19`.** Gate passed at kappa 0.780, the most reliable judgment in the study. Grade 5
+  replies at 13.5% vs grade 1 at 3.9% (3.5×), monotone across all six levels, +4.43pp in
+  2025 and +3.94pp (p=0.0006) in 2026. Survives controlling for `research_signal`,
+  `bespokeness` and the binary itself. **Also resolves §C1 above:** templates state an
+  occasion slightly *more* often (99.1% vs 96.8%) and a recipient-specific one far less
+  often (42.1% vs 62.0% at grade 4–5), costing −0.52 grades within sender (p=0.0002) —
+  the first measured mechanism for the templating penalty, though it mediates only 13% of it.
 - **Re-validate on Aug 2026+** as it accumulates. Same code, no new work. The volume effect
   and the directional findings would resolve.
 - **A/B test** the two confirmed findings. The only way past the targeting confound.

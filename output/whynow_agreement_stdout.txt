@@ -1,0 +1,55 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+main pass 6415 graded | rescore 640 graded | overlap 640
+
+=== grade distributions on the overlap ===
+   run A  run B   A %   B %
+0     21     32   3.3   5.0
+1     96     89  15.0  13.9
+2    148    147  23.1  23.0
+3     49     49   7.7   7.7
+4    202    205  31.6  32.0
+5    124    118  19.4  18.4
+
+  exact-grade match 67.7%   within-1 87.2%   mean A 3.07 vs B 3.03
+
+=== THE GATE (pre-declared) ===
+  4-5 vs 1-3, both graded >=1        n= 603  raw agree  89.1%  kappa 0.780 <-- GATE
+
+=== ungated instrument checks ===
+  4-5 vs 0-3, unconditioned          n= 640  raw agree  89.5%  kappa 0.791 
+  0 vs >=1 (does an occasion exist)  n= 640  raw agree  96.7%  kappa 0.587 
+  graded >=1 vs binary why_now (run A) n=6415  raw agree  71.2%  kappa 0.142 
+
+  grade x binary why_now, full population:
+  why_now  False  True 
+  ga                   
+  0          227      1
+  1          831    189
+  2          112   1273
+  3          269    162
+  4          577   1670
+  5           57   1047
+
+=== 8 disagreements, read them ===
+  125575804151  A=4 "in touch with Serge and Sean on your team regarding an AI Leaders dinner"
+                B=3 "recently started working with a couple teams like yours in smart city"
+  139876787407  A=4 "came across your work over at Odysight - great to see your background"
+                B=1 "came across your work over at Odysight - great to see your background"
+  140427631832  A=2 "saw on the website that the Jacobi team was heading to the event"
+                B=4 "saw on the website that the Jacobi team was heading to the event"
+  142574694643  A=4 "noticed that you used to work there"
+                B=3 "noticed that you used to work there"
+  145364888784  A=3 "noticed your work with the [COMPANY] Center of Excellence"
+                B=4 "your work with the [COMPANY] Center of Excellence"
+  150657979633  A=2 "1,000th Franka Research robot was produced"
+                B=4 "I read the news about 1,000th Franka Research robot was produced"
+  151137153257  A=2 "1,000th Franka Research robot was produced"
+                B=4 "1,000th Franka Research robot was produced"
+  152010655963  A=3 "saw the recent Walmart Robotics acquisition ... peers building similar warehouse logistics"
+                B=4 "I saw the recent Walmart Robotics acquisition"
+
+======================================================================
+GATE PASSED: kappa 0.780 >= 0.50. The graded scale is usable; proceed to the effect estimate.

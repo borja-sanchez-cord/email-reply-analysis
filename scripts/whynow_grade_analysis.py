@@ -60,15 +60,18 @@ def load(G):
     g = pd.read_parquet(os.path.join(DATA, "whynow_grade.parquet"))
     g["email_id"] = g["email_id"].astype(str)
     df = df.merge(g, on="email_id", how="left")
-    j = pd.read_parquet(os.path.join(DATA, "judge_scores.parquet"))[["email_id", "why_now"]]
+    j = pd.read_parquet(os.path.join(DATA, "judge_scores.parquet"))[
+        ["email_id", "why_now", "research_signal", "bespokeness"]]
     j["email_id"] = j["email_id"].astype(str)
     df = df.merge(j, on="email_id", how="left")
+    # The frame already carries the counted features; merging them again produced
+    # is_template_3plus_x / _y and silently disabled the secondary contrast.
     fe_p = os.path.join(DATA, "features_openers.parquet")
-    if os.path.exists(fe_p):
+    if "is_template_3plus" not in df.columns and os.path.exists(fe_p):
         f = pd.read_parquet(fe_p)
         f["email_id"] = f["email_id"].astype(str)
-        keep = [c for c in ["email_id", "is_template_3plus"] if c in f.columns]
-        df = df.merge(f[keep], on="email_id", how="left")
+        df = df.merge(f[["email_id", "is_template_3plus"]], on="email_id", how="left")
+    assert "is_template_3plus" in df.columns, "templating feature missing"
     df["yr"] = pd.to_datetime(df["opener_ts"]).dt.year
     return df[df["type"] == "cold_pitch"]
 
@@ -120,6 +123,42 @@ def main():
                 bb, _, pb = fe(d, d["why_now"] == True, outcome)
                 print(f"  context  binary why_now as committed:               "
                       f"{100 * bb:+.2f}pp (p={pb:.4f})")
+
+    # ----------------------------------------------------------------------------------
+    # DISCRIMINANT VALIDITY. The disagreement crosstab (whynow_agreement.py) shows the
+    # graded pass calling 577 emails grade 4 that the binary pass called why_now=false,
+    # and the quoted evidence for those is recipient-specific *observation* ("gearing up
+    # your Robotics team", "impressed by how you're leveraging AI for contract
+    # intelligence") rather than a dated occasion. That is research_signal territory —
+    # and research_signal was a NULL in this study. If the graded scale has collapsed
+    # into research_signal, its effect is not a why-now effect at all.
+    # ----------------------------------------------------------------------------------
+    print("\n" + "=" * 78)
+    print("DISCRIMINANT VALIDITY: is the graded scale just research_signal renamed?")
+    print("=" * 78)
+    for yr in (2025, 2026):
+        d = df[(df["yr"] == yr) & df["why_now_grade"].notna() & df["research_signal"].notna()]
+        print(f"\n--- {yr} (n={len(d)}) ---")
+        print(f"  corr(grade, research_signal) = {d['why_now_grade'].corr(d['research_signal']):+.3f}"
+              f"   corr(grade, bespokeness) = {d['why_now_grade'].corr(d['bespokeness']):+.3f}"
+              f"   corr(grade, binary why_now) = "
+              f"{d['why_now_grade'].corr(d['why_now'].astype(float)):+.3f}")
+        sub = d[d["why_now_grade"] >= 1]
+        hi = sub["why_now_grade"] >= 4
+        b, se, p = fe(sub, hi, "replied")
+        print(f"  grade 4-5, alone:                    {100 * b:+.2f}pp (p={p:.4f})")
+        for ctrl, label in [("research_signal", "research_signal top-2-box"),
+                            ("bespokeness", "bespokeness top-2-box"),
+                            ("why_now", "the binary why_now")]:
+            c = (sub[ctrl] >= 4).astype(float) if ctrl != "why_now" \
+                else sub[ctrl].astype(float)
+            dd = pd.DataFrame({"y": sub["replied"].astype(float), "x": hi.astype(float),
+                               "c": c, "s": sub["sender_local"]})
+            m = smf.ols("y ~ x + c + C(s)", data=dd).fit(
+                cov_type="cluster", cov_kwds={"groups": dd["s"]})
+            print(f"  grade 4-5, controlling {label:<26} "
+                  f"{100 * m.params['x']:+.2f}pp (p={m.pvalues['x']:.4f})"
+                  f"   [control itself {100 * m.params['c']:+.2f}pp p={m.pvalues['c']:.4f}]")
 
     print("\n" + "=" * 78)
     print("SECONDARY: does templating shallow the occasion, or only remove it?")

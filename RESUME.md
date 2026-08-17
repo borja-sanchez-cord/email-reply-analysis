@@ -95,12 +95,26 @@ labelling agents do **not** need re-running.
     1–2/day vs 4.0% at 26+**, independent of templating in 2025 but dominant in 2026;
     templating-mechanism probes (4 dead ends, 1 clue: reply latency 4.8d vs 1.8d).
 
+11. ~~Graded why-now 0–5~~ — `docs/19`, run 2026-08-17, ~$16, 177 Sonnet agents.
+    Anchors + a kappa≥0.50 gate committed BEFORE grading (`041ee6c`). **Gate passed at
+    0.780 — the most reliable judgment in the study**, above the binary's 0.716.
+    Grade 5 = 13.5% reply vs grade 1 = 3.9% (3.5×), monotone across all six levels;
+    +4.43pp 2025, +3.94pp p=0.0006 2026 (vs the binary's p=0.047 — sharper instrument,
+    and without the `docs/17` §D fragility). Survives controlling `research_signal`,
+    `bespokeness` and the binary. **Resolves `docs/18` §C1:** templating shallows the
+    occasion (42.1% vs 62.0% specific, −0.52 grades p=0.0002) but mediates only 13% of the
+    penalty. Two defects logged: §9.10 gate corpus-dependence, and the §5.3 silent drop
+    for the third time (9 of 161 batches short, gap-filled).
+
 ### Next — nothing pre-registered remains
 
-The hold-out is spent; no further 2026 test is legitimate. Open items are in `docs/18` §F:
-grade why-now 1–5 (~$15 re-judge), re-validate on Aug 2026+ as it accumulates, A/B test
-the two confirmed findings, get Amplemarket reply attribution. The collaborative report
-(operator's structure, `docs/13` §"MUST appear" pinned) is the only outstanding deliverable.
+The hold-out is spent; no further 2026 test is legitimate. Open items in `docs/18` §F:
+re-validate on Aug 2026+ as it accumulates, A/B test the two confirmed findings, get
+Amplemarket reply attribution. The collaborative report (operator's structure, `docs/13`
+§"MUST appear" pinned) is the only outstanding deliverable — and `docs/19` §4 changes what
+it should say: "state a reason for writing now" is too loose to be useful coaching, because
+96.4% of cold pitches already clear that bar. The defensible instruction is **the reason
+has to be about the recipient, and it should drive the ask.**
 
 ## Environment
 
@@ -119,7 +133,7 @@ Current, after all corrections (§9.1–9.5). Any deviation means something regr
 
 | | value |
 |---|---|
-| tests | **43 passing** |
+| tests | **67 passing** |
 | reply category labels | 16,695 / 16,695 — complete, validated 99.0%, do not redo |
 | type labels | **38,793 across 485/485 batches** — complete |
 | frame rows G30 / G21 / G45 | **12,077 / 12,558 / 11,566** |

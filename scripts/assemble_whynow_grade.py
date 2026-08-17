@@ -19,7 +19,10 @@ import pandas as pd
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 BATCHES = "output/judge_batches_whynow"
-SCORES = "output/judge_scores_whynow"
+# The gap dir loads last and wins. 9 of 161 batches returned 39, 38 and 35 items for 40
+# inputs while every agent reported success — the §5.3 defect, third occurrence. The 14
+# dropped items were re-run through a byte-identical prompt.
+SCORES = ["output/judge_scores_whynow", "output/judge_scores_whynow_gap"]
 
 
 def load_ids(d):
@@ -29,12 +32,13 @@ def load_ids(d):
     return ids
 
 
-def load_scores(d):
+def load_scores(dirs):
     rows, seen = {}, 0
-    for p in sorted(glob.glob(os.path.join(ROOT, d, "batch_*.json"))):
-        for r in json.load(open(p)):
-            seen += 1
-            rows[str(r["id"])] = r
+    for d in dirs:
+        for p in sorted(glob.glob(os.path.join(ROOT, d, "batch_*.json"))):
+            for r in json.load(open(p)):
+                seen += 1
+                rows[str(r["id"])] = r
     return rows, seen
 
 

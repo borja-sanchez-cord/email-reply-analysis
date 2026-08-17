@@ -33,15 +33,18 @@ import pandas as pd
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GATE = 0.50
 
-A_DIR = "output/judge_scores_whynow"
-B_DIR = "output/judge_scores_whynow_rescore"
+A_DIR = ["output/judge_scores_whynow", "output/judge_scores_whynow_gap"]
+B_DIR = ["output/judge_scores_whynow_rescore"]
 
 
-def load_dir(d):
+def load_dir(dirs):
+    if isinstance(dirs, str):
+        dirs = [dirs]
     rows = {}
-    for p in sorted(glob.glob(os.path.join(ROOT, d, "batch_*.json"))):
-        for r in json.load(open(p)):
-            rows[str(r["id"])] = r
+    for d in dirs:                      # gap dir loads last and wins
+        for p in sorted(glob.glob(os.path.join(ROOT, d, "batch_*.json"))):
+            for r in json.load(open(p)):
+                rows[str(r["id"])] = r
     df = pd.DataFrame(list(rows.values()))
     return df.assign(email_id=df["id"].astype(str)).drop(columns=["id"])
 
