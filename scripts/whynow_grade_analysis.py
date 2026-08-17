@@ -109,8 +109,12 @@ def main():
                   f"{100 * b:+.2f}pp  (SE {100 * se:.2f}, p={p:.4f})   "
                   f"n_hi={n_hi} n_lo={len(sub) - n_hi}")
 
+            # NOT the old binary restated. The graded pass reads "we've recently onboarded
+            # X" as an occasion (grade 1); the binary pass read that as false. So grade 0
+            # is a much narrower category than why_now == false, and the two are reported
+            # side by side rather than treated as the same contrast.
             b0, se0, p0 = fe(d, d["why_now_grade"] >= 1, outcome)
-            print(f"  context  grade>=1 vs 0 (the old binary, restated): "
+            print(f"  context  any occasion (>=1) vs none (0):             "
                   f"{100 * b0:+.2f}pp (p={p0:.4f})")
             if d["why_now"].notna().any():
                 bb, _, pb = fe(d, d["why_now"] == True, outcome)
