@@ -1,0 +1,127 @@
+==============================================================================
+A. HOW OUTREACH CHANGED 2025 -> 2026
+==============================================================================
+
+sends, each counted once:
+channel  Amplemarket  Apollo Integration  Gmail hand-sent   TOTAL
+year                                                             
+2025              84               27340            72621  100045
+2026           50766               30724            25346  106836
+
+share of all sends:
+channel  Amplemarket  Apollo Integration  Gmail hand-sent
+year                                                     
+2025             0.1                27.3             72.6
+2026            47.5                28.8             23.7
+
+per month:
+  2025: Amplemarket 7 | Apollo Integration 2,278 | Gmail hand-sent 6,052 | TOTAL 8,337
+  2026: Amplemarket 7,252 | Apollo Integration 4,389 | Gmail hand-sent 3,621 | TOTAL 15,262
+
+total volume change per month: 1.83x
+
+monthly by channel (shows the Apollo -> Amplemarket switchover):
+channel  Amplemarket  Apollo Integration  Gmail hand-sent
+ym                                                       
+2025-01            0                 737             3566
+2025-02            0                 622             3419
+2025-03            0                 568             3876
+2025-04            0                 343             4320
+2025-05            0                 665             8522
+2025-06            0                2104            14276
+2025-07            0                1778            11227
+2025-08            0                2569             5319
+2025-09            0                5866             4046
+2025-10            0                5130             4929
+2025-11           10                3535             4950
+2025-12           74                3423             4171
+2026-01          411                5732             4244
+2026-02          953                5226             4923
+2026-03         3948                6717             6589
+2026-04        12461                7293             2148
+2026-05         6870                4122             1685
+2026-06         9582                 825             2495
+2026-07        16541                 809             3262
+
+style of cold pitches (outcome-blind):
+  templated (3+ identical)                53.7% ->  25.4%
+  visible mail-merge (bespokeness<=2)     36.4% ->  25.7%
+  has a why-now                           71.2% ->  54.0%
+  question in subject                     19.4% ->   6.1%
+  reuses name mid-body                     7.7% ->   0.2%
+  under 100 words                         26.5% ->  49.8%
+  median words                             112  ->   101
+  reply rate                               6.9% ->   6.5%
+
+==============================================================================
+B. SAME-DAY SEND VOLUME — new exploratory effect, NOT pre-registered
+==============================================================================
+
+2025 reply rate by that rep's same-day volume:
+       size  reply%
+burst              
+1-2     481    16.4
+3-5     633     8.4
+6-10   1018     6.1
+11-25  1621     6.5
+26+    1400     4.0
+  per doubling: -1.67pp p=0.0000
+  both in one model: template -4.14pp (p=0.0006) | volume/doubling -1.29pp (p=0.0000)
+
+2026 reply rate by that rep's same-day volume:
+       size  reply%
+burst              
+1-2     309    12.9
+3-5     360     5.8
+6-10    361     5.0
+11-25   169     2.4
+26+      87     0.0
+  per doubling: -3.70pp p=0.0000
+  both in one model: template -1.73pp (p=0.1243) | volume/doubling -3.58pp (p=0.0000)
+
+==============================================================================
+C. WHY DOES TEMPLATING COST 2-4x? six probes
+==============================================================================
+
+C1. is a why-now missing from templates?  [DEAD END]
+  templated 70.7% vs hand-written 71.8% — identical
+
+C2. does the why-now work less well inside templates?  [DEAD END — noise]
+  hand-written why-now +5.1pp; extra when templated -2.0pp p=0.216 -> not distinguishable
+  2x2 (still the useful slide):
+                         size  reply%
+T            why_now                 
+hand-written no why-now   674     5.8
+             why-now     1712    10.7
+templated    no why-now   812     3.6
+             why-now     1955     5.4
+
+C3. is it just worse text?  [PARTIAL — 27% explained, 73% is not the text]
+  sender FE only: -5.40pp p=0.0000
+  + all 19 measured text features: -3.95pp p=0.0036
+  share of penalty explained by measurable text: 27%
+
+C4. does it scale with copies sent?  [DEAD END — flat, so it's a cliff not a slope]
+                  size  reply%
+template_repeats              
+1                 2028    10.3
+2                  358     3.9
+3-4                393     4.6
+5-9                631     5.5
+10-24              734     3.3
+25+               1009     5.6
+  per doubling of copies: +0.24pp p=0.3309 -> no dose-response
+
+C5. spam filtering?  [WEAK EVIDENCE AGAINST — no company-size gradient]
+  <200 emp   n=2101 template -4.75pp p=0.000
+  200-1999   n=1746 template -5.09pp p=0.000
+  2000+      n=1228 template -6.15pp p=0.015
+  (bigger firms have stronger filters; penalty barely moves -> humans, not filters)
+
+C6. reply LATENCY — the one positive clue
+  templated median 4.8d (n=134) vs hand-written 1.8d (n=222)
+  -> mail lands and is read, then deprioritised. Filtering would not slow replies.
+
+C7. are some templates good and most dead?  [DEAD END — mostly chance]
+  173 templates; zero-reply observed 66% vs 60% expected by chance
+  overdispersion chi2=263 df=172 p=1.03e-05 -> templates differ, but only 1.29x chance

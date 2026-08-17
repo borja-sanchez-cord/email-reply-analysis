@@ -76,11 +76,31 @@ labelling agents do **not** need re-running.
 6. `output/results_2025.json` — every 2025 number extracted from artifacts for the
    results page / report brainstorm (pending with operator).
 
-### Next — the 2026 holdout (opened once, both rounds together)
+### Round 3 — DONE 2026-08-15/16. THE STUDY IS COMPLETE.
 
-Predictions P1–P9 (`docs/13`) + Q1–Q9 (`docs/14`) under the audit-revised rules
-(`docs/15` §1). Commands mapped in docs/15 §4. Then: results package → report
-brainstormed WITH the operator (his structure, my draft as input — see memory).
+7. ~~2026 hold-out opened and scored~~ — `docs/16`. **9 held/confirmed · 4 direction ·
+   4 inconclusive · 2 refuted · 1 untestable.** Confirmed: templating (−3.8pp, p=0.005)
+   and why_now (+2.9pp, p=0.047) on both outcomes. Refuted and withdrawn:
+   recipient_centricity (+5.3 → −0.4) and invite bullets (−9.6 → +1.3).
+8. ~~Scientific + data-cleaning audit~~ — `docs/17`. No number changed. One qualifier:
+   why_now's 2026 margin is fragile (2 of 5 robustness specs lift p above .05). Reply-window
+   truncation resolves in the study's favour (fair 30-day window strengthens both).
+9. ~~Deliverables~~ — `output/what-gets-a-reply.html` (published artifact) and
+   `output/What_Gets_a_Reply_Executive.pdf` (8pp, axiomatic structure, Georgia/Helvetica,
+   standardised verdict vocabulary). Both built by script from committed artefacts:
+   `scripts/build_results_page.py`, `scripts/build_exec_doc.py`. 70/70 numeric audit.
+10. ~~Follow-up analyses~~ — `docs/18` + `scripts/followup_analyses.py`. EXPLORATORY,
+    post-holdout: structural shifts (hand-sent 73%→24%, Apollo collapsed May–Jun 2026,
+    why-now 71%→54%); **NEW: same-day send volume −1.67pp per doubling, 16.4% reply at
+    1–2/day vs 4.0% at 26+**, independent of templating in 2025 but dominant in 2026;
+    templating-mechanism probes (4 dead ends, 1 clue: reply latency 4.8d vs 1.8d).
+
+### Next — nothing pre-registered remains
+
+The hold-out is spent; no further 2026 test is legitimate. Open items are in `docs/18` §F:
+grade why-now 1–5 (~$15 re-judge), re-validate on Aug 2026+ as it accumulates, A/B test
+the two confirmed findings, get Amplemarket reply attribution. The collaborative report
+(operator's structure, `docs/13` §"MUST appear" pinned) is the only outstanding deliverable.
 
 ## Environment
 
