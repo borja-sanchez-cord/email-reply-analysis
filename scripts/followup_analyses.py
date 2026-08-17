@@ -209,8 +209,59 @@ def block_c(d):
           f"-> templates differ, but only {(gg['sum']/gg['size']).var()/np.mean(p*(1-p)/gg['size']):.2f}x chance")
 
 
+# ------------------------------------------- D. is the volume effect an automation artifact
+def block_d(d):
+    """Operator's hypothesis, 2026-08-17: 2026's volume dominance is an artifact of
+    Amplemarket being outside the study. The testable version: if 2026's automation writes
+    AI-varied copy, it would evade template detection while still showing up as high daily
+    volume — so `volume` would be a proxy for unmeasured automation rather than a real
+    effect. Frozen here because a verdict that only exists in a chat window is not a result.
+    """
+    print("\n" + "=" * 78)
+    print("D. IS THE VOLUME EFFECT AN AUTOMATION ARTIFACT? (operator hypothesis)")
+    print("=" * 78)
+    tf = pd.read_parquet(f"{DATA}/tool_flag.parquet")
+    tf["email_id"] = tf["email_id"].astype(str)
+    d = d.merge(tf[["email_id", "tool"]], on="email_id", how="left")
+    d["tool_sent"] = d["tool"].notna()
+
+    for year in (2025, 2026):
+        cp = d[(d["type"] == "cold_pitch") & (d["year"] == year)].copy()
+        cp["day"] = cp["opener_ts"].dt.date
+        cp["burst"] = cp.groupby(["sender_local", "day"])["email_id"].transform("size")
+        cp["logb"] = np.log(cp["burst"])
+        cp["T"] = cp["is_template_3plus"].astype(float)
+        cp["TS"] = cp["tool_sent"].astype(float)
+        ts, hs = cp[cp["tool_sent"]], cp[~cp["tool_sent"]]
+        print(f"\n--- {year}  (n={len(cp)}) ---")
+        print(f"  median same-day volume: tool-sent {ts['burst'].median():.0f} "
+              f"vs hand {hs['burst'].median():.0f}")
+        print(f"  templated share:        tool-sent {100*ts['T'].mean():.0f}% "
+              f"vs hand {100*hs['T'].mean():.0f}%")
+        print(f"  corr(log volume, tool_sent) = {cp['logb'].corr(cp['TS']):+.2f}")
+        bv, pv = fe(cp, "replied", "logb")
+        print(f"  volume alone:            {bv*np.log(2):+.2f}pp per doubling (p={pv:.4f})")
+        m = smf.ols("y ~ logb + TS + C(sender_local)",
+                    data=cp.assign(y=cp["replied"].astype(float))).fit(
+            cov_type="cluster", cov_kwds={"groups": cp["sender_local"]})
+        print(f"  + tool_sent:             {100*m.params['logb']*np.log(2):+.2f}pp "
+              f"(p={m.pvalues['logb']:.4f})   tool_sent itself "
+              f"{100*m.params['TS']:+.2f}pp (p={m.pvalues['TS']:.4f})")
+        m2 = smf.ols("y ~ logb + TS + T + C(sender_local)",
+                     data=cp.assign(y=cp["replied"].astype(float))).fit(
+            cov_type="cluster", cov_kwds={"groups": cp["sender_local"]})
+        print(f"  + tool_sent + template:  {100*m2.params['logb']*np.log(2):+.2f}pp "
+              f"(p={m2.pvalues['logb']:.4f})   tool {100*m2.params['TS']:+.2f}pp "
+              f"(p={m2.pvalues['TS']:.4f})   template {100*m2.params['T']:+.2f}pp "
+              f"(p={m2.pvalues['T']:.4f})")
+        bh, ph = fe(hs, "replied", "logb")
+        print(f"  HAND-SENT ONLY (n={len(hs)}): {bh*np.log(2):+.2f}pp per doubling "
+              f"(p={ph:.4f})  <-- no automation exists here")
+
+
 if __name__ == "__main__":
     block_a()
     d = load()
     block_b(d)
     block_c(d)
+    block_d(d)

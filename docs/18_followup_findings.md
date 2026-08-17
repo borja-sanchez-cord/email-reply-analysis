@@ -99,6 +99,46 @@ sending them *because* they had a specific reason for those two people. The comp
 not "same rep, same intent, different volume" — it is "same rep, different kind of day."
 Effect size is an upper bound.
 
+### B2. "2026's volume dominance is an Amplemarket artifact" — TESTED AND REJECTED
+
+Operator hypothesis, 2026-08-17: since Amplemarket sits outside the study, 2026's
+automation might be writing AI-varied copy that evades template detection while still
+appearing as high daily volume — making `volume` a proxy for unmeasured automation rather
+than a real effect. Reproducible: `followup_analyses.py::block_d`.
+
+| | 2025 (n=5,153) | 2026 (n=1,286) |
+|---|---|---|
+| volume alone, per doubling | −1.67pp (p<0.0001) | −3.70pp (p<0.0001) |
+| + `tool_sent` | −1.71pp (p<0.0001) | −3.71pp (p<0.0001) |
+| ... and `tool_sent` itself | −2.76pp (p=0.0001) | **+1.05pp (p=0.534)** |
+| + `tool_sent` + templated | −1.34pp (p<0.0001) | −3.58pp (p<0.0001) |
+| **hand-sent only** | **−1.69pp (p<0.0001)**, n=4,303 | **−3.48pp (p=0.0041)**, n=725 |
+| corr(log volume, `tool_sent`) | −0.15 | +0.14 |
+| templated share, tool vs hand | 42% vs 56% | 35% vs 18% |
+
+**The hypothesis does not stand, on three independent grounds.**
+
+1. **The effect survives where no automation exists.** Among hand-sent-only 2026 cold
+   pitches — Gmail, no sequencer record at all — volume still costs −3.48pp per doubling
+   (p=0.004), essentially the full effect. Nothing can be a proxy for automation in a cell
+   that contains none.
+2. **Volume and automation are near-independent.** r = −0.15 and +0.14. They are not two
+   names for the same thing, and controlling for `tool_sent` moves the volume coefficient
+   by 0.01pp in 2026.
+3. **`tool_sent` carries no penalty of its own in 2026** (+1.05pp, p=0.53). If unmeasured
+   automation were driving the result, that is the coefficient that would be doing the work.
+
+The hypothesis also predicts tool-sent 2026 email would look *less* templated (varied copy
+evading detection). It looks **more** templated: 35% vs 18%. The prediction is inverted.
+
+**What the effect most likely is, then.** Not machinery — attention. A rep sending two
+emails today wrote them because they had a reason for those two people; a rep sending forty
+is working a list. Volume measures care-per-email, which is what templating also measures on
+a different axis, and is why both survive in one model in 2025.
+
+The selection caveat above is untouched by this and still applies: this is not "same rep,
+same intent, different volume."
+
 ---
 
 ## C. Why does templating cost 2–4×? Six probes, four dead ends
