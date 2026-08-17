@@ -174,3 +174,30 @@ in `docs/18` — suggestive, not confirmatory. Nothing in this addendum can conf
 strengthen, or weaken the pre-registered binary finding, which stands on its own
 pre-registered test. Promoting the graded scale to a confirmed finding requires fresh
 data (Aug 2026 onward) or an experiment.
+
+## Secondary contrast, declared 2026-08-17 while grading was still running
+
+Added after the grading pass launched and **before any grade was joined to any reply
+outcome** — the grades on disk are blind, so this is still a pre-declaration with respect
+to the thing that matters. Recorded with the bias disclosed rather than presented as
+innocent.
+
+**The test: does templating suppress occasion *depth*, as opposed to occasion *presence*?**
+
+`docs/18` §C1 killed the obvious version of this. Templates state a why-now essentially as
+often as hand-written email does — 70.7% vs 71.8%, a dead end. But presence was all the
+binary could see. The graded scale can ask whether a template's occasion is *shallower*:
+generic and sender-side (1–2) where a hand-written one is recipient-specific (4–5).
+
+If it is, that is the first measured mechanism for the templating penalty, 73% of which no
+measured text feature explains (§C3). If it is not, §C1's dead end deepens and the
+recognition explanation in §C's verdict stands unchallenged.
+
+- Contrast: mean grade, and share 4–5, templated vs hand-written cold pitches. Reported
+  with the same sender FE spec.
+- **Pre-committed to reporting either result.** The reason for stating that here is that
+  the choice of this test is not innocent: §C1's result is already known, which is exactly
+  what makes the depth question the interesting next one. Declared, so that a null cannot
+  quietly become an unreported test.
+- Exploratory, like everything downstream of the spent hold-out. It cannot confirm a
+  mechanism; it can only rule one in or out as worth an experiment.
