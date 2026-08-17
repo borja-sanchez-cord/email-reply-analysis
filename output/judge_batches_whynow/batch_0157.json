@@ -1,0 +1,202 @@
+[
+{
+"id": "502306615499",
+"subject": "RAISE Summit 8th/9th July - coffee?",
+"text": "Hey [NAME], \n\n Seen [COMPANY] are heading to the RAISE summit in Paris - are you joining also? It would be great to catch you for a coffee if so. \n\n Bit of context on me, lead our Partnerships team at Encord, and been working with companies like Synthesia, Thinking Machine Labs, & Dolby to stop their MLOps becoming the bottleneck for model iteration.  \n\n Let me know if the 8th / 9th is better for you - can be flexible."
+},
+{
+"id": "502306865378",
+"subject": "RAISE Summit 8th/9th July - coffee?",
+"text": "Hey [NAME], \n\n Seen [COMPANY] are heading to the RAISE summit in Paris - are you joining also? It would be great to catch you for a coffee if so. \n\n Bit of context on me, lead our Partnerships team at Encord, and been working with companies like Synthesia, Thinking Machine Labs, & Dolby to stop their MLOps becoming the bottleneck for model iteration.  \n\n Let me know if the 8th / 9th is better for you - can be flexible."
+},
+{
+"id": "502346598647",
+"subject": "Encord & [COMPANY], Product Walkthrough",
+"text": "Hi [NAME],\n\nGreat to be connected via email. Saw that you had the chance to explore\nEncord's interactive demo recently.\n\nI sit on the ML Ops team working closely with multimodal enterprises. Happy\nto hold time over the coming days to explore overlap in our work and if\nEncord can support the workflows at [COMPANY].\n\nI'd be happy to schedule time to dive deeper into a demonstration of the\nplatform. How is Thursday or Friday for you this week? Can work around any\ntime zone difference (I am SF based)."
+},
+{
+"id": "502393704685",
+"subject": "FDA change control plans and model updates",
+"text": "Hi [NAME],\n\nThe FDA published a new classification last month that makes annotation\ndocumentation a formal requirement for AI devices with a change control\nplan, the kind that lets you ship model updates without a full new 510(k).\n\nFor a team pushing out OrthoAI, ImplantAI, and new detection versions at\nthe same time, that documentation either generates automatically at\nannotation time or gets assembled by hand at each update cycle.\n\nWe've helped Iterative Scopes (FDA imaging team) build their audit trail\nprocess from the start, saving them time and money following the regulation\nchange.\n\nIf it's on your radar, let me know, and i can find some time to chat\nfurther this week. Wednesday works best."
+},
+{
+"id": "502453528768",
+"subject": "who checks the agent's work",
+"text": "Hi [NAME],\n\nWe work with a large healthcare payer where reviewers validate AI\nrecommendations against clinical data, flag errors, and log every\ncorrection.\n\nEvery new use case [COMPANY] ships, underwriting, AML, claims, is also a new\nplace an agent's decision has to hold up in front of a risk committee.\nSeems like your team already treats evaluation as a real research problem,\nbut i know the difficulty is running that same check continuously, across\nevery customer.\n\nIs that continuous version something you're actively building, or still\ncloser to ad hoc?\n\nDo you have some time to connect this week to show you how we've helped the\nlarge US payer? If so, let me know and I'll send over a meeting link."
+},
+{
+"id": "502454624488",
+"subject": "proving it to the next buyer",
+"text": "Hi [NAME],\n\nWe work with a large healthcare payer where reviewers validate AI\nrecommendations against clinical data, flag errors, and log every\ncorrection. Same job [COMPANY] ships in underwriting and AML, just a\ndifferent industry. The workload is identical: prove the AI got it right\nbefore a customer sees it.\n\nNew capital means lots more use cases before governance catches up. I'm\ncurious how you're thinking about proving agent accuracy to your next\nenterprise buyer, not just your current ones.\n\nDo you have some time to connect this week to show you how we've helped? If\nso, let me know and I'll send over a meeting link."
+},
+{
+"id": "502459109598",
+"subject": "Specialist Annotators at Encord | Datature",
+"text": "Hi [NAME],\n\nA colleague suggested I reach out. I work at Encord, we do data curation\nand annotation infrastructure for surgical robotics and physical AI\nteams. *Moon\nSurgical,* *1X*, *Boston Dynamics.*\n\nI saw the four partnerships this year. As you scale into real OR\nenvironments, the important question is whether your current tooling\nhandles that volume. Datature is good, but self-serve. We provide\nspecialist annotators, performance monitoring, and curation at scale for a\nrange of sub-verticals. I believe specialist annotators is most relevant.\n\nAre you free today or tomorrow for 20 minutes?"
+},
+{
+"id": "502464062684",
+"subject": "eval cycles across x-ray, voice, and claims",
+"text": "Hey [NAME],\n\nI saw the Senior ML Engineer posting & the brief covers drift detection,\nevaluation protocols, retraining workflows, and regulatory documentation. A\nlot of manual infrastructure to add to a team also shipping OrthoAI, Voice\nNotes, and ClaimsAI.\n\nWe've helped multimodal teams like HOPPR and Iterative Scopes annotate\nradiographic data with specialist clinical reviewers, with the FDA audit\ntrail generated automatically rather than being assembled at each\nsubmission.\n\nI'd love to show you how we helped them free up engineering time by having\nthe entire pipeline in one place. Do you have some time to connect later\nthis week?"
+},
+{
+"id": "502465505518",
+"subject": "the cost of scaling past oncology",
+"text": "Hi [NAME],\n\nWe work with a top 3 US health-services payer on the same core workload as\nthe Clinical Clarity Engine, checking LLM output against source records\nbefore it becomes a decision.\n\nFollowing your Series B funding and push for Clinical Clarity Engine into\nevery clinical domain, your data infrastructure underneath the ML models\nbecomes critical.\n\nEvery new domain is a new place for \"decision-ready\" to get tested by your\ncustomers. I'm curious how you're thinking about that as the roadmap\nexpands.\n\nDo you have some time to connect this Thursday to show you what we've done\nwith the top 3 payer? If so, let me know and I'll send over a meeting link."
+},
+{
+"id": "502467332342",
+"subject": "two regulatory tracks at once",
+"text": "Hi [NAME],\n\nI saw [COMPANY] close the $70M Series B to fund the US FDA De Novo pathway\nalongside the European commercial scale-up. Running both tracks in parallel\nmeans two separate evidence packages, two standards for annotation, and two\naudit trails that need to be airtight.\n\nWe worked with Conavi Medical, MMI and Moon Surgical on exactly this during\ntheir FDA 510(k) submission.\n\nI'm curious how [COMPANY] is set up to handle that dual-track evidence\nburden right now?\n\nDo you have some time to connect this Thursday? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "502468239605",
+"subject": "FDA change control plans and model updates",
+"text": "Hi [NAME],\n\nThe FDA published a new classification last month that makes annotation\ndocumentation a formal requirement for AI devices with a change control\nplan, the kind that lets you ship model updates without a full new 510(k).\n\nFor a team pushing out OrthoAI, ImplantAI, and new detection versions at\nthe same time, that documentation either generates automatically at\nannotation time or gets assembled by hand at each update cycle.\n\nWe've helped Iterative Scopes (FDA imaging team) build their audit trail\nprocess from the start, saving them time and money following the regulation\nchange.\n\nIf it's on your radar, let me know, and i can find some time to chat\nfurther this week. Wednesday works best."
+},
+{
+"id": "502472300743",
+"subject": "the cost of scaling past oncology",
+"text": "Hi [NAME],\n\nWe work with a top 3 US health-services payer on the same core workload as\nthe Clinical Clarity Engine, checking LLM output against source records\nbefore it becomes a decision.\n\nFollowing your Series B funding and push for Clinical Clarity Engine into\nevery clinical domain, your data infrastructure underneath the ML models\nbecomes critical.\n\nEvery new domain means new extraction targets your engineers have to\nvalidate by hand. I'm curious how that review capacity is set up to handle\nit.\n\nDo you have some time to connect this Thursday to show you what we've done\nwith the top 3 payer? If so, let me know and I'll send over a meeting link."
+},
+{
+"id": "502473928905",
+"subject": "proving it to the next buyer",
+"text": "Hi [NAME],\n\nWe work with a large healthcare payer where reviewers validate AI\nrecommendations against clinical data, flag errors, and log every\ncorrection. Same job [COMPANY] ships in underwriting and AML, just a\ndifferent industry. The workload is identical: prove the AI got it right\nbefore a customer sees it.\n\nNew capital means lots more use cases before governance catches up. I'm\ncurious how you're thinking about proving agent accuracy to your next\nenterprise buyer, not just your current ones.\n\nDo you have some time to connect this week to show you how we've helped? If\nso, let me know and I'll send over a meeting link."
+},
+{
+"id": "502476221655",
+"subject": "the cost of scaling past oncology",
+"text": "Hi [NAME],\n\nWe work with a top 3 US health-services payer on the same core workload as\nthe Clinical Clarity Engine, checking LLM output against source records\nbefore it becomes a decision.\n\nFollowing your Series B funding and push for Clinical Clarity Engine into\nevery clinical domain, your data infrastructure underneath the ML models\nbecomes critical.\n\nEvery new domain means new extraction targets your engineers have to\nvalidate by hand. I'm curious how that review capacity is set up to handle\nit.\n\nDo you have some time to connect this Thursday to show you what we've done\nwith the top 3 payer? If so, let me know and I'll send over a meeting link."
+},
+{
+"id": "502477657309",
+"subject": "FDA change control plans and model updates",
+"text": "Hi [NAME],\n\nThe FDA published a new classification last month that makes annotation\ndocumentation a formal requirement for AI devices with a change control\nplan, the kind that lets you ship model updates without a full new 510(k).\n\nFor a team pushing out OrthoAI, ImplantAI, and new detection versions at\nthe same time, that documentation either generates automatically at\nannotation time or gets assembled by hand at each update cycle.\n\nWe've helped Iterative Scopes (FDA imaging team) build their audit trail\nprocess from the start, saving them time and money following the regulation\nchange.\n\nIf it's on your radar, let me know, and i can find some time to chat\nfurther this week. Wednesday works best."
+},
+{
+"id": "502485335275",
+"subject": "Safer Road Relies on Better Training Data",
+"text": "Hi [NAME],\n\nI saw the news that Pittsburgh Public Schools just reported a significant decline in illegal passings this year. I assume that result was AVA getting the call right at scale across every route - great work!\n\nAt Encord, we work with companies like Flock Safety on annotation and model evaluation for their LPR detection catalogue across hundreds of municipalities. The pattern I've seen working directly with them is that detection accuracy is a training data problem before it's a model problem.\n\nWith the ALPR expansion rolling out now to Georgia and more states, the training data setup for the new detection task is worth getting right early. \n\nIs that on your radar? If so, let's grab 20 minutes early next week to chat?"
+},
+{
+"id": "502485788873",
+"subject": "two regulatory tracks at once",
+"text": "Hi [NAME],\n\nI saw [COMPANY] close the $70M Series B to fund the US FDA De Novo pathway\nalongside the European commercial scale-up. Running both tracks in parallel\nmeans two separate evidence packages, two standards for annotation, and two\naudit trails that need to be airtight.\n\nWe worked with Conavi Medical, MMI and Moon Surgical on exactly this during\ntheir FDA 510(k) submission.\n\nI'm curious how [COMPANY] is set up to handle that dual-track evidence\nburden right now?\n\nDo you have some time to connect this Thursday? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "502491116778",
+"subject": "2 regulatory tracks at once",
+"text": "Hi [NAME],\n\nI saw [COMPANY] close the $70M Series B to fund the US FDA De Novo pathway\nalongside the European commercial scale-up. Running both tracks in parallel\nmeans two separate evidence packages, two standards for annotation, and two\naudit trails that need to be airtight.\n\nWe worked with Conavi Medical, MMI and Moon Surgical on exactly this during\ntheir FDA 510(k) submission.\n\nI'm curious how [COMPANY] is set up to handle that dual-track evidence\nburden right now?\n\nDo you have some time to connect this Thursday? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "502527418578",
+"subject": "hfd consistent across 40 sites",
+"text": "Hi [NAME], \n\nWe just worked with a team who built their own review tooling for star detection and streak tracking, then hit the point where every new ontology change cost them labelled data. \n\nthey moved the review layer to us and kept the models. Given the range you're covering I'd guess a few things get slow: \n\n• \n\nAuto-tuning drifts when a telescope's PSF shifts. \n\n• \n\nStreak detections near the threshold get judged inconsistently across runs. \n\n• \n\nEdge cases end up in a spreadsheet, not a reviewable queue. \n\nIs any of that familiar or not? Let me know and would be happy to connect and show how we helped!\n\nPlease let me know."
+},
+{
+"id": "502527670521",
+"subject": "hfd consistent across 40 sites",
+"text": "Hi [NAME], \n\nWe just worked with a team who built their own review tooling for star detection and streak tracking, then hit the point where every new ontology change cost them labelled data. \n\nthey moved the review layer to us and kept the models. Given the range you're covering I'd guess a few things get slow: \n\n• \n\nAuto-tuning drifts when a telescope's PSF shifts. \n\n• \n\nStreak detections near the threshold get judged inconsistently across runs. \n\n• \n\nEdge cases end up in a spreadsheet, not a reviewable queue. \n\nIs any of that familiar or not? Let me know and would be happy to connect and show how we helped!\n\nPlease let me know."
+},
+{
+"id": "502544352494",
+"subject": "multimodal content safety",
+"text": "Hi \n      [NAME], \n\n      Came across your work on building multimodal systems at Rolox. Reaching out as i'm working with Synthesia on similar safety systems across video, avatars, and real-time enforcement at platform scale. \n\n      One pattern we're seeing across teams is that once LLMs/VLMs enter production, the bottleneck for safety and content moderation must be robust to manage edge cases and keep eval consistent. Closing the loop between model output and enforcement signals in real-time becomes focus. \n\n      That's where we've been supporting ML teams with. Keen to connect over a virtual coffee and compare notes. \n\n      Open to a quick 20min chat this or early next week?"
+},
+{
+"id": "502544526545",
+"subject": "AMCU // content understanding",
+"text": "Hi \n      [NAME], \n\n      Noticed your work leading AMCU, especially on the classification + copy detection systems over the 3D creator catalog. Thought I'd reach out as I'm working on similar projects. \n\n      We work with Synthesia and Thinking Machines Lab on high-volume content understanding pipelines. The challenge there is less about model building and more about keeping taxonomy, edge cases, and quality signals aligned as the catalog scales. \n\n      Curious how you're handling label freshness and hard corner cases as new assets come in. Open to a quick 20-min chat Tue-Thu?"
+},
+{
+"id": "502544643305",
+"subject": "Encord & [COMPANY]",
+"text": "Hi [NAME],\n\nGreat to be connected via email. I sit on the computer vision team at Encord and work with multimodal AI teams to improve training data quality and accelerate model development.\n\n[COMPANY]' work across audio, vision, biometrics, and edge ML frameworks stood out, especially supporting fast iteration under hardware and latency constraints.\n\nCurious how your team is structuring ML frameworks to handle that complexity end-to-end. Given your perspective leading ML frameworks at [COMPANY], I thought there might be interesting overlap in how our teams approach reducing friction between data, model development, and deployment.\n\nHow does Tuesday or Thursday next week look for a quick chat? I'm based in SF, but will be in London through June 13, so timezones align easily."
+},
+{
+"id": "502544682219",
+"subject": "LLM post training",
+"text": "Hi \n      [NAME], \n\n      Came across your work on post-training eval systems for LLMs at [COMPANY] and thought I'd reach out. I work with Thinking Machines Lab and Yutori on similar LLM/agent post-training and SFT workflows. \n\n      One pattern we're seeing across teams building similar systems is that as RL + synthetic data + LLM/VLM-as-judge pipelines become more critical, the bottleneck becomes maintaining consistency and tructu in the eval signals across the training stack. \n\n      That's what Frontier Labs works with Encord to build: the infra that makes human rubric based eval, annotator calibration and agreement measurement consistent across modalities and use cases. \n\n      Would love to get your perspective and share some learnings. Open to a quick 20-min later this week?"
+},
+{
+"id": "502546121975",
+"subject": "multimodal content moderation",
+"text": "Hi \n      [NAME], \n\n      Saw your background at Dolby on multimodal fusion research and wanted to reach out (Dolby is a customer of ours :)). \n\n      Given your current scope at [COMPANY], I imagine harmful content detection across image, audio, and video requires different labeling and eval metrics per modality and edge case. That's how we support Dolby: by identifying examples where the existing classifier is uncertain and tightening the model performance feedback loop with agents and HILT to ensure high accuracy. \n\n      Would love to grab a virtual coffee and learn more about your work. Shall we connect for 20-min? i'm usually free Tue - Thu."
+},
+{
+"id": "502556103920",
+"subject": "MLOps & Governance, Crime Intelligence",
+"text": "Hi [NAME],\n\nGreat to be connected over email. I sit on the ML Ops team at Encord. I\nwanted to reach out given [COMPANY]'s work applying AI to retail crime\nintelligence.\n\nWe work with a number of surveillance and vision AI teams on the data side\nof production ML, helping streamline video annotation, QA, and human review.\n\nHappy to explore overlap between our teams over the coming days. Always\ngreat to expand the network in the space!"
+},
+{
+"id": "502556133608",
+"subject": "Multimodal benchmarking/eval stack",
+"text": "Hi [NAME],\n\nHope you had a great long weekend! I spoke with the [COMPANY] team at AIE last\nweek, great project on HyperFrames! Vance mentioned I should reach out\ngiven your focus on the eval/benchmark side of things :)\n\nFor context, Encord supports CV/GenAI teams like Synthesia, Twelvelabs, and\nHumain in post-training evaluation to rank or gate their models.\n\nI'd love to connect, trade notes and see if we can collaborate! Open to a\nquick chat later this week?"
+},
+{
+"id": "502674456809",
+"subject": "carpetforce & time to deployment | Boston Dynamics",
+"text": "Hi [NAME],  \n\n i've been following Shark for a while and saw the CarpetForce launch. A new sensor modality means a new label set, which takes up a lot of engineering time during the curation and annotation process. \n\n We work with Boston Dynamics and Thoro, an indoor robotics company, on exactly this. Thoro cut labelling and QA time by 50%, with each reviewer covering twice as many images as before. BD did even better.  \n\n If you're interested, would be great to chat further this week.  \n\n Please let me know."
+},
+{
+"id": "502676232429",
+"subject": "Encord re-connect",
+"text": "Hi [NAME] - hope you're doing well,\n\nCongratulations on the new role at Hive, and on yesterday's funding announcement - exciting times ahead! \n\nI know you spoke with my colleagues [SENDER] and [SENDER] last year while you were at Humanoid. I've been following Hive's growth, and it looks like you're entering a new phase of scale with global deployments and US expansion. I imagine adapting quickly to new environments - whether tunnels, quarries, or logistics sites - is a key focus. \n\nIt would be great to catch up and hear more about your priorities. Since those conversations last year, we've launched several new platform capabilities, as well as a data collection warehouse providing high-quality teleoperated and egocentric data for robotics teams. \n\nDo you have 30 minutes to connect next week?"
+},
+{
+"id": "502724462802",
+"subject": "Chatted to Wilder",
+"text": "Hi [NAME] - nice to meet, \n\n Sounded like a good time to connect around the data acquisition and annotation flywheel at Harmattan, particularly your multimodal curation and edge-case mining workflows. \n\n Would you have some time to connect next week - Mon - Thurs AM CET currently quite open for us,"
+},
+{
+"id": "502725230825",
+"subject": "Chatted to Wilder",
+"text": "Hi [NAME] - nice to meet, \n\n Sounded like a good time to connect around the data acquisition and annotation flywheel at Harmattan, particularly your multimodal curation and edge-case mining workflows. \n\n Would you have some time to connect next week - Mon - Thurs AM CET currently quite open for us,"
+},
+{
+"id": "502725231849",
+"subject": "Chatted to Wilder",
+"text": "Hi [NAME] - nice to meet, \n\n Sounded like a good time to connect around the data acquisition and annotation flywheel at Harmattan, particularly your multimodal curation and edge-case mining workflows. \n\n Would you have some time to connect next week - Mon - Thurs AM CET currently quite open for us,"
+},
+{
+"id": "502725313740",
+"subject": "Chatted to Wilder",
+"text": "Hi [NAME] - nice to meet, \n\n Sounded like a good time to connect around the data acquisition and annotation flywheel at Harmattan, particularly your multimodal curation and edge-case mining workflows. \n\n Would you have some time to connect next week - Mon - Thurs AM CET currently quite open for us,"
+},
+{
+"id": "502725313761",
+"subject": "Chatted to Wilder",
+"text": "Hi [NAME] - nice to meet, \n\n Sounded like a good time to connect around the data acquisition and annotation flywheel at Harmattan, particularly your multimodal curation and edge-case mining workflows. \n\n Would you have some time to connect next week - Mon - Thurs AM CET currently quite open for us,"
+},
+{
+"id": "502726611150",
+"subject": "Chatted to Wilder",
+"text": "Hi [NAME] - nice to meet, \n\n Sounded like a good time to connect around the data acquisition and annotation flywheel at Harmattan, particularly your multimodal curation and edge-case mining workflows. \n\n Would you have some time to connect next week - Mon - Thurs AM CET currently quite open for us,"
+},
+{
+"id": "502862738646",
+"subject": "[NAME] <> [SENDER] (Encord) Reconnect",
+"text": "Hi [NAME],\n\nI recently joined Encord (we're in the process of building a new office on\nthe East Coast & just joined as first boots on the ground in NYC).\n\nHeard great things about your work from [SENDER] and the team from your\nevaluation of Encord in [YEAR]/5.\n\nHe mentioned at the time you were deciding between a few options for\nannotation tooling (V7, Labelbox) & the decision was to go with lower\ncost/shorter engagement for [YEAR] and then decide for longer term. Would it\nbe worth reconnecting the three of us to catch up on updates since you guys\nlast spoke?\n\nWe've since started working w/ handful of teams working on\naerial/geospatial annotation (Zesty, Tractable, Maxar) and also separate\nregulated/legal tech OCR-based use cases (TR Group and also some of the\nhyper-growth legal tech AI startups) so could be worth catching up on all.\n\n[SENDER] is in London next week but mornings your time are fairly open - if you\nlet me know when's best I can circulate an invite."
+},
+{
+"id": "502912244959",
+"subject": "Encord <> [COMPANY], Vision AI Leadership",
+"text": "Hi [NAME],\n\nGreat to be connected over email. Saw you had the chance to check out our work at Encord. \n\nWe spend time with computer vision teams working on large-scale visual data pipelines, including teams in the smart mobility and smart cities space such as Vialytics and Automotus.\n\nGiven the work at [COMPANY] around vehicle-mounted vision systems, traffic enforcement, and geospatial perception, I thought there might be interesting overlap in our CV workflows. \n\nGreat to spend 20 minutes this Thursday or Friday to see if we can support your team. Happy to send over some time slots if that works on your end."
+},
+{
+"id": "502930147534",
+"subject": "[NAME] <> Encord Reconnect",
+"text": "Hi [NAME],\n\nHope you're doing well! It's been a little while since you last connected\nwith our team at Encord and I wanted to reach back out.\n\nA lot has changed on our end over the past year and I'd love to catch up,\nhear what you and the CV team at [COMPANY] are working on, and share some of\nwhat we've built since you last spoke with us.\n\nWould love to connect on a quick call sometime next week."
+},
+{
+"id": "502939569385",
+"subject": "Suresh - Encord",
+"text": "Hi [NAME],\n\nEncord is a data development platform trusted by leading healthcare AI\nteams including Northwell Health, Mayo Clinic, and Cedars-Sinai.\n\nWe help teams annotate and curate multimodal data at scale, with audit\ntrails and workflows built to support FDA regulatory requirements.\n\nWorth a 30 minute chat to see if we're a good fit for your team?"
+},
+{
+"id": "502945467582",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nEncord is a data development platform trusted by leading healthcare AI\nteams including Northwell Health, Mayo Clinic, and Cedars-Sinai.\n\nWe help teams annotate and curate multimodal data at scale, with audit\ntrails & workflows built to support FDA regulatory requirements.\n\nWorth a 30 minute chat to see if we're a good fit for your team?"
+}
+]

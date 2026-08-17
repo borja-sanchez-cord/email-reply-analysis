@@ -1,0 +1,202 @@
+[
+{
+"id": "427487296734",
+"subject": "[NAME] - chat",
+"text": "Hi [NAME],\n\nI came across your profile building R&D at socure and wanted to reach out\nas we recently started working with IDV teams and [COMPANY] came up as we were\nlooking at teams solving similar IDV challenges.\n\nA common theme we hear is the need to quickly understand failure modes and\ntighten the feedback loop between model performance and training data -\nespecially in high-stakes KYC/AML workflows where small error rates matter.\nCurious if this resonates with what you're seeing at [COMPANY].\n\nFor context, Encord helps IDV and FinTech teams to improve training data\nquality and evaluation across document, image, and video workflows to move\nfaster without compromising accuracy.\n\nWould you be open to a 20-min conversation next week to compare notes on\nhow you're approaching this for [YEAR]? Does *Wed 28 Jan* *1pm EST *work for\nyou?"
+},
+{
+"id": "427629161708",
+"subject": "Human Web Agent Evals",
+"text": "Hi [NAME],\n\nI saw the recent after_date filter added to Parallel Search API, and it\nreminded of trajectory eval work we've been doing.\n\nWe've been partnering with Yutori on end-to-end web agent evals. This\ncovers search, tool calling, navigation, so you can measure gains vs\nfoundational models.\n\nIt also helps understand not just whether a task succeeded, but *why* is a\nbehavior is better for web search.\n\nIt's an evolving process on our side, would you or someone on your team be\nopen to connecting briefly?\n\n-[SENDER]"
+},
+{
+"id": "427632152801",
+"subject": "Quick hello - Physical AI panel",
+"text": "Hey [NAME],\n\nI saw you'll be joining us at the Brains, Bodies & Benchmarks panel next\nweek - wanted to reach out for a quick hello!\n\nI'm putting together questions for the panelists this week - would love to\nget your input as we shape the discussion.\n\nAlso saw you checked out our interactive product tour - would love to\nbriefly introduce ourselves ahead of the event!\n\nFlexible tomorrow 9am - 10:30am or 11am - 1pm if you have 20 mins?"
+},
+{
+"id": "427658616018",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "427743819975",
+"subject": "Human Web Grading",
+"text": "Hi [NAME],\n\nI read about [COMPANY]'s approach to evals which focuses on grading retrieval and\ndownstream task utility using open evals and LLM graders.\n\nThis end-to-end eval covers search, tool calling, navigation, so you can\nmeasure gains vs foundational models.\n\nIt also helps understand not just whether a task succeeded, but *why* is a\nbehavior is better for web search.\n\nCase study here:\n[LINK]\n\nIt's an evolving process on our side, would you or someone on your team be\nopen to connect briefly?"
+},
+{
+"id": "427923439820",
+"subject": "Reconnecting on Speech Labeling",
+"text": "Hi [NAME],\n\nWe were previously in touch with [SENDER] when the team was exploring ways to\nlevel up the speech labeling workflow.\n\nNot sure if you're still using Gradio, but we've since been working closely\nwith foundation labs like Synthesia, Mirage, and Thinking Machines on\nmultimodal data labeling and human evaluations along with several\naudio-focused teams as well.\n\nWe support audio and video ingestion, as well as preference ranking across\npaired audio/video outputs.\n\nWould you be open to a brief reconnect? I'd love to hear how the team is\nthinking about this as the year gets started."
+},
+{
+"id": "428768791744",
+"subject": "Encord & [COMPANY] | Intro to Video AI team",
+"text": "Hi [NAME],\n\nI am reaching out since we got the chance to meet with Sanat from your team\nlast week who shared some context into some of the initiatives you are\nworking on at [COMPANY].\n\nThis resonated with me, since we have helped a lot of teams building video\nAI solutions for the OR to increase data annotation efficiency as they\nmoved away from CVAT: KCL experienced a 16x improvement on labeling\nefficiency jump from CVAT to Encord (case study here\n<[LINK]>\n).\n\nCould be good for us to chat / introduce ourselves and swap notes about\nwhat we've been learning from our partners in surgical AI like Asensus\nSurgical, Apella, and Moon Surgical.\n\nWould you be open to catching up virtually next week? Here is my calendar\n<[LINK]>\nin\ncase it is easier to find some time that works for the both of us.\n\nP.S. This conversation would be more of an introduction to see if Encord\nmight add some value down the road as I understand this is not a\npressing need.\n\nHave a great weekend!"
+},
+{
+"id": "428790366441",
+"subject": "Encord & Snke | Intro to Video AI team",
+"text": "Hi [NAME],\n\nI am reaching out since we got the chance to meet with Sanat from your team\nlast week who shared some context into some of the initiatives you are\nworking on at Snke.\n\nThis resonated with me, since we have helped a lot of teams building video\nAI solutions for the OR to increase data annotation efficiency as they\nmoved away from CVAT: KCL experienced a 16x improvement on labeling\nefficiency jump from CVAT to Encord (case study here\n<[LINK]>\n).\n\nCould be good for us to chat / introduce ourselves and swap notes about\nwhat we've been learning from our partners in surgical AI like Asensus\nSurgical, Apella, and Moon Surgical.\n\nWould you be open to catching up virtually next week? Here is my calendar\n<[LINK]>\nin case it is easier to find some time that works for the both of us.\n\nP.S. This conversation would be more of an introduction to see if Encord\nmight add some value down the road as I understand this is not a\npressing need.\n\nHave a great weekend!"
+},
+{
+"id": "429165028578",
+"subject": "Labeling Construction Docs",
+"text": "Hi [NAME],\n\nWe've been working with a few construction-focused teams on document\nparsing and extraction, including both vertical AI platforms and tools like\nReducto.\n\nWe spoke with your ML team in Egypt last year, and as we head into the new\nyear, I was curious how you're thinking about labeling construction\ndocuments with AI.\n\nHappy to share what we're seeing if you're open to a quick chat next week."
+},
+{
+"id": "429197411563",
+"subject": "Reconnecting on Speech Labeling",
+"text": "Hi [NAME],\n\nWe were previously in touch with [SENDER] when the team was exploring ways to\nlevel up the speech labeling workflow.\n\nNot sure if you're still using Gradio, but we've since been working closely\nwith foundation labs like Synthesia, Mirage, and Thinking Machines on\nmultimodal data labeling and human evaluations along with several\naudio-focused teams as well.\n\nWe support audio and video ingestion, as well as preference ranking across\npaired audio/video outputs.\n\nWould you be open to a brief reconnect? I'd love to hear how the team is\nthinking about this as the year gets started."
+},
+{
+"id": "432983864506",
+"subject": "Back to MA",
+"text": "Hey [NAME],\n\nHow's the weather over there? I'm off to NY tomorrow and it looks like I\nmight need to pack a shovel!\n\nA colleague of mine visited the Vecna team last year and it sounded like\nVision was a big priority for [YEAR]. We've been doing a lot in the AMR and\ngeneral Robotics space over the past 6 months and I'd love to reconnect\nwith Vecna to understand what you've been working on + share some updates\non our side.\n\nAs a final note, we're thinking about a Boston dinner for AI leaders and\nSubject experts in March. Let me know if you'd be interested in joining (no\nsales pitches/tacky fireside talks - just great food and brilliant minds)."
+},
+{
+"id": "433549157615",
+"subject": "RE: Boston trip",
+"text": "Hey [NAME],\n\nQuick hello from me as I believe you've primarily connected with [SENDER] and\n[SENDER] in the past.\n\nWe're planning another trip to Boston in March, potentially a dinner but\ndefinitely seeing our network in the area and your name came up. I'm aware\nthe project got put on hold but [SENDER] recently mentioned that there are\nplans to pick up the labelling piece in [YEAR].\n\nWould love to take you for a coffee while there + maybe introduce myself\nand understand the current priorities over a quick call ahead of the March\nvisit?"
+},
+{
+"id": "433610019021",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data development platform that offers advanced data curation,\nresulting in higher model accuracy and better visibility into emerging\nfraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "433688991934",
+"subject": "Adrian - ML Workflows",
+"text": "Hi [NAME],\n\nI'm Adi [SENDER] - a Series B YC-backed startup helping 200+ teams\nincluding Rhombus, LVT & Flock build AI models faster and more easily.\n\nWe've previously heard from the [COMPANY] team about your challenges with\nCVAT, and I'd love to discuss how other leading surveillance teams switched\nto Encord for greater scale, QA, and automation.\n\nWould you be open to learning more?"
+},
+{
+"id": "433724624078",
+"subject": "Jason - ML Workflows",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data development platform helping IDV teams build AI models\nfaster with lower false-positive rates.\n\nOur platform offers advanced data curation, resulting in higher model\naccuracy and better visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "433729893564",
+"subject": "Re: data pipeline partnerships",
+"text": "Hi [NAME],\n\nAs a quick introduction, we previously explored a partnership between\nCapella and Encord when Charles Ince was leading partnerships, focused on\nsupporting AI teams working with geospatial data.\n\nSince then, we've continued working closely with geospatial organisations,\nincluding Maxar, on SAR-driven Earth observation pipelines. The focus has\nincreasingly been on helping ML and radar teams unify curation, annotation\nand evaluation, helping them produce better quailty data for greater model\nperformance.\n\nI was wondering whether Capella's AI/ML needs have evolved since those\nearlier conversations, and whether it's worth revisiting. Happy to share\nwhat we're seeing across the space.\n\nOpen to a short chat this week?"
+},
+{
+"id": "433735099616",
+"subject": "Re: data pipeline partnership",
+"text": "Hi [NAME],\n\nAs a quick introduction, we previously explored a partnership between\nCapella and Encord when Charles Ince was leading partnerships, focused on\nsupporting AI teams working with geospatial data.\n\nSince then, we've continued working closely with geospatial organisations,\nincluding Maxar, on SAR-driven Earth observation pipelines. The focus has\nincreasingly been on helping ML and radar teams unify curation, annotation\nand evaluation, helping them produce better quailty data for greater model\nperformance.\n\nI was wondering whether Capella's AI/ML needs have evolved since those\nearlier conversations, and whether it's worth revisiting. Happy to share\nwhat we're seeing across the space.\n\nOpen to a short chat this week?"
+},
+{
+"id": "433738702071",
+"subject": "Re: SAR data pipelines",
+"text": "Hi [NAME],\n\nGiven your work on SAR change detection, flood segmentation and RF signal\nprocessing, I thought it could be useful to compare notes on how\nradar-heavy teams are evolving their training data workflows as models\nscale.\n\nAt Encord, we work with Maxar on SAR-driven Earth observation pipelines,\nhelping ML and radar teams unify curation, annotation and evaluation so\nmodel feedback loops are tighter and less services-dependent.\n\nThought it could be useful to compare notes on how you're thinking about\nevolving your SAR data stack as these use cases scale.\n\nOpen to a short chat?"
+},
+{
+"id": "433840224479",
+"subject": "Re; Data pipeline partnerships",
+"text": "Hi [NAME],\n\nAs a quick introduction, we previously explored a partnership between\nCapella and Encord when Charles Ince was leading partnerships, focused on\nsupporting AI teams working with geospatial data.\n\nSince then, we've continued working closely with geospatial organisations,\nincluding Maxar, on SAR-driven Earth observation pipelines. The focus has\nincreasingly been on helping ML and radar teams unify curation, annotation\nand evaluation, helping them produce better quailty data for greater model\nperformance.\n\nI was wondering whether Capella's AI/ML needs have evolved since those\nearlier conversations, and whether it's worth revisiting. Happy to share\nwhat we're seeing across the space.\n\nOpen to a short chat this week?"
+},
+{
+"id": "433965311163",
+"subject": "[NAME] - Data Curation",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data development platform that offers advanced data curation,\nresulting in higher model accuracy and better visibility into emerging\nfraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "434141057253",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nI'm Adi [SENDER] - a data development platform helping 200+ teams\nincluding Rhombus, LVT & Flock build AI models faster and more easily.\n\nWe've previously heard from your team about challenges with CVAT, and I'd\nlove to discuss how other leading surveillance teams switched to Encord for\ngreater scale, QA, and automation.\n\nWould you be open to learning more?"
+},
+{
+"id": "434786420930",
+"subject": "[SENDER] fine-tuning workbook",
+"text": "Hi [NAME],\n\nThanks for checking out [SENDER]'s blog on fine-tuning [SENDER]\n<[LINK]>\n-- he asked me to reach out for a quick hello!\n\nWe're keen to exchange perspectives on implementing [SENDER] into ML workflows -\nand he can share more about his thought process behind the workbook.\n\nHow's next week looking for a virtual coffee? We're flexible afternoon your\ntime Tues, Thurs and Fri."
+},
+{
+"id": "434926351551",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is an ML Ops platform helping IDV teams build AI models faster with\nlower false-positive rates.\n\nOur platform offers advanced data curation, resulting in higher model\naccuracy and better visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "434931748067",
+"subject": "Varun - ML Ops",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain - is this\nsomething your team is experiencing?\n\nEncord is an ML Ops platform that offers advanced data curation, resulting\nin improved model accuracy and better visibility into emerging fraud\npatterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "434964992247",
+"subject": "[NAME] - ML Ops Workflows",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management and annotation tooling are ineffective and painful to\nmaintain.\n\nEncord is an ML Ops platform helping leading IDV teams build AI models\nfaster with lower false-positive rates.\n\nOur platform offers advanced data curation, resulting in higher model\naccuracy and better visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "435128117477",
+"subject": "[NAME] - False Positive Rates",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is an ML Ops platform helping leading IDV teams build AI models\nfaster with lower false-positive rates.\n\nOur platform offers advanced data curation, resulting in higher model\naccuracy and better visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "435234029792",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "435249790178",
+"subject": "Web Agent Trajectory Human Evals",
+"text": "Hi [NAME],\n\nI saw the new after_date_filter in the search API and it reminded me of the\ntrajectory eval work we've been doing.\n\nWe've been working with Yutori on human end-to-end web agent evals that\ncover search, navigation, tool calls, and repetable comparisons to measure\ngains vs foundational models.\n\nYou can take a look at the case study below:\n[LINK]\n\nit's an evolving process on our side, would you be open to a quick chat on\nthis?"
+},
+{
+"id": "435250494710",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "435256812785",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "435317253359",
+"subject": "[NAME] - Data Curation",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management and annotation tooling are ineffective and painful to\nmaintain.\n\nEncord is an ML Ops platform helping leading IDV teams build AI models\nfaster with lower false-positive rates.\n\nOur platform offers advanced data curation, resulting in higher model\naccuracy and better visibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "435637639365",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "435658005704",
+"subject": "[NAME] - Vision AI",
+"text": "Hi [NAME],\n\nI was catching up on what [COMPANY]'s been shipping and saw the Gen3 outdoor\ncam with RADAR - nice move!\n\nWhen talking to vision teams who are stitching multiple modalities (video,\nimage, point cloud) together, a common challenge is figuring out how to\nhandle edge cases cleanly across ingestion, labeling, and eval. Curious if\nany resonates?\n\nWould be great to catch up and swap notes if you're up for it - I'm pretty\nopen next Thu/Fri and can do a quick 20 mins."
+},
+{
+"id": "435668261089",
+"subject": "Encord catch-up",
+"text": "Hey [NAME],\n\nI hope you are doing well. I just had a brief chat with Sofie, who said\nthat you were the right person to reach out to.\n\nMy company (Encord) and Lingopal were having some conversations back at the\nstart of [YEAR] about a potential collaboration. We are a data management and\nannotation platform, helping ML teams to build out their data pipelines and\noptimise their model development.\n\nWhen our companies last spoke, it wasn't quite the right time, but I\nthought it would be worth reconnecting in the New Year.\n\nLet me know if you might have a spare 20 minutes towards the end of this\nweek - Friday is looking good for me."
+},
+{
+"id": "435909723370",
+"subject": "[NAME] - catch up",
+"text": "Hi \n       [NAME], \n\n       Hope you had a great start to the year. \n\n       We haven't officially met, but I've heard great things about your work at AlgoFace from my colleague [SENDER] (who has since moved on [SENDER]). I wanted to introduce myself and reconnect.  \n\n       From earlier conversations, QA workflows and building a tighter active-learning loop to surface edge cases stood out as areas of interest. We're recently been working with a few teams who moved off Labelbox for similar reasons as they scaled. \n\n       As you're setting priorities for [YEAR], would it make sense to revisit and evaluate whether Encord could support what you're building now? Would love to have a quick catch up if helpful."
+},
+{
+"id": "435945837771",
+"subject": "[NAME] - catch up",
+"text": "Hi [NAME],\n\nI was catching up on what Vivint's been shipping and saw the Gen3 outdoor\ncam with RADAR - nice move! We've been seeing more vision teams run into\ninteresting challenges once sensor fusion enters the pic.\n\nLately I've been comparing notes with a few teams who are\nstitching multiple modalities (video, image, point cloud) together and\nfiguring out how to handle edge cases cleanly across ingestion, labeling,\nand eval. It made me curious how your current setup is holding up as things\nget more complex.\n\nWould be great to catch up and swap notes if you're up for it - I'm pretty\nopen next Thu/Fri and can do a quick 20 mins."
+},
+{
+"id": "435949541584",
+"subject": "[NAME] - catch up",
+"text": "Hi [NAME] - hope you've been well.\n\nI saw [COMPANY]'s Gen3 outdoor cam with RADAR - really impressive!\n\nI've been working with a few vision teams dealing with multimodal sensor\nfusion and tightening edge-case handling across ingestion, annotation, and\nmodel eval - curious how your current tooling is holding up as things get\nmore complex.\n\nWould be great to swap notes if you've got 20 mins next Thu/Fri?"
+},
+{
+"id": "435962064067",
+"subject": "[NAME] - IDV & deepfake projects",
+"text": "Hi [NAME],\n\nSaw [COMPANY]'s launch of the CIP Match and Watchlists and your deep dive\ninto deep fakes - thought it would be a good moment to connect.\n\nWe work with IDV/AML/KYC teams of VIDA, Veriff, and Onfido - providing\nindra for data curation, annotation, HITL review - so teams can train\nmodels with cleaner data and identify failure modes faster, tightening the\nfeedback loop.\n\nGiven your focus in this space, I was curious if you'd be open to seeing\nwhat we have and explore if there's overlap to partner up. I'm pretty free\nnext Thu/Fri if you are interested for a quick chat."
+},
+{
+"id": "435967385837",
+"subject": "Inpatient CDI projects",
+"text": "Hi [NAME],\n\nHope you've been well! Ambience came to mind as we've recently kicked off a\nfew projects with healthcare teams building AI for pre-, in-, and\npost-clinic workflows.\n\nWe keep seeing similar use cases come up - EHR extraction, conversation\ndiarization and transcription, preliminary diagnostic support, and\npost-visit planning. The bottleneck is usually the same: getting\nhigh-quality training data in place to iterate quickly and safely.\n\nThat's where Encord fits in. We support MedTech and GenAI teams streamline\ntheir ML pipelines - from data ingestion and curation to labeling, HITL\nreview, and RLHF.\n\nCurious if any of this overlaps with what you're building at Ambience. Open\nto a quick 20 min chat to compare notes?"
+},
+{
+"id": "435973019853",
+"subject": "[NAME] - Vision AI",
+"text": "Hi [NAME],\n\nI was catching up on what Vivint's been shipping and saw the Gen3 outdoor\ncam with RADAR - nice move!\n\nWhen working with vision teams who are stitching multiple modalities\n(video, image, point cloud) together, a common challenge is figuring out\nhow to handle edge cases cleanly across ingestion, labeling, and eval.\nCurious how your current setup is holding up as things get more complex.\n\nWould be great to catch up and swap notes if you're up for it - I'm pretty\nopen next Thu/Fri and can do a quick 20 mins."
+}
+]

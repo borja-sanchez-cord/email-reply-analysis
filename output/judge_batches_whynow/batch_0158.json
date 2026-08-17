@@ -1,0 +1,202 @@
+[
+{
+"id": "502945961188",
+"subject": "Dhruv - Encord",
+"text": "Hi [NAME],\n\nEncord is a data development platform trusted by leading healthcare AI\nteams including Northwell Health, Mayo Clinic, and Cedars-Sinai.\n\nWe help teams annotate and curate multimodal data at scale, with audit\ntrails & workflows built to support FDA regulatory requirements.\n\nWorth a 30 minute chat to see if we're a good fit for your team?"
+},
+{
+"id": "502946852050",
+"subject": "Yingting - Encord",
+"text": "Hi [NAME],\n\nEncord is a data development platform trusted by leading healthcare AI\nteams including Northwell Health, Mayo Clinic, and Cedars-Sinai.\n\nWe help teams annotate and curate multimodal data at scale, with audit\ntrails & workflows built to support FDA regulatory requirements.\n\nWorth a 30 minute chat to see if we're a good fit for your team?"
+},
+{
+"id": "502968489204",
+"subject": "Encord | Coffee, caps & an impossible triangle",
+"text": "Bonjour [NAME], Martin,\n\nShame to have missed you at the office yesterday. I was in town for RAISE\nso thought I'd drop by and drop a mystery package off.\n\nLaurent kindly took the parcel in and has hopefully shared the photo:\ncoffee, caps for the Paris heat, and a 3D-printed Penrose triangle for the\nmaths nerds in the building (the [COMPANY] symbol being a triangle, after all).\n\nSince you rightly do not train on customer data, everything rests on\ncurated gold-standard sets: that is exactly what Encord helps leading Audio\nplayers like Kyutai and leading Healthcare teams like UnitedHealth Group\nachieve.\n\nI would love 15 mins to show you how this could look for [COMPANY]. If you say\nthe word, I can put some tentative time in the calendar for next week.\n\nP.S. Martin - sorry you could not make the wine tasting our CEOs hosted on\nTuesday. [SENDER] (one of our CEOs) met [SENDER] LeBrun last week, which is\nactually what reminded me to bring some gifts over. Hope you can join us\nnext time!"
+},
+{
+"id": "503059191025",
+"subject": "content moderation at Riot",
+"text": "Hi [NAME],  \n\n I've been following Riot's expansion from text moderation into multilingual voice safety for VALORANT. \n\n One challenge we see as teams scale across languages and modalities is keeping ground truth consistent: guidelines drift, edge cases multiply, and QA becomes increasingly difficult. \n\n Curious if that's something your team is running into, or if the bigger challenge is improving model precision and reducing false positives?"
+},
+{
+"id": "503060596949",
+"subject": "content moderation at Riot",
+"text": "Hi [NAME],  \n\n I've been following Riot's expansion from text moderation into multilingual voice safety for VALORANT. \n\n One challenge we see as teams scale across languages and modalities is keeping ground truth consistent: guidelines drift, edge cases multiply, and QA becomes increasingly difficult. \n\n Curious if that's something your team is running into, or if the bigger challenge is improving model precision and reducing false positives?"
+},
+{
+"id": "503060596952",
+"subject": "content moderation at Riot",
+"text": "Hi [NAME],  \n\n I've been following Riot's expansion from text moderation into multilingual voice safety for VALORANT. \n\n One challenge we see as teams scale across languages and modalities is keeping ground truth consistent: guidelines drift, edge cases multiply, and QA becomes increasingly difficult. \n\n Curious if that's something your team is running into, or if the bigger challenge is improving model precision and reducing false positives?"
+},
+{
+"id": "503060596956",
+"subject": "content moderation at Riot",
+"text": "Hi [NAME],  \n\n I've been following Riot's expansion from text moderation into multilingual voice safety for VALORANT. \n\n One challenge we see as teams scale across languages and modalities is keeping ground truth consistent: guidelines drift, edge cases multiply, and QA becomes increasingly difficult. \n\n Curious if that's something your team is running into, or if the bigger challenge is improving model precision and reducing false positives?"
+},
+{
+"id": "503083541695",
+"subject": "[COMPANY] Autonomy <> Encord",
+"text": "Hi [NAME], I met your colleague Claudia at the Automate conference a few\nweeks ago and wanted to connect on your autonomy stack supporting the\nAutonomous Tugger.\n\nI lead GTM efforts for Physical AI at Encord where we partner with some of\nthe fastest growing companies across ADAS/AV and robotics. Our platform\nhandles multi-cam video, LiDAR point clouds, and telemetry data in the same\ninterface, allowing us to take on large annotation workloads to support\nyour research and model development efforts at scale.  Ouster's LiDAR is\ncommon across a number of our customer deployments that we support at scale.\n\nTime to connect next week to share more?"
+},
+{
+"id": "503231639786",
+"subject": "audit trail behind evicore's pa decisions",
+"text": "Hi [NAME],  \n\n I saw eviCore just went live with Pharmacy Forward last week and I know CMS's [YEAR] deadline for auditable, traceable authorization decisions is six months out. \n\n We work with a top 3 US health-services firm running an internal LLM against clinical records for prior authorization. \n\n The problem for them was building a layer where clinicians review the model's output against the source, flag what's wrong, and route the hard cases, with a full audit trail behind every decision.  \n\n With regulatory scrutiny on how medical criteria gets applied only growing, the audit trial is extremely important by [YEAR]! \n\n I'd love to show you how we built it for them. Are you free Thursday or early next week?"
+},
+{
+"id": "503231666392",
+"subject": "audit trail behind evicore's pa decisions",
+"text": "Hi [NAME],  \n\n I saw eviCore just went live with Pharmacy Forward last week and I know CMS's [YEAR] deadline for auditable, traceable authorization decisions is six months out. \n\n We work with a top 3 US health-services firm running an internal LLM against clinical records for prior authorization. \n\n The problem for them was building a layer where clinicians review the model's output against the source, flag what's wrong, and route the hard cases, with a full audit trail behind every decision.  \n\n With regulatory scrutiny on how medical criteria gets applied only growing, the audit trial is extremely important by [YEAR]! \n\n I'd love to show you how we built it for them. Are you free Thursday or early next week?"
+},
+{
+"id": "503296516307",
+"subject": "Accelerating takeoff model fine tuning | Khalil Alami Intro",
+"text": "Hi [NAME],\n\nKhalil Alami pointed me your way after we chatted on LinkedIn. He mentioned\nthat you would be the person to talk to at Togal regarding data pipelines.\n\nEncord is a data layer platform that helps ML teams manage and improve the\ndata that feeds their models. We're currently working with best-in-class\nconstruction takeoff software teams like Attentive across their annotation,\ncuration and QA workflows.\n\nWould love to find a time to learn more about what you're building at Togal\nand share about the tooling we've developed at Encord."
+},
+{
+"id": "503333013739",
+"subject": "content moderation at Riot",
+"text": "Hi [NAME],  \n\n I've been following Riot's expansion from text moderation into multilingual voice safety for VALORANT. \n\n One challenge we see as teams scale across languages and modalities is keeping ground truth consistent: guidelines drift, edge cases multiply, and QA becomes increasingly difficult. \n\n Curious if that's something your team is running into, or if the bigger challenge is improving model precision and reducing false positives?"
+},
+{
+"id": "503334922455",
+"subject": "RL post training & human eval",
+"text": "Hi \n      [NAME], \n\n      I came across your work on agentic RL/post-training and VLM and thought it's worth a quick connect as I support teams like Yutori, Synthesia and Thinking Machines Lab on similar projects. \n\n      One pattern we're seeing is that the bottleneck has shifted from training models to building reliable human eval and post-training infra. As RL recipes become more sophisticated, collecting high-quality preference/rubric and closing the feedback loop becomes more important. \n\n      I think there are interesting overlaps here. Would you be open to a quick 20-min chat to compare notes?"
+},
+{
+"id": "503334989005",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nSeen \n      [COMPANY]' work on the DoD edge deployments and the model remediation use cases , congrats!!\n\nMy team at Encord works with defense-adjacent CV teams on the data layer that sits before training - annotation, curation, eval workflows for imagery and sensor data. We're working with teams doing similar things (satellite CV, object detection in regulated environments).\n\nGiven your customer-facing work on Chariot deployments, would love 20 mins to get your honest take on whether the annotation/data prep piece is a gap you see in practice -  or something customers have figured out.\n\nLet me know if worth a quick chat later this week?"
+},
+{
+"id": "503339598053",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nSeen [COMPANY]' work on the DoD edge deployments and the model\nremediation use cases, congrats!!\n\nMy team at Encord works with defense-adjacent CV teams on the data layer\nthat sits before training: annotation, curation, eval workflows for imagery\nand sensor data. We're working with teams doing similar things (satellite\nCV, object detection in regulated environments).\n\nGiven your customer-facing work on Chariot deployments, would love 20 mins\nto get your honest take on whether the annotation/data prep piece is a gap\nyou see in practice -  or something customers have figured out.\n\nLet me know if worth a quick chat later this week?"
+},
+{
+"id": "503359330494",
+"subject": "Swarmbotics <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere\nwe partner with a number of defense tech companies on their autonomous\nrover and drone operations across vision and VLA model capabilities.\n\nWe help teams like Forterra automate their annotation pipelines across\nmulti cam video, 3D, and telemetry data, with native support for SAM3, SOTA\nmodels, or BYO models for model assisted annotation.\n\nIf this is relevant now or will be as you scale up operations of your\nground based UAVs, I'd love to connect and share a bit more about Encord.\nLet me know if there is a good day to connect in the coming week or two?"
+},
+{
+"id": "503380884720",
+"subject": "Swarmbotics <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere\nwe partner with a number of defense tech companies on their autonomous\nrover and drone operations across vision and VLA model capabilities.\n\nWe help teams like Forterra automate their annotation pipelines across\nmulti cam video, 3D, and telemetry data, with native support for SAM3, SOTA\nmodels, or BYO models for model assisted annotation.\n\nIf this is relevant now or will be as you scale up operations of your\nground based UAVs, I'd love to connect and share a bit more about Encord.\nLet me know if there is a good day to connect in the coming week or two?"
+},
+{
+"id": "503484939497",
+"subject": "Cortex Launch with Seven Agents - One data problem",
+"text": "Hi [NAME], \n\nSaw Cortex launch this week. Training a VLM on construction drawings while running document agents in parallel means two distinct data problems: labelled drawing sheets for the vision side, and output review to catch wrong answers before they reach a GC on a live project.\n\nWe worked with OnsiteIQ on their construction vision models. After moving their annotation and data infrastructure to Encord they hit 5x faster data throughput and cut project setup from 2 months to 2 weeks.\n\nThe pattern we see at teams your stage: the internal tooling that got you to launch stops scaling when model count and project volume rise at the same time. The slow part stops being generating outputs and starts being closing the loop between a model getting something wrong and a corrected example making it back into training.\n\nWorth 20 minutes to talk through how you're handling that on the drawing side?\n\nPlease let me know."
+},
+{
+"id": "503487072452",
+"subject": "Scaling multimodal data pipelines // learnings from Synthesia & Thinking Machines",
+"text": "Hi [NAME],\n\nSeen the work you are doing on the data team at Reflection, & thought it was worth a quick intro.\n\nSimilar leading teams at Synthesia, Thinking Machine Labs, and Twelve Labs all approached us with the same story -- as teams look to iterate fast, the bottleneck becomes the data infrastructure (curation, annotation + HITL workflows, eval) that sit behind the models themselves.\n\nWould be great to share more on how we've worked with similar teams to speed up iteration cycles.\n\nAre you open to connecting over a call this / next week?"
+},
+{
+"id": "503618086134",
+"subject": "Data infrastructure behind [COMPANY]'s expansion",
+"text": "Hi [NAME],  \n\n I saw the tomosynthesis CE mark last month and the expansion into 10 European markets this year. \n\n A significant acceleration with new modalities, new markets, new certification cycles, all on a team of ~50! \n\n I've spent most of this year working with the Hoppr and Hologic engineering team on annotation and model validation infrastructure.  \n\n The specific friction points are usually the same: clinical annotators disengaging from tools that don't match their reading environment, QA overhead compounding per workload, and audit trail assembly becoming a manual burden at each certification cycle. \n\n Curious whether any of that is live at [COMPANY] right now? Happy to connect later this week to show you how we've both firms solve them."
+},
+{
+"id": "503618452718",
+"subject": "Data infrastructure behind [COMPANY]'s expansion",
+"text": "Hi [NAME],  \n\n I saw the tomosynthesis CE mark last month and the expansion into 10 European markets this year. \n\n A significant acceleration with new modalities, new markets, new certification cycles, all on a team of ~50! \n\n I've spent most of this year working with the Hoppr and Hologic engineering team on annotation and model validation infrastructure.  \n\n The specific friction points are usually the same: clinical annotators disengaging from tools that don't match their reading environment, QA overhead compounding per workload, and audit trail assembly becoming a manual burden at each certification cycle. \n\n Curious whether any of that is live at [COMPANY] right now? Happy to connect later this week to show you how we've both firms solve them."
+},
+{
+"id": "503631387837",
+"subject": "US clinic launch and annotation infrastructure risk",
+"text": "Hi [NAME],\n\nCongrats on the Series C! With US clinics live, annotation infrastructure\nfragmentation becomes your first bottleneck - different regions, different\ntools, compliance risk at FDA submission time.\n\nHaving built FDA-ready infrastructure with AbbVie and Conavi Medical, we\nknow that this is the right time to standardise the workflow.\n\nWe spoke with Mattias previously in January, offering a design partnership\nso we can build the customisation your sensors need; you get infrastructure\nthat scales across all three regions with regulatory compliance built in.\n\nWorth 30 mins with your technical team early next week? We're in Stockholm\nthe week after next if that suits you better."
+},
+{
+"id": "503632384238",
+"subject": "US clinic launch and annotation infrastructure risk",
+"text": "Hi [NAME],\n\nCongrats on the Series C! With US clinics live, annotation infrastructure\nfragmentation becomes your first bottleneck - different regions, different\ntools, compliance risk at FDA submission time.\n\nHaving built FDA-ready infrastructure with AbbVie and Conavi Medical, we\nknow that this is the right time to standardise the workflow.\n\nWe spoke with Mattias previously in January, offering a design partnership\nso we can build the customisation your sensors need; you get infrastructure\nthat scales across all three regions with regulatory compliance built in.\n\nWorth 30 mins with your technical team early next week? We're in Stockholm\nthe week after next if that suits you better."
+},
+{
+"id": "503646659818",
+"subject": "US clinic launch and annotation infrastructure risk",
+"text": "Hi [NAME],\n\nCongrats on the Series C! With US clinics live, annotation infrastructure\nfragmentation becomes your first bottleneck - different regions, different\ntools, compliance risk at FDA submission time.\n\nHaving built FDA-ready infrastructure with AbbVie and Conavi Medical, we\nknow that this is the right time to standardise the workflow.\n\nWe spoke with Mattias previously in January, offering a design partnership\nso we can build the customisation your sensors need; you get infrastructure\nthat scales across all three regions with regulatory compliance built in.\n\nWorth 30 mins with your technical team early next week? We're in Stockholm\nthe week after next if that suits you better."
+},
+{
+"id": "503712256210",
+"subject": "[COMPANY] <> Encord - catch up",
+"text": "Hi [NAME], \n\n      I noticed the \n      [COMPANY] team previously evaluated Encord as an alternative to Label Box and wondered if now might be a better time to reconnect.\n\n      Since then, we've helped several media teams migrate from LB, particularly those working on content moderation and brand safety at scale across multimodal datasets. \n\n      Would love to catch up, hear how priorities have evolved at \n      [COMPANY], and see if there's an opportunity to support you. \n\n      Open to a quick 20min chat next week?"
+},
+{
+"id": "503712268494",
+"subject": "AUTONOMOUS demo",
+"text": "Hi [NAME], \n\n Saw [COMPANY] is demoing live at the Startup Showcase on the 16th - I am excited to be able to actually see your product in person! \n\n Our Physical AI leadership will be at the event and would love to connect with you there. For context, Encord is the Physical AI data infrastructure behind perception and navigation teams at companies like 1x and Woven by Toyota. \n\n Can I schedule an ~10 minute coffee chat at the event for you to connect?"
+},
+{
+"id": "503733654741",
+"subject": "US clinic launch and annotation infrastructure risk",
+"text": "Hi [NAME] Aral,\n\nCongrats on the Series C! Loved your LinkedIn post, the bit that caught my\neye was you quoting Neko as a \"multi-modal platform\". We are the global\ndata infrastructure leader for multimodal platforms so thought i'd reach\nout.\n\nWith US clinics live, annotation infrastructure fragmentation becomes your\nfirst bottleneck - different regions, different tools, compliance risk at\nFDA submission time!\n\nHaving built FDA-ready infrastructure with AbbVie and Conavi Medical, we\nknow that this is the right time to standardise the workflow.\n\nWorth 30 mins with your technical team early next week? We're in Stockholm\nthe week after next if that suits you better."
+},
+{
+"id": "503872531679",
+"subject": "Nice meeting you!",
+"text": "Hey [NAME] - nice to meet you!\n\nI've seen you had a look at our website - very curious what you are working\non & building, especially after seeing the website comparison of VLA/VAMs\nvs Physica.\n\nIt would be great to hear more and get introduced - I'm working on the\nphysical AI side at Encord, happy to share more about our work with\nfrontier labs and teams,\n\nAre you free tomorrow/monday AM for a chat?"
+},
+{
+"id": "503973247164",
+"subject": "Ankur Kapoor recommended we chat | Encord",
+"text": "Hi [NAME],\n\nAnkur suggested I reach out. For context, his team evaluated Encord\nsuccessfully last year, and having reconnected recently, he recommended\nmeeting with you, Sasha and Puneet as the next step.\n\nHe flagged three challenges Healthineers is facing:\n\n   1. Stricter FDA/PCCP requirements on annotation and data residency\n   2. Growing use of video training data, requiring multimodal annotation\n   3. A fast-growing number of post-PoC models across types and disease\n   areas\n\nEncord addresses all three through unified curation and annotation, plus\nexternal expert medical services.\n\nWe'd like to scope your team's needs and build a picture of how we can save\nengineering time and improve model performance across all the Healthineers\nteams.\n\nWe're on the East Coast late next week and the week after. When would work\nto meet in-person?"
+},
+{
+"id": "503973265617",
+"subject": "Ankur Kapoor recommended we chat | Encord",
+"text": "Hi [NAME],\n\nAnkur suggested I reach out. For context, his team evaluated Encord\nsuccessfully last year, and having reconnected recently, he recommended\nmeeting with you, [SENDER] and Puneet as the next step.\n\nHe flagged three challenges Healthineers is facing:\n\n   1. Stricter FDA/PCCP requirements on annotation and data residency\n   2. Growing use of video training data, requiring multimodal annotation\n   3. A fast-growing number of post-PoC models across types and disease\n   areas\n\nEncord addresses all three through unified curation and annotation, plus\nexternal expert medical services.\n\nWe'd like to scope your team's needs and build a picture of how we can save\nengineering time and improve model performance across all the Healthineers\nteams.\n\nWhen would work to chat? Monday and Tuesday next week are looking quite\nfree for us."
+},
+{
+"id": "504010048757",
+"subject": "Cantina <> Encord - coffee in SF",
+"text": "Hi [NAME], \n\n         Noticed you're based in San Francisco - we're big fans of \n         [COMPANY]. Thought I'd reach out since we work closely with GenAI teams like Synthesia, Captions, Twelve Labs, and Flawless on similar GenAI avatar projects, especially around improving video realism, post-production results, and reducing time spent preparing training data.\n\n         Quick context: Encord is a data development platform for multimodal AI (audio, image, video, 3D) that teams use to develop and fine-tune LLM/VLM/VLA models leveraging model-assisted labeling and RLHF preferencing. We're venture backed ($50M, Series B) and support 200+ AI teams to date.\n\n         Would you be open to a quick 20-min coffee in SF? Happy to host you in our North Beach office (we're pretty flexible this week)."
+},
+{
+"id": "504192483544",
+"subject": "Referral from [SENDER] Hogberg | Data pipelines",
+"text": "Hi [NAME],\n\n[SENDER] pointed me your way after we connected on the phone earlier.\n\nHe mentioned you've developed ML ops tooling in-house, which is always\ninteresting to hear about. We've worked with teams like Pickle Robot and\nAutomotus who made the switch from in-house solutions to Encord for their\nCV data pipelines and annotation workflows.\n\nI'd love to jump on a call to learn more about how you're approaching it at\nMarble and share a bit about what we've built at Encord."
+},
+{
+"id": "505314609388",
+"subject": "AUTONOMOUS panel — deploying at scale",
+"text": "Hi [NAME], \n\n Saw you're on 'Deploying Robots at Real-World Scale' on the 16th, alongside FORT Robotics and Carbon Robotics, digging into the safety layer behind scaled fleets. \n\n Our Physical AI leadership will be at the event and would love to connect with you there. For context, Encord is the Physical AI data infrastructure behind perception and navigation teams at companies like Forterra and Woven by Toyota. \n\n Can I schedule an ~10 minute coffee chat at the event for you to connect?"
+},
+{
+"id": "505674266846",
+"subject": "Ankur Kapoor recommended we chat | Encord",
+"text": "Zdravo Sasha,\n\nAnkur suggested I reach out. For context, his team evaluated Encord\nsuccessfully last year, and having reconnected recently, he recommended\nmeeting with you, [SENDER] and Puneet as the next step.\n\nHe flagged three challenges Healthineers is facing:\n\n   1. Stricter FDA/PCCP requirements on annotation and data residency\n   2. Growing use of video training data, requiring multimodal annotation\n   3. A fast-growing number of post-PoC models across types and disease\n   areas\n\nEncord addresses all three through unified curation and annotation, plus\nexternal expert medical services.\n\nWe'd like to scope your team's needs and build a picture of how we can save\nengineering time and improve model performance across all the Healthineers\nteams.\n\nWhen would work to chat? I'm in the area 28th onwards, and would love to\nmeet in person."
+},
+{
+"id": "505681880286",
+"subject": "[COMPANY] | HITL at scale",
+"text": "Hi [NAME],\n\nI've been speaking with teams at Thomson Reuters and Cleo about a challenge\nthat keeps coming up: evaluating multi-turn agentic AI systems.\n\nGiven your role leading Human-AI Operations at [COMPANY], I imagine you're\ntackling similar challenges around human-agent workflows, evals, and\nscaling expert feedback.\n\nBy way of introduction, Encord is a London-based multimodal AI DataOps\nplatform helping teams capture and operationalise expert feedback so\nevaluation and retraining can keep pace as agentic systems become more\ncomplex (single response to multi-turn).\n\nYour office is just around the corner from ours - so in the spirit of\nkeeping it a \"human space,\" would you be open to coffee to share\nperspectives on the space?\n\nLet me know and I'll send an invite and location across for Thursday or\nFriday."
+},
+{
+"id": "505770936561",
+"subject": "coffee in person @ AIEWF?",
+"text": "Hi \n      [NAME], \n\n      I saw [COMPANY] will be at AI Engineer World's Fair in SF later this month - will you be part of the crew?\n\n      If so, I'd love to grab a coffee in person! For context, I work with ML teams building multimodal AI (audio, image, video, 3D) - mainly around human data workflows, post-training, and eval. \n\n      Would be great to hear more about your focus and network with more folks in the space. \n\n      Let me know if you're up for it! I'll be there the week of Jun 29."
+},
+{
+"id": "505824865490",
+"subject": "Coffee at SRS - Thursday/Friday?",
+"text": "Hi [NAME],\n\nI saw the work you're doing at [COMPANY] and wanted to reach out -\nour Surgical Robotics Lead will be at SRS on Thursday and Friday, and I'd\nlove to see if you have 15 minutes for a coffee together.\n\nFor context, Encord (Series C, $110M raised) helps medical AI teams\naccelerate data curation & annotation across their multimodal workflows.\n\nLet me know if you're free either day and what time works best."
+},
+{
+"id": "505841648849",
+"subject": "Coffee at SRS – Thursday/Friday",
+"text": "Hi [NAME],\n\nWanted to reach out ahead of SRS. Our robotics lead will be there Thursday\nand Friday and would love to connect with you, he's keen on talking through\nhow you're approaching data annotation and perception model training for\nyour robotic-assisted surgery work.\n\nLet me know your availability and I can set some time.\n\nEnjoy the conference!"
+},
+{
+"id": "506222820592",
+"subject": "Wild and weird",
+"text": "Hi [NAME],\n\nCongrats on your new role as Head of Experiential AI at Riot! Saw the big\npush towards AI-enabled experiences across League and Valorant. I assume\nRiot is handling text & voice moderation and eval in-house.\n\nMost teams at this stage start hitting scaling walls once experiments\nmultiply across languages and edge-cases. We help teams like Synthesia,\n12Labs, and Tavus run pre-labeling and LLM-as-judge to accelerate their\nwork, mainly for calibration at scale with reduced cost.\n\nCurious if this is something under your purview?"
+},
+{
+"id": "506243321018",
+"subject": "Perception and fusion data",
+"text": "Hey [NAME], \n\n Congrats on the Lifter program and the AFWERX Phase II award. As [COMPANY]'s founding ML hire, you're likely shaping how perception evolves here. That probably means fusing camera, LiDAR and IMU data. We've seen a similar split at Zipline, Skydio and Forterra. \n\n We (Encord) help teams speed up model iteration on multi-sensor data, catching edge cases in tricky landings and correcting models before they hit the field. If you're interested you can take a tour of our tool: \n[LINK] \n\n Would love to get your feedback and am curious if you think there is a potential need as you scale your models? If so would be great to hop on a call - can explore more there."
+}
+]

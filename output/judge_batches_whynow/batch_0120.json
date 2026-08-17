@@ -1,0 +1,202 @@
+[
+{
+"id": "353810667729",
+"subject": "Re: thoughts on the future of perception tooling",
+"text": "Hi [NAME],\n\nI've been following AEye's work on 4Sight, and it's a really impressive\napproach to 4D LiDAR perception. Thought I'd reach out as I've recently\nbeen working with teams from Woven by Toyota, Zipline, and Boston Dynamics\nto fuse their 2D and 3D ML pipelines in Encord.\n\nAs a result, we've been building out LiDAR-specific functionality in close\ncollaboration with their AI teams, and are now looking to work with others\nleading the space like AEye to help shape the next wave of perception\ntooling.\n\nWould you be open to a short chat to see the platform and share your\nperspective? I'd love to get your candid feedback and compare notes on\nwhere perception data infrastructure is heading.\n\nI'm SF-based and happy to come by next week and give you a demo (Thursday's\nopen my side) - or we can set up a quick virtual call if easier."
+},
+{
+"id": "353810688209",
+"subject": "Intro Encord <> [NAME]",
+"text": "Hi [NAME],\n\nVery curious about your stealth company - sounds like it's right down our\nalley. I've also been following AEye's work on 4Sight, really impressive\napproach to 4D LiDAR perception.\n\nAt Encord, we've been partnering with teams like Woven by Toyota and\nZipline to fuse their 2D and 3D ML pipelines - not just to speed up\ndevelopment, but to build long-term infrastructure for perception workflows.\n\nI just moved to the Bay Area from Germany and would love to chat to learn\nmore about what you're building and where you're taking the platform. Let's\nfind some time - happy to come by your office. Looping in [SENDER] (CC) to\nschedule for us."
+},
+{
+"id": "353824153795",
+"subject": "Coffee in Austin - Surgical data accuracy",
+"text": "Hi [NAME],\n\nI wanted to reach out since our leadership team will be in Austin next\nweek. We work with surgical robotic teams e.g. Moon Sugrical, Kaliber Labs\nand Telos Health who, similar to [COMPANY], are building high-precision\nsystems for operations - it'd be great to connect while we're in town.\n\nFor context - we help surgical AI teams improve annotation reliability.\nWith Encord, they can better orchestrate annotation to QA workflows,\nreducing manual labelling times and refocus clinical expert effort on label\nquality. We've also built our tool to capture the granularities of surgical\ncontexts - complex onotology and coordination between modalities (image,\nvideo, DICOM, NiFTI, etc.)\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353859214559",
+"subject": "Coffee in Austin - surgical robot op",
+"text": "Hi [NAME],\n\nI wanted to reach out since our leadership team will be in Austin next\nweek. We work with surgical robotic teams e.g. Moon Sugrical, Kaliber Labs\nand Telos Health who, similar to [COMPANY], are building high-precision\nsystems for operations - it'd be great to connect.\n\nFor context - we help surgical AI teams improve annotation reliability.\nWith Encord, they can better orchestrate annotation to QA workflows,\nreducing manual labelling times and refocus clinical expert effort on label\nquality. We've also built our tool to capture the granularities of surgical\ncontexts - complex onotology and coordination between modalities (image,\nvideo, DICOM, NiFTI, etc.)\n\nOur leadership team would love to exchange perspectives. They'll be in\nAustin Wed (10/19) to Thurs (10/20) next week - would you be open for a\nquick coffee?"
+},
+{
+"id": "353895759058",
+"subject": "Intro Encord & Atomos",
+"text": "Will, Ryan, and [NAME],\n\nI saw you are hiring a principal research engineer. Love seeing your team\ngrowing!\n\nI've been following your journey from Fathom to Atomos, really exciting\nstuff. We've been partnering with Robotics teams like 1X and Physical\nIntelligence - they are using our Physical AI Suite to streamline their\ndata annotation workflows.\n\nCould be valuable to exchange perspectives and see if there's scope for\ncollaboration now or down the line. Lmk when's a good time. Monday/Tuesday\nis open on my side. Looping in [SENDER] (CC) to schedule for us."
+},
+{
+"id": "353914144964",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353916219603",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "353949866184",
+"subject": "Intro Encord",
+"text": "Hi [NAME],\n\nVery cool what you are building at STAIDIUM - I used to play football when\nI was young, and I would have loved that.\n\nI wanted to check in and see if you are training any AI models currently\nand what your data annotation workflows look like.\n\nWe are working with sports analytics companies like Veo and Spiideo - not\njust to speed up model development, but to build long-term infrastructure.\n\nAre you available for a call this Friday or next Monday?"
+},
+{
+"id": "353966361841",
+"subject": "Encord x [COMPANY]",
+"text": "Pranu, [NAME], and Nikolaos,\n\nCongrats on your partnership with Tiffany!\n\nI wanted to reach out and check how it's going with [COMPANY]. Surveillance is\nour bread and butter - we are working with 200+ AI teams to accelerate\ntheir model development by consolidating large-scale data curation,\nannotation, workflow automation, and model eval in one platform.\n\nI imagine [COMPANY] already has a strong foundation, but it could be valuable\nfor both sides to exchange perspectives and see if there's scope for\ncollaboration now or down the line.\n\nAre you available early next week?"
+},
+{
+"id": "354055826679",
+"subject": "Encord",
+"text": "Hi [NAME] Zhuoqi, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354502191331",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354656813256",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354678726849",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354708820198",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354726292666",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354776082620",
+"subject": "Coffee in Austin - LPR accuracy",
+"text": "Hi [NAME],\n\nI saw Flash recently updated the camera spec - curious how you're thinking\nabout improving vision model accuracy with the new data inputs?\n\nYou might find our learnings with other AI-powered camera teams\n(Metropolis, Flock Safety, Milestone Systems) interesting. We focus on\nhelping them utilize camera data (especially video) to train AI models at\nscale - with more efficient curation method and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nOur leadership team will be in Austin Wed (10/19) to Thurs (10/20) - would\nyou be open to a coffee?"
+},
+{
+"id": "354797523190",
+"subject": "Coffee in Austin - Encord",
+"text": "Hi [NAME],\n\nI was in touch with Jaewoon earlier this year - sounds like improving pick\n& place accuracy is a focus for your team. He also mentioned you're the\nbest person to connect with on annotation pipeline - so I was wondering if\nyou'd be open to a coffee while we're in Austin?\n\nFrom our perspectives - label accuracy is an area we can explore. We've\nbeen solving similar challenges with Osaro, Ambi Robotics and Pickle Robot\n- whom similar to Contoro requires precise segmentation + 3D -> 2D\nprojection.\n\nWould love to get your thoughts on annotation pipeline automation &\naccuracy. We'll be in town Wed (10/19) and Thurs (10/20) next week - would\nsometime in the afternoon work for a coffee?"
+},
+{
+"id": "354803663050",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "354805917932",
+"subject": "Scaling up data throughput",
+"text": "Hi [NAME],\n\nCongrats on your recent funding. It's exciting to see your team continuing\nto grow!\n\nAt Encord, we partner with defense and space teams to enhance training data\nquality and scale annotation pipelines, so teams can dedicate more time to\nimproving model performance and accelerating deployment. As a data-layer\nscale-up, we support 200+ AI teams across industries, with particular\nexperience in physical AI and robotics applications.\n\nIt looks like there could be an opportunity to help speed up your data\nworkflows as you scale. Would you be open to a quick chat next week? Would\nMonday work for you?"
+},
+{
+"id": "354836739313",
+"subject": "Coffee in Austin - LPR accuracy",
+"text": "Hi [NAME],\n\nI wanted to reach out since I saw Flash recently updated the camera spec  -\nhow you're thinking about improving vision model accuracy with the new data\ninputs?\n\nYou might find our learnings with other AI-powered camera teams\n(Metropolis, Flock Safety, Milestone Systems) interesting. We focus on\nhelping them utilize as much camera data as possible - more efficient\ncuration method and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nOur leadership team will be in Austin Wed (10/19) to Thurs (10/20) - would\nyou be open to a coffee?"
+},
+{
+"id": "354839717074",
+"subject": "NeurIPS next month",
+"text": "Hi [NAME],\n\nAre you at NeurIPS next month? Would love to catch up there.\n\nAt Encord, we partner with robotics and physical AI teams to enhance\ntraining data quality and scale annotation pipelines, so teams can dedicate\nmore time to improving model performance and accelerating deployment. As a\ndata-layer scale-up, we support 200+ teams like 1X and PI.\n\nIt looks like there could be an opportunity to help speed up your data\nworkflows as you scale. Would you be open to a quick chat next week? Would\nMonday work for you?"
+},
+{
+"id": "354848549112",
+"subject": "Encord x Albacore",
+"text": "Hi [NAME],\n\nCongrats on the recent funding - great to see your company growing.\n\nWe work with defense and space teams to improve training data quality and\nscale annotation pipelines, so teams can focus on boosting model accuracy\nand speed to market. Quick context: Encord is a data layer scale-up,\nhelping over 200+ AI teams across industries - we're especially well versed\nin use cases like physical AI and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free to check in about this in the coming days? How would\nMonday work?"
+},
+{
+"id": "354857614533",
+"subject": "Coffee in Austin? - data flywheel",
+"text": "Hi [NAME],\n\nCongrats on the milestone for Tally in 10 countries! How are you thinking\nabout fine-tuning models on edge cases in different store environments?\n\nYou might find our project with Standard AI interesting - we help them\nautomate  annotation pipelines, resulting in 99.4% faster project\ninitiation. Seems like you have a clear vision on the annotation process at\nSimbe - the other area we can share insights is on more flexible process\norchestration and project analytics.\n\nWould be great to get your thoughts on accelerating data iteration cycles.\nOur leadership team is in Austin Wed (11/19) to Thurs (11/20) next week -\nwould you be up for a coffee?"
+},
+{
+"id": "354890807525",
+"subject": "Coffee in Austin - vision accuracy",
+"text": "Hi [NAME],\n\nBeen reading about Flash Vision camera spec - curious how you're thinking\nabout improving vision model accuracy with wider video contexts?\n\nYou might find our learnings with other AI camera teams (Metropolis, Flock\nSafety, Milestone Systems) interesting. We focus on helping them better\nutilize camera data (especially video) to train AI models at scale - with\nmore efficient curation method and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nOur leadership team will be in Austin Wed (10/19) to Thurs (10/20) - would\nyou be open to a coffee?"
+},
+{
+"id": "354901203135",
+"subject": "Coffee in Austin - lipsync accuracy",
+"text": "Hi [NAME],\n\nCongrats on the Series B announcement! With your avatar interactions\nbecoming more real time - how are you thinking about improving naturalism\nfor the model outputs?\n\nThought you might find what we've learned from working with Synthesia,\nCaptions and Flawless interesting. We help them curate data and integrate\nto human feedback tasks (annotation/ RLHF) in one place, and across video,\naudio and text modalities.\n\nWould be great to hear how you're thinking about fine-tuning for Tavus's\nnext gen model. We'll be in Austin Wed (11/19) to Thurs (11/20) - would you\nbe up for a coffee?\n\nChat,"
+},
+{
+"id": "354903010494",
+"subject": "Coffee in Austin - LPR & vision accuracy",
+"text": "Hi [NAME],\n\nReading about Flash Vision camera spec - curious how you're thinking about\nimproving vision model accuracy with wider video contexts?\n\nYou might find our learnings with other AI camera teams (Metropolis, Flock\nSafety, Milestone Systems) interesting. We focus on helping them better\nutilize camera data (especially video) to train AI models at scale - with\nmore efficient curation method and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nOur leadership team will be in Austin Wed (10/19) to Thurs (10/20) - would\nyou be open to a coffee?"
+},
+{
+"id": "354938835143",
+"subject": "NeurIPS [YEAR]",
+"text": "Hi [NAME],\n\nAre you going to be at NeurIPS this year? Would be great to meet for a\ncoffee and catch up.\n\nYou might find our learnings with other AI-powered camera teams\n(Metropolis, Flock Safety, Milestone Systems) interesting. We focus on\nhelping them utilize camera data (especially video) to train AI models at\nscale - with more efficient curation methods and annotation quality.\n\nWe'd love to exchange perspectives on building more accurate vision models.\nHappy to put something on the calendar already - I am sure it's going to be\na busy week."
+},
+{
+"id": "355048848607",
+"subject": "scaling AI data throughput",
+"text": "Hi [NAME],\n\nI just saw that you are hiring ML Engineers. Love seeing your product\ndeveloping and your team growing!\n\nWe work with robotics teams like 1X and PI to improve training data quality\nand scale annotation pipelines, so teams can focus on boosting model\naccuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200+ AI teams across industries - we're especially\nwell-versed in physical AI and robotics.\n\nWould you be open to a quick in-person chat next week? Tuesday is open on\nmy side, and happy to come by your office."
+},
+{
+"id": "355103484143",
+"subject": "Encord catch up",
+"text": "Hi [NAME],\n\nCongrats on the Series B announcement. How are you thinking about improving\nthe naturalism of your PALs with the next phase of growth?\n\nYou might find our work with Synthesia, Captions and Flawless relevant.\nSimilar to [COMPANY] - they are fine-tuning human-centric video generation/\nlipsync models. We help them accelerate the iteration loops between\ncurating the dataset and sending those for human feedback tasks (annotation\n& RLHF) - across vision & audio modalities.\n\nWould be great to exchange perspectives. I understand you're familiar with\n[SENDER] & [SENDER] from my team - perhaps a quick coffee catch up in SF?"
+},
+{
+"id": "355196228827",
+"subject": "scaling CV data pipelines",
+"text": "Hi [NAME],\n\nCongratulations on the Series A funding - great to see you grow!\n\nWe work with CV/ML teams to improve training data quality and scale\nannotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market. Quick context: Encord is a data layer scale-up, helping\nover 200+ AI teams across industries - we're especially well versed in VLM\nuse cases like physical safety, surveillance, and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free for a quick chat in the next days? How would\nMonday work?"
+},
+{
+"id": "355864076478",
+"subject": "Re: Leadership in Austin 19th/20th of Nov",
+"text": "Hi [NAME],\n\nI was revisiting previous conversations Greg Akselrod had with Encord in\nregards to scaling [COMPANY]'s ML pipelines, but it was too early for any\ncollaboration between us.\n\nHowever, noticed you're based in Austin and some of our leadership team\nwill be in town next week Weds 19th and Thurs 20th visiting customers, and\nwould love to meet for a coffee if you're around.\n\nFor context, work with ADAS teams like Nexar and Motive, as well as ID\nverification companies such as Veda and Onfido, to help their AI teams\nautomate their ML pipelines with humans in the loop. Would be great to\ncatch up and see if we can support your gate automation models - happy to\nshare some perspectives on the space too.\n\nLet me know if you're interested and I can help set up line something up?"
+},
+{
+"id": "355938830527",
+"subject": "Coffee in Austin - annotation efficiency",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about data operations.\nGiven your role leading the engineering projects at Saronic - I'd love to\nhear your perspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities.\nHappy to also share how we work with ML teams in defense environments like\nMaxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (10/19) to\nThurs (10/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "355988768956",
+"subject": "Coffee in Austin - perception model accuracy",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about perception model\naccuracy. Given your role leading this team at [COMPANY] - I'd love to get\nyour perspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities to\nsolve this. Happy to also share how we work with ML teams in defense\nenvironments like Maxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (11/19) to\nThurs (11/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "355994167501",
+"subject": "Coffee in Austin - annotation efficiency",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about data operations.\nGiven your role in the perception team at Saronic - I'd love to hear your\nperspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities.\nHappy to also share how we work with ML teams in defense environments like\nMaxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (11/19) to\nThurs (11/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "356013981916",
+"subject": "VLM chat",
+"text": "Hi [NAME]\n\nI was in touch with Rom earlier this year - sounds like building more\neffective VLM to automate heavy equipments is a focus for your team. We\nrecently onboarded 1X helping them improve data quality for VLM - so I\nwanted to see if you'd be open to exchange perspectives?\n\nFor context - Physical AI has been a strategic focus for Encord. We've been\nclosely working with teams at Boston Dynamics, Zipline and 1X to improve\nannotation quality on the intersection of vision, caption & sensor data.\n\nWould be great to get your candid feedback on what we've built out. Hows's\nTues/ Wed next week looking for a quick chat?"
+},
+{
+"id": "356049668308",
+"subject": "Coffee in Austin - annotation efficiency",
+"text": "Hi [NAME],\n\nI was in touch with Vib early this year - sounds like improving annotation\nquality with a lean team was how he was thinking about data operations.\nGiven your role in the perception team at [COMPANY] - I'd love to hear your\nperspectives on this.\n\nWe're familiar with the challenges of ensuring label quality across camera,\nLiDAR and radar data. We recently helped Zipline consolidate 2D and 3D\nannotation pipelines in one place with better autolabelling capabilities to\nsolve this. Happy to also share how we work with ML teams in defense\nenvironments like Maxar.\n\nIt'd be great to chat over a coffee. We'll be in Austin Wed (11/19) to\nThurs (11/20) next week - happy to swing by your office or meet at a coffee\nshop somewhere nearby?"
+},
+{
+"id": "356078560465",
+"subject": "Encord - perception data annotation",
+"text": "Hi [NAME],\n\nHamza mentioned it'd be good to connect with the AI team at [COMPANY].\nSeems like you're scaling up data collection effort - wanted to see if\nyou'd be open to a quick chat on how we can help?\n\nFor context - we help 1X, Physical Intelligence and Boston Dynamics improve\nannotation quality. We focus on automating annotation pipelines and\nintegrating capabilities to curate datasets and send to labelling in one\nplace.\n\nIt'd be great to understand those that align with your current workflows at\nMaven. Would Tuesday morning work for a 30 mins chat?"
+},
+{
+"id": "357326952681",
+"subject": "Coffee at Humanoid summit tomorrow?",
+"text": "Hi [NAME] - saw you're speaking at the humanoid summit in Berlin this week\n- wondering if you'd be open to coffee with our Robotics Team Lead (cc'd)?\n\nBeen working with the world's leading humanoid teams - Boston, Figure, 1x\netc. on scaling their VLA captioning and data curation/annotation workflows\n- would love to hear about the work you're up to at BMW Grp.\n\nLet me know and can get something in the books,"
+},
+{
+"id": "357327875259",
+"subject": "Coffee at Humanoid summit tomorrow?",
+"text": "Hi [NAME] - saw you're speaking at the humanoid summit in Berlin this week\n- wondering if you'd be open to coffee with our Robotics Team Lead (cc'd)?\n\nBeen working with the world's leading humanoid teams - Boston, Figure, 1x\netc. on scaling their VLA captioning and data curation/annotation workflows\n- would love to hear about the work you're up to at Deepmind.\n\nLet me know and can get something in the books,"
+},
+{
+"id": "357972430048",
+"subject": "Large SKU catalogues workaround",
+"text": "Hi [NAME],\n\nWe've been working with several retail CV teams (most recently Augmodo) who\nrun large SKU catalogues and ingest millions of frames a day. The common\npain we're seeing is:\n\n   - slow annotation throughput,\n   - inefficient frame-by-frame workflows\n   - difficulty connecting catalogue systems to labelling\n\nMost have adopted Encord for two things:\n\n   1. video-native tracking to massively increase frames labelled per action\n   2. SDK integration so they can plug in their own models, trigger\n   tracking flows, and tie annotations directly to their existing catalogue\n   tools (without replacing them)\n\nIf you're facing something similar at [COMPANY], happy to share more. I'm free\nnext Thursday if that works."
+}
+]

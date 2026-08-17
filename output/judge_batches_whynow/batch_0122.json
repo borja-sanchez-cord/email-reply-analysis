@@ -1,0 +1,202 @@
+[
+{
+"id": "359834606806",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "359845568727",
+"subject": "Divergent <> Encord",
+"text": "Hi [NAME],\n\nCongrats on your new role! Noticed your focus on robotics automation and\nthought I'd reach out as we work closely with teams like Boston Dynamics,\nPhysical Intelligence, Woven (Toyota) and 1X to help them streamline data\npipeline for model training/fine tuning.\n\nCurious if you are developing in-house tooling for your 3d data\ndevelopment? Teams find value using Encord as we consolidate curation,\nannotation, QA, and model eval into one platform for multimodal AI (image,\nvideo, 3d point cloud).\n\nWould love to get your thoughts on our product and see if we can\ncomplement your current workflow. I'm pretty flexible mornings PT next week\n(before Thanksgiving).\n\nOpen to a quick chat?"
+},
+{
+"id": "359857656014",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nGiven your focus on medical imaging, expect you'll be at RSNA in two weeks? We work with Flatiron Health, Viz.ai and Highmark Health to improve DICOM/NIfTI annotation quality - would love to connect over a coffee at the conference.\n\nA key problem we solve with Radiology AI teams is to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "359871931620",
+"subject": "Automating Annotation Tasks",
+"text": "Hi [NAME],\n\nNoticed you're gearing up your perception team to automate annotation, so I\nthought now might be a good time to connect. We work with Nexar, Motive,\nand Woven (Toyota), which, similar to [COMPANY], train their models from\nvehicle-mounted camera data.\n\nA typical challenge for those teams is to accelerate iteration speed when\nprototyping new model capabilities. We solve this by integrating data\ncuration and annotation - so teams can find rare events, run through a\nmodel for autolabel, and send human review for label quality in one place.\n\nHow are you thinking about the data flywheel at Hayden? I'm free Thursday\nmorning to connect."
+},
+{
+"id": "359885331670",
+"subject": "scaling data annotation workflows",
+"text": "Hi [NAME],\n\nI noticed you are hiring a Robotics Software Engineer for Perception &\nSensors. It's exciting to see you grow.\n\nWe work with defense teams like the Royal Navy to improve training data\nquality and scale annotation pipelines, so teams can focus on boosting\nmodel accuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200+ AI teams across industries - we're especially\nwell-versed in VLM use cases like physical AI and robotics.\n\nLooks like there could be synergy to accelerate data throughput as you\nscale. Are you free to check in this week?"
+},
+{
+"id": "359960898778",
+"subject": "Automating Annotation Tasks",
+"text": "Hi [NAME],\n\nGiven that you are scaling up your perception team to automate annotation,\nI thought this could be a good time to reach out. We're working with\ncompanies like Nexar, Motive, and Woven (Toyota), who also train their\nmodels using data from vehicle-mounted cameras, much like your setup.\n\nOne of the key challenges these teams face is speeding up iterations when\ndeveloping new model features. We address this by streamlining data\ncuration and annotation workflows - allowing teams to identify rare events,\nuse models for autolabeling, and pass data through human review for quality\ncontrol, all in a single platform.\n\nHow are you approaching the data flow at Hayden? I'm available Thursday\nmorning if you'd like to discuss."
+},
+{
+"id": "359961036994",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "359993778413",
+"subject": "Catch up - automator efficiency",
+"text": "Hi [NAME],\n\nI understand you're familiar with Encord from the past. It seems like your\nteam is focusing automating annotation so I want to reconnect. You might\nfind our recent projects with Nexar, Motive and Woven (Toyota) interesting\nas they train their models from vehicle camera data.\n\nOur recent work has been helping them improve productivity of annotation\nworkforce (can be internal or managed by us). We've built out the platform\nto orchestrate autolabelling and human review/ label QA process in one\nplace - helping reduce need of manual annotation and improve label quality.\n\nHow's your thinking around training data evolved since? I'm free Fri to Wed\nafternoon if you're open to a catch up."
+},
+{
+"id": "360225239278",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "360545407187",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "360585880798",
+"subject": "Virtual coffee? working with Veriff & Onfido",
+"text": "Hi [NAME],\n\nWe just onboarded Veriff, whom similar to Aware are building models for\nmore accurate biometric verification. I'd like to connect virtually and see\nif you've faced similar challenges to them.\n\nImproving training data quality at scale is the key problem we solve with\nOnfido and Veriff. We've made the platform configurable to setup automated\nannotation pipeline as well subsequent QA/ consensus workflows involving\nhuman reviewers - with the objective of helping them improve accuracy in\ndetecting fraud.\n\nKeen to exchange perspectives on improving model accuracy with better data\nat Aware. How's your Friday afternoon looking for a virtual coffee?"
+},
+{
+"id": "360665915632",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nGiven your focus on medical imaging, expect you'll be at RSNA in two weeks? I saw you were at Brainomix previously - we actually work closely with Zoe & Pau there, helping them improve DICOM/NIfTI annotation quality - would love to connect over a coffee at the conference.\n\nA key problem we solve with medical AI teams (Flatiron Health, Viz.ai and Highmark Health, etc.) is to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "360668127426",
+"subject": "Virtual coffee? working with Veriff & Onfido",
+"text": "Hi [NAME],\n\nWe just onboarded Veriff, whom similar to Aware are building models for\nmore accurate biometric verification. I'd like to connect virtually and see\nif you've faced similar challenges to them.\n\nImproving training data quality at scale is the key problem we solve with\nOnfido and Veriff. We've made the platform configurable to setup automated\nannotation pipeline as well subsequent QA/ consensus workflows involving\nhuman reviewers - with the objective of helping them improve accuracy in\ndetecting fraud.\n\nKeen to exchange perspectives on improving model accuracy with better data\nat Aware. How's your Friday afternoon looking for a virtual coffee?"
+},
+{
+"id": "360673690810",
+"subject": "Virtual coffee? working with Veriff & Onfido",
+"text": "Hi [NAME],\n\nWe just onboarded Veriff, whom similar to [COMPANY] are building models for\nmore accurate ID verification. I'd like to connect virtually and see if\nyou've faced similar challenges to them.\n\nImproving training data quality at scale is the key problem we solve with\nOnfido and Veriff. We've made the platform configurable to setup automated\nannotation pipeline as well subsequent QA/ consensus workflows involving\nhuman reviewers - with the objective of helping them improve accuracy in\ndetecting forged IDs.\n\nKeen to exchange perspectives and get your thoughts on model accuracy at\n[COMPANY]. How's your Friday afternoon looking for a virtual coffee?"
+},
+{
+"id": "360727141613",
+"subject": "Virtual coffee? working with Veriff & Onfido",
+"text": "Hi [NAME],\n\nWe just onboarded Veriff, whom similar to Aware are building models for\nmore accurate biometric verification. I'd like to connect virtually and see\nif you've faced similar challenges to them.\n\nImproving training data quality at scale is the key problem we solve with\nOnfido and Veriff. We've made the platform configurable to setup automated\nannotation pipeline as well subsequent QA/ consensus workflows involving\nhuman reviewers - with the objective of helping them improve accuracy in\ndetecting fraud.\n\nKeen to exchange perspectives on improving model accuracy with better data\nat Aware. How's your Friday afternoon looking for a virtual coffee?"
+},
+{
+"id": "360732839109",
+"subject": "accelerate model iteration speed",
+"text": "Hi [NAME],\n\nSince you are gearing up your AI and Robotics team to work on\nhigh-performance models, I thought it's a good time to connect. We work\nwith top players in the robotics space, like 1X and PI.\n\nA typical challenge for those teams is to accelerate iteration speed when\nprototyping new model capabilities. We solve this by integrating data\ncuration and annotation - enabling teams to apply advancements in\nmultimodal models to practical robotics use cases.\n\nHow are you thinking about data annotation workflows at Atomos? I'm free to\nchat on Friday or Monday if that works for you."
+},
+{
+"id": "360771383497",
+"subject": "Scaling ML Ops Pipelines",
+"text": "Hi [NAME],\n\nYou are gearing up your ML team to accelerate your learning systems, so I\nthought now is a good time to connect. We work with robotics teams like 1X\nand PI, who are like you, spearheading the development of robots.\n\nThe typical challenge for robotics teams is to accelerate iteration speed\nwhen prototyping new model capabilities. We solve this by integrating data\ncuration and annotation - so teams can get their field data ready to\nimprove learning systems continuously.\n\nHow are you thinking about ML Ops pipelines at UCR? I am free early next\nweek to connect."
+},
+{
+"id": "360773135590",
+"subject": "Encord connect - working w/ Sentera (part of John Deere)",
+"text": "Hi [NAME],\n\nChris Padwick connected us earlier this year - mentioning you're the best\nperson to reach out to regarding CV/ML training data at BRT. Conscious [YEAR]\nis on the horizon, keen to hear how you're thinking about data strategy at\nBRT.\n\nMany of our customers transition from Labelbox (e.g. Honeycomb, Zesty AI,\nOnsiteIQ) to improve model-assisted automation of annotation pipeline. I\nthink integrated data curation and active learning/ label troubleshooting\nare also areas we can touch on with the wider objective of improving\nlabelling quality.\n\nWe also work closely with the Sentera team who's also now part of John\nDeere - happy to cover how we support them.\n\nWould be great to connect. How's your Friday afternoon looking?"
+},
+{
+"id": "360778057936",
+"subject": "Virtual coffee? working with Veriff & Onfido",
+"text": "Hi [NAME],\n\nWe just onboarded Veriff, whom similar to [COMPANY] are building models for\nmore accurate document verification. I'd like to connect virtually and see\nif you've faced similar challenges to them.\n\nImproving training data quality at scale is the key problem we solve with\nOnfido and Veriff. We've made the platform configurable to setup automated\nannotation pipeline as well subsequent QA/ consensus workflows involving\nhuman reviewers - with the objective of helping them improve accuracy in\ndetecting forged IDs.\n\nKeen to exchange perspectives and get your thoughts on model accuracy at\n[COMPANY]. How's your Friday afternoon looking for a virtual coffee?"
+},
+{
+"id": "360792458442",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s focus, expect you'll be at RSNA in two weeks? We work with Flatiron Health, Viz.ai and Highmark Health to improve DICOM/NIfTI annotation quality - would love to connect over a coffee at the conference.\n\nA key problem we solve with Radiology AI teams is to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "360807909578",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nI saw [COMPANY] has a booth at RSNA this year - wondering if you're planning to attend. We work with the ML teams at Flatiron Health, Viz.ai and Highmark Health to improve annotation quality across audio & DICOM/NIfTI - would love to connect over a coffee at the conference.\n\nA key problem we solve with Radiology AI teams is to coordinating multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "360809414863",
+"subject": "Catch up - annotator efficiency",
+"text": "Hi [NAME],\n\nI understand you're familiar with Encord from the past. It seems like your\nteam is focusing automating annotation so I want to reconnect. You might\nfind our recent projects with Nexar, Motive and Woven (Toyota) interesting\nas they train their models from vehicle camera data.\n\nOur recent work has been helping them improve productivity of annotation\nworkforce (can be internal or managed by us). We've built out the platform\nto orchestrate autolabelling and human review/ label QA process in one\nplace - helping reduce need of manual annotation and improve label quality.\n\nHow's your thinking around training data evolved since? I'm free Fri to Wed\nafternoon if you're open to a catch up."
+},
+{
+"id": "360810938588",
+"subject": "Congrats on the launch",
+"text": "Hi [NAME],\n\nCongrats for coming out of stealth today! Read the ACT-1 technical blogs\nwith great interest wanted to see if you'd be open to connecting? We work\nwith 1X and Weave Robotics, whom similar to Memo, get robots operating in\nhome environment.\n\nSeems like your team is aligning egocentric video data with captions and\nsensor data from the gloves (cool X thread btw). We're familiar with vision\nside of things from our work with other VLA/VLM teams - e.g. granular task\ndescription w/ temporal segmentation and multiple levels of metadata on\ntask/ robot status.\n\nWould be great to exchange perspectives and get your thoughts on what's\nnext after data collection. Would Friday afternoon work for a quick hello?"
+},
+{
+"id": "360811163890",
+"subject": "Coffee @RSNA [YEAR]",
+"text": "Hi [NAME],\n\nI saw [COMPANY] has a booth at RSNA this year - wondering if you're planning to attend. We work with the ML teams at Flatiron Health, Viz.ai and Highmark Health to improve annotation quality across audio & DICOM/NIfTI - would love to connect over a coffee at the conference.\n\nA key problem we solve with ML teams working with radiology data is to coordinate multi-reader annotation and QC across ML engineers and clinical experts. We address this with built-in consensus/adjudication workflows, structured review stages, and role-based access controls. Our hierarchical ontology builder ensures consistent, context-rich labelling across studies.\n\nWould be great to exchange perspectives over a coffee. We'll be at RSNA Sunday (11/30) to Tuesday (12/2) - how's your schedule looking Monday afternoon?"
+},
+{
+"id": "360848337140",
+"subject": "Congrats on the funding news!",
+"text": "Hi [NAME] - congrats on the huuuge Series C news!\n\nSounds like your ambition on multimodal AGI and expansion into the physical\nworld is aligned with ours. Since you last heard [SENDER] - we've\nstarted to work with Physical AI teams e.g. 1X, Physical Intelligence and\nDyna Robotics.\n\nYou might find how we're solving for interpretable videos with textual\ninformation from the data perspective interesting for your next phase of"
+},
+{
+"id": "360862841043",
+"subject": "Congrats on the launch",
+"text": "Hi [NAME],\n\nCongrats for coming out of stealth today! Read the ACT-1 technical blogs\nwith great interest wanted to see if you'd be open to connecting? We work\nwith 1X and Weave Robotics, whom similar to Memo, get robots operating in\nhome environment.\n\nSeems like your team is aligning egocentric video data with captions and\nsensor data from the gloves (cool X thread btw). We're familiar with vision\nside of things from our work with other VLA/VLM teams - e.g. granular task\ndescription w/ temporal segmentation and multiple levels of metadata on\ntask/ robot status.\n\nWould be great to exchange perspectives and get your thoughts on what's\nnext after data collection. How's Friday afternoon for a quick hello?"
+},
+{
+"id": "361306659031",
+"subject": "scaling data annotation workflows",
+"text": "Hi [NAME],\n\nCongratulations on the shared services launch with ADASTEC and Karsan. I\nthought now is a good time to connect since we are working with companies\nin the AV/ADAS space like Woven by Toyota, Nexar, and Motive, which work\nwith models that are trained from vehicle-mounted camera data.\n\nWe take care of improving training data quality and scale annotation\npipelines, so AI teams can focus on boosting model accuracy and speed to\nmarket. Quick context: Encord is a data layer scale-up, helping over 200+\nAI teams across industries - we're especially well versed in VLM use cases\nlike AV/ADAS, construction, and robotics.\n\nHow do you approach data annotation workflows at beep? I am available\nMon/Tues to chat."
+},
+{
+"id": "361433906421",
+"subject": "Congrats on your new role!",
+"text": "Hi [NAME],\n\nI'd like to connect since we work with Motive, whom similar to [COMPANY]\ndevelops AI dash cam using road-facing and in-cab videos. I'm keen to get\nyour fresh perspective on how your team approaches annotation quality and\nwhether you're encountering similar challenges.\n\nFor Motive, video annotation efficiency across billion miles of driving\ndata has been a major focus. They've seen meaningful improvements after\nmoving to Encord, especially in identifying long-tail events and\nautolabeling at scale, which helped eliminate repetitive, frame-by-frame\nwork.\n\nAlso [SENDER] says hello - think you two crossed path back in the\ndays. He's been closely working with our customer Woven (Toyota) - which\nyou might find interesting given your experience in self-driving cars.\n\nWould next Tuesday morning work for a 30-min conversation?"
+},
+{
+"id": "361505228009",
+"subject": "Evaluate Encord?",
+"text": "Hi [NAME],\n\nAs Labelbox has shifted more toward BPO services and less toward core\nplatform development, we've seen a number of teams move over to Encord for\nstronger data curation, annotation, and model-eval workflows.\n\nWe've continued to invest heavily in the software platform most recently\nreleasing [SENDER] 3 inside Encord. For See & Spray type workloads, [SENDER] 3 can\ndramatically accelerate pre-labeling for plants, weeds, soil, and shadows,\nproducing cleaner segmentation masks with far less manual work.\n\nBetter masks creates more reliable spray decisions in production,\nespecially for early-growth weeds where accuracy matters most.\n\nWould you be open to connecting briefly next week to share a quick overview\nand see if it's relevant ahead of your renewal?\n-[SENDER]"
+},
+{
+"id": "361560234200",
+"subject": "[NAME] - Machine Learning",
+"text": "Hi [NAME],\n\nNoticed your ML background and work at [COMPANY]. I wanted to reach out as we\nsupport teams like Onfido, Veriff, and VIDA to help them identify failure\nmodes faster and boost data quality and label accuracy. Given [COMPANY]'s\nfocus on IDV, I imagine you are solving for similar model accuracy in\nhigh-stakes situations?\n\nQuick context - Encord's a SF-based data development platform used by 200+\nAI teams to tighten the annotation-to-model feedback loop. Teams in\nregulated industries use us for our workflow orchestrator\n(model-assisted pre-labeling, consensus, human QA, validation) - all with\nfull data lineage tracking and secure deployment built in.\n\nWould love to hear your feedback on what we've built.  Flexible next week\nbefore Thanksgiving if you're open to a quick chat."
+},
+{
+"id": "361564640474",
+"subject": "video object tracking using SAM3",
+"text": "Hi [NAME],\n\nThanks for your interest in Encord! Just wanted to give you a shout that\n*SAM3** is now available *on the Encord platform! Thought this might be\ninteresting to show you, especially for use cases like object detecting,\nsegmenting, and tracking in images + videos using text and visual prompts.\n\nIn case Encord is new to you, we work with Sportstech companies like Veo,\nSwingvision, Hudl, and Spiideo on use cases like edge-case athlete tracking\n(bad weather, multi-tracking, etc). We render videos natively, offer\nmodel-assisted pre-labeling, automated QA with HITL review, and model\nevaluation to boost data throughput and keep model quality strong.\n\nWould love to get your feedback and hear what you're focused on lately :)\nI'm pretty flexible next week before Thanksgiving - let me know."
+},
+{
+"id": "361584315604",
+"subject": "Scaling AV data pipelines",
+"text": "Hi [NAME],\n\nCongratulations on the shared services launch with ADASTEC and Karsan. I\nthought now is a good time to connect since we are working with companies\nin the AV/ADAS space like Woven by Toyota, Nexar, and Motive, which work\nwith models that are trained from vehicle-mounted camera data.\n\nWe take care of improving training data quality and scale annotation\npipelines, so AI teams can focus on boosting model accuracy and speed to\nmarket. Quick context: Encord is a data layer scale-up, helping over 200+\nAI teams across industries - we're especially well versed in VLM use cases\nlike AV/ADAS, construction, and robotics.\n\nHow do you approach data annotation workflows at beep? I am available\nMon/Tues to chat."
+},
+{
+"id": "361621411036",
+"subject": "Scale AI → Encord Platform",
+"text": "Hi [NAME],\n\nWe've been working with teams like Toyota (Woven), Boston Dynamics, 1X\nRobotics, to bring all multimodal annotation 2D, 3D, LiDAR, and point-cloud\ninto a single platform.\n\nAutonomy teams are moving from Scale to Encord because they need more\ncontrol over multimodal data, tighter feedback loops for model evaluation,\nand a stable platform built specifically for LiDAR, video, and\nrare-scenario discovery.\n\nWould love for you to take a quick look at [LINK]. I'll be in Mountain\nView early next week if you want to grab a quick coffee, or setup a call\nvirtually."
+},
+{
+"id": "361636407499",
+"subject": "[SENDER] - E-MM1",
+"text": "Hi [NAME],\n\nSaw that you've downloaded the E-MM1 dataset - hope you've had a chance to\nplay around with it.\n\nCurious if you're working on any new modalities at Instrumental. Our ML\nteam has been experimenting with cross-modal pairing (e.g., linking video\nto point cloud, text, and images of a similar object or scene using natural\nlanguage search), which might be useful for some of your robotics\nworkflows.\n\nWould love your thoughts on what we should improve for the next dataset\nrelease and hear what you're building lately.\n\nOpen to a quick chat next week?"
+},
+{
+"id": "361636449501",
+"subject": "scaling data annotation",
+"text": "Hi [NAME],\n\nCongratulations on the shared services launch with ADASTEC and Karsan. I\nthought now is a good time to connect since we are working with companies\nin the AV/ADAS space like Woven by Toyota, Nexar, and Motive, which work\nwith models that are trained from vehicle-mounted camera data.\n\nWe take care of improving training data quality and scale annotation\npipelines, so AI teams can focus on boosting model accuracy and speed to\nmarket. Quick context: Encord is a data layer scale-up, helping over 200+\nAI teams across industries - we're especially well versed in VLM use cases\nlike AV/ADAS, construction, and robotics.\n\nHow do you approach data annotation workflows at beep? I am available\nMon/Tues to chat."
+},
+{
+"id": "361649479884",
+"subject": "Finetuning Parsing/Extraction",
+"text": "Hey [NAME],\n\nWe're seeing more document-parsing and extraction companies fine-tuning\nmodels for parsing and extraction, we recently started working with Reducto\non this.\n\nThese use cases include unique industry-specific formats as well as more\ngeneric handwriting inside of PDFs.\n\nI saw the release of your labeled dataset and thought it could be worth\nconnecting. Feel free to check out [LINK], and if it's interesting to\nyou happy to connect on a call how we're working with frontier labs on\nsimilar workflows."
+},
+{
+"id": "361694986458",
+"subject": "FDA Complaint Annotation platform",
+"text": "Hey [NAME],\n\nCongrats to the team on the 510 FDA approval. Huge milestone.\n\nWe've been working with medical technology teams over at Viz, Rapid, and\nIterative health. Encord helps scale medical image/video QA and annotation\nusing [SENDER]-3 model-assisted labeling and structured review workflows. Given\nyour recent work I thought it may make sense to connect.\n\nWould you be open to connecting briefly?"
+},
+{
+"id": "362103678140",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm [SENDER], your poc at Encord. Just tried you on the phone. Thanks for\ndownloading E-MM1, hopefully you've got a chance to play around with it.\n\nCurious what modalities you are working on at the moment at [COMPANY]? For\ncontext, Encord supports over 200+ AI teams like Thinking Machines Lab and\nTwelve Labs that need clean training data for their AI models - from LLM to\nVLM/VLA.\n\nWould love to better understand your use case and see how Encord can be of\nhelp.\n\nWhen is a good time for a quick 20 min chat? I'm pretty flexible before\nThanksgiving."
+},
+{
+"id": "362121974002",
+"subject": "Labeling for Pals Realism",
+"text": "Hey [NAME],\n\nHassan has come to our a few of our events and most recently we've been\nworking with frontier labs on model evals + lip syncing audio.\n\nWe've been working with Synthesia, Captions, Twelve Labs, and Thinking\nMachines - and maybe most relevant to you on labeling audio to help improve\nlip syncing for AI avatars.\n\nCurious if your team is doing any labeling now and if its worth connecting\nover a quick call?"
+},
+{
+"id": "362282235108",
+"subject": "Data Platform for Sunday",
+"text": "Hey [NAME],\n\nThe glove for learning is pretty impressive.\n\nI wanted to reach out because we're working with 1x robotics, Boston\nDynamics, and physical intelligence on curating, annotating, and evaluation\nproduction data.\n\nAs Sunday comes through real world experiences having a platform to find\nthose edge cases, and learn on them is something we help power.\n\nLove for you to check out [LINK] and happy to setup a quick chat if its\nlooks interesting to you\n\n-[SENDER]"
+}
+]

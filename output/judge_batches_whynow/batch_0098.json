@@ -1,0 +1,202 @@
+[
+{
+"id": "254333673711",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model.At the time they lacked a system to improve label accuracy from model predictions. Seeing your M.52 is being rolled out - I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) accelerate the annotation to model eval feedback loop. Handful of customers in the space leverage our model-assisted workflow to automate annotations & circumvent extensive custom scripting, and as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "254333845724",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if those are the challenges you've encountered at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "254335377602",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "254393876714",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "254399289537",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when expected margin of error for model prediction is low. Given [COMPANY]'s extensive operations in public safety, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nWould you be open to a chat? I'm flexible Tuesday to Thursday if there's a time that works for you."
+},
+{
+"id": "254593951991",
+"subject": "Model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given HyperVerge's operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at HyperVerge? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "254962382062",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in the facial recognition space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "255173384432",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "255173741767",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when the expected margin of error for model prediction is low. Given HID's operations in the IDV space, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at HID? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "255195996407",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to efficiently iterate & improve label accuracy from model predictions. Seeing your M.52 is being rolled out - I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) accelerate the annotation to model eval feedback loop. Handful of customers in the space leverage our model-assisted workflow to automate annotations & circumvent extensive custom scripting, and as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "255215498481",
+"subject": "Encord // Invisipay",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information. \n\nCould be good to connect & discuss what we've been building in the data management, visualisation and annotation space and answer any questions you might have. Do you have any times in the morning (ADT) that work tomorrow (1st August) or Monday (4th August)?"
+},
+{
+"id": "255252321483",
+"subject": "1-1 meeting with Encord?",
+"text": "Hi,\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "255263927519",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to understand failure modes and accelerate time to action to improve data representativeness & label inaccuracy, when expected margin of error for model prediction is low. Given [COMPANY]'s extensive operations in public safety, I thought you might be solving for similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams to accelerate the annotation to model eval feedback loop. They typically leverage our workflow orchestrator for annotation (auto-labeling, consensus, and human QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "255273399545",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Zipline, Mytra, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "255278393535",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm operations! Many ag robotics teams (Bloomfield Robotics, Four Growers, Carbon Robotics) came to us at similar stages when they faced surging data volume as a result of scaling customer deployments, so I wonder if you're encountering/ anticipating similar situations at 4AG? \n\nIn case Encord is new to you - we help over 200 AI teams improve data quality and save time from manual annotation. AgTech teams typically leverage our workflow orchestrator to automate annotation tasks (object detection, segmentation, classification) and track projects & workforces productivity, with the goals of more accurate model prediction for robotic tasks. \n\nHow are you thinking about developing perception models for new customer deployments? Flexible Tuesdays to Thursdays if you're open to a chat."
+},
+{
+"id": "255292820701",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm operations! Many ag robotics teams (Bloomfield Robotics, Four Growers, Carbon Robotics) came to us at similar stages when they faced surging data volume as a result of scaling customer deployments, so I wonder if you're encountering/ anticipating similar situations at 4AG? \n\nIn case Encord is new to you - we help over 200 AI teams improve data quality and save time from manual annotation. AgTech teams typically leverage our workflow orchestrator to automate annotation tasks (object detection, segmentation, classification) and track projects & workforces productivity, with the goals of more accurate model prediction for robotic tasks. \n\nHow are you thinking about developing perception models for new customer deployments? Flexible Tuesdays to Thursdays if you're open to a chat."
+},
+{
+"id": "255296705785",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm\noperations! Many ag robotics teams (Bloomfield Robotics, Four Growers,\nCarbon Robotics) came to us at similar stages when they face surging data\nvolume as a result of scaling customer deployments, so I wonder if you're\nencountering/ anticipating similar situations at 4AG?\n\nIn case Encord is new to you - we help over 200 vision-focused AI teams\nimprove data quality and save time from manual annotation. AgTech teams\ntypically leverage our workflow orchestrator to automate annotation tasks\n(object detection, segmentation, classification) and track projects &\nworkforces productivity, with the goals of more accurate model prediction\nfor robotic tasks.\n\nHow are you thinking about developing your perception model for new\ncustomer deployments? Flexible Tuesdays to Thursdays if you're open to a\nchat."
+},
+{
+"id": "255298745566",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm operations! Many ag robotics teams (Bloomfield Robotics, Four Growers, Carbon Robotics) came to us at similar stages when they faced surging data volume as a result of scaling customer deployments, so I wonder if you're encountering/ anticipating similar situations at 4AG? \n\nIn case Encord is new to you - we help over 200 AI teams improve data quality and save time from manual annotation. AgTech teams typically leverage our workflow orchestrator to automate annotation tasks (object detection, segmentation, classification) and track projects & workforces productivity, with the goals of more accurate model prediction for robotic tasks. \n\nHow are you thinking about developing perception models for new customer deployments? Flexible Tuesdays to Thursdays if you're open to a chat."
+},
+{
+"id": "255420555461",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm operations! Many ag robotics teams (Bloomfield Robotics, Four Growers, Carbon Robotics) came to us at similar stages when they faced surging data volume as a result of scaling customer deployments, so I wonder if you're encountering/ anticipating similar situations at 4AG? \n\nIn case Encord is new to you - we help over 200 AI teams improve data quality and save time from manual annotation. AgTech teams typically leverage our workflow orchestrator to automate annotation tasks (object detection, segmentation, classification) and track projects & workforces productivity, with the goals of more accurate model prediction for robotic tasks. \n\nHow are you thinking about developing perception models for new customer deployments? Flexible Tuesdays to Thursdays if you're open to a chat."
+},
+{
+"id": "255420595443",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm operations! Many ag robotics teams (Bloomfield Robotics, Four Growers, Carbon Robotics) came to us at similar stages when they faced surging data volume as a result of scaling customer deployments, so I wonder if you're encountering/ anticipating similar situations at 4AG? \n\nIn case Encord is new to you - we help over 200 AI teams improve data quality and save time from manual annotation. AgTech teams typically leverage our workflow orchestrator to automate annotation tasks (object detection, segmentation, classification) and track projects & workforces productivity, with the goals of more accurate model prediction for robotic tasks. \n\nHow are you thinking about developing perception models for new customer deployments? Flexible Tuesdays to Thursdays if you're open to a chat."
+},
+{
+"id": "255425077448",
+"subject": "Scaling your data post Series B",
+"text": "Hi [NAME],\n\nCongrats & excited to see your team accelerating autonomous mushroom farm operations! Many ag robotics teams (Bloomfield Robotics, Four Growers, Carbon Robotics) came to us at similar stages when they faced surging data volume as a result of scaling customer deployments, so I wonder if you're encountering/ anticipating similar situations at 4AG? \n\nIn case Encord is new to you - we help over 200 AI teams improve data quality and save time from manual annotation. AgTech teams typically leverage our workflow orchestrator to automate annotation tasks (object detection, segmentation, classification) and track projects & workforces productivity, with the goals of more accurate model prediction for robotic tasks. \n\nHow are you thinking about developing perception models for new customer deployments? Flexible Tuesdays to Thursdays if you're open to a chat."
+},
+{
+"id": "255912125676",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]​,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "255935463655",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]​,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "255935468783",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]​,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "255938072771",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]​,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "255973226714",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]​,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "255973226722",
+"subject": "Secure data annotations at scale",
+"text": "Hey [NAME]​,\n\nNoticed the recent growth on the engineering team & was curious to understand more about the plans to scale - so thought it'd be a good opportunity to introduce myself. \n\nI lead a Drones / Robotics team here at Encord, working with Helsing, Tekever, Skydio & other leading teams - providing the platform to support Multimodal data annotation & curation - available as a highly secure on-premise deployment. \n\nDrone teams typically move over to Encord when looking to increase annotation throughput / efficiency whilst maintaining the highest levels of data compliance - so curious to know if this was also something top of mind at [COMPANY]? \n\nLet me know if it makes sense to chat, happy to share some ideas based on how we've helped similar teams,"
+},
+{
+"id": "256205702364",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "256975607001",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME] Hossain,\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nHappy to exchange over email first to ensure a productive meeting."
+},
+{
+"id": "257732907256",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I wonder if you've encountered similar challenges at [COMPANY]? \n\nIn case Encord is new to you - we help physical AI teams (e.g. Skydio, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to Foxglove.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "257823615181",
+"subject": "Accelerating iterations for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many fleet safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency. With\ncommon objectives of better driver protection, have you encountered similar\nbottlenecks at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   1. Model-assisted auto-labelling to cut down repetitive frame-by-frame\n   work\n   2. Consolidated platform for curation + annotation to reduce tooling\n   overhead\n   3. Org and project-level analytics to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparations / model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to bouncing ideas."
+},
+{
+"id": "257825585388",
+"subject": "Data preparation for operational safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many driver safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency for high\nquality datasets. With common objectives to better protect people &\nequipments for physical operations, I wonder if you've encountered similar\nchallenges at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   - *Model-assisted auto-labelling* to cut down repetitive frame-by-frame\n   work\n   - *Consolidated platform* for curation + annotation to reduce tooling\n   overhead\n   - *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparation/ model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to exchanging perspectives"
+},
+{
+"id": "257845198023",
+"subject": "Data preparation for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many driver safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency. With\ncommon objectives to protect drivers & equipments, I wonder if you've\nencountered similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   1. Model-assisted auto-labelling to cut down repetitive frame-by-frame\n   work\n   2. Consolidated platform for curation + annotation to reduce tooling\n   overhead\n   3. Org and project-level analytics to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparation/ model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to exchanging perspectives"
+},
+{
+"id": "257851167980",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved to video annotation which led to increased project complexity. Like many teams with large in-house workforce, they faced challenges around keeping up with changing data requirements, automating time-consuming repetitive tasks and extracting key insights to track productivity/ annotation accuracy. \n\nWith similar goals of building accurate model for driver safety at Powerfleet, I wonder if you've encountered similar challenges? If so, here's a few ways we can help: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data requirements at Powerfleet? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "257862575315",
+"subject": "Data requirements for new safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved towards video annotation to\ntrain their AI models. Like many driver safety teams, they faced challenges\naround handling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours, maintaining temporal consistency for annotation\nand managing data requirements & workforces for high quality datasets.\n\nWith [COMPANY]'s new wearable devices launching, I wonder if similar\nchallenges have been on your mind as you expand into new use cases? We've\nbuilt a few things that might help:\n\n   - *Model-assisted auto-labelling* to cut down repetitive frame-by-frame\n   work\n   - *Consolidated platform* for curation + annotation to reduce tooling\n   overhead\n   - *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching data requirements at [COMPANY]? I'm flexible Tuesdays\nto Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "258518223080",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I saw the recent demo of your pick & place robots - I wonder if you're anticipating similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we help warehouse robotics teams (e.g. Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to debugging/visualization tools.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "258831645892",
+"subject": "Improving grasping accuracy from better training data",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I saw the recent demo of your pick & place robots - I wonder if you're anticipating similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we help warehouse robotics teams (e.g. Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to debugging/visualization tools.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "258856360150",
+"subject": "Improving grasping accuracy from better data quality",
+"text": "Hi [NAME],\n\nWe recently onboarded Mytra who was moving from simulation to real-world data collection to train their perception model. At the time they lacked a system to effectively index, auto-label and QA to keep up with the surging training data volume. I saw the recent demo of your pick & place robots - I wonder if you're anticipating similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we help warehouse robotics teams (e.g. Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate their annotation pipelines as they scale. Handful of customers in the space leverage our model-assisted workflow and our labelling editor's support across 2D (image & video) and 3D point cloud data, as a complement to debugging/visualization tools.\n\nKeen to hear how you're thinking about your training data as you scale? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "258919463159",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]​,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+},
+{
+"id": "258949699820",
+"subject": "Spoke to [SENDER] Puleo a few months back",
+"text": "Hey [NAME]​,\n\nOur Head of ML spoke with [SENDER] Puleo earlier this year & having also read the Content Annotations blog post, seems like it could be worth having a quick chat with the wider team.\n\nI lead a Multimodal team here at Encord, working with several frontier teams including Thinking Machine Labs, Boston Dynamics & Wayve - helping them to drive innovation by building scalable multimodal annotation, curation, & model evaluation pipelines. \n\nThese teams decided against continuing to build in-house - instead preferring to leverage Encord's platform to speed up annotation via pre-labelling LLMs, create flexible QA & task routing workflows to best leverage golden subject matter experts, whilst gaining full visibility into organisation-wide annotation analytics for managing HITL teams. \n\nCurious to know if you'd be interested in learning more about the platform?"
+}
+]

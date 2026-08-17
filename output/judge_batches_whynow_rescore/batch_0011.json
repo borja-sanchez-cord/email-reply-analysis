@@ -1,0 +1,202 @@
+[
+{
+"id": "206820424906",
+"subject": "Visiting CVPR | quick coffee?",
+"text": "Hi [NAME],\n\nAssuming you and [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee and swap notes on the work we're doing in computer vision / multimodal model dev. \n\nIf you're not familiar with Encord: we're a data development platform helping 200+ AI teams - including Synthesia, Hudl, and Woven by Toyota - bring better models to market, faster.\n\nWe'll be at the conference so let me know when works best for you and I can get it booked in! Feel free to swing by our booth (#1123) as well."
+},
+{
+"id": "146178787531",
+"subject": "Scaling your engineering team // Encord intro",
+"text": "Hi [NAME],\n\nPleasure to connect with another woman in AI. I noticed your recent hire of\na tech lead focused on strengthening data infrastructure and defining the\ntechnical edge of your data product-looks like an exciting phase of growth\nafter your raise.\n\nAt Encord, we work with AI inspection teams like UVEye and Tractable, who\nengaged with us at a similar inflection point-looking to scale data\nannotation, curation, and model evaluation as their operations expanded.\n\nI understand you're using Roboflow, and I'd love to provide more context on\nhow we differ, as well as share insights from peers navigating similar\nchallenges. Would you be open to a quick chat next week? Wide open every\nafternoon from Wednesday next week.\n\nFor context, Encord recently raised a $30M Series B, and our platform\nconsolidates data curation, annotation, workflow management, and model\nevaluation into one scalable solution."
+},
+{
+"id": "156020222196",
+"subject": "Theatro acquisition // Multimodal models",
+"text": "Hey [NAME]​,\n\nHave been following Motorola Solutions for a while & very excited to see the strong acquisition momentum continue - with Theatro particularly catching my eye (looks like expanding Audio AI capabilities could be top of mind?)\n\nMany of the advanced Safety and Security teams we work with (Intenseye, Voxel, Flock Safety, Rhombus etc) came to us as they were looking to reduce the internal development costs associated with managing their multimodal data pipelines.\n\nAt Encord we've built a multimodal (video, audio, documents) data development solution - bringing together data curation / annotation in a single platform & freeing your team from the hassle of internal tool maintenance.\n\nWould love to chat / share what we've been seeing work well for Intenseye, Voxel, Flock Safety, Rhombus and similar Safety and Security partners in the space.\n\nWould it be worth us connecting?"
+},
+{
+"id": "211459755209",
+"subject": "Autonomous Robotics - Coffee @CVPR [YEAR]",
+"text": "Hi [NAME],\n\nI saw you're attending CVPR this year so I wanted to reach out. We've been\nworking on projects w/ Carbon Robotics, Aigen, Bloomfield, etc. developing\nautonomous systems for heavy equipment - thought it's worth connecting at\nthe conference.\n\nA bit of context on Encord - we help over 200 AI teams improve data quality\nfor model development. We focus on consolidating data curation, annotation\nand model evaluation with the goals of efficiency gains for training\ndataset preparation & model iterations.\n\nWould you be open to a coffee & exchange perspectives? We'll be at\nthe conference Friday (6/13) to Sunday (6/15). If virtual is easier, happy\nto find a time that suits you!"
+},
+{
+"id": "459680583890",
+"subject": "[COMPANY]'s AI Pipeline",
+"text": "[NAME], \n\nThere's a pattern we keep seeing with ML teams at your stage: engineers burning sprint cycles on a pipeline stage that isn't the actual constraint. \n\nLabeling is usually the first thing to get attention; it's measurable, the team can point to output, and it's easy to staff up. But when we map the pipeline, the real throughput bottleneck is in curation or validation far more often than anyone expects. Model performance doesn't move. Nobody can explain why. \n\nWe built a diagnostic that identifies which stage it actually is for your setup; maps across curation, labeling, QA, and validation, and generates a fix-priority report. \n\nIf that's useful, I'll send it over."
+},
+{
+"id": "313244432614",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "211058828488",
+"subject": "Improving accuracy of EHR based ML | Working with FlatIron & TargetRWE",
+"text": "Hi [NAME]​,\n\nSaw the growing EHR-based ML work and importance of data quality at Concert AI, thought I'd reach out.\n\nI've recently been working with Flatiron Health and TargetRWE as they looked to improve the quality & performance of their models. We helped them to streamline data curation and annotation workflows to enhance regulatory compliance and efficiency in handling complex unstructured data (EHRs, docs etc). \n\nWould be keen to trade notes and get your thoughts on what we're building - open to a 30-minute chat this or next week?"
+},
+{
+"id": "266666841307",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction accuracy for identity fraud detection models. Thought [COMPANY] is building similar great things to detect deepfake - curious if you've ran into similar problems? \n\nIn case Encord is new to you - we help multimodal fraud detection teams (e.g. Onfido, Reality Defender, VIDA ID) reduce false positives with streamlined data preparation processes. Teams building cross-modality models leverage our platform to curate, annotate, and validate labels on image, video, audio & text data in one platform.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "502199921851",
+"subject": "Encord Introduction",
+"text": "Hi [NAME],\n\n[SENDER] pointed me your way after we chatted on LinkedIn. He mentioned Label\nStudio briefly, which is part of why I wanted to reach out directly.\n\nEncord is a data layer platform that helps ML teams manage and improve the\ndata that feeds their models. We work with best-in-class teams like\nAttentive.ai, who are also building takeoff software for construction.\n\nWould love to find a time to learn more about what you're building at [COMPANY]\nand share what we've built at Encord."
+},
+{
+"id": "121007576281",
+"subject": "[Robotic AI] Encord // [COMPANY]",
+"text": "Hi [NAME],​\n\nWe work with Robotic AI teams from Pickle Robot, RIOS Intelligent Machines & Rapid Robotics and are familiar with many of the computer vision challenges faced by sophisticated teams operating in very low error tolerant environments. \n\nWe know that the large volume of homogeneous data generated from clients deployments can be challenging and expensive to sift through. We also know how important it is to have the right tooling to focus on the most important data today that will have the biggest impact on model performance. \n\nThis is where Encord's integrated data curation tooling can help teams manage visual data, and quickly understand the right data to label and drive important improvements in model quality. \n\nTypically we help Robotics AI teams cut data volumes by 33%+ whilst driving model performance improvements by 20% mAP. Would you be interested in learning more?"
+},
+{
+"id": "203894029500",
+"subject": "GIM / Encord @ AOMH25",
+"text": "Hi [NAME]​,\n\nSaw you guys are attending AOMH25 this year, would be great to connect then!\n\nWe've been working on enabling hazard prevention, 3D localisation, object tracking models with a few of your logistics and ADAS peers (Symbiotic, Exotec, Rockwell Auto) and would be really keen to trade notes either at AOMH or afterwards - if you're open to a quick chat this week or the next? Wednesdays and Thursdays usually work for me."
+},
+{
+"id": "259669527778",
+"subject": "Data development for diver safety systems",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in complexity and volume, which stretched their engineering capacity to maintain & update internal tools. Like many teams managing in-house annotation workforces, they were looking to automate repetitive tasks and extract key insights into productivity / labelling accuracy. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models - have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Workflow builder to define, orchestrate and manage annotation projects at scale Org and project-level analytics to track data quality and annotation efficiency How are you approaching evolving data annotation requirements at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to exchanging perspectives."
+},
+{
+"id": "126686249171",
+"subject": "[Invite] Boston AI / CV Leaders Community",
+"text": "Hey [NAME]​,\n\nOver the last two years, we've hosted intimate roundtable dinners for AI / CV Execs in London, Paris, New York, & SF (see positive feedback here: [LINK]) - & now we're looking to start building a similar community in Boston. \n\nMy team and I are going to be in town Mon 24th - Tues 25th Feb & we'd love to grab a coffee to get your feedback on what event formats could work well / connect more broadly & swap notes on what we're seeing in the space.\n\nIn case you're not familiar with Encord, we're a ~5 years old AI scale up, with 100+ employees & offices in London & San Francisco. \n\nWould you be interested in having a quick coffee?"
+},
+{
+"id": "118008696027",
+"subject": "Encord <> AHN Intro",
+"text": "Hi [NAME],\n\nHope all's well. Saw that you requested a trial on our website - looks like\nthere's some exciting research involving AI going on at the Allegheny\nGeneral Emergency Medicine program.\n\nIt would be good to connect & discuss what we've been building to support\norganisations like the AHN, and answer any questions you might have. Do you\nhave any times that work in the next few days?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "495603392705",
+"subject": "Coffee in London?",
+"text": "Hi [NAME],\n\nCongrats on your new role! Big fan of Assembly here. For context, I work\nwith voice AI teams like Thinking Machines Lab, Udio, Sesame, and\nTwelveLabs on their data pipeline - producing high-quality data for pre-\nand post-training workflows.\n\nI would love to build my network in the space and trade notes. I'm\ntraveling to London next week and would love to meet up June 9-11 (Tuesday\nto Thursday).\n\nHappy to swing by your office or book a spot convenient for you!"
+},
+{
+"id": "442647253225",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work on behavior modeling and\nsimulation - thought I'd reach out as my team work with AV/ADAS teams like\nNexar, Motive, and Woven (Toyota) on similar vision models.\n\nA common challenge is keeping models grounded in real-world data as volume\nand complexity grow. What often breaks down is the feedback loop between\nreal-world logs, simulation, and retraining. Encord acts as the data\nquality and evaluation layer in that feedback loop, helping teams move\nfaster without sacrificing model reliability.\n\nIs this relevant for how you're thinking about scaling [COMPANY]? I'd\nlove 20 min to swap notes if you are open."
+},
+{
+"id": "259966474471",
+"subject": "Data requirements for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as their annotation requirements increased in\ncomplexity and volume, which stretched their engineering capacity to\nmaintain & update internal tools. Like many teams managing in-house\nannotation workforces, they were looking to automate repetitive tasks and\nextract key insights into productivity / labelling accuracy.\n\nI imagine [COMPANY] is also working towards more accurate driver\nsafety models with Intelliview & in-cab monitoring - have you run into\nsimilar challenges? Sharing a few bullets on how we helped Motive:\n\n   -\n\n   *Model-assisted labelling* to cut down repetitive frame-by-frame work\n   -\n\n   *Workflow builder* to define, orchestrate and manage annotation projects\n   at scale\n   -\n\n   *Org and project-level analytics* to track data quality and annotation\n   efficiency\n\nHow are you approaching evolving data annotation requirements at Platform\nScience? I'm flexible Tuesdays to Thursdays if you're open to exchanging\nperspectives."
+},
+{
+"id": "487270897850",
+"subject": "Encord - Interest",
+"text": "Hi [NAME], thanks for your interest in Encord!\n\nI'd love to learn a bit more about your work so I can better understand how we can help:\nWhat prompted your interest in Encord? Rough size of team? Project stage and timeline? Our platform is available via an annual subscription, which tends to work well for teams with ongoing needs."
+},
+{
+"id": "417331430591",
+"subject": "[NAME] - reconnect in [YEAR]",
+"text": "Hi [NAME],\n\nBelieve you spoke with [SENDER] and [SENDER] back in [YEAR], I was wondering if the\nyear is a good time to reconnect to explore the potential migration from\nCVAT.\n\nI believe the main concern earlier was the internal effort required to\nmigrate platforms - since then we've tripled our engineering team and built\ncapacity to support teams through a much smoother migration process.\nOur leadership team was very keen to work with you given the strong fit for\nsurgical video - we'd be really excited to revisit the opportunity and\n(hopefully) start working together in [YEAR],\nLet me know your thoughts, Best wishes, [SENDER] *AI // ML // Computer Vision*"
+},
+{
+"id": "257845198023",
+"subject": "Data preparation for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video\nannotation. Like many driver safety teams, they faced challenges around\nhandling billion miles of in-cab and dashcam footage, e.g. surfacing\nrelevant driver behaviours and maintaining temporal consistency. With\ncommon objectives to protect drivers & equipments, I wonder if you've\nencountered similar challenges at [COMPANY]?\n\nIn case Encord is new to you - we've built a few things that might help:\n\n   1. Model-assisted auto-labelling to cut down repetitive frame-by-frame\n   work\n   2. Consolidated platform for curation + annotation to reduce tooling\n   overhead\n   3. Org and project-level analytics to track data quality and annotation\n   efficiency\n\nHow are you approaching data preparation/ model iteration at [COMPANY]? I'm\nflexible Tuesdays to Thursdays if you're open to exchanging perspectives"
+},
+{
+"id": "170005314752",
+"subject": "Working w/ Captions & Synthesia | State of Marketing & AI report",
+"text": "Hi [NAME]​, \n\nI just read [COMPANY]'s State of Marketing & AI report-it looks like GenAI (text-to-image, text-to-video, multimodal AI, etc.) is a strategic focus for [YEAR]. We collaborate closely with GenAI marketing teams at Synthesia, Flawless AI, and Captions to enhance the quality of their multimodal AI models through post-training flows like RLHF with Likert scales, advanced multimodal data curation, and active learning.\n\nI've been following (and using) [COMPANY] for a while, so I'd love to chat and get your candid feedback on what we're building here at Encord. Would you be open to a quick 20-minute catch-up in the coming weeks? Wednesdays and Thursdays work best for me."
+},
+{
+"id": "254105324748",
+"subject": "Coffee with [SENDER] in NYC - 7th/8th August?",
+"text": "Hi [NAME] - my co-founder [SENDER] will be in NYC next week, so wanted to see if you'd be open to getting together for a quick coffee while he's in town.\n\nWe're building a multimodal AI data development platform - working with frontier teams including Boston Dynamics, Thinking Machine Labs & Onfido - to bring together data governance, annotation, and model evaluation in a single platform. \n\nWe'd love to explore if there's an opportunity to work with [COMPANY] in the near to mid-term - or to simply start a conversation now to build a relationship for the future.\n\nIt'd be great to say hello and meet in-person - any chance you're around for a quick coffee?"
+},
+{
+"id": "206820452584",
+"subject": "Visiting CVPR | quick coffee?",
+"text": "Hi [NAME],\n\nAssuming you and [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee and swap notes on the work we're doing in computer vision / multimodal model dev. \n\nIf you're not familiar with Encord: we're a data development platform helping 200+ AI teams - including Synthesia, Hudl, and Woven by Toyota - bring better models to market, faster.\n\nWe'll be at the conference so let me know when works best for you and I can get it booked in! Feel free to swing by our booth (#1123) as well."
+},
+{
+"id": "169710704886",
+"subject": "Encord / Thefluent",
+"text": "Hi [NAME],\n\nWe noticed you checked out our site and partially filled out a demo\nrequest with us. You mentioned you have tons of data you want to annotate.\n\nWould you mind telling me more about this?"
+},
+{
+"id": "175669475537",
+"subject": "Working w/ GV portfolio Co's (Synthesia, Viz.ai, Zipline)",
+"text": "Hi [NAME]​,\n\nMy team just flagged to me that [COMPANY] is a Google ventures portfolio company, so thought I'd reach out. I lead a computer vision research team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few GV portfolio companies (Synthesia, Viz.ai, Zipline) & Israeli teams like Pixellot.\n\nI've been following [COMPANY] for a while now - especially the focus on multimodal AI (video + sound) - which we're also heavily investing in, so keen to trade notes & get your thoughts on what we're building if you're be open to a 30-minute chat this week or the next? Wednesdays and Thursdays usually work for me."
+},
+{
+"id": "479535548608",
+"subject": "Vivid Machines' annotation pipeline",
+"text": "Hi [NAME],\n\nSaw Vivid Machines is building plant-level CV at scale: annotating for\ndisease, pests, and fruit counts across variable outdoor conditions is a\nserious labelling challenge when rare cases matter most.\n\nWe worked with Pollenize\n<[LINK]>\non a similar agtech CV pipeline. They cut labelling costs by 60-80% on\nhigh-complexity annotation using Encord. We also have a deep-dive on CV in\nagriculture\n<[LINK]>\nworth a read.\n\nWorth a quick 15 minutes to see if there's any overlap?"
+},
+{
+"id": "174875332829",
+"subject": "Unlock the Power of Computer Vision with Encord",
+"text": "Hi [NAME],\n\nI hope you're doing well! I saw your work at [COMPANY] and wanted to take a moment to introduce you to Encord - the leading platform empowering teams like yours to accelerate AI and computer vision projects with ease.\n\nAt Encord, we understand the challenges of developing high-quality computer vision models at scale. Our platform streamlines data labeling, model training, and evaluation processes to help you unlock the full potential of your computer vision applications.\nWith Encord, you'll get:\nHigh-quality, scalable data annotation tools \nSeamless integration into your existing AI workflows \nFaster iteration cycles for AI model deployment \nI'd love to chat more about how we can support your goals. Would you be open to a quick call next week?"
+},
+{
+"id": "495486735580",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following the work at [COMPANY] as you scale your autonomous defense\nsystems.\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other autonomous systems to help them manage the\nscale and complexity of multi sensor data across the end to end training\nlifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Woven by Toyota,\nZipline, Agility, Dyna, etc) partnered with us as the scale of complexity\nstarted to break initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of current bottlenecks the\nteam is seeing across perception/autonomy work at [COMPANY].\n\nFree on Friday 10-2pm PT for a chat?"
+},
+{
+"id": "170084246750",
+"subject": "Encord <> [COMPANY] | Catch-up",
+"text": "Hi [NAME],\n\nHope all's well. My team was in touch 2 years ago about the labelling tool\nyou were looking for. At the time, automated labelling was a focus rather\nthan human-in-the-loop labeling/workflow management. I usually see teams\nstart with this automated labelling and then transition to needing higher\nquality human annotations for quality control integrated.\n\nWondered if this was the case for you and the team yet? If so, would be\nhappy to reconnect to provide you an update on our product."
+},
+{
+"id": "163911827670",
+"subject": "Birdseye Solutions <> Encord",
+"text": "Hey [NAME],\n\nI just saw you're hiring a senior computer vision engineer for Birdseye.\nThought to reach out since we work with Terminal Industries, Milestone\nSystems, Rhombus, Voxel, etc. on developing very similar video surveillance\ncomputer vision models, with the goal of accelerating new product releases\nwhile keeping development cost effective.\n\nWe're Encord - a computer vision data development platform for video\nsurveillance & physical security teams. We help with improving model\nquality as they scale by enabling ML teams to curate/annotate videos and\nevaluate model performance on one platform.\n\nOur leadership is keen to exchange thoughts on scaling your MLOps setup and\nshare what we've seen in the site monitoring space. Are you open for a\n20-mins chat tomorrow or Friday?"
+},
+{
+"id": "502946852050",
+"subject": "Yingting - Encord",
+"text": "Hi [NAME],\n\nEncord is a data development platform trusted by leading healthcare AI\nteams including Northwell Health, Mayo Clinic, and Cedars-Sinai.\n\nWe help teams annotate and curate multimodal data at scale, with audit\ntrails & workflows built to support FDA regulatory requirements.\n\nWorth a 30 minute chat to see if we're a good fit for your team?"
+},
+{
+"id": "476315387115",
+"subject": "AI dash cam annotation",
+"text": "Hi [NAME],\n\nWe work with Motive on AI dash cam annotation - handling billion-mile\ndatasets, improving long-tail event detection, and automating labelling at\nscale.\n\nEncord is a multimodal ML DataOps platform (recently Series C) used by\nautonomy teams for data curation through to labelling automation. We're\nactively supporting several VLA/VLM workflows.\n\nGiven the parallels with [COMPANY], I'd love to compare notes on how your\nteam handles annotation quality.\n\nOpen to a quick 30-min chat this week - or happy to connect at GTC if\nyou're attending?"
+},
+{
+"id": "490054406361",
+"subject": "model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently began working with Veriff and Onfido, and [COMPANY] came up given your work in the IDV space. \n\nOne theme we're hearing a lot: once models are live, the challenge shifts to diagnosing failure modes and tightening the loop between training data and production - especially in high-staked KYC/AML settings. \n\nCurious if that's something you're seeing as well on your side?\n\nHappy to compare notes if useful. I'm usually flexible Tue - Thu."
+},
+{
+"id": "137217665253",
+"subject": "Just onboarded Zeitview | Drone Visual Inspection",
+"text": "Hi [NAME]​, \n\nI'm reaching out as we've recently onboarded Zeitview & Buzz Solutions to help scale their data curation & annotation pipelines. Just like [COMPANY] they're leveraging vision models for advanced drone & robotics visual inspection use cases (remote site monitoring, inspection rounds, predictive maintenance, etc). \n\nWe're mostly assisting with improving model quality / delivery speed while keeping development costs low as they scale through better end-to-end data mgmt.\n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision and multimodal AI teams to build better models (~5 years old, 70+ employees & raised $50M+ funding).\n\nI've been following [COMPANY] for a while now and would love to get your candid feedback on what we're building here at Encord if you have 30mins to chat. Open to a quick call this week or the next? Wednesdays / Thursdays work best for me."
+},
+{
+"id": "204565615846",
+"subject": "[COMPANY]'s Multimodal AI | Hi from [SENDER] @ Encord",
+"text": "Hi [NAME]​,\n\nMy team just flagged to me that [COMPANY] is developing multimodal AI (video + sound) models, so thought I'd reach out. I lead a multimodal AI research team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few remote monitoring & Israeli companies (Hubble, Teton.ai, Pixellot, etc). \n\nKeen to trade notes & get your thoughts on what we're building if you're be open to a 30-minute chat this week or the next? Wednesdays and Thursdays usually work for me."
+},
+{
+"id": "490100885709",
+"subject": "[SENDER] pointed me your way (perception side of Copper One)",
+"text": "Hey [NAME],\n\n[SENDER] forwarded your name, he thought you'd be the right person to ask.\n\nI had a thought on the perception side of Copper One. With spot patrols,\npronto's camera stack and aerial surveys all live now, Im curious if the\nteam is training site specific models on top of vendor outputs vs. running\neverything out-of-box. The vendors are good, but there's usually a gap when\nyou want anomaly detection or near-miss events tuned to your actual site.\n\nWe work with Boston Dynamics on the data infrastructure side of that exact\nproblem: curation, annotation, model eval. If it's a real workflow at\nMariana, I'd love to chat. If it's all vendor-handled it would also be\nuseful to know."
+},
+{
+"id": "351190326492",
+"subject": "[Encord] Coffee in Austin with founding team?",
+"text": "Hi [NAME],\n\nNoticed you're based in Austin - we're big fans of [COMPANY]! We've\nbeen working with RetailTech teams like Standard AI, Focal Systems, and\nNeuro Labs to help their AI teams improve training data quality for SKU\nrecognition, inventory management, autonomous checkout, and customer\nbehaviour analysis.\n\nOur leadership team will be in Austin visiting customers on Nov 19-20, and\nwould love to grab a coffee if you're around.\n\nIn case Encord is new to you, we're an AI/ML Ops platform for computer\nvision and multimodal AI, covering everything from data curation,\nannotation, automated QA to model eval. Currently Series B with $50M raised.\n\nThey'd be happy to swing by your office or I can book a spot nearby if\nthat's easier. Would that work for you?"
+},
+{
+"id": "206658490555",
+"subject": "Plan for CVPR",
+"text": "Hi [NAME],\n\nAssuming you and the [COMPANY] team will be in Nashville for CVPR this year? Would be great to get a coffee & show the team some of the big improvements to the product since we last chatted to see if they might align with what [COMPANY] is doing on all things computer vision.\n\nWe are also hosting an AI/ML happy hour on Friday - you'd be more than welcome to join & share with whoever - let me know if you'd like more info on this & I can share the link."
+},
+{
+"id": "362103678140",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm [SENDER], your poc at Encord. Just tried you on the phone. Thanks for\ndownloading E-MM1, hopefully you've got a chance to play around with it.\n\nCurious what modalities you are working on at the moment at [COMPANY]? For\ncontext, Encord supports over 200+ AI teams like Thinking Machines Lab and\nTwelve Labs that need clean training data for their AI models - from LLM to\nVLM/VLA.\n\nWould love to better understand your use case and see how Encord can be of\nhelp.\n\nWhen is a good time for a quick 20 min chat? I'm pretty flexible before\nThanksgiving."
+},
+{
+"id": "454313599169",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+}
+]

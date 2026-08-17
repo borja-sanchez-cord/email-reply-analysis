@@ -1,0 +1,202 @@
+[
+{
+"id": "500098375928",
+"subject": "Geophysical Data Operations",
+"text": "Hi [NAME],\n\nGreat to be connected via email! I sit on the Computer Vision team at\nEncord and work with teams building production AI systems.\n\nWith your AI infrastructure leadership, I'm curious if you manage or\noversee your team's data pipelines. At a high-level, our team ensures\ntraining data quality and accelerates model development.\n\nHappy to find time over the coming days to share additional info."
+},
+{
+"id": "500104049895",
+"subject": "ML & CV Data Pipelines",
+"text": "Hi [NAME],\n\nGreat to be connected over email. My colleague [SENDER] (copied) and I are on\nthe computer vision team at Encord, and work with teams building and\nscaling ML pipelines across the full data lifecycle.\n\nNice to see [COMPANY] expanding the data labeling team. We work with teams\nlike Standard AI and Augmodo to manage annotation and data quality for\nretail vision systems (especially across environments heavy with edge\ncases).\n\nWould be interested to learn how you're approaching the perception stack as\nthe team scales. Happy to block time and share additional context over the\ncoming days."
+},
+{
+"id": "500113066171",
+"subject": "[COMPANY] Edge Cases",
+"text": "Hi [NAME],\n\nGreat to be connected over email. My colleague [SENDER] (copied) and I are on\nthe computer vision team at Encord, and work with teams on their data\npipeline ops.\n\nNice to see [COMPANY] expanding the data labeling team. We've worked with\nteams such as Standard AI and Augmodo to manage annotation, QA, and\nevaluation workflows for retail vision systems (especially across real\nworld environments).\n\nWould be interested to learn how you're approaching data operations as the\nteam scales and to explore overlap between our teams. Happy to block time\nto share additional context over the coming days."
+},
+{
+"id": "500116476103",
+"subject": "Encord & Slate, Construction Data",
+"text": "Hi [NAME],\n\nGreat to be connected via email. I am the data operations lead at Encord,\nand work with teams that are building and scaling AI infra across physical\nindustries.\n\nSlate's work applying AI to construction workflows and decision-making\nstood out to me given the overlap with many construction-focused teams we\nwork with.\n\nWould enjoy learning more about what you're building and exchanging\nperspectives. Curious if you are leading digital twinning at Slate as well.\n\n Happy to find time for a brief conversation over the coming days to\nprovide additional context."
+},
+{
+"id": "500133883115",
+"subject": "Encord x [COMPANY]",
+"text": "Hi [NAME],\n\nCongrats on the NVIDIA partnership - great to see [COMPANY] continue to lead\nin the ambient space.\n\nI wanted to introduce you to Encord. Our platform helps teams curate,\nlabel, and evaluate data used to train and post-train models - we support\n100+ healthcare teams across audio, documents, and images.\n\nWould love to explore whether we're a fit for [COMPANY]. Do you have time for\nan intro chat next Tuesday?"
+},
+{
+"id": "500137734340",
+"subject": "Perception Systems",
+"text": "Hi [NAME],\n\nGreat to be connected over email. My colleague [SENDER] (copied) and I lead the\ncomputer vision team at Encord, and work with teams building and scaling ML\npipelines across the full data lifecycle.\n\nNice to see [COMPANY] expanding the data labeling team. We work with teams\nlike Standard AI and Augmodo to manage annotation and data quality for\nretail vision systems (especially across environments heavy with edge\ncases).\n\nWould be interested to learn how you're approaching the perception stack as\nthe team scales. Happy to block time and share additional context over the\ncoming days."
+},
+{
+"id": "500144777427",
+"subject": "identity verification data pipeline at [COMPANY]",
+"text": "Hi [NAME],\n\nWe've been working with Veriff and a large global IDV platform on similar\nidentity verification use cases as [COMPANY] so I thought I'd reach out.\n\nML leads in the identity verification space come to us when:\n\n   - New deepfake generation tools release publicly and the eval benchmark\n   goes stale faster than the annotation pipeline can refresh it\n   - Adding a new geography or document type surfaces model\n   underperformance and the path from finding that gap to labelled training\n   examples takes weeks, not days\n   - The data infrastructure inherited from an earlier product phase wasn't\n   built for multimodal sessions with document images, liveness video, and\n   face match data in one task\n\nDo you face similar issues at [COMPANY]?\n\nIf so, it might be worth having an initial conversation to see whether our\nofferings fit your needs."
+},
+{
+"id": "500174592232",
+"subject": "Encord x Abridge",
+"text": "Hi [NAME],\n\nCongrats on the NVIDIA partnership - great to see Abridge continue to lead\nin the ambient space.\n\nI wanted to introduce you to Encord. Our platform helps teams curate,\nlabel, and evaluate data used to train and post-train models - we support\n100+ healthcare teams across audio, documents, and images.\n\nWould love to explore whether we're a fit for Abridge. Do you have time for\nan intro chat next Tuesday?"
+},
+{
+"id": "500244608207",
+"subject": "[COMPANY] Vision at Mount Sinai",
+"text": "Hi [NAME], \n\n We work with Iterative Scopes and Proximie on the data layer for clinical video AI.  \n\n The Mount Sinai partnership caught my attention. Eight hospitals and 100,000 procedures is a significant production milestone. \n\n Teams moving into computer vision whilst scaling clinical AI come to us when: \n\n - Each new hospital site introduces OR environments the model hasn't seen. \n\n - Precision degradation at a flagship customer is a commercial risk before it's a technical one \n\n - The data infrastructure that proved the product in a pilot wasn't built to support the retraining cadence a new production deployment requires \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free this Thursday if that works."
+},
+{
+"id": "500256344285",
+"subject": "83% real-time, 95% in a day: the review layer behind it",
+"text": "Hi [NAME],\n\nWe just started working with a top-three US payer and Highmark Health on\nthe same prior-auth and clinical-document review work [COMPANY] is scaling, so\nI thought I'd reach out.\n\nHeads of Clinical AI at payers come to us when:\n\n   - The model produces a prior-auth recommendation and nurses still\n   validate it against the source record by hand, so the review cannot keep\n   pace with real-time approval volume\n   - The speed numbers are public but the auditable record of which\n   clinician reviewed which decision does not yet survive a compliance review\n   - The team that built the model ends up building the review and\n   evaluation tooling too, which pulls engineers off the roadmap\n\nDo you face similar issues at [COMPANY]?\n\nIf so, it might be worth an initial conversation to see whether our\nofferings fit your needs."
+},
+{
+"id": "500265109737",
+"subject": "Vision at Mount Sinai",
+"text": "Hi [NAME], \n\n We work with Iterative Scopes and Proximie on the data layer for clinical video AI.  \n\n The Mount Sinai partnership caught my attention. Eight hospitals and 100,000 procedures is a significant production milestone. \n\n Teams moving into computer vision whilst scaling clinical AI come to us when: \n\n - Each new hospital site introduces OR environments the model hasn't seen. \n\n - Precision degradation at a flagship customer is a commercial risk before it's a technical one \n\n - The data infrastructure that proved the product in a pilot wasn't built to support the retraining cadence a new production deployment requires \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free this Friday if that works."
+},
+{
+"id": "500265235649",
+"subject": "[COMPANY] Vision at Mount Sinai",
+"text": "Hi [NAME], \n\n We work with Iterative Scopes and Proximie on the data layer for clinical video AI.  \n\n The Mount Sinai partnership caught my attention. Eight hospitals and 100,000 procedures is a significant production milestone. \n\n Teams moving into computer vision whilst scaling clinical AI come to us when: \n\n - Each new hospital site introduces OR environments the model hasn't seen. \n\n - Precision degradation at a flagship customer is a commercial risk before it's a technical one \n\n - The data infrastructure that proved the product in a pilot wasn't built to support the retraining cadence a new production deployment requires \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free this Thursday if that works."
+},
+{
+"id": "500265326820",
+"subject": "Encord wine tasting",
+"text": "Hi [NAME] - nice to meet you, \n\nMy team mentioned that you'll be joining our wine tasting on the 8th - looking forward to meeting you there. \n\nI lead the Physical AI team at Encord. We've worked with teams across defence, robotics, and ADAS, and have previously connected with your Geointelligence R&D group. \n\nGiven your role overseeing technology and innovation across Airbus, I thought it would be worthwhile to introduce myself ahead of the event. I'd be interested to hear more about the AI initiatives you're driving and share some of what we've learned from supporting similar organisations as they scale model development and deployment. \n\nIf you have 30 minutes next Wednesday or Thursday, it'd be great to connect before the event."
+},
+{
+"id": "500268814529",
+"subject": "[COMPANY]'s vision systems",
+"text": "Hi [NAME],\n\nGiven your work in machine vision at [COMPANY], I imagine you're dealing with complex sensor data for applications in rail and transit.\n\nML teams in industrial automation often find that as data volume and modality complexity grow, internal tooling struggles to keep up, creating a bottleneck for model performance.\n\nEncord provides data infrastructure for teams building with sensor data (video, LiDAR, images) to manage, annotate, and curate datasets, helping improve model performance for teams at Baker Hughes, Boston Dynamics and more.\n\nCurious to learn if improving your data pipeline is a priority?"
+},
+{
+"id": "500296150210",
+"subject": "Overland <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere we partner with some of the fastest growing companies across ADAS/AV,\nrobotics, drones, and space.\n\nScout AI chose Encord because our platform handles multi-cam video, 3D\npoint, and telemetry data in the same interface, allowing us to take on\nlarge annotation work loads to support your research and model development\nefforts at scale.\n\nI'd be keen to find 30 minutes in the next week or two to give you a brief\noverview and understand your current workflows. Let me know if there is a\ngood day to do so and I'll share an invite for us to connect."
+},
+{
+"id": "500299666625",
+"subject": "Overland <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere we partner with some of the fastest growing companies across ADAS/AV,\nrobotics, drones, and space.\n\nScout AI chose Encord because our platform handles multi-cam video, 3D\npoint, and telemetry data in the same interface, allowing us to take on\nlarge annotation work loads to support your research and model development\nefforts at scale.\n\nI'd be keen to find 30 minutes in the next week or two to give you a brief\noverview and understand your current workflows. Let me know if there is a\ngood day to do so and I'll share an invite for us to connect."
+},
+{
+"id": "500341634278",
+"subject": "Overland <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere\nwe partner with some of the fastest growing companies across ADAS/AV,\nrobotics, drones, and space.\n\nScout AI chose Encord because our platform handles multi-cam video, 3D\npoint, and telemetry data in the same interface, allowing us to take on\nlarge annotation work loads to support your research and model development\nefforts at scale.\n\nI'd be keen to find 30 minutes in the next week or two to give you a brief\noverview and understand your current workflows. Let me know if there is a\ngood day to do so and I'll share an invite for us to connect."
+},
+{
+"id": "500375984374",
+"subject": "Overland <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord\n<[LINK]>\nwhere\nwe partner with some of the fastest growing companies across ADAS/AV,\nrobotics, drones, and space.\n\nScout AI chose Encord because our platform handles multi-cam video, 3D\npoint, and telemetry data in the same interface, allowing us to take on\nlarge annotation work loads to support your research and model development\nefforts at scale.\n\nI'd be keen to find 30 minutes in the next week or two to give you a brief\noverview and understand your current workflows. Let me know if there is a\ngood day to do so and I'll share an invite for us to connect."
+},
+{
+"id": "500555870452",
+"subject": "Spoke with Jimmy",
+"text": "Hi [NAME] - nice to meet you, \n\nOur Head of Physical AI, [SENDER] (cc'd), met Jimmy at Automate and suggested we connect. \n\nWe're currently in the process of purchasing robotic arms from you, but also wanted to introduce what we're doing on the data infrastructure side. We work with a number of leading robotics teams to improve annotation and QA workflows, as well as support frontier use cases like VLA reasoning and 3D auto-labelling. \n\nWould you have 20 minutes to connect later this week?"
+},
+{
+"id": "500581643465",
+"subject": "Spoke with Jimmy",
+"text": "Hi [NAME] - hope you're doing well, \n\n[SENDER] & I met with Jimmy at Automate last week, and he suggested we reconnect. As we're entering into a partnership with you around the robotics arm side, we thought it would be a good opportunity to explore how Encord could also support your data initiatives - particularly around improving the quality of training data at scale. \n\nWould you have 20 minutes sometime next week to catch up & discuss how we might be able to support these efforts?"
+},
+{
+"id": "500588051670",
+"subject": "Heetesh - intersection project w/ Gautham",
+"text": "Hi [NAME] - nice to meet you. Recently spoke to Gautham as he enquired\nabout an intersection project that required urgent labelling,\n\nFor context - we're working with AV companies you're partnering with &\nother lidar producers like Ouster providing a platform and workforce to\nscale their perception data pipelines (VLMs, 2D, Lidar) with strong support\nfor auto-labeling, HITL ect.\n\nWe've recently moved teams from Scale & other black-box providers, so\nreaching out to check if there's interest in picking this up?"
+},
+{
+"id": "500607814846",
+"subject": "One surgeon, two rooms - the data layer",
+"text": "Hi [NAME],\n\nYossi's post in February describes the end goal: one surgeon on a complex\ndecompression in Room A, Dynamis executing routine bone milling\nautonomously in Room B. More patients treated, same surgical workforce.\n\nGetting there means training a new autonomous capability for every new\nprocedure step. Each one needs an annotated operating room video from real\ncases. That annotation step sits between every completed procedure and\nevery new training run.\n\nThe pattern we see at teams your size: the engineers building the models\nare also manually deciding what to annotate. At 10 cases a month, it is\nfine, but at 50 it becomes the bottleneck.\n\nWe work with Moon Surgical on exactly this & I thought it would be worth a\n20-minute call next Thursday afternoon? Let me know."
+},
+{
+"id": "500613097697",
+"subject": "the model that supports 100m patients, and the review layer behind it",
+"text": "Hi [NAME],  \n\n eviCore's stated mission is getting patients the right care faster through evidence-based decisions.  \n\n The risk is the gap between that mission and what the AI actually does. When a model recommends denial and no clinician trail exists to show the recommendation was reviewed against the source record, the mission becomes very hard to defend, to regulators, to a jury, and to the patients you serve. \n\n We work with a large US health-services team on exactly the layer that closes that gap: nurses review LLM output against source clinical records inside their own cloud, every correction is captured, every routing decision is traceable, and the model learns from what it got wrong. \n\n With eviCore under strategic review and CMS deadlines six months out, that audit trail isn't a nice-to-have. \n\n Is this something your team is actively building?"
+},
+{
+"id": "500613253310",
+"subject": "what happens to the cases the model gets wrong",
+"text": "Hi [NAME],  \n\n eviCore's stated mission is getting patients the right care faster through evidence-based decisions.  \n\n The risk is the gap between that mission and what the AI actually does. When a model recommends denial and no clinician trail exists to show the recommendation was reviewed against the source record, the mission becomes very hard to defend, to regulators, to a jury, and to the patients you serve. \n\n We work with a large US health-services team on exactly the layer that closes that gap: nurses review LLM output against source clinical records inside their own cloud, every correction is captured, every routing decision is traceable, and the model learns from what it got wrong. \n\n With eviCore under strategic review and CMS deadlines six months out, that audit trail isn't a nice-to-have. \n\n Is this something your team is actively building?"
+},
+{
+"id": "500615357638",
+"subject": "One surgeon, two rooms - the data layer",
+"text": "Hi [NAME],\n\nYossi's post in February describes the end goal: one surgeon on a complex\ndecompression in Room A, Dynamis executing routine bone milling\nautonomously in Room B. More patients treated, same surgical workforce.\n\nGetting there means training a new autonomous capability for every new\nprocedure step. Each one needs an annotated operating room video from real\ncases. That annotation step sits between every completed procedure and\nevery new training run.\n\nThe pattern we see at teams your size: the engineers building the models\nare also manually deciding what to annotate. At 10 cases a month, it is\nfine, but at 50 it becomes the bottleneck.\n\nWe work with Moon Surgical on exactly this & I thought it would be worth a\n20-minute call next Thursday afternoon? Let me know."
+},
+{
+"id": "500639604939",
+"subject": "the model that supports 100m patients, and the review layer behind it",
+"text": "Hi [NAME],  \n\n eviCore's stated mission is getting patients the right care faster through evidence-based decisions.  \n\n The risk is the gap between that mission and what the AI actually does. When a model recommends denial and no clinician trail exists to show the recommendation was reviewed against the source record, the mission becomes very hard to defend, to regulators, to a jury, and to the patients you serve. \n\n We work with a large US health-services team on exactly the layer that closes that gap: nurses review LLM output against source clinical records inside their own cloud, every correction is captured, every routing decision is traceable, and the model learns from what it got wrong. \n\n With eviCore under strategic review and CMS deadlines six months out, that audit trail isn't a nice-to-have. \n\n Is this something your team is actively building?"
+},
+{
+"id": "500640259312",
+"subject": "the model that supports 100m patients, and the review layer behind it",
+"text": "Hi [NAME],  \n\n eviCore's stated mission is getting patients the right care faster through evidence-based decisions.  \n\n The risk is the gap between that mission and what the AI actually does. When a model recommends denial and no clinician trail exists to show the recommendation was reviewed against the source record, the mission becomes very hard to defend, to regulators, to a jury, and to the patients you serve. \n\n We work with a large US health-services team on exactly the layer that closes that gap: nurses review LLM output against source clinical records inside their own cloud, every correction is captured, every routing decision is traceable, and the model learns from what it got wrong. \n\n With eviCore under strategic review and CMS deadlines six months out, that audit trail isn't a nice-to-have. \n\n Is this something your team is actively building?"
+},
+{
+"id": "500640383200",
+"subject": "Clinician review layer for [COMPANY]'s prior-auth AI",
+"text": "Hi [NAME], \n\n We work with a top-three US payer and Highmark Health on the clinician review and audit layer underneath their prior-authorization AI.  \n\n The commitment to have a medical professional review every clinical denial caught my attention. \n\n Data teams scaling clinical AI at major health plans come to us when: \n\n - The review commitment is real, but manual workflows don't scale with AI volume or produce the audit trail required by regulators  \n\n - The litigation exposure on AI-driven denials makes the review and audit layer a board-level risk item, not an engineering one \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. Let me know if you're free for 20 minutes this Thursday."
+},
+{
+"id": "500640533700",
+"subject": "Clinician review layer for [COMPANY]'s prior-auth AI",
+"text": "Hi [NAME], \n\n We work with a top-three US payer and Highmark Health on the clinician review and audit layer underneath their prior-authorization AI.  \n\n The commitment to have a medical professional review every clinical denial caught my attention. \n\n Data teams scaling clinical AI at major health plans come to us when: \n\n - The review commitment is real, but manual workflows don't scale with AI volume or produce the audit trail required by regulators  \n\n - The litigation exposure on AI-driven denials makes the review and audit layer a board-level risk item, not an engineering one \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. Let me know if you're free for 20 minutes this Thursday."
+},
+{
+"id": "500640670914",
+"subject": "Clinician review layer for [COMPANY]'s prior-auth AI",
+"text": "Hi [NAME], \n\n We work with a top-three US payer and Highmark Health on the clinician review and audit layer underneath their prior-authorization AI.  \n\n The commitment to have a medical professional review every clinical denial caught my attention. \n\n Data teams scaling clinical AI at major health plans come to us when: \n\n - The review commitment is real, but manual workflows don't scale with AI volume or produce the audit trail required by regulators  \n\n - The litigation exposure on AI-driven denials makes the review and audit layer a board-level risk item, not an engineering one \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. Let me know if you're free for 20 minutes this Thursday."
+},
+{
+"id": "500690066679",
+"subject": "radiologist correction loop in Pi",
+"text": "Hi [NAME],\n\nI saw the Prostate Intelligence update, the accept-or-revise workflow that\nlets radiologists adjust segmentations before sending to PACS. That\nhuman-in-the-loop correction pipeline is the same workflow we use with\nanother cardiovascular imaging company. Specifically, a DICOM annotation\nlayer where clinicians can review, adjust, and approve model outputs, with\nevery correction feeding a traceable retraining record.\n\nThe interesting question is what happens to the corrections after they\nleave the accept-or-revise step & whether that data is being captured as\nlabelled ground truth for the next model update, or whether it's lost once\nit hits PACS.\n\nWould love to discuss further and how we've helped a similar team and\nAbbVie if you have some time later this week. I'm free on Wednesdays and\nThursdays!"
+},
+{
+"id": "500696284357",
+"subject": "Machina - quick coffee?",
+"text": "Hi [NAME] - nice to meet, \n\n[SENDER] & I lead the Physical AI team at Encord and we noticed that you'll be attending Machina next week. We're partnered closely with frontier labs and leading robotics companies, inc. Neura and Agility, supporting large-scale data collection and providing the data flywheel needed to prepare models for production.\n\nIt would be great to grab a coffee with you in Paris if you have some time. It'd be great to explore how we can support your team & partner with you folks."
+},
+{
+"id": "500716536019",
+"subject": "Radiologist segmentation corrections at scale",
+"text": "Hi [NAME],\n\nI saw the Prostate Intelligence update, the accept-or-revise workflow that\nlets radiologists adjust segmentations before sending to PACS. That\nhuman-in-the-loop correction pipeline is the same workflow we use with\nAbbVie.\n\nWe work with ML engineers on capturing that kind of correction loop as\nlabelled training data, with inter-annotator agreement records and audit\ntrail output built in, rather than letting corrections disappear once they\nhit PACS.\n\nThe question is whether those radiologist edits are being stored as ground\ntruth for the next model update or written off once the report leaves.\n\nLet me know if any of that resonates, and would be happy to chat further!"
+},
+{
+"id": "500762398948",
+"subject": "One surgeon, two ORs - what sits between now and that outcome",
+"text": "Hi [NAME],\n\nYou have described the end state clearly: one surgeon as the cognitive\norchestrator and a surgical humanoid executing the physically demanding\nsteps autonomously in a parallel room. More patients are treated with the\nsame workforce. A healthcare system that does not collapse under\ndemographic pressure.\n\nThe second 510(k) clearance is proof the architecture works. The question\nis what determines how fast Dynamis gets from two cleared capabilities to\nthe ten or twenty that make the parallel operating room model viable at\nscale.\n\nEvery new autonomous capability requires training data from real cases. The\nspeed at which that data moves from an operating room procedure into a\nvalidated training run determines how fast the product roadmap moves. We\nwork with Moon Surgical on exactly that layer, keeping FDA training and\ntest programmes running in parallel inside one platform rather than two.\n\nWorth 20 minutes to talk about how that compounds for LEM? Please let me\nknow."
+},
+{
+"id": "500772661462",
+"subject": "[COMPANY] <> Encord",
+"text": "Hey [NAME] & Jay, congrats on the the announced raise.  I was there for demo\nday last year; W25 is proving to be a great class!\n\nI was previously on the VC side for a number of years, investing in several\nPhysical AI startups before jumping over to drive our PAI efforts at Encord\n<[LINK]>\n.\n\nIf you're not familiar with us, we work with some of the fastest growing\ncompanies in the robotics and humanoid space, including Agility Robotics,\n1X, Boston Dynamics, and more.  We partner closely with them on data\nvalidation across relevant data types (video, 3D, and sensor data from\ngrippers/hands). It would be relevant to get introduced as our customers\nare experimenting with different hand types and look to fuse the hand data\ninto their models.\n\nTime to connect next week?"
+},
+{
+"id": "500792314080",
+"subject": "Radiologist segmentation corrections at scale",
+"text": "Hi [NAME],\n\nI saw the Prostate Intelligence update, the accept-or-revise workflow that\nlets radiologists adjust segmentations before sending to PACS. That\nhuman-in-the-loop correction pipeline is the same workflow we use with\nAbbVie.\n\nWe work with ML engineers on capturing that kind of correction loop as\nlabelled training data, with inter-annotator agreement records and audit\ntrail output built in, rather than letting corrections disappear once they\nhit PACS.\n\nThe question is whether those radiologist edits are being stored as ground\ntruth for the next model update or written off once the report leaves.\n\nLet me know if any of that resonates, and would be happy to chat further!"
+},
+{
+"id": "500809806037",
+"subject": "[COMPANY] <> Encord - connect from your colleague Shivesh",
+"text": "Hi [NAME], I connected with your colleague at the AutoAI conference\ntoday and enjoyed his presentation on how your team is automating a large\nshare of the 3D labeling work for [COMPANY], and developing a\nconstellation model approach to solve perception at scale.  He\nmentioned that you'd be a good point of contact for the areas that we solve\nat Encord <[LINK]>.\n\nIf you're not familiar with us, we partner with some of the fastest growing\nplayers in autonomy, across ADAS/AV, robotics, and defense, and winning\nshare away from Kognic, Scale, and other fragmented offerings.  From my\nconversation with Shivesh, it seemed that [COMPANY] is well positioned to\nhandle current annotation volumes at scale, but there could be an avenue to\nexplore our curation suite which Woven by Toyota and several ADAS/AV\ncustomers have partnered with us to help with.\n\nAre you open to a quick intro next week to discuss what's in focus for you\nand areas of interest to explore with partners?"
+},
+{
+"id": "500848961777",
+"subject": "radiologist correction loop in Pi",
+"text": "Hi [NAME],\n\nI saw the Prostate Intelligence update, the accept-or-revise workflow that\nlets radiologists adjust segmentations before sending to PACS. That\nhuman-in-the-loop correction pipeline is the same workflow we use with\nanother cardiovascular imaging company. Specifically, a DICOM annotation\nlayer where clinicians can review, adjust, and approve model outputs, with\nevery correction feeding a traceable retraining record.\n\nThe interesting question is what happens to the corrections after they\nleave the accept-or-revise step & whether that data is being captured as\nlabelled ground truth for the next model update, or whether it's lost once\nit hits PACS.\n\nWould love to discuss further and how we've helped a similar team and\nAbbVie if you have some time later this week. I'm free on Wednesdays and\nThursdays!"
+},
+{
+"id": "501026149593",
+"subject": "Coffee in Paris? (next week)",
+"text": "Hey [NAME]  - nice to meet,\n\nRecently caught up with [SENDER] I'm a part of the physical AI team\nat Encord working with defense companies - thought I'd reach out as I'm in\nParis for RAISE next week,\n\nWould be great to get introduced in person - would you be keen to grab a\ncoffee/lunch on mon-weds?"
+},
+{
+"id": "501064579307",
+"subject": "Is your eval layer as strong as your engagement stat?",
+"text": "Hi [NAME],\n\nFrom the research I've done, [COMPANY]'s agent teams close care gaps, verify coverage, and book appointments in one coordinated workflow.\n\nThe agentic AI infrastructure is strong. The gap most teams in this position hit is the human review layer, a systematic way to catch agent output errors before they reach members, and an audit trail that satisfies payer compliance requirements.\n\nWe work with healthcare and enterprise AI teams on that layer, including Appfolio and Synthesia on text and document workflows.\n\nWithout it:\n\n• \nAgent failures compound silently before member impact.\n\n• \nPayer audits surface gaps in model output traceability.\n\nWorth 20 minutes this week to show what that setup looks like?"
+}
+]

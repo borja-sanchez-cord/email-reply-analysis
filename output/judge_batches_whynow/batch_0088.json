@@ -1,0 +1,202 @@
+[
+{
+"id": "220498585796",
+"subject": "Scaling prior auth ML — annotation infra at Cohere",
+"text": "Hi [NAME]​, \n\nI read Cohere's recent post on AI-powered prior auth reducing care abandonment - great articulation of why this problem matters clinically, not just operationally. \n\nGiven the complexity of parsing scanned clinical faxes and routing them through SID-based models, I was curious how your team's thinking about annotation and QA infra. We've been working with ML teams at Elevance and Truveta tackling similar document pipelines - helping them improve field-level extraction by building better feedback loops, and speed up iteration cycles with structured HITL flows. \n\nWould be curious to swap notes on what you're seeing - especially around ambiguous formats, upstream noise, or model drift across provider forms. Would you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220501291208",
+"subject": "Prior auth ML — scaling annotation infra to match ambition",
+"text": "Hi [NAME]​, \n\nJust read your team's piece on reducing care abandonment via AI-powered prior auth - compelling case for how better automation can directly improve clinical outcomes. \n\nGiven how core unstructured faxes still are to the pipeline, I was curious how you're thinking about the infra that supports annotation and QA at scale. We've been partnering with teams at Elevance and Truveta facing similar challenges - helping them improve extraction quality by tightening the feedback loop between messy inputs, human-in-the-loop workflows, and model iteration. \n\nIf useful, happy to share what we're seeing work well across comparable high-volume, high-stakes ML deployments. Would you be open to a brief 20-min chat next week Tuesday or Thursday?"
+},
+{
+"id": "220501314805",
+"subject": "Scaling prior auth ML — annotation infra at Cohere",
+"text": "Hi [NAME]​, \n\nI read Cohere's recent post on AI-powered prior auth reducing care abandonment - great articulation of why this problem matters clinically, not just operationally. \n\nGiven the complexity of parsing scanned clinical faxes and routing them through SID-based models, I was curious how your team's thinking about annotation and QA infra. We've been working with ML teams at Elevance and Truveta tackling similar document pipelines - helping them improve field-level extraction by building better feedback loops, and speed up iteration cycles with structured HITL flows. \n\nWould be curious to swap notes on what you're seeing - especially around ambiguous formats, upstream noise, or model drift across provider forms. Would you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220508186829",
+"subject": "Prior auth ML — scaling annotation infra to match ambition",
+"text": "Hi [NAME]​, \n\nJust read your team's piece on reducing care abandonment via AI-powered prior auth - compelling case for how better automation can directly improve clinical outcomes. \n\nGiven how core unstructured faxes still are to the pipeline, I was curious how you're thinking about the infra that supports annotation and QA at scale. We've been partnering with teams at Elevance and Truveta facing similar challenges - helping them improve extraction quality by tightening the feedback loop between messy inputs, human-in-the-loop workflows, and model iteration. \n\nIf useful, happy to share what we're seeing work well across comparable high-volume, high-stakes ML deployments. Would you be open to a brief 20-min chat next week Tuesday or Thursday?"
+},
+{
+"id": "220508464376",
+"subject": "Vehicle Inspection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI saw you're working on computer vision projects for vehicle inspection.\nThought I'd reach out since we work on projects with UVEYE, Tractable and\nFyusion on very similar visual AI models - it'd be worth a chat.\n\nFor context - we help over 200 AI teams improve data quality for model\ndevelopment. We've designed our platform to handle large-scale data\ncuration & complex annotation tasks, with the objective of increasing model\naccuracy and reducing time spent in dataset preparation.\n\nLet me know if you're open to exchange perspectives? We'll be in Nashville\nfor CVPR Friday (6/13) to Sunday (6/15) this week, or happy to connect\nvirtually if you prefer."
+},
+{
+"id": "220510391535",
+"subject": "Prior auth ML — scaling annotation infra to match ambition",
+"text": "Hi [NAME]​, \n\nJust read your team's piece on reducing care abandonment via AI-powered prior auth - compelling case for how better automation can directly improve clinical outcomes. \n\nGiven how core unstructured faxes still are to the pipeline, I was curious how you're thinking about the infra that supports annotation and QA at scale. We've been partnering with teams at Elevance and Truveta facing similar challenges - helping them improve extraction quality by tightening the feedback loop between messy inputs, human-in-the-loop workflows, and model iteration. \n\nIf useful, happy to share what we're seeing work well across comparable high-volume, high-stakes ML deployments. Would you be open to a brief 20-min chat next week Tuesday or Thursday?"
+},
+{
+"id": "220511757547",
+"subject": "Scaling prior auth ML — annotation infra at Cohere",
+"text": "Hi [NAME]​, \n\nI read Cohere's recent post on AI-powered prior auth reducing care abandonment - great articulation of why this problem matters clinically, not just operationally. \n\nGiven the complexity of parsing scanned clinical faxes and routing them through SID-based models, I was curious how your team's thinking about annotation and QA infra. We've been working with ML teams at Elevance and Truveta tackling similar document pipelines - helping them improve field-level extraction by building better feedback loops, and speed up iteration cycles with structured HITL flows. \n\nWould be curious to swap notes on what you're seeing - especially around ambiguous formats, upstream noise, or model drift across provider forms. Would you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220517884097",
+"subject": "Vehicle Inspection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI came across your recent interview on how visual AI is reshaping fixed\noperations. Thought I'd reach out since we work on projects with UVEYE,\nTractable and Fyusion on very similar visual inspection models. Thought\nit's worth a chat.\n\nFor context - we help over 200 AI teams improve data quality for model\ndevelopment. We've designed our platform to handle complex annotation\ntasks, with the objective of increasing model accuracy and reducing time\nspent in dataset preparation.\n\nLet me know if you're open to exchange perspectives? We'll be in Nashville\nfor CVPR Friday (6/13) to Sunday (6/15) this week, or happy to connect\nvirtually if you prefer."
+},
+{
+"id": "220518839511",
+"subject": "Vehicle Inspection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI came across your recent podcast feature on how automotive dealerships are\nleveraging AI. Thought I'd reach out since we work on projects with UVEYE,\nTractable and Fyusion on very similar visual inspection models. Thought\nit's worth a chat.\n\nFor context - we help over 200 AI teams improve data quality for model\ndevelopment. We've designed our platform to handle complex annotation\ntasks, with the objective of increasing model accuracy and reducing time\nspent in dataset preparation.\n\nLet me know if you're open to exchange perspectives? We'll be in Nashville\nfor CVPR Friday (6/13) to Sunday (6/15) this week, or happy to connect\nvirtually if you prefer."
+},
+{
+"id": "220519823563",
+"subject": "Vehicle Inspection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI saw you're fine tuning AI models for vehicle inspection so I wanted to\nreach out. We work on projects with UVEYE, Tractable and Fyusion on very\nsimilar automotive visual AI models - would love to see if what we do\nresonates with you.\n\nFor context - we help over 200 AI teams improve data quality for model\ndevelopment. We've designed our platform to handle large-scale data\ncuration & complex annotation tasks, with the objective of increasing model\naccuracy and reducing time spent in dataset preparation.\n\nLet me know if you're open to exchange perspectives? We'll be in Nashville\nfor CVPR Friday (6/13) to Sunday (6/15) this week, or happy to connect\nvirtually if you prefer."
+},
+{
+"id": "220523847908",
+"subject": "Deepfake Detection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI came across your TraceID protection platform in a recent article so I\nwanted to reach out. We work on projects with Reality Defender, Onfido and\nVeriff for deepfake detection model development - thought it's worth a chat.\n\nIn case Encord is new to you... we're a multimodal platform helping over\n200 AI teams improve data quality for model development. We're designed for\nefficiency gains for training dataset preparation, with the goals of\nhelping you bring model with higher accuracy into production faster.\n\nWould you be open to exchange perspectives? We're in Nashville for CVPR\nFriday (6/13) to Sunday (6/15) if you're at the conference, or happy to\nconnect virtually if you prefer."
+},
+{
+"id": "220527788247",
+"subject": "Challenges with Labelbox for improving model performance | Working with Carbon Robotics",
+"text": "Hi [NAME]​, \n\nSaw the recent news of xarvio SCOUTING reaching 6M farmers and the team's focus on the curation of the field / satellite images as critical for maintaining xarvio's 90% accuracy advantage. \n\nI've been working with a number of precision agriculture teams (e.g. Carbon Robotics, John Deere, Aigen etc) who started with Labelbox but were facing issues with scaling across different crop varieties / geographic conditions and were looking to find a way to surface edge cases from massive datasets and improve model performance. \n\nGiven xarvio's expansion and competitive pressure in digital farming, curious how you're prioritizing which data gets expert annotation versus routine inference. Would you be open to a 20-minute chat? I'm usually free Tuesdays/Thursdays."
+},
+{
+"id": "220540256443",
+"subject": "Challenges with Labelbox for improving model performance | Working with Carbon Robotics",
+"text": "Hi [NAME]​, \n\nSaw the recent news of xarvio SCOUTING reaching 6M farmers and the team's focus on the curation of the field / satellite images as critical for maintaining xarvio's 90% accuracy advantage. \n\nI've been working with a number of precision agriculture teams (e.g. Carbon Robotics, John Deere, Aigen etc) who started with Labelbox but were facing issues with scaling across different crop varieties / geographic conditions and were looking to find a way to surface edge cases from massive datasets and improve model performance. \n\nGiven xarvio's expansion and competitive pressure in digital farming, curious how you're prioritizing which data gets expert annotation versus routine inference. Would you be open to a 20-minute chat? I'm usually free Tuesdays/Thursdays."
+},
+{
+"id": "220542597365",
+"subject": "Scaling ML infrastructure post-Series C",
+"text": "Hi [NAME]​, \n\nSaw the recent Series C - congrats to you and the team. Noticed part of the raise is going toward enhancing AI capabilities across the member experience, and was interested - are you investing in internal ML tooling or leaning more into off-the-shelf models? \n\nI lead a Retail AI team at Encord - we work with teams at companies like Flipkart, Ebay and Zoopla to accelerate vision and multimodal ML workflows. A lot of them hit friction when early AI use cases start to scale - especially around training data infrastructure, human feedback tooling, or annotation operations. \n\nIf you're currently thinking about how to evaluate or scale any vision or fashion tagging models (e.g. inventory image workflows, look prediction, personalisation), would be glad to swap notes. \n\nWould you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220548770025",
+"subject": "Scaling ML infrastructure post-Series C",
+"text": "Hi [NAME]​, \n\nSaw the recent Series C - congrats to you and the team. Noticed part of the raise is going toward enhancing AI capabilities across the member experience, and was interested - are you investing in internal ML tooling or leaning more into off-the-shelf models? \n\nI lead a Retail AI team at Encord - we work with teams at companies like Flipkart, Ebay and Zoopla to accelerate vision and multimodal ML workflows. A lot of them hit friction when early AI use cases start to scale - especially around training data infrastructure, human feedback tooling, or annotation operations. \n\nIf you're currently thinking about how to evaluate or scale any vision or fashion tagging models (e.g. inventory image workflows, look prediction, personalisation), would be glad to swap notes. \n\nWould you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220548770027",
+"subject": "Scaling ML infrastructure post-Series C",
+"text": "Hi [NAME]​, \n\nSaw the recent Series C - congrats to you and the team. Noticed part of the raise is going toward enhancing AI capabilities across the member experience, and was interested - are you investing in internal ML tooling or leaning more into off-the-shelf models? \n\nI lead a Retail AI team at Encord - we work with teams at companies like Flipkart, Ebay and Zoopla to accelerate vision and multimodal ML workflows. A lot of them hit friction when early AI use cases start to scale - especially around training data infrastructure, human feedback tooling, or annotation operations. \n\nIf you're currently thinking about how to evaluate or scale any vision or fashion tagging models (e.g. inventory image workflows, look prediction, personalisation), would be glad to swap notes. \n\nWould you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220549060799",
+"subject": "Scaling ML infrastructure post-Series C",
+"text": "Hi [NAME]​, \n\nSaw the recent Series C - congrats to you and the team. Noticed part of the raise is going toward enhancing AI capabilities across the member experience, and was interested - are you investing in internal ML tooling or leaning more into off-the-shelf models? \n\nI lead a Retail AI team at Encord - we work with teams at companies like Flipkart, Ebay and Zoopla to accelerate vision and multimodal ML workflows. A lot of them hit friction when early AI use cases start to scale - especially around training data infrastructure, human feedback tooling, or annotation operations. \n\nIf you're currently thinking about how to evaluate or scale any vision or fashion tagging models (e.g. inventory image workflows, look prediction, personalisation), would be glad to swap notes. \n\nWould you be open to a quick 20-min chat next week?"
+},
+{
+"id": "220557555930",
+"subject": "Vehicle Inspection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI came across a recent podcast on how [COMPANY] is changing automotive\ninspection. Thought I'd reach out since we work on projects with UVEYE,\nTractable and Fyusion on very similar visual AI  models. Thought it's worth\na chat.\n\nFor context - we help over 200 AI teams improve data quality for model\ndevelopment. We've designed our platform to handle complex annotation\ntasks, with the objective of increasing model accuracy and reducing time\nspent in dataset preparation.\n\nLet me know if you're open to exchange perspectives? We'll be in Nashville\nfor CVPR Friday (6/13) to Sunday (6/15) this week, or happy to connect\nvirtually if you prefer."
+},
+{
+"id": "220562918591",
+"subject": "Deepfake Detection - Coffee @CVPR?",
+"text": "Hi [NAME],\n\nI came across your TraceID protection platform in a recent article so I\nwanted to reach out. We work on projects with Reality Defender, Onfido and\nVeriff for deepfake detection model development - thought it's worth a chat.\n\nIn case Encord is new to you... we're a multimodal platform helping over\n200 AI teams improve data quality for model development. We're designed for\nefficiency gains in training dataset preparation, with the goals of helping\nyou bring models with higher accuracy into production faster.\n\nWould you be open to exchange perspectives? We're in Nashville for CVPR\nFriday (6/13) to Sunday (6/15) if you're at the conference, or happy to\nconnect virtually if you prefer."
+},
+{
+"id": "220563386566",
+"subject": "Challenges with Labelbox for improving model performance | Working with Carbon Robotics",
+"text": "Hi [NAME]​, \n\nSaw the recent news of xarvio SCOUTING reaching 6M farmers and the team's focus on the curation of the field / satellite images as critical for maintaining xarvio's 90% accuracy advantage. \n\nI've been working with a number of precision agriculture teams (e.g. Carbon Robotics, John Deere, Aigen etc) who started with Labelbox but were facing issues with scaling across different crop varieties / geographic conditions and were looking to find a way to surface edge cases from massive datasets and improve model performance. \n\nGiven xarvio's expansion and competitive pressure in digital farming, curious how you're prioritizing which data gets expert annotation versus routine inference. Would you be open to a 20-minute chat? I'm usually free Tuesdays/Thursdays."
+},
+{
+"id": "220567255269",
+"subject": "Deepfake Detector Training - Coffee @CVPR",
+"text": "Hi [NAME],\n\nI saw you're speaking at the Precognition workshop tomorrow so I wanted to\nreach out. Interesting you're seeing two new approaches & I'd love to learn\nhow you're applying your research at [COMPANY].\n\nFor context - we work on projects with a few deepfake detection co's e.g.\nReality Defender, Onfido and Paravision. We help with improving data\nquality and reduce time spent in training data preparations, with the goal\nof helping them to put models into production faster & w/ more accurate\npredictions.\n\nWould love to chat about how you see the training data workflow evolves as\nyou introduce new approaches at [COMPANY]. We're at CVPR Friday (6/13) to\nSunday (6/15) if you're open to a quick coffee?"
+},
+{
+"id": "220598665461",
+"subject": "Attending CVPR | quick coffee?",
+"text": "Hi [NAME],\n\nAssuming you and the [COMPANY] team might be in Nashville for CVPR this year? Would be great to get a coffee and swap notes on the work we're doing in computer vision / multimodal model dev. \n\nIf you're not familiar with Encord: we're a data development platform helping 200+ AI teams - including Synthesia, Hudl, and Woven by Toyota - bring better models to market, faster.\n\nWe'll be at the conference so let me know when works best for you and I can get it booked in! Feel free to swing by our booth (#1123) as well."
+},
+{
+"id": "220607762623",
+"subject": "Avatar Generation - Coffee @CVPR'25",
+"text": "Hi [NAME],\n\nAre you heading to Nashville for CVPR? If so I'd love to connect over a\ncoffee.\n\nFor context - we work with Synthesia, Captions and Flawless doing similar\ngreat things. We mainly help them improve the realism of avatars/\npost-production results, and reduce their time spent in preparing training\ndatasets.\n\nLet me know if you're open to a chat? We've got a booth at CVPR Friday\n(5/13) to Sunday (5/15). Or happy to connect virtually if you prefer."
+},
+{
+"id": "220935125217",
+"subject": "Coffee @ VivaTech / GTC",
+"text": "Hey [NAME]​,\n\nWondering if you / someone from the [COMPANY] team will be attending Viva Tech / GTC - and would be open to grabbing a quick coffee?\n\nI lead the Audio AI team at Encord (~6 years old, 100+ employees & $50M+ funding) and we work several similar teams (inc. Eleven Labs, Hume AI, Gladia) to support the fine-tuning of their Audio AI models.\n\nLet me know if you're interested, and will be happy to get something on the books,"
+},
+{
+"id": "220964799697",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information -\nhappy to tell you more about the work we're doing with RapidAI, Viz.ai, &\nothers in the neuro space around DICOM segmentation & annotator\nmanagement.\n\nDo you have any times that work in the next few days? I have some time on\nTuesday / Wednesday morning CET."
+},
+{
+"id": "220971422968",
+"subject": "Chat at CVPR?",
+"text": "Hi [NAME], hope you're keeping well. Are you around CVPR this week? I've\nbeen speaking with [SENDER] Ingwersen & Hind Sghyer and understand they\nwon't be attending.\n\nThought it could be interesting to chat, see if what we're building at\nEncord might align with what you're doing at [COMPANY]. Would you be up for\nswinging by our booth over the next few days?"
+},
+{
+"id": "220997459182",
+"subject": "Encord &lt;&gt; ​​Aha!​ | 1-1 Meeting?​",
+"text": "Hi , \n\nHope all's well! Just saw that you requested a sign up for our platform. \n\nWould be great to connect & discuss what we've been building and answer any questions you might have from the work you're conducting over at Aha!. Are you free next week for a short call?\n\nFeel free to book some time in my calendar here: [LINK]"
+},
+{
+"id": "221020780753",
+"subject": "Chat at CVPR?",
+"text": "Hi [NAME], hope you're keeping well. Are you around CVPR this week? I've\nbeen speaking with [SENDER] Ingwersen & Hind Sghyer and understand they\nwon't be attending.\n\nThought it could be interesting to chat, see if what we're building at\nEncord might align with what you're doing at [COMPANY]. Would you be up for\nswinging by our booth over the next few days?"
+},
+{
+"id": "221020793048",
+"subject": "Chat at CVPR?",
+"text": "Hi [NAME], hope you're keeping well. Are you around CVPR this week? I've\nbeen speaking with [SENDER] Ingwersen & Hind Sghyer and understand they\nwon't be attending.\n\nThought it could be interesting to chat, see if what we're building at\nEncord might align with what you're doing at [COMPANY]. Would you be up for\nswinging by our booth over the next few days?"
+},
+{
+"id": "221027212482",
+"subject": "Chat at CVPR?",
+"text": "Hi [NAME],\n\nHope you're keeping well. Are you around for CVPR this week? I've been speaking with [SENDER] Ingwersen and Hind Sghyer and understand they won't be attending.\n\nThought it could be interesting to connect and chat a bit - keen to explore whether there's any alignment between the work we're doing at Encord and what you've got going on at [COMPANY].\n\nWould you be up for swinging by our booth over the next few days?"
+},
+{
+"id": "221039875310",
+"subject": "CVPR coffee w/ Encord (booth #1123)",
+"text": "Hi [NAME],\n\nWondering if you or someone from the [COMPANY] team will be in Nashville for CVPR this year? Would be great to grab a quick coffee at our booth (#1123) - next to Apple at Waymo - if you're available.\n\nCould be interesting to connect / show you a quick product demo at the booth - let me know if you're interested, and we can get something on the books,"
+},
+{
+"id": "221045641413",
+"subject": "CVPR coffee w/ Encord (booth #1123)",
+"text": "Hi [NAME],\n\nWondering if you or someone from the [COMPANY] team will be in Nashville for CVPR this year? Would be great to grab a quick coffee at our booth (#1123) - next to Apple at Waymo - if you're available.\n\nCould be interesting to connect / show you a quick product demo at the booth - let me know if you're interested, and we can get something on the books,"
+},
+{
+"id": "221090052339",
+"subject": "Working w/ Twilio & Cerence | Amelia 7.0",
+"text": "Hi [NAME],​\n\nI was reading about Amelia 7.0's ASR capabilities & thought I'd reach out. I lead a Conversational AI team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few of your peers (Synthesia, Twilio, ElevenLabs, Cerence, etc) on developing new models / improving existing ones for use cases like ASR, TTS, STT, NER, etc. \n\nFor context, I met some of your colleagues at NVIDA GTC who mentioned that it might be interesting to reach out. Keen to trade notes & get your thoughts on what we're building here if you have 15 mins to chat over the coming weeks? I'm usually open Thursday / Friday."
+},
+{
+"id": "221096399069",
+"subject": "Working w/ ElevenLabs & Soundhound | Aura-2",
+"text": "Hi [NAME],​\n\nI just read about Aura-2's low-latency performance & thought I'd reach out. I lead a Conversational AI team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few of your peers (Synthesia, ElevenLabs, Captions, Soundhound, etc) on developing new models / improving existing ones for use cases like ASR, TTS, STT, NER, etc. \n\nFor context, I met some of your colleagues at NVIDA GTC who mentioned that it might be interesting to get connected. Keen to trade notes & get your thoughts on what we're building here if you have 15 mins to chat over the coming weeks? I'm usually open Thursday / Friday."
+},
+{
+"id": "221097431261",
+"subject": "Encord <> [COMPANY] | Annotation QA support",
+"text": "Hey [NAME],\n\nNice to meet you - we recently spoke with Gian Marco Conte who suggested\nthat Encord could be beneficial to you & your team.\n\nFor context, Encord already works with teams inside [COMPANY], supporting\nannotation QA & helping to optimise annotation quality and spend.\n\nWould love to find a time in the coming weeks to show you the Encord\nplatform & explore how we'd be able to support your team.\n\nWe're based in London - so mornings CT would typically work best for us.\nQuite open on Wednesday 18th, Thursday 19th, or Friday 20th if that works\nwell for you?"
+},
+{
+"id": "221099378892",
+"subject": "Working w/ ElevenLabs & Soundhound | Aura-2",
+"text": "Hi [NAME],​\n\nI just read about Aura-2's low-latency performance & thought I'd reach out. I lead a Conversational AI team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few of your peers (Synthesia, ElevenLabs, Captions, Soundhound, etc) on developing new models / improving existing ones for use cases like ASR, TTS, STT, NER, etc. \n\nFor context, I met some of your colleagues at NVIDA GTC who mentioned that it might be interesting to get connected. Keen to trade notes & get your thoughts on what we're building here if you have 15 mins to chat over the coming weeks? I'm usually open Thursday / Friday."
+},
+{
+"id": "221100882121",
+"subject": "CVPR Connect",
+"text": "Hi [NAME],\n\nWill you be at CVPR this weekend? If so, I'm flying in from London and I'd\nlove the opportunity to introduce myself in person. We've been working\nclosely w/ teams at Zefr and Hudl who are developing similar contextual\nscene analysis models to [COMPANY] for the purpose of product placement\nrecognition and/or explicit content detection. I hope we can find time to\nconnect.\n\nA bit of context on Encord - we help over 200 AI teams improve data quality\nfor model development. We focus on consolidating data curation, annotation\nand model evaluation with the goals of efficiency gains for training\ndataset preparation & model iterations.\n\nWould you be open to a coffee & exchange perspectives? We'll be at the\nconference Friday (6/13) to Sunday (6/15). If virtual is easier, happy to\nfind a time that suits you!"
+},
+{
+"id": "221124930749",
+"subject": "Working w/ ElevenLabs & Soundhound | Aura-2",
+"text": "Hi [NAME],​\n\nI just read about Aura-2's low-latency performance & thought I'd reach out. I lead a Conversational AI team here at Encord (~6 years old, 100+ employees & $50M+ funding) - we're actually working with a few of your peers (Synthesia, ElevenLabs, Captions, Soundhound, etc) on developing new models / improving existing ones for use cases like ASR, TTS, STT, NER, etc. \n\nFor context, I met some of your colleagues at NVIDA GTC who mentioned that it might be interesting to get connected. Keen to trade notes & get your thoughts on what we're building here if you have 15 mins to chat over the coming weeks? I'm usually open Thursday / Friday."
+},
+{
+"id": "221132091602",
+"subject": "CVPR Connect",
+"text": "Hi [NAME],\n\nI saw you're hiring so thought you'll be at CVPR this year - and if so, I'd\nlove to introduce myself in person. We've been working on projects w/\nSynthesia, Twelve Labs and Flawless etc. developing similar models to\n[COMPANY] for the purpose of product video insertions and scene\nunderstanding - hope we can find time to connect.\n\nA bit of context on Encord - we help over 200 AI teams improve data quality\nfor model development. We focus on consolidating data curation, annotation\nand model evaluation with the goals of efficiency gains for training\ndataset preparation & model iterations.\n\nWould you be open to a coffee & exchange perspectives? We'll be at the\nconference Friday (6/13) to Sunday (6/15). If virtual is easier, happy to\nfind a time that suits you!"
+},
+{
+"id": "221137793211",
+"subject": "Encord // Honeycomb // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you sent a message through our website and requested more\ninformation - happy to tell you more about the work we do in Insurance\nspace specifically\n\nCould be good to connect & discuss what we've been building more broadly,\nand answer any questions you might have. Do you have any times that work in\nthe next few days?\n\nFeel free to book some time in my calendar here -\n[LINK]"
+}
+]

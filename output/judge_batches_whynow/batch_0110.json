@@ -1,0 +1,202 @@
+[
+{
+"id": "308644795627",
+"subject": "[NAME] - spoke to Michael - should we chat?",
+"text": "Hey [NAME],\n\nThe team recently spoke to Michael Morton, who mentioned Videa has taken a\nfew different approaches to annotation over the years (various in-house &\nthird-party tools) - so was curious to get your perspective,\n\nReaching out as we've seen several Dental AI teams move over to Encord in\nthe past six months - as other providers pivot away from annotation as\ntheir core focus, we've made our big bet on continuing to develop a\nfuture-proof multimodal platform\n\nAppreciate you may not be looking to change just now - but would love to\nhear your perspective & see if there's anything we can help with either in\nthe immediate or long-term,\n\nLet me know if you'd be open to having a quick chat in the coming weeks,"
+},
+{
+"id": "308651542746",
+"subject": "partner with Senseye",
+"text": "Hi [NAME],\n\nCongrats on the Topcon investment! As someone with ADHD cousins, it's\nexciting to see how you're driving innovation in mental health clinical\nresearch.\n\nWe're working with labs and clinics like Viz.ai, Rapid AI, KCL, and\nStanford Med to streamline their training data pipeline for perception\nmodels - improving accuracy, speeding time to market, and reducing\noperational overhead. Since you're building your own CV models, I thought\nthis could be relevant.\n\nQuick context: Encord is a data development platform for advanced CV and\nmultimodal AI (DICOM, image, video, senor), providing native video\nannotation, auto labeling, and HITL review. We're ~5yrs old with $50M\nraised, and supporting 200+ AI teams.\n\nWould love your thoughts - are you open to a quick chat Tue to Thu morning\nPT next week?"
+},
+{
+"id": "309042409718",
+"subject": "Coffee at ICCV?",
+"text": "Hi [NAME],\n\nI saw you're attending ICCV this year so I wanted to reach out. We've been\nworking with UVEYE and Tractable on developing models for vehicle damage\ndetection - hope we can find some time to exchange perspectives at the\nconference.\n\nIn case Encord is new to you - we help over 200 AI teams improve data\nquality for model development. We focus unifying auto-annotation with\ncuration and model evaluation capabilities, so ML teams like yours can\nfocus on identifying the most impactful data groups to improve model\npredictions.\n\nWe'll be at ICCV Tues (10/21) to Thurs (10/23) - ler me know if you're open\nto a coffee at our booth?"
+},
+{
+"id": "309278766296",
+"subject": "Groundlight <> Encord",
+"text": "Hi [NAME],\n\nNoticed live vision insights with minimal setup and natural language\nqueries on your website - assuming you are building vision models in house.\n\nAs your deployment scales, I suspect the edge-case backlog, video streams,\nand sensor diversity start to demand heavier annotation, QA, and model\nevaluation to maintain reliability. We've been helping CV/ML teams solve\nexactly this problem - helping teams capture, annotate, and manage edge\ncases and multi-camera/sensor sync.\n\nQuick context: we're a data development and annotation platform for\nadvanced CV and multimodal AI. We're ~5yrs old, $50M raised, and have\nsupported 200! AI teams like Boston dynamics, PI, and Twelve Labs.\n\nLooks like there's room for collaboration - would you be open for a quick\nchat next week?"
+},
+{
+"id": "309396840652",
+"subject": "Quick Chat @ICCV [YEAR]?",
+"text": "Hi [NAME],\n\nThought you might be attending ICCV this year so I wanted to reach out.\nWe've been working on projects w/ Woven by Toyota, Motive, LiveViewTech\netc. developing vision models for edge applications - hope we can find some\ntime to connect.\n\nA bit of context: Encord helps over 200 AI teams improve data quality for\nperception model training. We focus on consolidating data curation,\nannotation and model evaluation to help customers cut data rep time and\nspeed up model iteration.\n\nWe'll be at ICCV Tue to Thu (Oct 21-23) if you are open to a coffee at our\nbooth?"
+},
+{
+"id": "309443618039",
+"subject": "Quick chat @ ICCV [YEAR]?",
+"text": "Hi [NAME],\n\nThought you might be attending ICCV this year so I wanted to reach out.\nWe've been working on projects w/ Nexar, Motive, Woven (Toyota), etc.\ndeveloping models for road safety - hope we can find some time to connect.\n\nA bit of context about Encord: we help over 200 AI teams improve data\nquality for perception model development - consolidating curation,\nannotation, and model evaluation so teams can focus on building better\nmodels and less wrestling with data.\n\nWe'll be at ICCV from Oct 21 to 23 if you're open to a coffee at our booth."
+},
+{
+"id": "309446242537",
+"subject": "Quick Chat @ ICCV [YEAR]?",
+"text": "Hi [NAME],\n\nHope your week's been going good. Wanted to reach out and see if you are\ngoing to ICCV this year at Honululu.\n\nWe've been working on projects with Woven by Toyota, Motive, and LVT etc.\ndeveloping vision models for edge case applications - hope we could find\nsome time to connect.\n\nQuick context, we help over 200 AI teams (Boston Dynamics, PI, Twelve Labs)\nimprove data quality for perception model training. We streamline the\nannotation pipeline so teams can focus on model development and speed up\niteration.\n\nWe'll be at ICCV Oct 21-23 if you are open to a quick coffee at our booth."
+},
+{
+"id": "309450263753",
+"subject": "Quick chat @ ICCV'25?",
+"text": "Hi [NAME],\n\nThought you might be attending ICCV this year so I wanted to reach out.\nWe've been working on projects w/ Nexar, Motive, Woven (Toyota), etc.\ndeveloping models for road safety - hope we can find some time to connect.\n\nA bit of context about Encord: we help over 200 AI teams improve data\nquality for perception model development - consolidating curation,\nannotation, and model evaluation so teams can focus on building better\nmodels and less wrestling with data.\n\nWe'll be at ICCV from Oct 21 to 23 if you're open to a coffee at our booth."
+},
+{
+"id": "309451138282",
+"subject": "Partnership with [COMPANY]",
+"text": "Hi [NAME],\n\nWe recently onboarded LVT and Flock Safety to help them streamline data\npipeline for VLM and perception models training - and your company has come\nup in a few conversations.\n\nA lot of smart camera and surveillance companies hit the wall when\nreal-world training data outgrows open source tools like CVAT that are not\nvideo-first, handling billions of CCTV frames and edge cases become tough\nquickly. That's why we're seeing a trend of teams shifting from multi-tool\nstack (CVAT, Voxel 51, Segments + Services) to Encord, consolidating\nannotation, QA, and model evaluation.\n\nQuick context: Encord is a data development platform for advanced CV and\nmultimodal AI. We've helped 200+ AI teams improve training data quality at\nscale.\n\nWould love a quick chat if you are also exploring ways to increase\nlabelling throughput. I'm flexible Tue-Thu morning PT but happy to adjust\nfor you."
+},
+{
+"id": "309460157667",
+"subject": "partnership - VLM training",
+"text": "Hi [NAME],\n\nHope you're well! We recently helped LVT, Flock Safety streamline training\ndata pipelines for perception model training, and SAFR came up in\nconversations.\n\nMany surveillance companies hit limits when training data ourgrows open\nsource tools - handling billions of CCTV frames and complex edge cases\nbecomes tough fast. Teams are shifting from multi-tool stacks to Encord,\noften with cost savings and efficiency gains.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI, used by 200+AI teams to scale annotation and improve data quality and\nthroughput.\n\nWould love a quick chat to explore if there's synergy to partner. I'm\nflexible Tue to Thu morning PT but happy to adjust for you."
+},
+{
+"id": "309493054665",
+"subject": "partnership - VLM training",
+"text": "Hi [NAME],\n\nHope you're well! We recently helped LVT, Flock Safety streamline training\ndata pipelines for perception model training, and Realnetworkd came up in\nconversations.\n\nMany surveillance companies hit limits when training data ourgrows open\nsource tools - handling billions of CCTV frames and complex edge cases\nbecomes tough fast. Teams are shifting from multi-tool stacks to Encord,\noften with cost savings and efficiency gains.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI, used by 200+AI teams to scale annotation and improve data quality and\nthroughput.\n\nWould love a quick chat to explore if there's synergy to partner. I'm\nflexible Tue to Thu morning PT but happy to adjust for you."
+},
+{
+"id": "309534350580",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nHeard great things about SAFR at ISC West earlier this year. I wanted to\nreach out as we recently onboarded LVT and Flock Safety ro help them\nstreamline training data pipeline for surveillance model training.\n\nA lot of smart camera and surveillance companies hit the wall when\nreal-world training data outgrows open source tools like CVAT that are not\nvideo-first, handling billions of CCTV frames and edge cases become tough\nquickly. That's why we're seeing a trend of teams shifting from multi-tool\nstack (CVAT, Voxel 51, Segments + Services) to Encord, consolidating\nannotation, QA, and model evaluation.\n\nQuick context: Encord is a data development platform for advanced CV and\nmultimodal AI. We've helped 200+ AI teams improve training data quality at\nscale.\n\nWould love a quick chat if you are also exploring ways to increase\nlabelling throughput. I'm flexible Tue-Thu morning PT but happy to adjust\nfor you."
+},
+{
+"id": "310647696603",
+"subject": "Partnerships - [COMPANY]",
+"text": "Hi [NAME],\n\nHeard great things about SAFR at ISC West! We recently helped LVT and Flock\nSafety streamline their surveillance model training pipelines.\n\nTeams at your scale often hit limits when real-world video data outgrows\nopen source tools that are not video-first - handling billions of CCTV\nframes and edge cases becomes tough quickly. That's why many are moving\nfrom multi-tool stack (CVAT, Voxel 51, Segments + Services) to Encord for\nunified annotation, QA, and model evaluation.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI, supporting 200+ teams to improve training data quality at scale.\n\nWould you be open to a quick chat next week on boosting labelling\nthroughput? I'm flexible Tue-Thu morning PT but happy to adjust for you."
+},
+{
+"id": "310816731331",
+"subject": "EFSG - Lytehouse - Encord",
+"text": "Hi [NAME],\n\nI came across Lytehouse - so inspiring to see another female founder\nbuilding AI from Singapore! I lead AI/ML partnerships at Encord (also EF &\nYC backed), and just moved from Singapore to San Francisco.\n\nI work with smart CCTV and surveillance teams like LiveView Tech, Flock\nSafety, Rhombus, and Milestone Systems to scale their vision model\ntraining - native video annotation, model-assisted labeling, and QA\nworkflows once real-world data outgrows in-house set up or open source\ntools like CVAT.\n\nGiven your focus on AI-powered video analysis, are you open to seeing if we\ncan help you make your current setup faster & cheaper?"
+},
+{
+"id": "312837786813",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nWanted to introduce myself as your new PoC at Encord - nice to meet you.\n\nI understand you spoke with our team earlier this year about improving your\nAI/ML workflows. Since then, we've expanded significantly within the\nrobotics space and built a fully multimodal platform.\n\nWould you be open to reconnecting next week?"
+},
+{
+"id": "312887402689",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "312931054833",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nYour team connected with us last year and mentioned you were set on open\nsource tooling for annotation. I wanted to check in on how John Control's\nAI roadmap has evolved since then.\n\nWith your recent growth - curious if new challenges around scaling data\nhave come up. Many teams we work with have transitioned from multi-tool\nstack (CVAT, Voxel51, Segments + services) to Encord, consolidating\nannotation, QA, and model evaluation in one platform - often with total\ncost savings and less operational overhead.\n\nQuick context: Encord is a data development platform for advanced computer\nvision and multimodal AI (text, image, video, 3d). We help over 200 AI\nteams improve training data quality for vision models.\n\nWould you be open to a quick chat to explore options ahead of your contract\nrenewal? I'm flexible Tue - Thu mornings PT but happy to adjust to\nyour schedule."
+},
+{
+"id": "312946907357",
+"subject": "ICCV meet-up",
+"text": "Hi [NAME],\n\nNoticed you'll be at ICCV this year and would be keen to meet up and grab a\ncoffee there, or feel free to swing by our booth (#605).\n\nI've recently been working with HP on their video conference tech,\nsupporting them with audio and video sync on their ML pipelines, so would\nbe keen to hear what you're working on at Samsung and trade some notes.\n\nIf Encord is new to you, we're a YC backed turned Series B scale-up\noffering a multimodal ML DataOps platform. We work with over 200+ AI teams\nhelping them with data curation, annotation and model eval.\n\nWe'll be at ICCV Tues (10/21) to Thurs (10/23) let me know fi you're around\nand we can pencil in a 15min meet."
+},
+{
+"id": "312950013127",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "312954027231",
+"subject": "[NAME] Seff - ICCV",
+"text": "Hi [NAME],\n\nNoticed you're heading to ICCV later this month, so wanted to see if you'd\nbe up for grabbing a coffee there, or feel free to swing by our booth if\nit's easier (#605).\n\nWould be great to hear more about what you're working on at OpenAI and\ntrade some notes from the work I've been doing with other frontier labs\n(Thinking Machine Labs, Synthesia and Boston Dynamics).\n\nIf Encord is new to you, we're a ML data ops platform (Series B), we work\nwith over 200+ AI teams helping them unify data curation, annotation and\nmodel eval for multimodal models.\n\nLet me know and we can pencil in a coffee there."
+},
+{
+"id": "313216345282",
+"subject": "partner with [COMPANY]",
+"text": "Hi [NAME],\n\nCame across your profile while looking into EFSG - love seeing more\nrobotics AI being built out of Singapore! I just moved from SG to SF and\nwork with a bunch of robotics and AV teams building similar CV models.\n\nA lot of them hit scaling issues once open source/ inhouse annotation tools\ncan't keep up with real-world data. We help with model-assisted labeling,\nworkflow management, QA, and model evaluation so teams can iterate faster\nand focus on model performance.\n\nQuick context - Encord is a data development platform for CV and multimodal\nAI (image, video, 3d point cloud), supporting teams like Woven by Toyota,\nBoston Dynamics, Physical Intelligence, and Dyna Robotics. We're also\nEF-backed, now series B and working with 200+ AI teams.\n\nWould it make sense to explore if we can complement your setup?"
+},
+{
+"id": "313244432614",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313553412304",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313581898979",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313581904106",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313590936790",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313599874281",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313601652943",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313601758408",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313601770734",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313639301326",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313639545059",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313641369848",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313659527375",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313664797887",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313677542608",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313677656262",
+"subject": "[NAME] - should we chat? ([SENDER] [SENDER])",
+"text": "Hey [NAME],\n\nGreat to see you were checking out Encord - wondering if there's anything I\ncan help with?\n\nBelieve our teams may have chatted in the past - so curious to\nunderstand how we might be able to help\n\nLet me know if you have time to chat either tomorrow or later this week,"
+},
+{
+"id": "313684721883",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313716396267",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+},
+{
+"id": "313718324445",
+"subject": "[NAME] - Coffee with Encord @ ICCV? Booth #605",
+"text": "Hey [NAME]​,\n\nNoticed that you'll be at ICCV and wondering if you be open to grabbing a quick coffee at the Encord booth (#605) while we're at the conference?\n\nCould be interesting to connect / show you a quick product demo at the booth,\n\nLet me know if you're interested - and will be happy to get something on the books,"
+}
+]

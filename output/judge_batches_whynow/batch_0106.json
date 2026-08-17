@@ -1,0 +1,202 @@
+[
+{
+"id": "290751919317",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290751925483",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290752135393",
+"subject": "Encord <> CleanConnect - catch up",
+"text": "Hi [NAME],\n\nCongrats on the EPA approval for your LeakFinder system! My colleague [SENDER]\nmentioned you guys connected a while back, and I wanted to introduce\nmyself.\n\nI know you mentioned that you were using CVAT and have an annotation team. With\nyour recent growth, I was just curious if there have been any new\nchallenges around your data pipeline/ maintaining model accuracy for\ndetecting leaks in complex environments.\n\nJust to recap: we're a data development platform for computer vision and\nmultimodal AI (image, image sequence, video etc). We help teams streamline\nannotation workflows, QA, and model evaluation (without touching your\nmodels) so engineering can focus on improving model performance.\n\nWould you be open to a quick 20-minute chat to revisit? I'm flexible\nTuesday to Thursday next week."
+},
+{
+"id": "290757284061",
+"subject": "Encord & Arvist reconnect",
+"text": "Congrats on your seed round announcement, [NAME]! Excited to see your QC\nsystems in more warehouses.\n\nMy colleague [SENDER] mentioned you've explored Encord in the past.\nConsidering scalability of your annotation pipelines might have become more\ncritical for Arvist - I wanted to get your thoughts on reconnecting.\n\nWe've been on similar journeys with Fox Robotics, Voxel and Protex AI when\ntheir computer vision systems were deployed into new warehouses - mainly\nhelping them speeding up video annotations and identifying labelling errors.\n\nFlexible morning times CT next week if you're open to a catch up?"
+},
+{
+"id": "290757285108",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290768192700",
+"subject": "partnership with [COMPANY]",
+"text": "Hi [NAME],\n\nCongrats on the partnership with Recall Results! We're seeing a lot of\nmomentum in the digital authentication space. As you scale, I imagine the\nhard part is keeping recognition models sharp across edge cases such as\nspoofing attempts, and diverse demographics.\n\nWe've been helping CV teams from companies like Onfido, Veriff & iProov\nsolve exactly this problem with annotation workflows for face, biometrics\nand documents, plus automated QA that cut costs and speed up model\niteration.\n\nQuick context on Encord: we're a data development platform for advanced CV\nand multimodal AI (text, images, videos, etc). We bring data curation,\nannotation, workflow management, QA & model evaluation into one place, so\nteams can focus more on building better AI models.\n\nWould love to see if there's a fit for us partnering. I'm flexible Tuesday\nto Thursdays if you are open to a quick chat."
+},
+{
+"id": "290769853629",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290769864922",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290777274573",
+"subject": "partnership with Cleanconnect",
+"text": "Hi [NAME],\n\nCongrats on the EPA approval of Leak Finder, huge milestone for OGI\nsolutions! Thought I'd reach out since we work with CV teams from Zetiview,\nBuzz and Baker Hughes on similar detection models.\n\nA common complaint we hear from CTOs and heads of AI is that as their\ndatasets grow, internal annotation setups (CVAT + small teams) struggle to\nkeep up with complex edge cases and multimodal data. It slows iteration and\nrisks model performance.\n\nWe help them better prepare training data, accelerate annotation pipelines,\nand manage multimodal data more efficiently without touching their models.\n\nNot sure how familiar you are with Encord: we're a data development\nplatform for advanced CV and multimodal AI. We bring data curation,\nannotation, workflow mgmt, QA & model evaluation into one place, so teams\ncan focus more on building better models (~5 years old, 100+ employees,\nraised $50M+ funding).\n\nWould you be open to a quick chat to see if this could complement your\ncurrent setup? I'm flexible Tuesday to Thursday if you are open to chat."
+},
+{
+"id": "290778835149",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290778855627",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290780867805",
+"subject": "cleanconnect / Encord - catch up",
+"text": "Hi [NAME],\n\nCongratulations on the EPA's approval of your Leak Finder system! Many\ninnovations in OGI solutions for leak detection. Thought I'd reach out\nsince we work closely with CV teams from inspection companies on similar\ndetection models.\n\nI know you currently use CVAT and have an internal annotation team, but\nmany CVAT users are exploring more scalable solutions as their datasets\ngrow in complexity. Companies like Buzz Solutions and Baker Hughes have\npartnered with us to accelerate annotation pipelines, improve model\nquality, and manage multimodal data more efficiently.\n\nEncord doesn't touch your models, we help you better prepare the training\ndata, by combining annotation, workflow management, QA, and model\nevaluation in one platform. Your teams retain full control while benefiting\nfrom HITL workflows, active learning, and faster iteration.\n\nWould you be open to a 20-minute chat to explore if this approach could\ncomplement your current setup? I'm flexible Tuesday to Thursday next week."
+},
+{
+"id": "290784272624",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "290834684134",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290834691262",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "290848903381",
+"subject": "[NAME] - post-IAA catch-up",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague Lukas Habermayr at IAA who recommended I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support annotations of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom the chat with Lukas, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching annotations & will be happy to chat,"
+},
+{
+"id": "290885594352",
+"subject": "[COMPANY] / Encord - catch up",
+"text": "Hi [NAME],\n\nCongrats on the Preem partnership. Love seeing [COMPANY] pushing\nsustainability in industrial AI (and making the Earth greener!)\n\nThe reason for my outreach is to chat about how computer vision plays into\n[COMPANY]'s AI roadmap. If you're anything like our clients in energy and\nindustrials, you see challenges as datasets grow (sensor, video, 3D),\nmanaging complex annotation pipelines starts slowing model development and\nstretching engineering resources.\n\nThat's where we've been helping teams like Baker Hughes and Buzz Solutions,\nto streamline annotation for high-volume, complex datasets so they can\nboost predictive accuracy and get models into production faster. Curious to\nsee how you are currently handling training data as you scale.\n\nDo you have time over the next week or two to visit more? Let me know what\nworks for you, and I'll send a calendar invite accordingly."
+},
+{
+"id": "290888442042",
+"subject": "CVPR + Google Research Scholar Award + Encord",
+"text": "Hi [NAME],\n\nWe've not yet been introduced. I'm [SENDER] and run industrial partnerships at\nEncord. I came across your profile while researching CVPR and noticed your\nGoogle Research Scholar Award. Really impressive to see your academic\nachievements translating into impactful commercial success at [COMPANY]. It's\nrare to see industrial AI simultaneously drive profitability and\nsustainability.\n\nFrom what I understand, [COMPANY] has been sensor-driven in its optimization\nmodels. I'm curious whether you see a role for computer vision alongside\nthat work. Leaders we support (Baker Hughes, Zeitview, Buzz Solutions)\noften combine CV inspection (e.g. defect detection, leak monitoring, asset\ncondition tracking, etc) with process optimization to create a fuller\noperational picture.\n\nThat's where Encord comes in: our platform streamlines the data side of CV\ndevelopment (curation, annotation, QA, model evaluation) so teams can\niterate faster while retaining full control of their pipelines. Not sure\nhow familiar you are with Encord: we're a data development platform built\nfor advanced CV and multimodal AI (image, video, 3D, point cloud). We're ~5\nyears old with 100+ employees and raised $50M+ in funding.\n\nWould you be open to a short chat to compare notes on scaling industrial AI\nand where visual inspection could (or might not) fit into [COMPANY]'s roadmap?\n\nI'd be happy to send an invite along accordingly."
+},
+{
+"id": "290888667345",
+"subject": "partnership with [COMPANY]",
+"text": "Hi [NAME],\n\nI read about [COMPANY]'s partnership with Preem to lower emissions, thank you\nfor driving sustainability in industrial AI (and making the earth greener!)\nThought I'd reach out as we work with companies like Zeitview, Buzz\nsolutions and Baker Hughes on similar CV projects to detect defects / leaks\nat oil rigs and other power plants.\n\nWe've been helping their teams scale annotation for high-volume, complex\ndatasets so they can accelerate model development, improve predictive\naccuracy, and deploy AI faster. Curious to learn if CV inspection is on\n[COMPANY]'s roadmap as well.\n\nQuick context on Encord: we're a data development platform for advanced CV\nand multimodal AI (image, video, 3D, sensor etc). We bring data curation,\nannotation, workflow mgmt & model evaluation into one platform, so teams\ncan focus more on building better AI models.\n\nDo you have time over the next week or two to learn more? Let me know what\nworks for you, and I'll send a calendar invite along accordingly."
+},
+{
+"id": "290934707390",
+"subject": "[COMPANY] / Encord - catch up",
+"text": "Hi [NAME],\n\n[SENDER] mentioned you two connected last year, and I thought I'd be a good\ntime to reconnect. Would love to hear how [COMPANY]'s AI roadmap has evolved\nsince then. We're big fans of the work you're doing.\n\nFrom our side, we've also made some exciting updates to our products since\nyou last chatted.\n\nJust to recap on Encord: we're a data development platform (curation,\nannotation, QA, workflow mgmt & model evaluation). Companies like Zeitview,\nUVeye, and intenseye turn to us when their real-world training data grows\ntoo complex for manual processing/traditional annotation tools like CVAT or\nLabel Studio. And we help by providing native video annotation pipelines\nwith automation + HITL review.\n\nWould love to see if there's any updates regarding tooling investment.\n[SENDER] is traveling to America in the upcoming weeks. Maybe we can catch up\nin the first week of Oct?"
+},
+{
+"id": "291034476792",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291056722122",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291068802294",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291068825802",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291072755903",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at Zenseact - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291075084488",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291089966278",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291089967339",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291089988850",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291090271459",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291096047811",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291098367185",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291098377409",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291100146881",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291101955268",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291103364290",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291103734986",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291105300676",
+"subject": "[NAME] - met your colleague at IAA",
+"text": "Hey [NAME]​,\n\nSpoke to your colleague at IAA who suggested I reach out for a chat,\n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nFrom my chat at IAA, sounded like you have a handle on things in-house - but do let me know if you'd be open to learning how other frontier teams are approaching their training data pipelines & will be happy to chat,"
+},
+{
+"id": "291107338462",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+},
+{
+"id": "291112010985",
+"subject": "[NAME] - chatted to Willem",
+"text": "Hey [NAME]​,\n\nSpoke to Willem Verbeke earlier in the summer & sounded like there was a few pieces we might be able to help with, \n\nFor context, I lead an AV annotation team at Encord - working with Wayve, Woven-by-Toyota, Oxa and a bunch of other ADAS teams - providing the platform to support the annotation and curation of VLMs, Video, and 3D point cloud across complex Multimodal use cases.\n\nOver the last year we've lots of inbound demand from AV teams looking to diversify away from Scale AI and Kognic to gain more control over their training data pipelines & support faster internal experimentation - benefiting from proactive product development to support frontier annotation use cases. \n\nFrom my chat with Willem, sounded like this could also be the direct of travel at [COMPANY] - \n\nLet me know if you'd be interested in learning how we're working with Wayve & others, and will be happy to chat,"
+}
+]

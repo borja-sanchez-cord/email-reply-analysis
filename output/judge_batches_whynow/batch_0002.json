@@ -1,0 +1,202 @@
+[
+{
+"id": "120853549294",
+"subject": "We've recently onboarded Binit as a customer",
+"text": "Hi [NAME]​, \n\nI'm reaching out as we've recently onboarded Binit / Visia to help scale their data curation & annotation pipelines for waste management. Just like Machinex they're leveraging vision models for AI-powered sorting use cases and have already seen a significant improvement in their training data quality, labelling efficiency & model accuracy. \n\nNot sure how familiar you are with Encord, we're a data development platform built for advanced computer vision teams to build better models (~5 years old, 70+ employees, $50M+ funding). \n\nWe tend to be a good fit for ML teams that are at the point of looking to remove the bottlenecks associated with scaling up AI initiatives. We specialise in video & work with many robotics / factory logistics companies doing similarly great things to Machinex (ex: Pickle Robot and RIOS Intelligent Machines) around automatic sorting, picking operations, etc. \n\nWould you be open to a quick call next week? It'd be great to introduce ourselves and get your feedback on the platform more broadly."
+},
+{
+"id": "120911197394",
+"subject": "1-1 meeting with Encord?",
+"text": "Hi,\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "121007576281",
+"subject": "[Robotic AI] Encord // [COMPANY]",
+"text": "Hi [NAME],​\n\nWe work with Robotic AI teams from Pickle Robot, RIOS Intelligent Machines & Rapid Robotics and are familiar with many of the computer vision challenges faced by sophisticated teams operating in very low error tolerant environments. \n\nWe know that the large volume of homogeneous data generated from clients deployments can be challenging and expensive to sift through. We also know how important it is to have the right tooling to focus on the most important data today that will have the biggest impact on model performance. \n\nThis is where Encord's integrated data curation tooling can help teams manage visual data, and quickly understand the right data to label and drive important improvements in model quality. \n\nTypically we help Robotics AI teams cut data volumes by 33%+ whilst driving model performance improvements by 20% mAP. Would you be interested in learning more?"
+},
+{
+"id": "121064589547",
+"subject": "Encord // Bencium // 1-1 Meeting?",
+"text": "Hi [NAME],\n\nJust saw that you requested a trial on our website for floorplan parsing.\n\nCould be good to connect & discuss what we've been building for this, and\nanswer any questions you might have. Do you have any times that work in the\nnext few days?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "121197154510",
+"subject": "[COMPANY] <> Encord | Coffee at NRF?",
+"text": "Hi [NAME],\n\nCame across Raspberry through the Forrester report about NRF innovators and\nafter a quick look at your website - I got intrigued.\n\nFor context - we raised $50M from Next47/CRV/YC and are an end-end data\ndevelopment platform for computer vision teams from Philips, Baker Hughes,\netc. We are consolidating data curation, annotation, workflow management\nand model observability all under one platform.\n\nWe've got experience working in Retail with partners like Standard AI,\nNeurons\n<[LINK]>,\netc.\n\nDo you have 15 minutes to grab coffee at the conference this week? Would be\ngreat to catch up and get your thoughts on what we're building + happy to\nshare what we've seen work well & less well with our retail partners over\nthe years."
+},
+{
+"id": "121278451907",
+"subject": "[YEAR] roadmap with new CEO",
+"text": "Hey [NAME],\n\nJust saw the exciting news that [SENDER] has been appointed CEO, and was\ncurious to understand how this is likely to affect your priorities in the\nR&D team.\n\nSince you last spoke with Encord, we've started working with Flock Safety,\nwho are doing similarly great things to you within the ALPR space &\nreleased support for multimodal data management (Audio, Documents, & Text,\nto complement our capabilities in Image & Video).\n\nLet me know if you are interested in catching up - happy to run you through\nour product updates & share insights from our latest partnerships with\nsimilar teams,"
+},
+{
+"id": "121290921173",
+"subject": "ICCV Re-connect",
+"text": "Hey [NAME],\n\nWas chatting to a couple of my colleagues, who mentioned that you had some\nproductive conversations this time last year following a meeting at ICCV.\n\nIn this time, we've raised a $50m Series B, and doubled down on product\ndevelopment to support multimodal training data development (now supporting\nAudio, Text & Documents alongside our capabilities in Image & native Video).\n\nWould love to find a time to catch-up and hear how things have been going\nfollowing the move down to California & discuss how Encord may be able to\nsupport upcoming multimodal projects."
+},
+{
+"id": "121323601117",
+"subject": "Encord // The [COMPANY] // 1-1 Meeting?",
+"text": "Hi [NAME],\n\nJust saw that you requested a trial on our website for image annotation.\n\nCould be good to connect & discuss what we've been building for this, and\nanswer any questions you might have. Do you have any times that work in the\nnext few days?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "121395477693",
+"subject": "[SENDER] 2.0",
+"text": "Hey [NAME],\n\nCongratulations on raising a very impressive Series B - the mention of\nhuman compliance in the press release caught my eye & thought it could be\ninteresting to introduce Encord as you introduce a new wave of product\nupdates.\n\nMany of the Agentic AI teams we work with complained of the administrative\nburden of managing their QA teams, which was creating a bottleneck to\nscaling their AI initiatives.\n\nEncord is an Agentic AI development platform that simplifies this process\nby allowing you to track QA progress & distribute tasks based on reviewer\ncapacity, reducing the hassle of managing external teams.\n\nOpen to learning more?"
+},
+{
+"id": "121422662883",
+"subject": "Turing test",
+"text": "Hey [NAME]​,\n\nNoticed that you are currently hiring for a new Director of Machine Learning & wanted to reach out to see if Encord could help on your path to improving your ASR models (& ultimately surpassing the Speech-first Turing Test!)\n\nMany CTOs of ASR teams we work with were frustrated by the growing maintenance burden of internal tools for Audio data management & annotation, a challenge intensified by the rapid growth of customer data volumes.\n\nWe built Encord to support the management, curation & annotation of Audio data at scale (supporting billions of data items), freeing your team from the hassle of internal tool maintenance & helping you to build better models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "121426268349",
+"subject": "Turing test",
+"text": "Hey [NAME]​,\n\nNoticed that you are currently hiring for a new Director of Machine Learning & wanted to reach out to see if Encord could help on your path to improving your ASR models (& ultimately surpassing the Speech-first Turing Test!)\n\nMany CTOs of ASR teams we work with were frustrated by the growing maintenance burden of internal tools for Audio data management & annotation, a challenge intensified by the rapid growth of customer data volumes.\n\nWe built Encord to support the management, curation & annotation of Audio data at scale (supporting billions of data items), freeing your team from the hassle of internal tool maintenance & helping you to build better models, faster. \n\nOpen to learning more?"
+},
+{
+"id": "121482832082",
+"subject": "[SENDER] 2.0",
+"text": "Hey [NAME],\n\nCongratulations on raising a very impressive Series B - the mention of\nhuman compliance in the press release caught my eye & thought it could be\ninteresting to introduce Encord as you introduce a new wave of product\nupdates.\n\nMany of the Agentic AI teams we work with complained of the administrative\nburden of managing their QA teams, which was creating a bottleneck to\nscaling their AI initiatives.\n\nEncord is an Agentic AI development platform that simplifies this process\nby allowing you to track QA progress & distribute tasks based on reviewer\ncapacity, reducing the hassle of managing external teams.\n\nOpen to learning more?"
+},
+{
+"id": "121534689521",
+"subject": "JP Morgan Healthcare Conference [City Meeting]",
+"text": "Hi [NAME],\n\nOur team is local to the bay area and I noticed you are working heavily in\nthe responsible AI area. We are an HIPAA compliant AI developer tool for\nvision, audio, and text data sets. We essentially help AI teams build AI\ndepending on their data and needs. We have hundreds of customers and 50% of\nthem are in the healthcare industry including Stanford Medicine.\n\nWould love to have a chat with you to see where Kaiser is in the process of\ndeveloping their own AI models. Are you available this week?"
+},
+{
+"id": "121534798060",
+"subject": "CES follow up",
+"text": "Hi [COMPANY],\n\nWe were interested to visit your booth during CES but weren't able to.\nWould love to learn more about the products and see if you are using\ncomputer vision or video for model creation?"
+},
+{
+"id": "121551625408",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121553456372",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121616987325",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121625156822",
+"subject": "Evaluating new tools",
+"text": "Hi [NAME],\n\nHad a quick conversation with Ferdinand before the holidays, and he\nmentioned that you would be leading the evaluation at [COMPANY] for new\nannotation tooling in the new year.\n\nSeems like you might already be familiar with Encord from your days at\nXarvio - happy to get you up to speed with our latest product updates &\noffer our perspectives from working with our partners in Geospatial AI.\n\nLet me know if it still makes sense for us to chat,"
+},
+{
+"id": "121627696349",
+"subject": "[Robotic AI] Encord // T-robotics",
+"text": "Hi [NAME],​\n\nWe work with Robotic AI teams from Pickle Robot, RIOS Intelligent Machines & Rapid Robotics. We are familiar with many of the computer vision challenges faced by sophisticated teams operating in very low error-tolerant environments. \n\nWe know that the large volume of homogeneous data generated from clients' deployments can be challenging and expensive to sift through. \n\nThis is where Encord's integrated data curation tooling can help teams manage visual data and quickly understand the right data to label and drive important improvements in model quality. \n\nTypically, we help robotics teams cut data volumes by 33%+ while driving model performance improvements by 20% mAP. \nAre open to seeing how it works?"
+},
+{
+"id": "121630269662",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121667251419",
+"subject": "Encord / Samba.TV - CES 25'",
+"text": "Hi [NAME],\n\nI noticed you attended CES this year and was hoping to stop by your booth\nto find you. Unfortunately we didn't get the chance. Do you have any time\nthis week to learn more about, if any, the goals you have in computer\nvision?"
+},
+{
+"id": "121667776725",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121722983670",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121958851810",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within [COMPANY] as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121960701163",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "121966614732",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hey [NAME],\n\nHappy New Year - hope you managed to have a nice break over the holidays!\n\nThought I'd reach out to schedule a time to continue the conversation where\nwe left off. I'd still love the opportunity to show you & some of your AI\nteam the Encord platform in action & explore if there is a potential avenue\nfor collaboration this year. Including some availability for next week\n(EDT) - let me know if any of these slots work for a 45min demo + Q&A.\n\n   - Tuesday 21st: 2-3pm\n   - Thursday 23rd: 1-3pm\n   - Friday 24th: 10-11am"
+},
+{
+"id": "121968252133",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hey [NAME],\n\nHappy New Year! Hope you had a nice rest over the holidays...just got back\nfrom a trip to Indonesia was amazing - highly recommend it if you ever get\nthe opportunity.\n\nWanted to reach out to see if you'd be open to a quick 15 min catch up in\nthe coming weeks? Appreciate your priorities had shifted when we last\nspoke, however it'd be great to keep the dialogue going & hear how things\nare progressing at Pipio in general. We've got a few product updates on our\nside we'd like to get your feedback on also."
+},
+{
+"id": "121997157611",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "122055002313",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "122125203694",
+"subject": "[Encord] [NAME] / [SENDER] - Intro",
+"text": "Hey [NAME],\n\nHappy New Year! I hope you had a nice break over the holidays - I just got\nback from a trip to Indonesia, was amazing.\n\nWe caught up on the phone a couple of times before Christmas - just wanted\nto see if you'd still be open to have a quick chat with [SENDER], our\nco-founder, over the coming weeks? We're very familiar with Greyscale and\nwe're currently seeing a lot of momentum in the AI inspection space of\nlate, so keen to trade notes and build a relationship.\n\nIf you're interested - happy to send over some availability for next week."
+},
+{
+"id": "122141996259",
+"subject": "Expansion to India",
+"text": "Hey [NAME]​,\n\nNoticed that your recent raise includes plans to expand to India, which made me curious to understand how you were thinking about AI model retraining for this new market? \n\nWe work with over 50 CTOs of Medical Imaging AI teams (including Curemetrix, Densitas, and Whiterabbit) who were frustrated by slow model re-training using in-house tools hurting their expansion into new markets.\n\nWe built Encord to help AI teams remove data bottlenecks, by focusing on data curation & annotation, so they can realise new revenue opportunities, faster.\n\nOpen to learning more?"
+},
+{
+"id": "122144906461",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hey [NAME],\n\nHappy New Year - hope you had a nice break over the holidays! Just got back\nfrom a trip to Indonesia, big reality shock going back to the office..\n\nThought I'd reach out as we onboarded UVeye as a customer last week & it\nmade me think of you - do you come across them much? Appreciate Encord\nwasn't a priority the last time we spoke, however it'd be great to keep a\ndialogue going going.\n\nDo you have a spare 15 minutes in the next couple of weeks perhaps? It'd be\ngreat to catch up and hear how things are going at Ravin in general. I can\nshare a few product updates on our side also."
+},
+{
+"id": "122179579120",
+"subject": "Getting in touch after your interest in Encord",
+"text": "Hi [NAME],\n\nThanks for requesting some more information on Encord.\n\nCould we schedule: [LINK] a call later this week (or beyond if better) to see how Encord could be a fit for you and the team?"
+},
+{
+"id": "122204447947",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hey [NAME],\n\nHappy New Year - hope you managed to have a nice break over the holidays!\n\nWould you be open to a quick 15-20 min catch up next week? It'd be great to\nhear how things are progressing with you & the team. We've got a few\nproduct updates on our side also. Wide open 8am GMT / 7pm AWST pretty much\nevery day in case that works on your end."
+},
+{
+"id": "122224103641",
+"subject": "Re: [COMPANY].net Feedback - Business Opportunity",
+"text": "Hey [NAME],\n\nHappy New Year - hope you managed to have a nice break over the holidays!\n\nThought i'd reach out as since we last spoke we've been working with both\nOxBlue and TrueLook. Appreciate when we spoke back in August your AI team\ndidn't express interest in exploring Encord. Not sure if anything has\nchanged on your side however we'd still love the opportunity to introduce\nourselves properly and show how we're helping your peers.\n\nWould you be open to a quick catch up in the coming weeks? It'd be great to\nhear how things are progressing at [COMPANY] in general. I can share some\nbusiness (recent Series B raise etc.) & product updates on our side also."
+},
+{
+"id": "122235324657",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hey [NAME],\n\nHappy New Year - hope you had a nice break over the holidays!\n\nAppreciate timing wasn't right to adopt Encord when we caught up with you &\n[SENDER] before your raise last year - however it'd be great to hear how\nthings are progressing at [COMPANY] in general & if you expect your\nannotation requirements to scale this year?\n\nEncord has come a long way since you were last in contact with us -- we've\nstarted working w/ many Physical AI co's in your space (Archetype AI,\nPhysical Intelligence etc), raised our Series B & released a bunch of new\nfeatures (Encord Index & Agents).\n\nWould you be open to a quick catch up in the coming weeks? We'd love to\nbuild a relationship with you guys & explore if there's any potential\navenue for collaboration this year.\n\nHope all is well and chat soon,"
+},
+{
+"id": "122302781643",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hey [NAME],\n\nHappy New Year - I hope you had a nice break over the holidays!\n\nIt's been a while since we last spoke - would you be open to a quick catch\nup in the coming weeks? Appreciate timing wasn't right to adopt Encord last\nyear, however it'd be great to hear how things are progressing at Forus\nHealth in general. We have a few business (recent Series B raise etc.) &\nproduct (Encord Index & Agents) updates to share on our side also."
+},
+{
+"id": "122407250158",
+"subject": "We have an MSA with Fraunhofer | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Fraunhofer as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within Fraunhofer as well.\n\nFor context, sophisticated AI/ML teams like Fraunhofer, Baker Hughes and Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Fraunhofer teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "122410329276",
+"subject": "1-1 meeting with Encord?",
+"text": "Hi,\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "123039754448",
+"subject": "Encord // iMerit // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and signed up to use the platform. Would love to learn more about the work that you're doing at iMerit and help you get introduced to the Encord platform. ​\n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+}
+]

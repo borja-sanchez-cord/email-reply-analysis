@@ -1,0 +1,202 @@
+[
+{
+"id": "494519247034",
+"subject": "Spoke to Oleg Smirnov // post-training alignment",
+"text": "Hi [NAME],\n\nCaught up with your colleague Oleg at ICLR - spoke about scaling\npost-training alignment and some annotation requirements around sensor data\n& thought it was worth a quick intro.\n\nFor context, Encord works with leading AI teams like Synthesia & Thinking\nMachine Labs providing the platform to evaluate & fine-tune model outputs\nat scale.\n\nIt would be great to be introduced & happy to share more on how we could\nsupport you on these topics.\n\nWould you be open to having a quick chat later this week / early next?"
+},
+{
+"id": "494613930181",
+"subject": "Spoke to Oleg Smirnov at ICLR // post-training alignment",
+"text": "Hi [NAME],\n\nCaught up with your colleague Oleg at ICLR - spoke about scaling\npost-training alignment and some annotation requirements around sensor data\n& thought it was worth a quick intro.\n\nFor context, Encord works with leading AI teams like Synthesia & Thinking\nMachine Labs providing the platform to evaluate & fine-tune model outputs\nat scale.\n\nIt would be great to be introduced & happy to share more on how we could\nsupport you on these topics.\n\nWould you be open to having a quick chat later this week / early next?"
+},
+{
+"id": "494614933699",
+"subject": "Spoke to Oleg Smirnov at ICLR // post-training alignment",
+"text": "Hi [NAME],\n\nCaught up with your colleague Oleg at ICLR - we spoke about scaling\npost-training alignment and some annotation requirements around sensor data\n& thought it was worth a quick intro.\n\nFor context, Encord works with leading AI teams like Synthesia & Thinking\nMachine Labs providing the platform to evaluate & fine-tune model outputs\nat scale.\n\nIt would be great to be introduced & happy to share more on how we could\nsupport you on these topics.\n\nWould you be open to having a quick chat later this week / early next?"
+},
+{
+"id": "494616322243",
+"subject": "Spoke to Oleg Smirnov // pos-training alignment",
+"text": "Hi [NAME],\n\nCaught up with your colleague Oleg at ICLR - spoke about scaling\npost-training alignment and some annotation requirements around sensor data\n& thought it was worth a quick intro.\n\nFor context, Encord works with leading AI teams like Synthesia & Thinking\nMachine Labs providing the platform to evaluate & fine-tune model outputs\nat scale.\n\nIt would be great to be introduced & happy to share more on how we could\nsupport you on these topics.\n\nWould you be open to having a quick chat later this week / early next?"
+},
+{
+"id": "494654861500",
+"subject": "[COMPANY] <> Encord",
+"text": "Hey [NAME], I lead GTM efforts for Physical AI at Encord. We work with a\nnumber of drone and autonomous systems teams on the data infrastructure\nside to manage, annotate, and curate multi-sensor and aerial video data\nthat feeds their models.\n\nMany of the customers that we work with (Zipline, Skydio, etc) partnered\nwith us as the scale of complexity started to break initial tooling across\nmulti-camera sensor fusion, large-volume flight data, edge-case mining\nacross diverse environments. The teams we work with at that stage are\nusually either hitting walls with in-house annotation infrastructure or\nspending engineering cycles maintaining pipelines that need to be automated.\n\nWould be keen to explore any friction points the Elroy team is dealing with\nacross the data lifecycle and where we can add the most leverage as you're\ncontinuing to scale.\n\nWould you be open to a quick intro chat in the next week or two?"
+},
+{
+"id": "494657524938",
+"subject": "Dusty <> Encord",
+"text": "Hi [NAME], congrats on coming onboard to Dusty late last year.  I know the\nCantos team well that has backed [COMPANY] since the early days.\n\nI lead GTM efforts for Physical AI at Encord. We work with companies across\nrobotics, AVs, drones, and other forms of autonomous systems to help them\nmanage the scale and complexity of multi sensor data across the end to end\ntraining lifecycle.\n\nMany of the customers that we work with (Zipline, Skydio, Agility, Dyna,\netc) partnered with us as the scale of complexity started to break initial\ntooling - multi-camera sensor fusion, agent based pre-labeling, edge-case\nmining across diverse mission environments, and HITL post labeling. The\nteams we work with at that stage are usually either hitting walls with\nin-house annotation infrastructure or spending engineering cycles\nmaintaining pipelines that need to be automated.\n\nCurious whether that's a friction point for you right now; specifically\naround how you're handling annotation and data curation as the autonomy\nstack scales.\n\nWould you be open to a quick intro chat in the next week or two?"
+},
+{
+"id": "494659167470",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI'm leading GTM for our Physical AI segment at Encord where we're\npartnering with some of the fastest growing players in autonomy to\naccelerate their ML ops training/production pipelines. I see you're owning\nrobotics perception at Amp and likely have ongoing demands to support your\nvision-based sortation of recyclable materials.\n\nWe work with customers across robotics and autonomous use cases as they are\nscaling into production and trying to transition away from in-house or\nmanual efforts that are consuming engineering time.\n\nCan we find 20 minutes next week to briefly get introduced and better\nunderstand some of the challenges you're working on at the moment?"
+},
+{
+"id": "494660248815",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI'm leading GTM for our Physical AI segment at Encord where we're\npartnering with some of the fastest growing players in autonomy to\naccelerate their ML ops training/production pipelines. I see you're owning\ndata ops at Amp and likely have ongoing demands to support your\nvision-based sortation of recyclable materials.\n\nWe work with customers across robotics and autonomous use cases as they are\nscaling into production and trying to transition away from in-house or\nmanual efforts that are consuming engineering time.\n\nCan we find 20 minutes next week to briefly get introduced and better\nunderstand some of the challenges you're working on at the moment?"
+},
+{
+"id": "494663932127",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nLooks like you overlapped with several friends of mine at Samsara during\nyour time there, notably Max who was there since the early days.\n\nI'm leading GTM efforts for Physical AI at Encord\n<[LINK]>.\nWe've built the data platform for teams training vision AI on high-volume\nvideo. [COMPANY] is one that I've been following for awhile, particualrly as\nyou've expanded into heteregenous environments.\n\nWe've partnered with a number of well-known companies developing Vision\nmodels where Encord is well equipped to automate their data pipeline and\nVLM development process. Some of the key product areas that we support\ninclude video-native annotation (with multi cam synchronization) and\ncuration, embedding-based dataset analysis to find distribution gaps, and\nAI pre-labelling agents that cut manual overhead significantly. Vida\nannotated 70,000 images in a month and cut false acceptance rates from 6%\nto 1%; Standard AI saved $600k annually on video processing.\n\nWould love to grab 20 minutes in the coming week or two to connect and\nexplore potential areas of fit if you or someone on the team would be up\nfor it."
+},
+{
+"id": "494681049283",
+"subject": "Amp Robotics <> Encord",
+"text": "Hi [NAME],\n\nI'm leading GTM for our Physical AI segment at Encord where we're\npartnering with some of the fastest growing players in autonomy to\naccelerate their ML ops training/production pipelines. I see you're owning\nML data ops at Amp and likely have ongoing demands to support your\nvision-based sortation of recyclable materials.\n\nWe work with customers across robotics and autonomous use cases as they are\nscaling into production and trying to transition away from in-house or\nmanual efforts that are consuming engineering time.\n\nCan we find 20 minutes next week to briefly get introduced and better\nunderstand some of the challenges you're working on at the moment?"
+},
+{
+"id": "495027016937",
+"subject": "[Encord] Coffee in Austin with founding team?",
+"text": "Hi [NAME],\n\n      Our leadership team will be in \n      Austin Wed 19th Nov - Thu 20th Nov meeting up with a bunch of our customers in the area. I know Pensa is in a space we're very interested in so wanted to reach out to see if you'd like to grab coffee with them?\n\n      Bit of context on Encord, we're a computer vision scale up ($50M raised Series B) focused on consolidating data curation, annotation, workflow management and model eval in one place. We work w/ many RetailTech teams doing similar great things to Pensa (e.g. Standard AI, Neurolabs, Focal Systems, Augmodo) around shelf monitoring, inventory management, SKU recognition, and behavior detection etc. \n\n      They'd be happy to swing by your office or I can book a spot nearby if that's easier. Would that work for you?"
+},
+{
+"id": "495117060295",
+"subject": "re: AI modelling infra",
+"text": "Hi [NAME],\n\nI've been speaking with Uday on your team about the annotation and eval\ninfrastructure at [COMPANY]. Given your role across AI modelling, figured it\nwas worth reaching out directly.\n\nWe work with a number of teams running similar pipelines - voice + text,\nhuman review loops, LLM-as-a-judge at scale.\n\nCommon thread we see is Label Studio gets the job done early on, but breaks\ndown when you need consistency, auditability, and scale across regulated\ncustomer environments.\n\nDo you have 20-mins?"
+},
+{
+"id": "495123532994",
+"subject": "ICRA coffee || VLM /VLAs",
+"text": "Hey [NAME] - Wondering if you / someone from [COMPANY] team is\nattending ICRA - and would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others I can't name) - supporting a\nrange of VLM /VLA 3D annotation tasks - helping them to iterate faster on\nthe fine-tuning of their AI models.\n\nLeaving here a loom with our work on VLA/VLMs\n<[LINK]>\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495199068356",
+"subject": "ICRA - coffee - would love to meet you",
+"text": "Hey [NAME] - seen you're at ICRA, thought I'd reach out,\n\nWas looking forward to catch up and meet you - we've been working with\nAnybotics but also NEURA, ScoutAI, Boston Dynamics & many more frontier\nteams, inc some at ETH,\n\nWe've previously organised Brains, Bodies & Benchmarks event\n<[LINK]>\nin\nSF with friends from Agility, Dyna Robotics, 1X and Physical Intelligence,\nand *I'm planning a similar event in autumn with Flexion & few others in\nZurich. *\n\nI was really looking forward to meeting you in person and trading\nintroductions, I heard so much about you, are you around this week?"
+},
+{
+"id": "495211845827",
+"subject": "ICRA coffee - VLM /VLAs",
+"text": "Hi [NAME] - Wondering if you / someone from Hexagon robotics team is\nattending - and would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others I can't name) - supporting a\nrange of VLM /VLA 3D annotation tasks - helping them to iterate faster on\nthe fine-tuning of their AI models.\n\nLeaving here a loom with our work on VLA/VLMs\n<[LINK]>\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495211989236",
+"subject": "ICRA coffee - VLM /VLAs",
+"text": "Hey [NAME],\n\nWondering if you / someone from Hexagon robotics team is attending - and\nwould be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others I can't name) - supporting a\nrange of VLM /VLA 3D annotation tasks - helping them to iterate faster on\nthe fine-tuning of their AI models.\n\nLeaving here a loom with our work on VLA/VLMs\n<[LINK]>\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495212336345",
+"subject": "ICRA coffee - VLM /VLAs",
+"text": "Hey [NAME] - Wondering if you / someone from Hexagon robotics team is\nattending ICRA - and would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others I can't name) - supporting a\nrange of VLM /VLA 3D annotation tasks - helping them to iterate faster on\nthe fine-tuning of their AI models.\n\nLeaving here a loom with our work on VLA/VLMs\n<[LINK]>\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495212810441",
+"subject": "ICRA coffee || VLM /VLAs",
+"text": "Hey [NAME] - Wondering if you / someone from Hexagon robotics team is\nattending ICRA - and would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others I can't name) - supporting a\nrange of VLM /VLA 3D annotation tasks - helping them to iterate faster on\nthe fine-tuning of their AI models.\n\nLeaving here a loom with our work on VLA/VLMs\n<[LINK]>\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495215113441",
+"subject": "ICRA coffee || VLM /VLAs",
+"text": "Hey [NAME]\n\nWondering if you / someone from Hexagon robotics team is attending ICRA -\nand would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others) - supporting a range of VLM\n/VLA 3D annotation tasks - helping them to iterate faster on the\nfine-tuning of their AI models.\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495216283881",
+"subject": "ICRA coffee -VLM /VLAs",
+"text": "Hey [NAME]\n\nWondering if you / someone from Hexagon robotics team is attending ICRA -\nand would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others) - supporting a range of VLM\n/VLA 3D annotation tasks - helping them to iterate faster on the\nfine-tuning of their AI models.\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495216412874",
+"subject": "ICRA coffee || VLM /VLAs",
+"text": "Hi [NAME] -\n\nWondering if you / someone from Hexagon robotics team is attending ICRA -\nand would be open to grabbing a quick coffee?\n\nI'm on the Humanoid team at Encord working with several leading Robotics\nteams (inc. Boston Dynamics, NEURA & others) - supporting a range of VLM\n/VLA 3D annotation tasks - helping them to iterate faster on the\nfine-tuning of their AI models.\n\nLet me know if you'll be at the conference, or if you're open to\ncatching-up virtually - and will be happy to get something on the books,"
+},
+{
+"id": "495218365645",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hi [NAME]​, \n\nGreat to see that you were exploring Encord - wanted to reach out to see if I could help with anything? \n\nWould be great to chat. Let me know when works, or if easier, feel free to book a time directly in my calendar: [LINK]"
+},
+{
+"id": "495219903689",
+"subject": "How Dolby is enriching metadata at scale - is this relevant?",
+"text": "Hi [NAME],\n\nCame across your profile and your description of building AI that pulls\ndeep metadata out of raw video immediately stood out - that's almost\nexactly what we're working on with Dolby.\n\nWe're helping them ingest large content libraries, apply taxonomy rubrics\nat scale, and feed structured metadata into their downstream GenAI\npipelines.\n\nThe problem they were solving is fragmented tooling making it hard to get\nconsistent, reliable data out of raw content at speed.\n\nGiven you're building near zero-touch workflows and wiring multimodal\nmodels into your media supply chain, I suspect the data quality and ground\ntruth side of that equation comes up as a bottleneck.\n\nI've attached a one-pager to anchor an inital conversation around - is it\nworth 20 mins next week to share what's working for Dolby and a few other\ncontent teams?"
+},
+{
+"id": "495244417221",
+"subject": "agent data quality",
+"text": "Hi [NAME],\n\nVirtuals Protocol's agent commerce model only works if the underlying multimodal data stays clean: prompts, transcripts, images, and any generated assets all need consistent review and traceability as you iterate.\n\nEncord is the data layer teams use to curate and evaluate unstructured datasets so model changes are driven by the right slices of data, not guesswork. That usually means faster iteration and fewer regressions when new modalities or edge cases show up.\n\nCan we set up 20 minutes this week?"
+},
+{
+"id": "495250164935",
+"subject": "How Dolby is improving content metadata at scale - could be relevant?",
+"text": "Hi [NAME],\n\nNoticed your background spans data engineering, visualisation, and now\nGenAI at [COMPANY], which aligns closely with work we're doing across media.\n\nWe're working with Dolby to structure content metadata at scale - ingesting\nlarge libraries, applying taxonomy frameworks, and feeding clean,\nconsistent data into visualisation and GenAI workflows.\n\nA common challenge is fragmented tooling making it difficult to create\nreliable, queryable data for downstream teams.\n\nI'd imagine data consistency and pipeline reliability are themes you\nencounter regularly at [COMPANY].\n\nI've attached a one-pager for context. Would it be worth 20 minutes next\nweek to discuss how we're helping organisations like Dolby?"
+},
+{
+"id": "495250494655",
+"subject": "Dolby is improving their content metadata at scale",
+"text": "Hi [NAME],\n\nCouple of things on your profile caught my attention, particularly the\nGenAI-driven sports analysis and ML-powered media workflows you've been\nbuilding out at [COMPANY].\n\nWe're working with Dolby on their content metadata pipelines and Hudl on\nautomating sports video annotation at scale - the two use cases that look\npretty relevant to what you're running.\n\nThe common thread is giving ML teams a reliable, structured data layer\nunderneath their models, whether that's media workflows or sports content.\n\nI imagine data quality and annotation throughput come up as bottlenecks at\nsome point in your work too?\n\nAttaching a quick one-pager to achor a conversation around, but worth a\nquick call next week to explore further?"
+},
+{
+"id": "495253592285",
+"subject": "How Dolby are using is content metadata at scale",
+"text": "Hi [NAME],\n\nCame across your profile and noticed you're leading data governance and\nAI-driven insights at [COMPANY] - wanted to reach out as it's pretty much exactly\nwhat we work on with a few other large content orgs.\n\nFor examle, we're working with Dolby on their content metadata pipelines -\nhelping them ingest content libraries, apply taxonomy rubrics at scale, and\nfeed cleaner structured metadata into their downstream GenAI and\nrecommendation systems. Synthesia and TwelveLabs are using us similarly.\n\nGiven the scale [COMPANY] operates at, and the cross-domain complexity you're\nnavigating, I suspect some of the same data quality and metadata\nconsistency challenges come up. Happy to share what's been working for\nteams in similar positions.\n\nFind attached a one-pager which would be good to achor an inital discussion\naround.\n\nWould you have time next week to chat?"
+},
+{
+"id": "495256094917",
+"subject": "What Dolby is doing to improve content metadata at scale",
+"text": "Hi [NAME],\n\nReaching out as we're doing some work with Dolby on their data architecture\nthat I thought might resonate given your remit across Sky Group.\n\nTL;DR: Dolby were dealing with fragmented tooling and inconsistent metadata\nacross a large content library - making it hard to feed reliable structured\ndata into their GenAI and recommendation pipelines.\n\nWe've helped them centralise that into a single AI data layer, with\ntaxonomy rubrics applied at scale and clean metadata flowing downstream.\n\nI'd imagine the challenge of maintaining consistency at that kind of\ncross-market scale is familiar territory to you at Sky?\n\nI've attached a one-pager - would it be worth 20 mins to share what we're\nseeing work at Dolby and a few other large scale content organisations?"
+},
+{
+"id": "495266472140",
+"subject": "What Dolby is doing to improve content metadata at scale - relevant?",
+"text": "Hi [NAME],\n\nReaching out as we're doing some work with Dolby on their data architecture\nthat I thought might resonate given your remit across [COMPANY] Group.\n\nTL;DR: Dolby were dealing with fragmented tooling and inconsistent metadata\nacross a large content library - making it hard to feed reliable structured\ndata into their GenAI and recommendation pipelines.\n\nWe've helped them centralise that into a single AI data layer, with\ntaxonomy rubrics applied at scale and clean metadata flowing downstream.\n\nI'd imagine the challenge of maintaining consistency at that kind of\ncross-market scale is familiar territory to you at [COMPANY]?\n\nI've attached a one-pager - would it be worth 20 mins to share what we're\nseeing work at Dolby and a few other large scale content organisations?"
+},
+{
+"id": "495273574605",
+"subject": "Automating the Annotation pipeline at [COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nThe teams we work with doing L4 autonomy, 100TB+ datasets, camera + LiDAR +\nradar fusion, hit the same wall as maritime perception: getting labeled\nedge-case data fast enough to keep the model iteration loop tight. The\nannotation tooling is usually what slows them down, not the modelling. I\nsee you're leading perception/autonomy at [COMPANY] and would be keen to\nunderstand some of the areas where you're looking for lift.\n\nZeitview doubled their data throughput and improved recall by 12% once\ntheir aerial annotation pipeline stopped fragmenting across tools. For ASV\nperception, we can support vessel tracking in adverse weather, night ISR,\ndense traffic. Encord handles video, LiDAR, and point cloud annotation\nnatively, with SAM3 pre-labelling and embedding search to pull the specific\nfailure scenarios out of raw mission data.\n\nWould love to briefly connect on a quick call to get a better sense of your\ncurrent challenges."
+},
+{
+"id": "495273708762",
+"subject": "Automating the Annotation pipeline at Saronic <> Encord",
+"text": "Hi [NAME],\n\nThe teams we work with doing L4 autonomy, 100TB+ datasets, camera + LiDAR +\nradar fusion, hit the same wall as maritime perception: getting labeled\nedge-case data fast enough to keep the model iteration loop tight. The\nannotation tooling is usually what slows them down, not the modelling. I\nsee you're leading perception/autonomy at Saronic and would be keen to\nunderstand some of the areas where you're looking for lift.\n\nZeitview doubled their data throughput and improved recall by 12% once\ntheir aerial annotation pipeline stopped fragmenting across tools. For ASV\nperception, we can support vessel tracking in adverse weather, night ISR,\ndense traffic. Encord handles video, LiDAR, and point cloud annotation\nnatively, with SAM3 pre-labelling and embedding search to pull the specific\nfailure scenarios out of raw mission data.\n\nWould love to briefly connect on a quick call to get a better sense of your\ncurrent challenges."
+},
+{
+"id": "495277594835",
+"subject": "Automating the Annotation pipeline at [COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nThe teams we work with doing L4 autonomy, 100TB+ datasets, camera + LiDAR +\nradar fusion, hit the same wall as maritime perception: getting labeled\nedge-case data fast enough to keep the model iteration loop tight. The\nannotation tooling is usually what slows them down, not the modelling. I\nsee you're leading perception/autonomy at [COMPANY] and would be keen to\nunderstand some of the areas where you're looking for lift.\n\nZeitview doubled their data throughput and improved recall by 12% once\ntheir aerial annotation pipeline stopped fragmenting across tools. For ASV\nperception, we can support vessel tracking in adverse weather, night ISR,\ndense traffic. Encord handles video, LiDAR, and point cloud annotation\nnatively, with SAM3 pre-labelling and embedding search to pull the specific\nfailure scenarios out of raw mission data.\n\nWould love to briefly connect on a quick call to get a better sense of your\ncurrent challenges."
+},
+{
+"id": "495278361792",
+"subject": "Dolby is improving content metadata at scale - relevant?",
+"text": "Hi [NAME],\n\nWe're working with Dolby on structuring content metadata at scale -\ningesting libraries, applying taxonomy rubrics, and feeding clean,\nconsistent data into downstream GenAI pipelines.\n\nThe problem they were solving was inconsistent metadata making it hard to\nbuild reliable models on top of content.\n\nIt caught my eye given your remit at [COMPANY] Media i.e. running GenAI use cases\nand yield optimisation across linear and digital, ans I'd imagine the\nquality of the underlying content and audience data is a recurring\nconstraint.\n\nI've attached a one-pager to anchor an inital conversation around - would\nit be worth finding 20 mins to share what's working for Dolby and a few\nother content teams?"
+},
+{
+"id": "495279496413",
+"subject": "Mach <> Encord",
+"text": "Hey [NAME],\n\nI lead GTM efforts for Physical AI at Encord. We work with a number of\nleading UAV and defense focused companies to support their perception stack\nas they manage, annotate, and curate multi-sensor data that feeds their\nautonomy models.\n\nMany of the customers that we work with partnered with us as the scale of\ncomplexity started to break initial tooling across multi-camera sensor\nfusion, large-volume flight data, edge-case mining across diverse\nenvironments. The teams we work with at that stage are usually either\nhitting walls with in-house annotation infrastructure or spending\nengineering cycles maintaining pipelines that need to be automated.\n\nWould be keen to explore any friction points the Mach team is dealing with\nacross the data lifecycle and where we can add the most leverage as you're\ncontinuing to scale.\n\nWould love to grab 20 minutes later this week for a quick intro and assess\nfit on some of the areas you're focused on."
+},
+{
+"id": "495285101783",
+"subject": "Mach <> Encord",
+"text": "Hi [NAME],\n\nI lead GTM efforts for Physical AI at Encord. We work with a number of\nleading UAV and defense focused companies to support their perception stack\nas they manage, annotate, and curate multi-sensor data that feeds their\nautonomy models.\n\nMany of the customers that we work with partnered with us as the scale of\ncomplexity started to break initial tooling across multi-camera sensor\nfusion, large-volume flight data, edge-case mining across diverse\nenvironments. The teams we work with at that stage are usually either\nhitting walls with in-house annotation infrastructure or spending\nengineering cycles maintaining pipelines that need to be automated.\n\nWould be keen to explore any friction points the Mach team is dealing with\nacross the data lifecycle and where we can add the most leverage as you're\ncontinuing to scale.\n\nWould love to grab 20 minutes later this week for a quick intro and assess\nfit on some of the areas you're focused on."
+},
+{
+"id": "495308544247",
+"subject": "compounding the IDV loop",
+"text": "Hi [NAME],\n\nI read Meron's post on Sunday and the line: \"engineers move ten times\nfaster, the processes around them don't, PMs become the bottleneck\" is very\nrelevant. The same dynamic applies to the eval layer. When HAL ships IDV\nfeatures at that pace, does the adversarial benchmark keep up?\n\nGenuinely curious which side of that you're on."
+},
+{
+"id": "495378669787",
+"subject": "recommandé par erwan koffi | on travaille avec abbvie, moon surgical, mmi",
+"text": "Bonjour [NAME],\n\nErwan m'a orienté vers vous côté R&D. On bosse avec des équipes computer\nvision médicale comme  Abbvie, Moon Surgical et MMI. En général au moment\noù elles scalent l'équipe ML : l'enjeu, c'est de garder les ingénieurs sur\nles modèles plutôt que sur la couche data interne, sans rien lâcher sur la\nqualité vu que c'est un produit patient.\n\nPlateforme data-centric : curation, annotation 2D/3D, éval modèles et\nactive learning au même endroit, déployable en VPC.\n\n20 minutes la semaine prochaine pour comparer ?"
+},
+{
+"id": "495389298926",
+"subject": "Label Studio / annotation setup",
+"text": "Hi [NAME],\n\nHad a chat with Uday about [COMPANY]'s ML setup - he mentioned the team is\nusing Label Studio across chat and voice workflows.\n\nWe work with a number of voice AI teams doing similar tasks including the\nlikes of Sythesia, Udio, Thinking Machine Labs, Gradium and more.\n\nThe reason most of them moved off Label Studio is the same i.e. it handles\nindividual annotation tasks fine but falls apart when you need curation and\nannotation in the same place, with QA built in to actually manage\ncontractor consistency and output quality.\n\nRight now if you're running contractors through Label Studio, my guess is\nQA is either manual spot checks or a separate process entirely - does that\nsound familiar?\n\nWould love to talk more and see if there is anything Encord could help with\n- worth 20-mins next week?"
+},
+{
+"id": "495390725342",
+"subject": "re: automating data curation",
+"text": "Hi[NAME],\n\nI've been speaking with Uday on your team - noticed your profile as someone\ndriving the automation of data curation and model evaluation internally.\n\nWe work with a handful of teams building AI-native contact center products\nwhere the same bottleneck shows up: the pipeline between raw interaction\ndata and a retrained model has too many manual steps and too many tools.\nAnnotation in one place, human review in another, eval scoring in a\nspreadsheet.\n\nWe consolidate that - if it's a pain you're actively trying to solve would\nit be worth a call to scope out?\n\nHave time next week Mon, Tues, Thurs?"
+},
+{
+"id": "495476348147",
+"subject": "Intramotev <> Encord",
+"text": "Hi [NAME],\n\nI've been following Intramotev since my friends at Cantos VC backed the\ncompany in the early days.  I lead GTM efforts for Physical AI at Encord.\nWe work with companies across robotics, AVs, drones, and other autonomous\nsystems to help them manage the scale and complexity of multi sensor data\nacross the end to end training lifecycle.\n\nMany of the customers that we work with (Boston Dynamics, Zipline, Skydio,\nAgility, Dyna, etc) partnered with us as the scale of complexity started to\nbreak initial tooling: multi-camera sensor fusion, agent based\npre-labeling, edge-case mining across diverse environments, and HITL post\nlabeling. The teams we work with at that stage are usually either hitting\nwalls with in-house annotation infrastructure or spending engineering\ncycles maintaining pipelines that need to be automated.\n\nWanted to briefly connect to get a better sense of your CV/perception work\nat Intramotev.\n\nFree on Friday 10-2pm PT for a chat?"
+}
+]

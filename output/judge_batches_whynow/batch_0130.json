@@ -1,0 +1,202 @@
+[
+{
+"id": "411229209812",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "411245538534",
+"subject": "[NAME] - 3D Assets",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] Showcase is leaning into immersive experiences for buyers\n- how is your team handling ML workflows around 3D assets and spatial\nunderstanding?\n\nAt Encord, we enable multimodal workflows where 3D floorplans, point\nclouds, and text annotations live in a single interface.\n\nWe've recently expanded this into a dedicated point-cloud offering for\nteams tackling spatial-reasoning challenges.\n\nWould you be open to learning more?"
+},
+{
+"id": "411368293614",
+"subject": "Rahul - ML Pipelines",
+"text": "Hi [NAME],\n\nI'm Adi [SENDER] - a Series B YC-backed startup helping 200+ teams build\nAI models faster and more easily.\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are limited primarily to annotation.\n\nWith Encord's advanced Data Curation, we help IDV teams improve model\naccuracy by enabling better data collection and exploration through\nembedding and cluster-based search.\n\nI'd love to explore how we could solve similar challenges for Socure -\nwould you be open to learning more?"
+},
+{
+"id": "413973768409",
+"subject": "Tailored Platform Walkthrough",
+"text": "Hi [NAME] - hope you enjoyed the product tour.\n\nI'd love to walk you through the Encord platform in a workflow tailored to\nyour existing/ upcoming project(s) at [COMPANY].\n\nWe're familiar supporting human data service from working with Invisible\nTechnologies and Sapien - happy to also cover how partnering would look\nlike.\n\nHow's Thursday afternoon looking for a quick chat?"
+},
+{
+"id": "414123406540",
+"subject": "Optimising model development - Encord invite",
+"text": "Hey [NAME],\n\nI hope you're doing well and have had a good start to [YEAR].\n\nI've been chatting with Mateusz Wozny about your processes for preparing data for model training at Asseco. We were supposed to have a meeting this afternoon, but he recommended that I reach out to you.\n\nMy team at Encord has been working with companies like Augmundo and Standard AI, helping them to develop their models more effectively. These teams move over to our platform when they start facing bottlenecks in between their data collection and model training.\n\nThey do this, because our platform offers multimodal data annotation and curation, flexible workflows and ontologies, and dashboards that allow you to really optimise your teams productivity.\n\nI'd love to grab 20 mins of your time to discuss your current data pipelines, and show you what our platform can do. I'm therefore very presumptively going to drop you a calendar invite for this Thursday - please change that however you like. Alternatively, feel free to book directly into my calendar here."
+},
+{
+"id": "414320854212",
+"subject": "Virtual Coffee - road/ driver safety",
+"text": "Hi [NAME],\n\nI met Mengliao Wang at the Ray Summit - it sounds like building\nvision-based model for AI Dashcam is a key focus for your team, much like\nour customer Motive. So I wanted to reach out for a virtual coffee.\n\nFor context - Motive leverages Encord to standardize video data operation\nprocesses. On Encord, technical teams can curate datasets from million\nmiles of driving videos send to be annotated in the same platform, and\nprogram managers have clearer understanding over label quality and\nworkforce productivity.\n\nKeen to hear where you see [COMPANY]'s data preparation workflow to be\nimproved. Would you be open to a virtual coffee afternoon times tomorrow?"
+},
+{
+"id": "414467181784",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] Showcase offers immersive experiences for buyers - how are\nyou handling ML workflows around 3D assets and spatial understanding?\n\nAt Encord, we enable multimodal workflows where 3D floorplans, point\nclouds, and text annotations live in a single interface.\n\nWe've recently expanded this into a dedicated point-cloud offering for\nteams tackling spatial-reasoning challenges.\n\nWould you be open to learning more?"
+},
+{
+"id": "414469221601",
+"subject": "Audio and Video annotation + VLA/VLMs",
+"text": "Hi [NAME],\n\nI've spoken with several people on your team about doing more with audio\nand video annotation, and exploring VLA/VLM workflows.\n\nWe're working with peers like Nexar and Motive to scale multimodal data\npipelines and manage large internal annotation teams, including native\naudio and video annotation (no frame-splitting or CVAT-style workarounds).\n\nMotive recently moved ~400 internal annotators onto Encord as a strategic\ndecision, and I think the rationale would be directly relevant to what\nyou're building.\n\nDo you have time to connect this Thursday afternoon (PT)? I'm wide open."
+},
+{
+"id": "414477707510",
+"subject": "Spoke to Abdul",
+"text": "Hi [NAME] - hope all is well,\n\nSpoke with Abdul last week, who mentioned that you're expanding into new\nindustries such as broadband. With the recent growth, thought it could be\nworth exploring how we'd be able to support during the next phase of scale.\nWe've recently onboarded Document AI teams at Onfido, JP Morgan, and\nReducto - so would be happy to share the learnings\n\nWould you have time to connect on Thurs / Fri this week?"
+},
+{
+"id": "415377575123",
+"subject": "Virtual Coffee - road safety",
+"text": "Hi [NAME],\n\nI met Mengliao Wang at the Ray Summit - it sounds like building\nvision-based model is a key focus for your team, much like our customer\nMotive. So I wanted to reach out for a virtual coffee.\n\nFor context - we help Motive improve annotation quality with automated\npipelines. On Encord, technical teams curate and filter million miles of\ndriving videos according to model failure modes, where they send directly\nto annotation team to validate and adjust labels.\n\nKeen to hear where you see [COMPANY]'s data preparation workflow to be\nimproved. Would you be open to a virtual coffee afternoon times tomorrow?"
+},
+{
+"id": "415491107059",
+"subject": "Virtual Coffee - video data operation",
+"text": "Hi [NAME],\n\nI met Mengliao Wang at the Ray Summit - it sounds like building\nvision-based model for AI Dashcam is a key focus, much like our customer\nMotive. So I wanted to reach out for a virtual coffee.\n\nFor context - Motive leverages Encord to standardize video data operation\nat scale. We help unifying auto-annotation and manual adjustment and QA in\none platform, so program managers can focus on assessing labelling\naccuracy, workforce productivity and dataset representativeness in close\ncollaboration with technical stakeholders.\n\nKeen to hear where you see operational improvements for video training data\nat [COMPANY]. Would you be open to a virtual coffee afternoon times tomorrow?"
+},
+{
+"id": "415593638078",
+"subject": "HNY! [YEAR] Alignment",
+"text": "Hi [NAME] - happy new year!\n\nWe spoke to Sankar, Rosko and the team last year - sounds like Encord could\nbe a strong technical fit for your video ingestion and annotation pipeline.\n\nI wanted to reach out since the recent EEN/ Brivo merger - keen to get your\nthoughts on how you'll join forces on AI-enabled features for video\nsecurity. We can also share updates from our recent work onboarding Lumana\nin similar space to you.\n\nHow's tomorrow to Friday for a quick catch up? We're flexible from 4pm IST."
+},
+{
+"id": "416195772648",
+"subject": "[NAME] - Fraud Patterns",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are limited primarily to annotation.\n\nEncord is a YC-backed startup helping many leading IDV teams build AI\nmodels faster and more easily.\n\nBy combining advanced data curation with embedding and cluster-based\nsearch, we help fraud teams achieve higher model accuracy and improved\nvisibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "416247276763",
+"subject": "Virtual Coffee - road/ driver safety",
+"text": "Hi [NAME],\n\nI met Mengliao Wang at the Ray Summit - it sounds like building\nvision-based model for AI Dashcam is a key focus for your team, much like\nour customer Motive. So I wanted to reach out for a virtual coffee.\n\nFor context - Motive leverages Encord to standardize video data operation\nat scale. We help unifying auto-annotation and manual adjustment and QA in\none platform, so program managers can focus on assessing labelling\naccuracy, workforce productivity and dataset representativeness in close\ncollaboration with technical stakeholders.\n\nKeen to hear where you see operational efficiency gain. Would you be open\nto a virtual coffee afternoon times tomorrow?"
+},
+{
+"id": "416250898660",
+"subject": "Procore - catch up",
+"text": "Hi [NAME],\n\nHope your [YEAR] is off to a good start! I've been following your work\nscaling Procore's AI platform and Construction Cloud - really impressive.\n\nI'm speaking with heads of data/AI building enterprise AI platforms in\nconstruction, where data is inherently multimodal - site images, video,\ndrawings/PDFs, and sensor/time series data. At Encord, we work with teams\nin construction and robotics to streamline multimodal workflows (curation,\nannotation, evaluation). I'd love to get your perspective on how you\napproach data quality, feedback loops, and governance at scale.\n\nWould you have 20 minutes next week for a quick virtual coffee to compare\nnotes? I'm flexible Tue to Thu mornings PT but happy to work around your\nschedule."
+},
+{
+"id": "417331430591",
+"subject": "[NAME] - reconnect in [YEAR]",
+"text": "Hi [NAME],\n\nBelieve you spoke with [SENDER] and [SENDER] back in [YEAR], I was wondering if the\nyear is a good time to reconnect to explore the potential migration from\nCVAT.\n\nI believe the main concern earlier was the internal effort required to\nmigrate platforms - since then we've tripled our engineering team and built\ncapacity to support teams through a much smoother migration process.\nOur leadership team was very keen to work with you given the strong fit for\nsurgical video - we'd be really excited to revisit the opportunity and\n(hopefully) start working together in [YEAR],\nLet me know your thoughts, Best wishes, [SENDER] *AI // ML // Computer Vision*"
+},
+{
+"id": "417337941183",
+"subject": "CyberValley alumni",
+"text": "Hey [NAME], Have been following Mirelo since the CyberValley days - great to\nsee how far you've grown the team since then.\n\nFor context, I work on the audio team at Encord working with teams like\nUdio, Gradium, and Hume providing the platform and workforce to help scale\ntheir annotation pipelines.\nWe've supported several teams moving from research into product, especially\nat the point when they're looking to scale.\n\nWould you be open to a quick chat sometime next week? Happy to share how\nwe've taken other teams through this journey. Best wishes, [SENDER] *Audio AI @*"
+},
+{
+"id": "417425619139",
+"subject": "[NAME] - spoke with [SENDER]",
+"text": "Hi [NAME],\n\nBelieve you spoke with [SENDER] and [SENDER] back in [YEAR], I was wondering if the\nyear is a good time to reconnect to explore the potential migration from\nCVAT.\n\nI believe the main concern earlier was the internal effort required to\nmigrate platforms - since then we've tripled our engineering team and\nbuilt  capacity to support customers through a much smoother migration\nprocess.\nOur leadership team was very keen to work with you given the strong fit for\nsurgical video - and we'd be really excited to revisit the opportunity and\n(hopefully) start working together in [YEAR], Let me know your thoughts, Best\nwishes, [SENDER] *AI // ML // Computer Vision*\n\n[image: image.png]"
+},
+{
+"id": "417630552292",
+"subject": "[NAME] - meeting with Hamid - would you like to join?",
+"text": "Hi [NAME] - Nice to meet you,\n\nSpoke with Patrick before the holidays who suggested we reach out given\nyour oversight of the damage report side.\n\nFor context, we work with Skydio, Zeitview & Abyss Solutions - providing\nthe platform to help scale data curation & annotation workflows\n\nWe're meeting Hamid on Friday, and I wanted to check whether you'd be\ninterested in joining the call too - have added you as optional"
+},
+{
+"id": "417664172267",
+"subject": "CyberValley alumni",
+"text": "Hey [NAME], Have been following Mirelo since the CyberValley days - great\nto see how far you've grown the team since then.\n\nFor context, I work on the audio team at Encord working with teams like\nUdio, Gradium, and Hume providing the platform and workforce to help scale\ntheir annotation pipelines.\nWe've supported several teams moving from research into product, especially\nat the point when they're looking to scale.\n\nWould you be open to a quick chat sometime next week? Happy to share how\nwe've taken other teams through this journey. Best wishes, [SENDER] *Audio\nAI @*"
+},
+{
+"id": "417696291027",
+"subject": "Annotations qs",
+"text": "Hey [NAME], Saw you registered for our annotations management masterclass,\ncurious what caught your interest?\n\nFor context, I'm on the product team at Encord speaking with teams that\nmanage annotations and track analytics on the platform. I had a quick look\nat your profile and saw you're a manager - would you be open to a quick\nchat? I'd love to pick the brain of someone with experience. Best wishes,"
+},
+{
+"id": "417696297209",
+"subject": "Annotations - questions",
+"text": "Hey [NAME], Saw you registered for our annotations management\nmasterclass, curious what caught your interest?\n\nI'm on the product team at Encord speaking with teams that manage\nannotations and track analytics on the platform. I had a quick look at your\nprofile and saw you're a manager - would you be open to a quick chat? I'd\nlove to pick the brain of someone with experience. Have a lovely day! [SENDER]"
+},
+{
+"id": "417946309842",
+"subject": "CyberValley alumni",
+"text": "Hey [NAME],\n\nHave been following Mirelo since the CyberValley days - great to see how\nfar you've grown the team since then.\n\nFor context, I work on the audio team at Encord working with teams like\nUdio, Gradium, and Hume providing the platform and workforce to help scale\ntheir annotation pipelines.\nWe've supported several teams moving from research into product, especially\nat the point when they're looking to scale.\n\nWould you be open to a quick chat sometime next week? Happy to share how\nwe've taken other teams through this journey."
+},
+{
+"id": "418126639352",
+"subject": "scaling data pipelines",
+"text": "Hi [NAME],\n\nCongrats on the launch of [COMPANY] 1 - excited for the era of your product!\n\nI thought now is a good time to connect since we work with ML teams from\nVeo, Intenseeye, and Automotus to improve training data quality and scale\nannotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market.\n\nAre you free on Tuesday to chat? Would love to share some insights."
+},
+{
+"id": "418137392338",
+"subject": "[NAME] - Fraud Patterns",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data platform trusted by leading IDV teams to power fraud\ndetection workflows through advanced data curation, embedding-based search,\nand clustering - driving higher model accuracy and deeper visibility into\nemerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] - would\nyou be open to learning more?"
+},
+{
+"id": "418142764272",
+"subject": "scaling data throughput",
+"text": "Hi [NAME],\n\nI saw you are gearing up your Robotics Vision team to work on sensor fusion\nand translate raw data into precise 3D positioning for robotic movements.\n\nI thought now is a good time to connect since we work with teams like\nOsaro, Pickle Robot, and Mytra to improve training data quality and scale\n3D annotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market.\n\nAre you free on Tuesday to chat? Would love to exchange perspectives."
+},
+{
+"id": "418160764142",
+"subject": "scaling 3D data annotation",
+"text": "Hi [NAME],\n\nI saw you are gearing up your Robotics Vision team to work on sensor fusion\nand translate raw data into precise 3D positioning for robotic movements.\n\nI thought now is a good time to connect since we work with teams like\nOsaro, Pickle Robot, and Mytra to improve training data quality and scale\n3D annotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market.\n\nAre you free on Tuesday to chat? Would love to exchange perspectives."
+},
+{
+"id": "418160802030",
+"subject": "[NAME] - Fraud Patterns",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data platform trusted by leading IDV teams to power fraud\ndetection workflows through advanced data curation, embedding-based search,\nand clustering - driving higher model accuracy and deeper visibility into\nemerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] - would\nyou be open to learning more?"
+},
+{
+"id": "418160890051",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is a data platform trusted by leading IDV teams to power fraud\ndetection workflows through advanced data curation, embedding-based search,\nand clustering - driving higher model accuracy and deeper visibility into\nemerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] - would\nyou be open to learning more?"
+},
+{
+"id": "418202055917",
+"subject": "scaling data pipelines",
+"text": "Hi [NAME],\n\nI saw you are gearing up your Robotics team to set up scalable data\npipelines for curation and annotation.\n\nI thought now is a good time to connect since we work with teams ML teams\nfrom Weave and 1X to improve training data quality and scale annotation\npipelines, so teams can focus on boosting VLA model accuracy and speed to\nmarket.\n\nAre you free on Tuesday to chat? Would love to exchange perspectives."
+},
+{
+"id": "418212088046",
+"subject": "[NAME] - Fraud Patterns",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are ineffective and painful to maintain.\n\nEncord is an ML Ops platform trusted by leading IDV teams to power fraud\ndetection workflows through advanced data curation, embedding-based search,\nand clustering - driving higher model accuracy and deeper visibility into\nemerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] - would\nyou be open to learning more?"
+},
+{
+"id": "418217526471",
+"subject": "[NAME] - 3D Assets",
+"text": "Hi [NAME],\n\nI noticed [COMPANY] Showcase offers immersive experiences for buyers - how is\nyour team handling ML workflows around 3D assets and spatial understanding?\n\nAt Encord, we enable multimodal workflows where 3D floorplans and text\nannotations live in a single interface.\n\nWe've recently expanded this into a dedicated point-cloud offering for\nteams tackling spatial-reasoning challenges.\n\nWould you be open to learning more?"
+},
+{
+"id": "418233547977",
+"subject": "[NAME] - Fraud Patterns",
+"text": "Hi [NAME],\n\nWhen speaking with fraud prevention leaders, we often hear that in-house\ndata management tools are limited primarily to annotation.\n\nEncord is a YC-backed startup helping many leading IDV teams build AI\nmodels faster and more easily.\n\nBy combining advanced data curation with embedding and cluster-based\nsearch, we help fraud teams achieve higher model accuracy and improved\nvisibility into emerging fraud patterns.\n\nI'd love to explore how we could solve similar challenges for [COMPANY] -\nwould you be open to learning more?"
+},
+{
+"id": "418477418719",
+"subject": "scaling data throughput",
+"text": "Hi [NAME],\n\nI saw you are gearing up your Robotics team to set up scalable data\npipelines for curation and annotation.\n\nI thought now is a good time to connect since we work with teams ML teams\nfrom Weave and 1X to improve training data quality and scale annotation\npipelines, so teams can focus on boosting VLA model accuracy and speed to\nmarket.\n\nAre you free on Tuesday to chat? Would love to exchange perspectives."
+},
+{
+"id": "418486365376",
+"subject": "scaling sensor fusion + multi-view data",
+"text": "Hi [NAME],\n\nI saw you are gearing up your Robotics Vision team to work on sensor fusion\nand translate raw data into precise 3D positioning for robotic movements.\n\nI thought now is a good time to connect since we work with teams like\nOsaro, Pickle Robot, and Mytra to improve training data quality and scale\n3D annotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market.\n\nAre you free on Tuesday to chat? Would love to exchange perspectives."
+},
+{
+"id": "418486448327",
+"subject": "scaling data throughput",
+"text": "Hi [NAME],\n\nCongrats on the launch of [COMPANY] 1 - excited for the era of your product!\n\nI thought now is a good time to connect since we work with ML teams from\nVeo, Intenseeye, and Automotus to improve training data quality and scale\nannotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market.\n\nAre you free on Tuesday to chat? Would love to share some insights."
+},
+{
+"id": "418531765486",
+"subject": "scaling VLA models",
+"text": "Hi [NAME],\n\nI saw you are gearing up your Robotics team to set up scalable data\npipelines for curation and annotation.\n\nI thought now is a good time to connect since we work with teams ML teams\nfrom Weave and 1X to improve training data quality and scale annotation\npipelines, so teams can focus on boosting VLA model accuracy and speed to\nmarket.\n\nAre you free on Tuesday to chat? Would love to exchange perspectives."
+},
+{
+"id": "418608948471",
+"subject": "Rajendra - Multimodal Workflows",
+"text": "Hi [NAME],\n\nI noticed Zillow Showcase offers immersive experiences for buyers - how is\nyour team handling ML workflows around 3D assets and spatial understanding?\n\nAt Encord, we enable multimodal workflows where 3D floorplans and text\nannotations live in a single interface.\n\nWe've recently expanded this into a dedicated point-cloud offering for\nteams tackling spatial-reasoning challenges.\n\nWould you be open to learning more?"
+},
+{
+"id": "418619678911",
+"subject": "scaling data pipelines",
+"text": "Hi [NAME],\n\nCongrats on the launch of [COMPANY] 1 - excited for the era of your product!\n\nI thought now is a good time to connect since we work with ML teams from\nVeo, Intenseeye, and Automotus to improve training data quality and scale\nannotation pipelines, so teams can focus on boosting model accuracy and\nspeed to market.\n\nAre you free on Tuesday to chat? Would love to share some insights."
+},
+{
+"id": "418632063201",
+"subject": "[NAME] - 3D Assets",
+"text": "Hi [NAME],\n\nI noticed Zillow Showcase offers immersive experiences for buyers - how is\nyour team handling ML workflows around 3D assets and spatial understanding?\n\nAt Encord, we enable multimodal workflows where 3D floorplans and text\nannotations live in a single interface.\n\nWe've recently expanded this into a dedicated point-cloud offering for\nteams tackling spatial-reasoning challenges.\n\nWould you be open to learning more?"
+}
+]

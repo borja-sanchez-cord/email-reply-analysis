@@ -1,0 +1,202 @@
+[
+{
+"id": "435991344367",
+"subject": "Ambience <> Encord",
+"text": "Hi [NAME],\n\nCongrats on Ambience being named as LinkedIn's Top startup! I saw\nAmbience's heavy focus on documentation and audio use cases and thought I'd\nreach out.\n\nMy team at Encord supports teams like AXA, UiPath, Mayo Clinic and\nIterative Health, etc on their clinical data workflows - NER, OCR, info\nextraction, audio transcription, model-assisted auto-labeling etc.\n\nQuick context, Encord is a data development platform for multimodal AI\n(text, images, audio, video, DICOM) supporting 200+ AI teams to streamline\nannotation and improving training data quality at scale.\n\nCurious if you'd be open to seeing what we've built and how that might\noverlap with your current workflows - open to a quick chat next Thu/Fri?"
+},
+{
+"id": "436021978323",
+"subject": "model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently started working with Entrust/Onfido on their ML infra for risk\ndecisioning, and I thought it might be relevant to [COMPANY]'s real-time\nfraud models.\n\nA challenge I hear often from fraud/IDV leaders - closing the loop between\nmodel predictions, failure modes, and the data that improves the next\ntraining cycle.\n\nEncord helps teams streamline the feedback loop with curated data\nworkflows, labeling, QA/QC, and model eval - so you can quickly see where\nmodels fail and feed the most useful cases back into training.\n\nIs improving model accuracy and iteration on your radar for [YEAR]? If so,\nwould you have 20 min Tue - Thu for a quick chat?"
+},
+{
+"id": "436492119252",
+"subject": "[NAME] - [SENDER] connect",
+"text": "Hi [NAME] - noticed you're based in NYC & thought this might be a good time\nto reach out.\n\nFor context, I work with frontier Voice AI teams like Gradium, Udio, and\nwith medical teams like Viz.ai, Philips to help them scale data pipelines\nand annotation throughput with full audibility to reduce risks.\n\nHave seen similar teams hit bottlenecks keeping annotations and retraining\ncycles fast enough to prevent model performance drift - wondering if that\nresonates at all.\n\nImagine with the new funding multi-region expansion is on your radar,\nthought it might be worth a quick chat.\n\nWould you be open to meeting [SENDER], who leads our Voice AI team, for a\ncoffee tomorrow? Happy to share how we've helped other teams in this space."
+},
+{
+"id": "436606402781",
+"subject": "Referral from systems validation team - Encord ML DataOps",
+"text": "Hey [NAME],\n\nBeen chatting to a few of your [COMPANY] colleagues across the systems\nvalidation, LiDAR eng, AI eng and functional owner teams about the CV\nDataOps pipelines at [COMPANY] and I was pointed in your team in Galway's\ndirection as best to speak to.\n\nWas chatting to them around the ML DataOps (multimodal curation,\nannotation, eval) for perception. From the convos with the different teams\nthere were some key challenges that popped up around:\n\n   - Making better use of existing camera datasets across programs, rather\n   than re-collecting or re-annotating for each new customer or geography\n   - Active learning - so finding and prioritising the specific scenes and\n   edge cases that actually drive model improvements\n   - Reducing the cost and effort of annotation and review which is\n   currently significant\n\nFor a bit of context we are supporting ADAS teams like Woven-Toyota with\nthese exact problems at the moment.\n\nWondering if you had 20mins in the next few weeks to be introduced +\nexplore we could potentially help and if there is any fit?"
+},
+{
+"id": "436650707177",
+"subject": "[NAME] - Clinical AI",
+"text": "Hi [NAME],\n\nCongrats on Ambience being named as a Top Startup on LinkedIn - well\ndeserved! I've been digging into the healthcare AI space, and thought I'd\nreach out as I see Ambience's focus on documentation and audio use cases.\n\nMy team at Encord supports companies like Iterative Health, AXA, UiPath,\nand Mayo Clinic on their clinical data workflows - NER, OCR, document\nextraction, audio transcription, auto labeling etc.\n\nIn case Encord is new to you...we're a data development platform built for\nmultimodal AI (audio, text, image, video) supporting 200+ AI teams to\nstreamline annotation and improve data quality at scale.\n\nI'd love to get your thoughts on what we've built. I'm pretty flexible next\nThu/Fri - open to a quick 30 min chat?"
+},
+{
+"id": "436668595421",
+"subject": "Ambience <> Encord",
+"text": "Hi [NAME],\n\nCongrats on Ambience being named as a Top Startup on LinkedIn - well\ndeserved! I've been digging into the healthcare AI space, and thought I'd\nreach out as I see Ambience's focus on documentation and audio use cases.\n\nMy team at Encord supports companies like Iterative Health, AXA, UiPath,\nand Mayo Clinic on their clinical data workflows - NER, OCR, document\nextraction, audio transcription, model-assisted labeling, HITL review\nand RLHF etc.\n\nIn case Encord is new to you...we're a data development platform built for\nmultimodal AI (audio, text, image, video, GenAI) supporting 200+ AI teams\nto streamline annotation and improve data quality at scale.\n\nI'd love to get your thoughts on what we've built. I'm pretty flexible next\nThu/Fri - open to a quick 30 min chat?"
+},
+{
+"id": "436686093523",
+"subject": "[NAME] - Multimodal foundation models",
+"text": "Hi [NAME], \n\n      Thanks for checking out our E-MM1 multimodal dataset! I noticed your focus on vision and foundation models and wanted to reach out personally.\n\n      We work with leading AI teams like Synthesia, Thinking Machines Lab, Physical Intelligence, 1X, Boston Dynamics, etc on similar model development projects. I'm curious what types of data you're working with at Apple today (image, video, audio, text), and whether the dataset was part of early exploration or an active project. \n\n      For quick context, Encord supports multimodal data development across the ML Ops pipeline - from curation, model-assisted pre-labeling to HITL/automated QA workflow and RLHF/model eval - for teams training and fine-tuning foundational models. \n\n      Would you be open to a quick 29-min virtual coffee next week to compare notes? Wed/Thu usually works for me, and I'm happy to work around your schedule."
+},
+{
+"id": "436692785399",
+"subject": "[NAME] - AIHA chat",
+"text": "Hi [NAME],\n\nThanks again for your interest in our AI After Hours events in the past - I\nwanted to reach out and properly introduce myself.\n\nI'd love to grab a quick virtual coffee to share more about future events\nwe have in place in SF and learn a bit more about how [COMPANY] is\nthinking about data and ML workflows. My team at Encord work closely with\nvision AI teams like Boston Dynamics, Woven by Toyota, Dyna Robotics,\nNexar, etc dealing with complex, multimodal data to scale annotation, HITL\nQA, and model iteration without slowing teams down.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "436707199194",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\nCongrats on your new role! And thanks again for your interest in our AI\nAfter Hours events in the past - I wanted to reach out and properly\nintroduce myself.\n\nIf helpful, I'd love to grab a quick virtual coffee to share more about\nfuture events we have in place in SF and learn a bit more about how Pallet\nis thinking about data and ML workflows. My team at Encord work closely\nwith LogisticsTech teams dealing with complex, multimodal data to scale\ncuration, annotation, QA, and model eval.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "436833149148",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nWe often hear that food waste AI teams need a unified data engine for\nannotation, dataset curation, and model observability - which is why we\nbuilt Encord.\n\nEncord is a data development platform used by 200+ AI teams. Our labeling\nontology support and semi-supervised pre-labelling enable high-throughput\nannotation with a seamless user experience.\n\nWould you be open to learning more?"
+},
+{
+"id": "436851729599",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\nThanks again for your interest in our AI After Hours events in the past - I\nwanted to reach out and properly introduce myself.\n\nIf helpful, I'd love to grab a quick virtual coffee to share more about\nfuture events we have in place in SF and learn a bit more about how [COMPANY]\nis thinking about data and ML workflows. My team at Encord work closely\nwith Gen AI teams like Synthesia, Captions, Thinking Machines Lab, etc\ndealing with complex, multimodal data to scale annotation, HITL QA, and\nmodel iteration without slowing teams down.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "436912662758",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\nThanks again for joining our AI after Hours events in the past - I wanted\nto reach out and properly introduce myself.\n\nI'd love to grab a quick virtual coffee and learn a bit more about how\nhum.ai is thinking about data and ML workflows. My team at Encord work\nclosely with vision AI teams dealing with complex, multimodal data to scale\nannotation, HITL QA, and model iteration without slowing teams down.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "437291414726",
+"subject": "[SENDER] [SENDER] - invite",
+"text": "Hey [NAME],\n\nJust tried reaching you over the phone again. Thought I'd send over a\ncalendar invite for next week, so that we can have a proper chat.\n\nAs I mentioned, we work with teams like Sewer AI and UVEye, helping them to\noptimise their data pipelines through improved edge-case mining,\nembedding-based curation, and multimodal annotation. Would be great to\nconnect and get your feedback on what we've built.\n\nI'll send through the invite for 2:30PM CET on Monday - please change that\nto fit around your schedule."
+},
+{
+"id": "437433004255",
+"subject": "[COMPANY] <> Encord - catch up",
+"text": "Hi [NAME],\n\nHope you're well. My colleague [SENDER] mentioned he connected with Dotan and\nOmri a while back, and I wanted to introduce myself.\n\nI know you guys were set on internal tools, with your recent growth, I was\njust curious if your approaches to data pipeline and maintaining model\naccuracy for your OR vision models has evolved. A lot of surgical AI teams\nI work with start to feel strain on internal tooling as data volume and\nedge cases surge.\n\nDo you see any challenges coming up as you plan for [YEAR]? If useful, I'd\nlove to grab 20 min to catch up, share what we're seeing across similar\nteams, and compare notes. Wed/Thu works well on my end."
+},
+{
+"id": "437503714506",
+"subject": "AI intern question",
+"text": "Hey [NAME] - seen you're hiring an AI intern with focus on tooling,\n\nFor context - been working with teams at different stages proving a\nmultimodal platform for curation of data & annotation for VLA models,\nmaking the process of curating and analysing sensor data scalable.\n\nTypically this helps streamline the data collection and training workflows\nso you can expand model capabilities with new tasks and data sources as you\ngrow.\n\nGiven what you're developing - thought it might be worth an intro chat.\n\nWould it make sense for us to chat in the coming weeks?"
+},
+{
+"id": "437507322083",
+"subject": "AI intern question",
+"text": "Hey [NAME] - been following your for a while & seen you're growing the team\n- thought it might be a good time to reach out,\n\nFor context - been working with teams at different stages (like Neura, 1x\netc) proving a multimodal platform for curation of data & annotation for\nVLA models, making the process of curating and analysing sensor data\nscalable.\n\nTypically this helps streamline the data collection and training workflows\nso you can expand model capabilities with new tasks and data sources as you\ngrow.\n\nGiven what you're developing - thought it might be worth an intro chat.\n\nWould it make sense for us to chat in the coming weeks?"
+},
+{
+"id": "437638210797",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\nThanks again for your interest in our AI After Hours events in the past - I\nwanted to reach out and properly introduce myself.\n\nI'd love to grab a quick virtual coffee to share more about future events\nwe have in place in SF and learn a bit more about how [COMPANY] is thinking\nabout data and ML workflows. My team at Encord work closely with Med AI\nteams dealing with complex, multimodal data to scale annotation, HITL QA,\nand model iteration without slowing teams down.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "437809187035",
+"subject": "Jing - ML Ops",
+"text": "Hi [NAME], \n\n        We recently started working with Entrust/Onfido on their ML infra for risk decisioning, and I thought it might be relevant to [COMPANY]'s real-time fraud models. \n\n        A challenge I hear often from fraud/IDV leaders - closing the loop between model predictions, failure modes, and the data that improves the next training cycle. \n\n        Encord helps teams streamline the feedback loop with curated data workflows, labeling, QA/QC, and model eval - so you can quickly see where models fail and feed the most useful cases back into training. \n\n        Is improving model accuracy and iteration on your radar for [YEAR]? If so, would you have 20 min Tue - Thu for a quick chat?"
+},
+{
+"id": "437868084459",
+"subject": "[NAME] - Audio Labelling",
+"text": "Hey [NAME],\n\nEncord is a development platform working with 200+ AI teams, including\nThinking Machines, Synthesia, and Twelve Labs.\n\nWe work on audio labelling with a few frontier labs, and I'd love to\nexplore whether we would be a good fit for [COMPANY].\n\nWould you be open to learning more? Looking forward to connecting."
+},
+{
+"id": "437911852261",
+"subject": "[NAME] - Data Curation",
+"text": "Hi [NAME],\n\nWhen speaking with other fraud prevention leaders, I often hear that\nin-house data management tools are ineffective and painful to maintain.\n\nEncord is an ML Ops platform that offers advanced data curation - enabling\nhigher model accuracy and better visibility into emerging fraud patterns.\n\nI'd love to connect and explore how we could solve similar challenges for\n[COMPANY] - would you be open to learning more?"
+},
+{
+"id": "437993737408",
+"subject": "[NAME] - Video Intelligence",
+"text": "Hi [NAME],\n\nNoticed you're hiring for a Director or Product role within your Computer\nVision & AI team, it seems scaling video intelligence is a key priority for\n[COMPANY].\n\nTeams at Rhombus, Flock Safety & LVT use Encord's video annotation platform\n(with synced video and multi-camera) to train and scale their models.\n\nI'd love to explore how Encord could also support [COMPANY]'s model\ndevelopment - would you be open to discussing things further?"
+},
+{
+"id": "438326149328",
+"subject": "[NAME] - IDV",
+"text": "Hi [NAME], \n\n        Been chatting with a couple of folks on your team recently - learnt great things about how \n        [COMPANY] approaches IDV, deepfake detection and document AI.\n\n        We've been working with a few IDV teams and would love to compare notes and share how others are approaching evaluation, active learning and feedback loops as their systems scale in [YEAR]. \n\n        If this resonates - would you be open to a quick 20 min chat next Thu/Fri?"
+},
+{
+"id": "438472579290",
+"subject": "[NAME] - Risk intelligence",
+"text": "Hi \n       [NAME], \n\n       We recently started working with Entrust/Onfido on their ML infra for risk decisioning, and I thought it might be relevant to [COMPANY]'s real-time fraud models. \n\n       A challenge I hear often from fraud/IDV leaders - closing the loop between model predictions, failure modes, and the data that improves the next training cycle. \n\n       Encord helps teams streamline the feedback loop with curated data workflows, labeling, QA/QC, and model eval - so you can quickly see where models fail and feed the most useful cases back into training. \n\n       Is improving model accuracy and iteration on your radar for [YEAR]? If so, would you have 20 min Tue - Thu for a quick chat?"
+},
+{
+"id": "438741420269",
+"subject": "reduce false positives in fraud models",
+"text": "Hi \n      [NAME], \n\n      I've been chatting with a few ML leaders working on fraud models, and the same thing keeps coming up - how to tighten the feedback loop without driving false positives through the roof. \n\n      It almost always comes back to data: surfacing edge cases faster and topping up training data where the model breaks, without slowing the team down. Teams like VIDA, Onfido, and Veriff have been using Encord to do exactly that and have seen solid gains in accuracy without sacrificing iteration speed. \n\n      Curious if this sounds familiar on your side at [COMPANY]. If useful, I'd love to grab 20 mins to swap notes and compare approaches."
+},
+{
+"id": "438742142198",
+"subject": "[NAME] - Fraud models",
+"text": "Hi [NAME], \n\n        We recently started working with Entrust/Onfido on their ML infra for risk decisioning, and I thought it might be relevant to [COMPANY]'s real-time fraud models. \n\n        A challenge I hear often from fraud/IDV leaders - closing the loop between model predictions, failure modes, and the data that improves the next training cycle. \n\n        Encord helps teams streamline the feedback loop with curated data workflows, labeling, QA/QC, and model eval - so you can quickly see where models fail and feed the most useful cases back into training. \n\n        I'd love your feedback on what we've built - would you have 20 min Tue - Thu for a quick chat?"
+},
+{
+"id": "438802524397",
+"subject": "[NAME] - catch up",
+"text": "Hi [NAME], \n\n        We've had a chance to speak with a few folks on your team while learning more about how \n        [COMPANY] is approaching IDV, deepfake detection, and document intelligence. \n\n        What stood out, similar to what many other IDV teams have shared - less focus on manual labeling, more on HITL reviews and model eval. \n\n        As \n        [COMPANY] develops new products across vision and NLP systems, curious how you are thinking about feedback loops in [YEAR]. \n\n        If helpful, I'd love to grab 20min for a quick chat to share what we're seeing across the board. \n\n        Do you have some time next Thu/Fri?"
+},
+{
+"id": "441772812516",
+"subject": "[NAME] - Perception models",
+"text": "Hi [NAME], \n\n         I saw \n         AION is hiring a Senior Edge AI perception Engineer - thought it'd be a good time to reach out. \n\n         From my experience working with CTOs at vision teams, once perception systems scale, things like data indexing, auto-labeling, and QA often become major bottlenecks for model accuracy and iteration. Many teams eventually move on from open-source tools like CVAT as they grow. Given \n         AION's focus on critical infra monitoring, I imagine some of these challenges may resonate.\n\n         Quick context: Encord helps teams like Woven (Toyota), Boston Dynamics, and Baker Hughes streamline their ML Ops pipelines across 2D and 3D data from curation --> annotation --> model eval. \n\n         Would you be open to a \n         20-min virtual coffee next Tue-Thu to see if this could complement your current setup? Happy to work around your schedule"
+},
+{
+"id": "442343223487",
+"subject": "[NAME] - ML Ops",
+"text": "Hi [NAME],\n\nNoticed you're growing your AI engineering team to accelerate sensor data\nmanagement and model development.\n\nEncord is a data development platform that helps CV/ML teams scale data\npipelines, so you can focus on model iteration rather than data cleaning &\nannotation.\n\nWe work with over 200 AI teams such as Woven (Toyota), Zipline & PI, and\nwe're deeply integrated into VLA use cases across robotics and autonomy.\n\nIt would be great to explore how we could help enhance data throughput as\nyou scale - are you open to learning more?"
+},
+{
+"id": "442516565193",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\nThanks again for your interest in our AI After Hours events in the past - I\nwanted to reach out and properly introduce myself.\n\nIf helpful, I'd love to grab a quick virtual coffee to share more about\nfuture events we have in place in SF and learn a bit more about how domu is\nthinking about data and ML workflows. My team at Encord work closely with\nGenAI teams (e.g. Synthesia, Twelve Labs, Udio, Kyutai, etc) dealing with\ncomplex multimodal data and agentic workflows to scale curation,\nannotation, QA, and model eval.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "442537117895",
+"subject": "Jaden - chat",
+"text": "Hi [NAME],\n\nThanks again for your interest in our AI After Hours events in the past - I\nwanted to reach out and properly introduce myself.\n\nIf helpful, I'd love to grab a quick virtual coffee to share more about\nfuture events we have in place in SF and learn a bit more about how Roe AI\nis thinking about data and ML workflows. My team at Encord work closely\nwith FinTech teams dealing with complex multimodal data and agentic\nworkflows to scale curation, annotation, QA, and model eval, especially for\nAML, KYC use cases.\n\nWould you be open to a 20-min next week for a brief chat? Happy to work\naround your schedule."
+},
+{
+"id": "442621030630",
+"subject": "closing the sim-to-real loop for behavior models",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work on behavior modeling and simulation\n- impressive stuff.\n\nWe've been working on projects w/ Nexar, Motive, and Woven (Toyota), etc.\non road-safety and AV/ADAS models, and a common challenge is closing the\nloop between real-world logs, simulation outputs, and the data that's\nneeded to improve the next training cycle.\n\nEncord sits in that gap as a data quality and evaluation layer - helping\nteams curate, review, and track data at scale, where open-source or\nin-house tooling tends to break down as volume and complexity grow.\n\nIf useful, I'd love to spend 20 min comparing notes. Would Thu or Fri work\nfor you?"
+},
+{
+"id": "442647253225",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work on behavior modeling and\nsimulation - thought I'd reach out as my team work with AV/ADAS teams like\nNexar, Motive, and Woven (Toyota) on similar vision models.\n\nA common challenge is keeping models grounded in real-world data as volume\nand complexity grow. What often breaks down is the feedback loop between\nreal-world logs, simulation, and retraining. Encord acts as the data\nquality and evaluation layer in that feedback loop, helping teams move\nfaster without sacrificing model reliability.\n\nIs this relevant for how you're thinking about scaling [COMPANY]? I'd\nlove 20 min to swap notes if you are open."
+},
+{
+"id": "442711763158",
+"subject": "[NAME] <> [SENDER] - intro",
+"text": "Hi [NAME],\n\nHope your week's off to a good start! We haven't met yet but I've been\nfollowing [COMPANY] for a while as my team at Encord works with similar fraud\nand IDV teams in a similar space.\n\nI mainly wanted to say hi and learn a bit more about what you're working on\nat [COMPANY]. I personally spend a lot of time helping teams with the data\nside of ML - things lik curation, labeling, QA, and model eval - so I'm\nalways curious how different teams approach this internally.\n\nWould you be open to a quick intro chat? And if there's someone else on\nyour team who's closer to this area, I'd really appreciate a nudge in the\nright direction."
+},
+{
+"id": "442770413765",
+"subject": "[NAME] - fraud models",
+"text": "Hi [NAME],\n\nNoticed Hypergerve shares the IDV leaderboard w/ our customer Entrust\n(Onfido) - curious if some of the data quality challenges we're solving for\nthem resonate with you.\n\nWe help them improve facial recognition and IDV model accuracy by\ntightening the loop between model predictions, labeling, and retraining\n(model-assisted pre-labeling -> HITL review -> active learning). The\nresult: better performance, fewer false positives, and audit-safe handling\nof PII.\n\nHow are you approaching this at Hypergerve? Happy to swap notes - I'm\nflexible Tue - Thu if you're open to chat."
+},
+{
+"id": "443238040811",
+"subject": "[NAME] - [SENDER] connect",
+"text": "Hi [NAME] - been following iProov for a while and noticed you recently\njoined the team - thought it would make sense to reach out.\n\nFor context, I'm at Encord working with leading fraud and identity teams\nlike Veriff and Onfido and others providing a platform to help them manage\ntheir data and annotation pipelines at scale & accelerate model retraining\ncycles.\n\nWith the fraud landscape evolving quickly, teams are becoming more\nproactive about avoiding ongoing tooling maintenance - thought this might\nbe relevant to you as the Lead for AI Platform.\n\nWould it make sense to connect sometime soon? Happy to share how we're\nworking with others in this space. Best wishes :) [SENDER]\n\n*AI // ML @*"
+},
+{
+"id": "443424133364",
+"subject": "[NAME]/ [SENDER] connect",
+"text": "Hey [NAME] - spoke to your team at FTE global last year - thought it made\nsense to reach out and introduce myself.\n\nFor context, I'm at Encord working with the pioneers in your space (eg\nVeriff, Onfido etc) providing a robust platform to help them manage their\ndata and annotation pipelines at scale & accelerate model retraining cycles.\n\nThe fraud landscape is evolving quickly - teams come to us when they want\nto be proactive about avoiding ongoing tooling maintenance - thought this\nmight be relevant to you as the head of innovation.\n\nLet me know if this is worth a chat? Happy to share how we're working with\nothers in this space,"
+},
+{
+"id": "443438930150",
+"subject": "[NAME]/[SENDER] - chat",
+"text": "Hey [NAME] - noticed you joined the team not too long ago - thought it made\nsense to reach out and introduce myself.\n\nFor context, I'm at Encord working with the pioneers in your space (eg\nVeriff, Onfido etc) providing a platform to help them manage their data and\nannotation pipelines at scale & accelerate model retraining cycles.\n\nThe fraud landscape is evolving quickly - teams come to us when they want\nto be proactive about avoiding ongoing tooling maintenance - thought this\nmight be relevant to you as the head of AI.\n\nLet me know if this is something worth chatting? Happy to share how we're\nworking with others in this space,"
+},
+{
+"id": "443500420303",
+"subject": "[NAME] - ML Ops",
+"text": "Hi [NAME],\n\nI've been following Ambience's work on AI agents for clinicians - really\nimpressive. We've been partnershing with Mayo Clinic and Iterative Health\non similar projects.\n\nA common challenge we see as teams scale agentic systems in healthcare is\ncatching failure modes in production, reviewing edge cases, improving model\nperformance while keeping an audit trail as usage expands across sites.\n\nEncord helps healthcare AI teams tighten that feedback loop - reviewing\nagentic workflows, improving training data quality, preference ranking,\netc.\n\nIf useful, I'd love to grab 20 mins to swap notes on how you're thinking\nabout agent reliability and iteration. Happy to keep it informal - does\nThursday / Friday work for you?"
+},
+{
+"id": "443546347727",
+"subject": "[NAME] - ML Ops",
+"text": "Hi [NAME],\n\nCame across your profile leading DS/ML at Niantic and thought I'd reach\nout.\n\nI work with ML teams from Synthesia, TwelveLabs, and Captions - that are\nbuilding and deploying models. Curious as your scope expands, are you still\ndeveloping models?\n\nFor context, Encord is a training data development platform for multimodal\nAI (text, audio, image, video, point clouds, etc) - looking at data\ncuration, cleaning, annotation, and model eval.\n\nWould love to introduce myself and learn more about how you're approaching\ntraining data nowadays - open to a quick chat?"
+},
+{
+"id": "443731670251",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nNoticed you're growing your AI engineering team to accelerate sensor data\nmanagement and model development.\n\nEncord is a data development platform that helps CV/ML teams scale data\npipelines, so you can focus on model iteration rather than data cleaning &\nannotation.\n\nWe work with over 200 AI teams such as Woven (Toyota), Zipline & PI, and\nwe're deeply integrated into VLA use cases across robotics and autonomy.\n\nIt would be great to explore how we could help enhance data throughput as\nyou scale - are you open to learning more?"
+}
+]

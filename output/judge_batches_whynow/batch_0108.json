@@ -1,0 +1,202 @@
+[
+{
+"id": "296366018750",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nGiven your focus on speech tech/ ASR I thought you might be going to\nVapiCon next week. I'd love to say hi over a coffee at the conference and\nshare perspectives from our recent projects with Speechmatics and Kyutai in\nvoice AI space.\n\nFor context - we help over 200 AI teams improve annotation quality. For ASR\nteams, we focus on unifying auto-annotation + human QA for multi-speaker\ntranscription, diarization, non-speech metadata tagging etc. With the goals\nof reducing word error rate and better understanding of\nemotional/contextual cues.\n\nWould you be open to a quick chat at VapiCon? I'll be there all day on 2nd\nOct. Can connect virtually too if it is easier."
+},
+{
+"id": "296393758927",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nGiven your focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\nthe Voice AI space. Would love to connect at the conference if you're\ngoing?\n\nFor context - Encord helps Voice AI teams build more accurate datasets with\nthe objective of reducing word error rate and increasing naturalism of\nmodel outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on labelling accuracy and\nresearch teams can spend less time wrangling data.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296404224202",
+"subject": "Jeffrey - Encord",
+"text": "Hi [NAME],\n\nNice to meet you.\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with other geospatial leaders such as Maxar & Xoople.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love the opportunity to show you what\nwe've built and hear your thoughts. Would you be open to learning more?"
+},
+{
+"id": "296404430051",
+"subject": "Coffee at Vapicon?",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s release of Zonos v.0.1 earlier this year I thought you might\nbe at VapiCon next week. I'd love to connect over a coffee at the\nconference, and share perspectives from our recent projects with Thinking\nMachines Lab, Udio and Yutori.\n\nFor context - we help over 200 ML teams improve data quality for multimodal\nsystems (across video, audio & text). We focus on unifying pre-labelling\nand manual annotation/ human QA in one platform, so research teams can\nspend less time wrangling data.\n\nWould love to hear how you're thinking about training data at [COMPANY]. We'll\nbe at VapiCon all day on 2nd Oct if you're open to a chat?"
+},
+{
+"id": "296406013149",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nNice to meet you.\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with other geospatial leaders such as Maxar & Xoople.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love the opportunity to show you what\nwe've built and hear your thoughts. Would you be open to learning more?"
+},
+{
+"id": "296413281512",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME]\n\nSaw your recent paper on Long-Form ASR at Interspeech, thought you might be\nat VapiCon next week given your research area. I'd love to say hi and share\nperspectives from our recent projects with Speechmatics and Kyutai in\nsimilar space to [COMPANY].\n\nI mostly focus on improving data quality for those team. For long-form ASR,\nwhat I've found particularly challenging transcribing is handling\noverlapping or stacked speech especially in multi-speaker settings. We're\napproaching this by unifying pre-labeling and human QA in one platform.\n\nWould love how you're approaching this if you're open to a chat? I'll be at\nVapiCon all day on 2nd Oct. Can connect virtually too if it is easier."
+},
+{
+"id": "296431214802",
+"subject": "ASR Coffee chat",
+"text": "[NAME] - I saw you work on speech-to-text topics so I wanted to reach out for\na chat. I've been working on similar projects with Speechmatics and Kyutai\nand I'd love to hear how you're approaching improving model outcome.\n\nFrom a data quality perspective, what I've found particularly challenging\nis separating non-textual metadata from transcription - e.g. emotional and\ncontextual cues. We're approaching this by building a UI for separate\nspeaker tracks, as well trying to automate as much transcription and\ndiarization as possible.\n\nI'd love to hear how you're approaching this from the point of view of ASR\nfor autonomous pilot. Would you be open to a 30 min chat?"
+},
+{
+"id": "296461626556",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nGiven your focus on speech tech/ ASR I thought you might be going to\nVapiCon next week. I'd love to say hi and share perspectives from our\nrecent projects with Speechmatics and Kyutai in similar space to [COMPANY].\n\nFor context - we help over 200 AI teams improve annotation quality. For ASR\nteams, we focus on unifying auto-annotation and human QA for multi-speaker\ntranscription, diarization, non-speech metadata tagging etc. With the goals\nof reducing word error rate and improve model understanding of\nemotional/contextual cues.\n\nWould you be open to a quick chat at VapiCon? I'll be there all day on 2nd\nOct. Can connect virtually too if it is easier."
+},
+{
+"id": "296463686859",
+"subject": "Coffee at Vapicon?",
+"text": "Hi [NAME],\n\nGiven [COMPANY]'s release of Zonos v.0.1 earlier this year I thought you might\nbe at VapiCon next week. I'd love to connect over a coffee at the\nconference, and share perspectives from our recent projects with Thinking\nMachines Lab, Udio and Yutori.\n\nFor context - we help over 200 ML teams improve data quality for multimodal\nsystems (across video, audio & text). We focus on unifying pre-labelling\nand manual annotation/ human QA in one platform, so research teams can\nspend less time wrangling data.\n\nWould love to hear how you're thinking about training data at [COMPANY]. We'll\nbe at VapiCon all day on 2nd Oct if you're open to a chat?"
+},
+{
+"id": "296465590473",
+"subject": "Coffee at VapiCon",
+"text": "Hi [NAME],\n\nGiven Wellsaid's focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\naudio gen space. Would love to connect at the conference if you're going?\n\nFor context - Encord helps Voice AI teams build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on assessing labelling accuracy\nfor transcription, diarization and non-speech contexts.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296469164253",
+"subject": "Coffee at VapiCon",
+"text": "Hi [NAME],\n\nGiven Wellsaid's focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\naudio gen space. Would love to connect at the conference if you're going?\n\nFor context - Encord helps Voice AI teams build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on labelling accuracy and\nresearch teams can spend less time wrangling data.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296479818997",
+"subject": "Coffee at Vapicon?",
+"text": "Hi [NAME],\n\nGiven your release of Zonos v.0.1 earlier this year I thought you might be\nat VapiCon next week. I'd love to connect over a coffee at the conference,\nand share perspectives from our recent projects with Thinking Machines Lab,\nUdio and Yutori.\n\nFor context - we help over 200 ML teams improve data quality for multimodal\nsystems (across video, audio & text). We focus on unifying pre-labelling\nand manual annotation/ human QA in one platform, so the research teams can\nspend less time wrangling data.\n\nWould love to hear how you're thinking about training data at [COMPANY]. We'll\nbe at VapiCon all day on 2nd Oct if you're open to a chat?"
+},
+{
+"id": "296496415945",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nGiven your focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\nthe Voice AI space. Would love to connect at the conference if you're\ngoing?\n\nFor context - Encord helps Voice AI teams build more accurate datasets with\nthe objective of reducing word error rate and increasing naturalism of\nmodel outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on labelling accuracy and\nresearch teams can spend less time wrangling data.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296503796969",
+"subject": "VapiCon - Coffee?",
+"text": "Hi [NAME]\n\nI saw you focus on conversational speech models so I expect you might be at\nVapiCon next week. I wanted to reach out for a coffee and learn how you're\nthinking about data quality.\n\nI've been working on projects with Udio, Kyutai and Speechmatics in similar\nspaces to you. That seems to be a common challenge for Voice AI teams which\nin turn affects the word error rate and output naturalism.\n\nWe've been approaching this from a tooling angle - e.g. unifying\npre-labelling, manual adjustment and QA in one place for transcription,\ndiarization and emotion/ sentiment recognition.\n\nWould love to hear how you're approaching this. My team will be at VapiCon\nall day on 2nd Oct - if you're open to a quick chat?"
+},
+{
+"id": "296503886050",
+"subject": "Congrats on the IPO!",
+"text": "Hi [NAME],\n\nJust saw the great news about Kodiak's IPO! Hope you're celebrating for\nthis huge day!\n\nI saw you're recently hiring for an AI engineer for flywheel automation &\nthought automating annotations is something we can collaborate on.\n\nOur customer Woven by Toyota leverage us to curate, annotate & evaluate\npetabytes of self-driving training data - which I imagine is at comparable\nscale to Kodiak. - keen to get your thoughts on how we've approached that\nproject.\n\nLet me know if you have 30 mins in the coming week? Until then hope you're\ncelebrating in style!"
+},
+{
+"id": "296521735366",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nCongrats on Chatterbox Multilingual's recent launch! Given your focus on\nTTS/ASR I thought you might be at VapiCon next week - would love to grab a\ncoffee if you're heading there.\n\nFor context - I'm working on data ops projects with Speechmatics, Kyutai\nand Udio in audio AI space, helping them build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and manual adjustment/ human QA in one\nplatform, so annotators can focus on assessing labelling accuracy for\ntranscription, diarization and non-speech contexts.\n\nWould you be open to a chat? We'll be at VapiCon all day on 2nd Oct."
+},
+{
+"id": "296539836663",
+"subject": "Coffee at VapiCon?",
+"text": "Hi [NAME],\n\nGiven your focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\nthe Voice AI space. Would love to connect at the conference if you're\ngoing?\n\nFor context - Encord helps Voice AI teams build more accurate datasets with\nthe objective of reducing word error rate and increasing naturalism of\nmodel outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on labelling accuracy and\nresearch teams can spend less time wrangling data.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296559661248",
+"subject": "Coffee at VapiCon",
+"text": "Hi [NAME],\n\nGiven Wellsaid's focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\naudio gen space. Would love to connect at the conference if you're going?\n\nFor context - Encord helps Voice AI teams build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on assessing labelling accuracy\nfor transcription, diarization and non-speech contexts.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296559662304",
+"subject": "Coffee at VapiCon",
+"text": "Hi [NAME],\n\nGiven Wellsaid's focus on TTS I thought you might be at VapiCon next week.\nReaching out since we work on projects w/ Kyutai, Udio and Speechmatics in\naudio gen space. Would love to connect at the conference if you're going?\n\nFor context - Encord helps Voice AI teams build more accurate multilingual\ndatasets with the objective of reducing word error rate and increasing\nnaturalism of model outputs.\n\nWe focus on unifying auto-annotation and human review processes in one\nplatform, so your annotation team can focus on assessing labelling accuracy\nfor transcription, diarization and non-speech contexts.\n\nWould you be open to exchanging perspectives? We'll be at VapiCon all day\non 2nd Oct."
+},
+{
+"id": "296570424519",
+"subject": "ITC Vegas catch up with Ravin",
+"text": "Hi [NAME],\n\nCongrats on being selected to speak at ITC Vegas!\n\nI'll be following but wanted to reach out since we already work with some\nof your peers (Intenseye, UVeye, Tractable) on their annotation workflows\nfor car damage detection + assessment.\n\nWe've seen CV teams in auto insurance cut model iteration time by\nautomating edge-case QA and streamlining review workflow (something I\nimagine is also top of mind for Ravin).\n\nCurious if you'd be open to a virtual coffee before the event to compare\nnotes. Happy to work around your schedule."
+},
+{
+"id": "297048472798",
+"subject": "training data pipeline @ imubit",
+"text": "Hi [NAME],\n\nI read about [COMPANY]'s partnership with Preem to lower emissions, great work\nfor driving sustainability in industrial AI (and making the earth greener!)\nThought I'd reach out as we work with companies like Zeitview, Buzz\nsolutions and Baker Hughes on similar CV projects to detect defects / leaks\nat oil rigs and other power plants.\n\nWe've been helping their teams scale annotation for high-volume, complex\ndatasets so they can accelerate model development, improve predictive\naccuracy, and deploy AI faster. Curious to learn if CV inspection is on\n[COMPANY]'s roadmap as well.\n\nQuick context on Encord: we're a data development platform for advanced CV\nand multimodal AI (image, video, 3D, sensor etc). We bring data curation,\nannotation, workflow mgmt & model evaluation into one platform, so teams\ncan focus more on building better AI models.\n\nDo you have time over the next week or two to learn more? Let me know what\nworks for you, and I'll send a calendar invite along accordingly."
+},
+{
+"id": "299431604463",
+"subject": "Actuate - [SENDER] Jazayeri intro",
+"text": "Hi [NAME],\n\nHad the pleasure of meeting [SENDER] at Actuate last week who suggested that we\nconnect,\n\nWe've been working closely with Tayyab's team at Woven (not sure if you\noverlapped during your time there?) - providing the platform to support AI\ndata management, curation & annotation workflows, so was curious to explore\nif we could support in a similar way at [COMPANY]\n\nWondering if you'd have time for a quick chat in the coming weeks? Would be\ngreat to be introduced,\n\nCopying in my colleague @[SENDER] <[EMAIL]> who can help\nto coordinate if this of interest,"
+},
+{
+"id": "299809153267",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with other geospatial leaders such as Maxar & Xoople.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love the opportunity to show you what\nwe've built and hear your thoughts. Would you be open to learning more?"
+},
+{
+"id": "299887658217",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI wanted to introduce myself as your new point of contact at Encord - nice\nto meet you.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nGiven your AI/ML background - I'd love to present what we've built and hear\nyour thoughts. Would you be open to learning more?"
+},
+{
+"id": "300555134154",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI wanted to introduce myself as your new PoC at Encord - nice to meet you!\n\nWe've recently helped several teams transition away from CVAT such as\nTerminal Industries and Fox Robotics, and I'd love to explore how we can\nsupport [COMPANY] in your next phase of growth.\n\nCould we put some time in for next week? Looping in @[SENDER] <[EMAIL]> to help coordinate."
+},
+{
+"id": "300583818469",
+"subject": "scale vision AI and perception models",
+"text": "Hi [NAME],\n\nCongrats on growing your CV team! Thought I'd reach out since we work with\na lot of robotics teams building similar CV models.\n\nAs datasets grow, teams often struggle to keep perception models\naccurate-indexing, auto-labeling, and QA can become a bottleneck. Given\nyour pick & place and object manipulation use cases, I imagine you might be\nseeing some of the same hurdles at [COMPANY].\n\nQuick context on Encord: we help perception teams (Pickle Robot, Osaro,\nMytra, Fox Robotics, etc.) automate annotation pipelines across 2D and 3D\ndata. Many use our model-assisted workflows to scale faster without\ncompromising accuracy, while keeping full control of their models.\n\nWould you be open to a 20-min chat in the next week or two to see if this\ncould complement your setup? I can work around your schedule."
+},
+{
+"id": "300585721056",
+"subject": "Mark - Video Annotation",
+"text": "Hi [NAME],\n\nGiven your background in data, I wanted to introduce you to Encord - we're\na data development platform helping 200+ AI teams streamline the feedback\nloop from annotation to model evaluation.\n\nFrom past conversations with your team, I understand that efficiently\nidentifying relevant video segments and automating annotations are top\npriorities.\n\nWe recently supported Milestone Systems and LVT scale beyond internal tools\nfor video annotation, and I'd love to explore how we can help [COMPANY] in a\nsimilar way.\n\nWould you be open to learning more?"
+},
+{
+"id": "300665514201",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI wanted to introduce myself as your new PoC at Encord - nice to meet you!\nWe work with over 200 AI teams to streamline the feedback loop from\nannotation to model evaluation.\n\nIn the IDV space, we work with companies like Onfido to help uncover\nfailure modes and accelerate time-to-action, improving label quality and\nmodel performance.\n\nIt would be great to introduce you to our platform next week, when is a\ngood time for you?"
+},
+{
+"id": "300669153508",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI wanted to introduce myself as your new of contact at Encord - nice to\nmeet you.\n\nWe help over 200 AI teams streamline the feedback loop from annotation to\nmodel evaluation. Companies like Onfido use Encord to identify failure\nmodes faster and improve both label quality and model performance.\n\nGiven your background in ML - I'd love to walk you through the platform and\nget your thoughts. Would you be open to learning more next week?"
+},
+{
+"id": "300674504895",
+"subject": "YC + [COMPANY] + Encord",
+"text": "Hi [NAME],\n\nI've been following [COMPANY] since YC (we were W21). Really\nimpressed by the mission to balance deep ocean ecology with robotics\ninnovation. We recently helped Abyss Solutions (underwater inspection)\nscale their vision workflows - complex ontologies, real-time model review,\nand QA pipelines. Like your autonomous robots, their platform had to run\nwith zero margin for error.\n\nA common challenge we see in robotics/inspection: as real-world training\ndata grow, internal annotation setups struggle to keep up with edge cases,\nslowing iteration and risking model performance. We solve this by unifying\nannotation, QA, workflow management, and model evaluation in one place -\nhelping teams like Baker Hughes, Buzz Solutions, Zeitview, and Boston\nDynamics scale faster without sacrificing quality.\n\nQuick Context on Encord: (Series B, $50M+ raised, 100+ people): we're a\ndata development platform for advanced CV and multimodal AI (2D, 3D,\nsensor, point cloud). We've helped over 200 AI teams over the past 5 years.\n\nWould you be open to a quick chat over the next week or two to see if this\ncould support your work? I'm flexible Tue - Thu PT, but happy to work\naround you."
+},
+{
+"id": "300780966117",
+"subject": "scale vision AI and perception models",
+"text": "Hi [NAME],\n\nCongrats on growing your CV team! Thought I'd reach out since we work with a lot of robotics teams building similar CV models. \n\nAs datasets grow, teams often struggle to keep perception models accurate-indexing, auto-labeling, and QA can become a bottleneck. Given your pick & place and object manipulation use cases, I imagine you might be seeing some of the same hurdles at [COMPANY].\n\nQuick context on Encord: we help perception teams (Pickle Robot, Osaro, Mytra, Fox Robotics, etc.) automate annotation pipelines across 2D and 3D data. Many use our model-assisted workflows to scale faster without compromising accuracy, while keeping full control of their models.\n\nWould you be open to a 20-min chat in the next week or two to see if this could complement your setup? I can work around your schedule."
+},
+{
+"id": "301332253889",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with the likes of Maxar & Xoople.\n\nWe've built a data management platform that helps teams curate data and\nsignificantly improve annotation efficiency.\n\nI'd love to briefly introduce what we've built and share how we're\nsupporting other geospatial leaders in scaling their AI efforts. Would you\nbe open to learning more?"
+},
+{
+"id": "301400963260",
+"subject": "partnerships with inVia",
+"text": "Hi [NAME],\n\nCongrats on the [YEAR] SupplyTech Award, well-deserved!\n\nI work with warehouse robotics teams like Osaro, Pickle Robot, and Mytra,\nand a common challenge we see is keeping CV models accurate as operations\nscale. Teams often end up bogged down in data curation and annotation\ninstead of iterating on models. Curious if inVia is seeing something\nsimilar.\n\nQuick context: Encord are built for AI/ML teams to streamline annotation,\nQA, and workflow management across multi-modal data (image, video, 3D point\ncloud), so engineers can focus on model performance and faster deployment.\nWe've supported 200+ teams in doing exactly this. We're venture backed,\nseries B, raised $50M+ funding, 100+ employees.\n\nWould you be open to a quick chat next week to see if this could support\ninVia? I'm flexible Tue - Thu PT but happy to work around you."
+},
+{
+"id": "301530574042",
+"subject": "scale training data pipeline @ 3deye",
+"text": "Hi [NAME],\n\nSaw your recent real-time alert feature for event detection. Thought I'd\nreach out since we recently onboarded Flock Safety for similar inspection\nand surveillance use cases.\n\nLike 3deye, vision teams from Voxel, LVT, and Rhombus turn to us when\nreal-world training data grows too complex for manual processing. We help\nby providing native video annotation pipelines with automation + HITL\nreview, so teams spend less time on data bottlenecks and more on improving\nmodel accuracy and iteration speed.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI (images, videos, sensor, 3D/point cloud data.). We cover curation,\nannotation, QA, workflow mgmt & model evaluation. We're ~5 years old, 100+\nemployees, $50M+ funding and have supported 200+ AI teams to date.\n\nGiven your extensive experience in scaling computer vision solutions, I'd\nlove to get your candid feedback on what we've built. Let me know if you're\nopen for a quick chat Tuesday to Friday next week?"
+},
+{
+"id": "301588456645",
+"subject": "partnership with [COMPANY]",
+"text": "Hi [NAME],\n\nReaching out since we started working with Synthesia on similar high-end 3D\navatar development and your company has come up in several discussions.\n\nWe work closely with AI teams from Synthesia, Captions, Twelve Labs, and\nFlawless to improve the realism of video avatars & post-production results,\nand reduce their time spent in preparing training datasets.\n\nQuick recap on Encord - we are purpose-built for video annotation &\ntraining, which is why we partner with several companies that have a use\ncase similar to yours. We're ~5 years old, venture backed, series B with\n$50M+ raised & 100+ employees, and have supported 200+ AI teams so far.\n\nWould love to get your expert feedback on what we've built if you are open\nto a quick chat Tue - Thu next week?"
+},
+{
+"id": "301595730138",
+"subject": "3deye / encord - intro",
+"text": "Hi [NAME],\n\nSaw your recent real-time alert feature for event detection. Thought I'd\nreach out since we recently onboarded Flock Safety for similar inspection\nand surveillance use cases.\n\nLike 3deye, vision teams from Voxel, LVT, and Rhombus turn to us when\nreal-world training data grows too complex for manual processing. We help\nby providing native video annotation pipelines with automation + HITL\nreview, so teams spend less time on data bottlenecks and more on improving\nmodel accuracy and iteration speed.\n\nQuick context: Encord is a data development platform for CV and multimodal\nAI (images, videos, sensor, 3D/point cloud data.). We cover curation,\nannotation, QA, workflow mgmt & model evaluation. We're ~5 years old, 100+\nemployees, $50M+ funding and have supported 200+ AI teams to date.\n\nGiven your extensive experience in scaling computer vision solutions, I'd\nlove to get your candid feedback on what we've built. Let me know if you're\nopen for a quick chat Tuesday to Friday next week?"
+},
+{
+"id": "301610569921",
+"subject": "Congrats on Dot's launch",
+"text": "Hi [NAME],\n\nWith your Autonomous Delivery Platform rolling out, I imagine scaling\nperception algorithms for autonomous systems with real-world data could be\na priority for [COMPANY] Labs.\n\nYou might find our projects with Zipline, Serve Robotics and Instacart's\nCaper team interesting:\n\nThey leverage Encord to curate and annotate cameras and LiDAR data in one\nplatform, with the goals of improving labelling throughput by 6x.\n\nWould it make sense to connect and see how we can support [COMPANY] Labs?"
+},
+{
+"id": "301633512683",
+"subject": "partnership with [COMPANY]",
+"text": "Hi [NAME],\n\nHeard great things about [COMPANY] from [SENDER] and Janpreet at CVPR this year.\nWanted to reach out since we recently helped Zoopla (property inspection)\nscale their video data curation & annotation pipelines. Like [COMPANY], they\nleverage vision models for property scanning and 3D modeling. Thought it\nmight be a good time to touch base.\n\nWe typically support ML teams looking to remove bottlenecks in scaling AI.\nWe specialise in video & work with many inspection / insurance companies\n(Protex, UVeye, Intenseye, Tractable) on digital twins, defect detection,\ninventory tracking, and AI-powered survey.\n\nQuick context: Encord is a data development platform built for advanced CV\nand multimodal AI (image, video, sensor, 3D/point cloud). We're venture\nbacked, series B, $50M+ raised, 100+ employees, and have supported 200+ AI\nteams to optimize their training data workflows.\n\nKeen to hear how you're thinking about your training data as you scale.\nWould you be open to a quick chat next week? I'm flexible Tue - Thu PT, but\nhappy to work around you."
+},
+{
+"id": "301647101124",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with 200+ AI companies including Flawless, Synthesia and Captions -\nnice to meet you.\n\nAt Encord, we've built a data management platform that enables teams to\ncurate data at scale and improve annotation efficiency.\n\nI'd love the opportunity to introduce our platform and hear your feedback,\nwould you be open to discussing things further?"
+},
+{
+"id": "301659402437",
+"subject": "[NAME] - Encord",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with other geospatial leaders such as Maxar & Xoople - nice to meet\nyou!\n\nGiven your ML background, I wanted to introduce you to Encord. We've built\na data management platform that enables teams to curate data at scale and\nimprove annotation efficiency.\n\nI'd love to show you what we've built and hear your thoughts. Would you be\nopen to learning more?"
+}
+]

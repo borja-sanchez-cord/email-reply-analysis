@@ -217,3 +217,18 @@ agent work, and they should be treated as instrumentation that needs calibration
 second differently-worded pass for reply labels, 20 read examples per assigned type, a 10%
 re-score for judged dimensions, and an automated blinding check before any of it runs. In
 this study the classifier calibration caught more real problems than the analysis did.
+
+## 13. A gate whose thresholds are relative gives different verdicts on the same bytes
+
+The blinding gate decides whether a name token is really an ordinary English word from
+lowercase evidence *inside the corpus it is handed*. Hand it a subset and the thresholds
+move: the identical 7,055 texts that were CLEAN inside a 12,462-item corpus came back
+BLOCKED on their own (§9.10). Nothing had leaked — `max` and `kit` had simply stopped
+clearing the "this is an ordinary word" bar.
+
+Two lessons, and the second is the one that saved time. First: a gate that computes its own
+vocabulary from the corpus under test must take that vocabulary from a fixed reference
+corpus instead, or it is not a fixed gate. Second: the run-1 fix of **reporting the pruning
+decision as a separate reviewable list** is what turned a launch-blocking mystery into a
+two-minute read. Build audits so that the judgement calls they make are printed next to
+the verdict, never folded into it.

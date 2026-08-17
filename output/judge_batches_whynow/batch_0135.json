@@ -1,0 +1,202 @@
+[
+{
+"id": "450680925389",
+"subject": "LandingAI <> Encord",
+"text": "Hi [NAME],\n\nI've been following LandingAI's work on agentic document extraction,\nespecially how you're tackling long-tail document variability with DPT-2.\n\nI work closely with teams building production document AI systems, and a\ncommon theme we're seeing is what happens after models went into\nproduction: reviewing extraction failures, adjudicating edge cases, and\nturning real-world errors into systematic procut and model improvements.\n\nWould love to grab 20 mins to compare notes and see if any resonate as you\nevaluate and iterate ADE as usage scales - Would next Thu / Fri work for\nyou for a quick chat?"
+},
+{
+"id": "450755246282",
+"subject": "Percise Audio Labeling",
+"text": "Hi [NAME],\n\nI saw the project you, Etienne, and Mahmoud worked on around a low-latency\nhuman detection system the amount of manual labeling that went into it is\nimpressive. Truly, du savoir-faire à la française.\n\nAt Encord, we've been working with foundational audio labs like Gradium and\nKyutai on audio labeling. Our editor can help make your labels even more\ngranular and improve upstream model accuracy.\n\nCheck out this quick Loom walkthrough:\n\n*Accelerating Multilingual Audio Workflows in Encord | 8 October [YEAR]* - Watch\nVideo\n<[LINK]>\n<[LINK]>\n\nWould you be open to a brief discussion to see if this could help your team\nin the future?\n-[SENDER]"
+},
+{
+"id": "451229248760",
+"subject": "Encord x Eyyes - Abishek Vaithylingam Intro",
+"text": "Hi [NAME],\n\nJust reaching out after a conversation that my colleague and I had with\nAbishek towards the end of last week.\n\nIt was interesting to hear about the Eyyes' models being developed for\nlane, person, obstacle detection, and more. I understand from Abishek that\nthe team currently uses CVAT to manage the multimodal annotation tasks\nrequired to develop these models effectively.\n\nI thought I'd share with you a couple materials, showcasing the value that\nour platform could add to your team.\n\n1. A video showcasing\n<[LINK]>\nhow\nour platform handles complex LiDAR data for 3d annotations.\n\n2. A customer story\n<[LINK]>\nexplaining\nhow Encord helps teams to increase model effectiveness and efficiency.\n\nIf you'd like to book in a meeting to see a more in depth demo of our\nproduct, please use the booking link here\n<[LINK]>\n."
+},
+{
+"id": "451308015855",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi \n       [NAME], \n\n       Big fans of \n       [COMPANY] here! Reaching out because I've been working with RetailTech teams like Standard AI, Focal Systems, and Neuro Labs on improving training data quality for SKU recognition, inventory intelligence, autonomous checkout, and customer behaviour analysis - areas where in-house or open-source tools often struggle at scale. \n\n       Quick context: Encord is an AI/ML Ops platform for computer vision and multimodal AI, covering data curation, annotation, automated QA, and model eval. We're Series B ($50M raised) and support 200+ AI teams including Boston Dynamics, Skydio, and Zipline.\n\n        Do you have time for a quick 20-min chat before Christmas? I'd love to learn how you're approaching your data pipeline as you scale."
+},
+{
+"id": "452144141523",
+"subject": "[COMPANY] <> Encord introduction",
+"text": "Hi [NAME],\n\nNice to meet you, [SENDER] kindly shared your details.\n\nI saw the work you're doing at [COMPANY]. Since you're manually tagging\nwhale and dolphin sounds on spectrograms, we could significantly speed this\nup.\n\nWe've built an MLOps platform for granular audio annotation with\nsynchronised spectrogram and waveform segmentation - enabling faster, more\nprecise sound detection & labelling. You can also plug in your existing\nedge models to pre-label sounds, so your team only verifies and refines\ninstead of starting from scratch.\n\nIf you're generating embeddings, our tool also lets you visualise clusters,\nsurface similar vocalisations, and identify rare outliers.\n\nWould love to connect and share how we're supporting frontier audio labs\nlike Gradium (Kyutai) and Udio - sharing my diary link\n<[LINK]>\n here."
+},
+{
+"id": "452470750430",
+"subject": "[NAME] - AI avatar",
+"text": "Hi [NAME],\n\nBeen following your journey with Daz 3D and [COMPANY]. My team at Encord works\nwith Synthesia, Captions, and Flawless on 3D avatars and audio models.\n\nWe help AI/ML teams speed up model training and improve avatar realism -\ncovering curation, annotation, QA, model evaluation, and RLHF at scale.\n\nWould love to get your feedback on what we've built and to hear how you're\napproaching this.\n\nDo you have 20 mins next week for a quick chat?"
+},
+{
+"id": "452532288706",
+"subject": "closing the sim-to-real loop for behavior models",
+"text": "Hi [NAME],\n\n        I've been following \n        [COMPANY]'s work on behavior modeling and simulation - impressive stuff! Reaching out as we've been working on similar projects w/ \n        Nexar, Motive, and Woven (Toyota), etc. on road-safety and AV/ADAS models.\n\n        A common challenge is closing the loop between real-world logs, simulation outputs, and the data that's needed to improve the next training cycle. Encord sits in that gap as a data quality and evaluation layer - helping teams curate, review, and track data at scale, where open-source or in-house tooling tends to break down as volume and complexity grow. \n\n        If useful, I'd love to spend 20 min comparing notes. Would Thu or Fri work for you?"
+},
+{
+"id": "452558092478",
+"subject": "Just called about Percise Audio labeling",
+"text": "Hi [NAME],\n\nI saw the project Albert, Etienne, and Mahmoud worked on around a\nlow-latency human detection system the amount of manual labeling that went\ninto it is impressive.\n\nAt Encord, we've been working with foundational audio labs like Gradium and\nKyutai on audio labeling. Our editor can help make your labels even more\ngranular and improve upstream model accuracy.\n\nCheck out this quick Loom walkthrough:\n\n*Accelerating Multilingual Audio Workflows in Encord | 8 October [YEAR]* - Watch\nVideo\n<[LINK]>\n<[LINK]>\n\nWould you be open to a brief discussion to see if this could help your team\nin the future?"
+},
+{
+"id": "452641877193",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME], \n\n       I came across \n       [COMPANY]'s IVE and GenAI verification and wanted to reach out as we work with teams like Onfido, Veriff, and VIDA on similar IDV challenges. \n\n       A common challenge they face is tightening the model performance feedback loop with better training data, with the goal of reducing false positives. Curious if this resonates with your work at \n       [COMPANY].\n\n       If helpful, I'd love to grab 20min and swap notes - do you have time next Wed/Thu?"
+},
+{
+"id": "452642278631",
+"subject": "Steven - behavior models",
+"text": "Hi [NAME],\n\n        Congrats on your new role! I've been following \n        [COMPANY]'s work on behavior modeling and simulation - impressive stuff. \n\n        We've been working on projects w/ \n        Nexar, Motive, and Woven (Toyota), etc. on road-safety and AV/ADAS models, and a common challenge is closing the loop between real-world logs, simulation outputs, and data needed to improve the next training cycle. \n\n        Encord acts as a data quality and evaluation layer - helping teams curate, review, and track data at scale, where open-source or in-house tooling tends to break down as volume and complexity grow. \n\n        If useful, I'd love to spend 20 min comparing notes. Would Thu or Fri work for you?"
+},
+{
+"id": "452779954404",
+"subject": "[NAME] - Vision AI",
+"text": "Hi [NAME], \n\n       I saw Nexxa is \n       hiring a Senior CV Engineer focused on image/video, 3D, multimodal, and real-time deployments - thought it's a good time to reach out. \n\n       As perception systems scale, CTOs and vision teams I work with often find that data indexing, auto-labeling, and QA became the bottleneck to model accuracy and iteration speed. Given Nexxa's focus in rail and lighting, I imagine some of these challenges may be coming up. \n\nIn case Encord is new to you: we help teams like Boston Dynamics, Osaro, Mytra, and Fox Robotics automate annotation pipelines across 2D and 3D data, using model-assisted workflows that plug neatly into existing debugging and visualization tools. \n\nWould you be open to a 20-min virtual coffee in the next week or two to see if this could complement your current setup? Happy to work around your schedule."
+},
+{
+"id": "452779981013",
+"subject": "[NAME] - fraud models",
+"text": "Hi [NAME], \n\n      I came across \n      SheerID's IVE and GenAI verification and wanted to reach out as we work with teams like Onfido, Veriff, and VIDA on similar IDV challenges. \n\n      A common challenge they face is tightening the model performance feedback loop with better training data, with the goal of reducing false positives.Curious if this resonates with your work at \n      SheerID.\n\n      If helpful, I'd love to grab 20min and swap notes - do you have time next Wed/Thu?"
+},
+{
+"id": "452780202185",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME], \n\n       Always good to see a fellow NUS alum doing well in the US. I've just moved from SG to SF and have been spending time with a few IDV/fraud teams here. \n\n       For teams with strong infra and modeling, the harder problems tend to show up post-deployment: understanding false positives, resolving edge cases, and turning failure modes into clean, auditable training data. That's where Encord usually fits in. \n\n       If useful, I'd love to grab 20 min to say hi and compare notes on how you're approaching this at \n       [COMPANY]. Would Thu or Fri work?"
+},
+{
+"id": "454008840398",
+"subject": "[NAME] - Reducto",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454010255566",
+"subject": "ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454012046544",
+"subject": "ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454047926471",
+"subject": "[NAME] - Reducto",
+"text": "Hi [NAME],\n\nI've been following LandingAI's work on agentic document extraction -\nimpressive how you're tackling complex, real-world docs in production.\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases - and closing the loop back into\ntraining and eval without burning engineering cycles.\n\nCurious how your team is thinking about this as ADE scales. Would you be\nopen to connecting next week?"
+},
+{
+"id": "454299333867",
+"subject": "ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454313599169",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454368172267",
+"subject": "[NAME] - Data Curation",
+"text": "Hi [NAME],\n\nI've been following [COMPANY]'s work in fraud detection and know that keeping\nfalse-positive rates low while staying ahead of new fraud patterns is a\nconstant challenge.\n\nWe built Encord to help with exactly that. Our ML Ops platform gives IDV\nand fraud prevention teams better tools for data curation, which translates\ndirectly into higher model accuracy and faster iteration.\n\nWould you be open to a brief call next week to explore if there's a fit?"
+},
+{
+"id": "454377489627",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454378958013",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454408589523",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "454417957070",
+"subject": "[NAME] - ML Workflows",
+"text": "Hi [NAME],\n\nExciting to see the OCR and entity extraction focus from [COMPANY].\n\nWorking with teams at Reducto, AppFolio, and UiPath, we've seen a\nconsistent pattern: once document AI is live, the bottleneck shifts from\nextraction accuracy to reliably surfacing failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's data development platform helps close the loop back into training\nand eval without burning engineering cycles.\n\nWould love to hear how your team is thinking about this - would you be open\nto connecting sometime next week?"
+},
+{
+"id": "454423010511",
+"subject": "Scaling ML Pipelines",
+"text": "Hi [NAME],\n\nI've been following what [COMPANY] is doing with conversational\nintelligence - building reliable ML on messy, real-world audio is one of\nthe harder problems in voice AI right now.\n\nOne pattern we keep seeing: as model iterations speed up, the bottleneck\nshifts to evaluating whether the new version actually sounds better across\nedge cases like overlapping speakers or low-confidence transcriptions.\nComparing outputs side by side at scale is a real pain.\n\nThat's the core problem we solve at Encord. Leading AI teams such as\nSynthesia and Twelve Labs use us to cut audio review cycles and catch\nregressions before they ship.\n\nWorth an intro call to see if this maps to what you're running into?"
+},
+{
+"id": "456958267592",
+"subject": "Chatted to Ammar",
+"text": "Hi [NAME] - nice to meet you,  \n\n I spoke with Ammar last week and it sounds like you guys are happy with your internal process for annotation. As datasets get larger and more complex, do you anticipate any bottlenecks with the in-house approach?  \n\n I'd love to share more about some of the work we've done around object detection and pose estimation - with teams like Flock Safety and Intenseye & see if we could also help at [COMPANY].  \n\n Would you have time to catch-up later this week / early next? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "456969647291",
+"subject": "Chatted to Ammar",
+"text": "Hi [NAME] - nice to meet you,  \n\n I spoke with Ammar last week and it sounds like you guys are happy with your internal process for annotation. As datasets get larger and more complex, do you anticipate any bottlenecks with the in-house approach?  \n\n I'd love to share more about some of the work we've done around object detection and pose estimation - with teams like Flock Safety and Intenseye & see if we could also help at [COMPANY].  \n\n Would you have time to catch-up later this week / early next? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "456969648327",
+"subject": "Chatted to Ammar",
+"text": "Hi [NAME] - nice to meet you,  \n\n I spoke with Ammar last week and it sounds like you guys are happy with your internal process for annotation. As datasets get larger and more complex, do you anticipate any bottlenecks with the in-house approach?  \n\n I'd love to share more about some of the work we've done around object detection and pose estimation - with teams like Flock Safety and Intenseye & see if we could also help at [COMPANY].  \n\n Would you have time to catch-up later this week / early next? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "456974914806",
+"subject": "[NAME] - AIAH chat",
+"text": "Hi [NAME],\n\n       Thanks again for your interest in our AI After Hours events in the past - I wanted to reach out and properly introduce myself. \n\n       I'd love to grab a quick virtual coffee to share more about future events we have in place in SF and learn a bit more about how \n       [COMPANY] is thinking about data and ML workflows. My team at Encord work closely with vision AI teams dealing with complex, multimodal data to scale annotation, HITL QA, and model iteration without slowing teams down.\n\n       Would you be open to a 20-min next week for a brief chat? Happy to work around your schedule."
+},
+{
+"id": "457087551711",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457087554759",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457222325489",
+"subject": "Chatted with Itay",
+"text": "[NAME] - nice to meet you, \n\n Recently spoke with Itay (and Jenna back in December [YEAR]), around how we can help with scaling annotation requirements / HITL workflows & I understand you may be the best person to continue the conversation. \n\n I'd love to share more about some of the work we've done around document extraction and summarisation - with teams like Reducto, Entrust, and JP Morgan & see if this could also help at WiseDocs.  \n\n Would you have time to connect later this week? Weds - Friday AM ET currently quite open for us,"
+},
+{
+"id": "457241948356",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457241949377",
+"subject": "Spoke with Othmane",
+"text": "Hi [NAME] - hope all is well,  \n\n We previously spoke with Othmane, about Pocket FM's QC bottlenecks as you scale AI-generated content. He highlighted specific needs around long-form coherence, addressing audio hallucinations, and replacing manual tools with more automated workflows.  \n\n I'm reaching out [SENDER] - we provide an AI data platform that helps teams evaluate generative models and automate quality control for complex multimodal data, including audio.  \n\n Since then, we've built out quite a bit of dedicated tooling for this exact use case, which is currently helping audio and GenAI teams like Udio and Kyutai scale their evaluation. \n\n Is solving these QC bottlenecks something that is relevant for you right now? If so, I'd love to find a few minutes to connect next week."
+},
+{
+"id": "457251672311",
+"subject": "[NAME] - hindi & arabic // working with Kyutai",
+"text": "Hi [NAME] - spoke with Sami before he left - he mentioned your team is seeing\na surge in demand for Arabic and Hindi and suggested we connect.\n\nSounds like you needed native speakers in low resource languages (Hindi,\nArabic, amongst others) - we provide that and stand out from other\nproviders through the automation our annotation tooling provides.\n\nTeams like *Kyutai *got to speed up model retraining cycles using our\nwaveform-based labelling editor with models-in-the-loop to handle\nmillisecond-accurate timestamps, emotion tagging, speaker crosstalk etc\n\nSince you're thinking about winning more deals - would you have for a brief\nchat next week? Happy to tell you what's worked with other teams,"
+},
+{
+"id": "457400443117",
+"subject": "Alfonso - chatted with Maria",
+"text": "Hi [NAME] - have been following the [COMPANY] team for some time now &\nnoticed the planned EU and US expansion of LOLA so thought I'd reach out to\nintroduce myself.\n\nI lead the voice AI team here at Encord and we've been working with several\nfrontier AI teams (inc. Kyutai, Udio) and medical teams like Abbvie,\nfocusing on increasing their clinical annotation throughput and HITL\nverification flows to accelerate the fine-tuning of their voice agents -\nwith traceability needed for 510(k).\n\nIf this sounds interesting, would be happy to chat & share what we're\nseeing work well for our other partners that require hallucination free,\nexplainable and clinically correct datasets.\n\nLet me know if you're be open to a 30-minute chat early next week?"
+},
+{
+"id": "457446638814",
+"subject": "Alfonso - chatted with Maria",
+"text": "Hi [NAME] - have been following the [COMPANY] team for some time now &\nnoticed the planned EU and US expansion of LOLA so thought I'd reach out to\nintroduce myself.\n\nI lead the voice AI team here at Encord and we've been working with several\nfrontier AI teams (inc. Kyutai, Udio) and medical teams like Abbvie,\nfocusing on increasing their clinical annotation throughput and HITL\nverification flows to accelerate the fine-tuning of their voice agents -\nwith traceability needed for 510(k).\n\nIf this sounds interesting, would be happy to chat & share what we're\nseeing work well for our other partners that require hallucination free,\nexplainable and clinically correct datasets.\n\nLet me know if you're be open to a 30-minute chat early next week?"
+},
+{
+"id": "457448390859",
+"subject": "[NAME] - spoken with Sami",
+"text": "Hi [NAME],\n\nHope all's well!\n\nSpoke with Sami before he left - he mentioned your team is seeing a surge\nin demand for Arabic and Hindi and suggested we connect.\n\nSounds like you needed native speakers in low resource languages (Hindi,\nArabic, amongst others) - we provide that and stand out from other\nproviders through the automation our annotation tooling provides.\n\nTeams like *Kyutai *got to speed up model retraining cycles using our\nwaveform-based labelling editor with models-in-the-loop to handle\nmillisecond-accurate timestamps, speaker crosstalk etc\n\nSince you're thinking about winning more deals - would you have for a brief\nchat next week? Happy to tell you what's worked with other teams,"
+},
+{
+"id": "457450360036",
+"subject": "[NAME] - chatted with Maria / Abbvie, Philips",
+"text": "Hi [NAME] - have been following the [COMPANY] team for some time now &\nnoticed the planned EU and US expansion of LOLA so thought I'd reach out to\nintroduce myself.\n\nI lead the voice AI team here at Encord and we've been working with several\nfrontier AI teams (inc. Kyutai, Udio) and medical teams like Abbvie,\nfocusing on increasing their clinical annotation throughput and HITL\nverification flows to accelerate the fine-tuning of their voice agents -\nwith traceability needed for 510(k).\n\nIf this sounds interesting, would be happy to chat & share what we're\nseeing work well for our other partners that require hallucination free,\nexplainable and clinically correct datasets.\n\nLet me know if you're be open to a 30-minute chat early next week?"
+},
+{
+"id": "457460962528",
+"subject": "[NAME] - hindi & arabic",
+"text": "Hi [NAME] - spoke with Sami before he left for family reasons - he mentioned\nyour team is seeing a surge in demand for Arabic and Hindi and suggested we\nconnect.\n\nSounds like you needed native speakers in low resource languages (Hindi,\nArabic, amongst others) - we provide that and stand out from other\nproviders through the automation our annotation tooling provides.\n\nTeams like *Kyutai *got to speed up model retraining cycles using our\nwaveform-based labelling editor with models-in-the-loop to handle\nmillisecond-accurate timestamps, speaker crosstalk etc\n\nSince you're thinking about winning more deals - would you have for a brief\nchat next week? Happy to tell you what's worked with other teams,"
+}
+]

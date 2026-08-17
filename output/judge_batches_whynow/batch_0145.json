@@ -1,0 +1,202 @@
+[
+{
+"id": "484533158121",
+"subject": "DocV",
+"text": "Hi [NAME] - happy Friday!\n\nBeen working with Veriff and Onfido, and [COMPANY] came up given your\nposition in the IDV.\n\nA common theme we're seeing: once models are live, challenges shift to\ndiagnosing failure modes and tightening the feedback loop btw training data\nand production performance - especially in KYC/AML.\n\nWould love to compare notes on labeling and eval approach. Open to a quick\nchat next Wed/Thu?"
+},
+{
+"id": "484702575843",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nSaw your work on OCR and entity extraction at [COMPANY] and thought Encord\nmight be relevant.\n\nWorking with labelling teams at Reducto, AppFolio, and UiPath, we keep\nseeing the same shift: once extraction accuracy improves, the real\nbottleneck becomes reliably catching failures - layout drift, OCR\nambiguity, multilingual edge cases.\n\nEncord's platform helps teams close that loop back into training and\nevaluation without heavy engineering lift. Curious how you're thinking\nabout it, open to a quick chat next week?"
+},
+{
+"id": "484702725308",
+"subject": "Building OCR Models",
+"text": "Hi [NAME],\n\nSaw your work on OCR and entity extraction at [COMPANY] and thought Encord\nmight be relevant.\n\nWorking with labelling teams at Reducto, AppFolio, and UiPath, we keep\nseeing the same challenge: reliably catching failures, layout drift, OCR\nambiguity & multilingual edge cases.\n\nEncord's multimodal platform is trusted by 300+ AI teams to annotate data\nat scale. Curious what challenges you're experiencing with labelling, open\nto a quick chat next week to discuss further?"
+},
+{
+"id": "484708112602",
+"subject": "Thoughts for Ironclad",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord is built for exactly this. Teams like Reducto & UiPath use our\nplatform to automate labelling for speed, build flexible structures that\nhandle document complexity, and run QA workflows to keep quality high.\n\nWould you be open to connecting next week to learn more?"
+},
+{
+"id": "484710600939",
+"subject": "Thoughts for [COMPANY]",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord's platform is built for exactly this: we automate labelling for\nspeed, create flexible structures to handle document complexity, and use QA\nworkflows to keep quality high.\n\nWould you be open to connecting next week to learn more?"
+},
+{
+"id": "484717953251",
+"subject": "Thoughts for [COMPANY]",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord is built for exactly this. Teams like Reducto & UiPath use our\nplatform to automate labelling for speed, build flexible structures that\nhandle document complexity, and run QA workflows to keep quality high.\n\nWould you be open to connecting next week to learn more?"
+},
+{
+"id": "484727574725",
+"subject": "Thoughts for [COMPANY]",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord's platform is built for exactly this: we automate labelling for\nspeed, create flexible structures to handle document complexity, and use QA\nworkflows to keep quality high.\n\nWould you be open to learning more?"
+},
+{
+"id": "484731662569",
+"subject": "Thoughts for [COMPANY]",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord is built for exactly this. Teams like Reducto & UiPath use our\nplatform to automate labelling for speed, build flexible structures that\nhandle document complexity, and run QA workflows to keep quality high.\n\nWould you be open to connecting next week to learn more?"
+},
+{
+"id": "484890253542",
+"subject": "Coffee w/ Encord in Munich",
+"text": "Hey [NAME],\n\nI am heading out to Munich on the 22nd of April to meet with customers in\nthe city.\n\nConscious you had spent some time looking into Encord for automated\nlabeling and thought this might be a good ocasion to get introduced and\nshare some of the learnings from working with Delian Industries and\nSkydio.\n\nAre you available late morning on the 22nd? Looping in @[SENDER] <[EMAIL]> to help us coordinate an exact time if you are around :)"
+},
+{
+"id": "484934380743",
+"subject": "AIAH- chat",
+"text": "Hi [NAME], \n\nThanks again for your interest in our Physical AI panel - I wanted to reach out and properly introduce myself. \n\nI'd love to grab a quick virtual coffee to share more about future events we have in the Bay Area and learn a bit more about how you're thinking about data and ML workflows. \n\nMy team at Encord work closely with physical AI teams like Boston Dynamics, Dyna Robotics, and Woven/Toyota dealing with complex, multimodal data. \n\nWould you be open to a quick 20min coffee chat? Happy to work around your schedule."
+},
+{
+"id": "484956996797",
+"subject": "robotics data pipeline",
+"text": "Hi [NAME],\n\nNoticed some interest from your team and figured it's a good time to reach\nout.\n\nFor context, Encord helps robotics and physical AI teams like Pickle Robot,\nDyna, Zipline and Boston Dynamics curate and annotate video, image and 3D\nsensor data.\n\nWould love to connect and compare notes on how different teams\napproach synthetic and real-world training data.\n\nAny chance for a quick 20 min chat this week?"
+},
+{
+"id": "484991935720",
+"subject": "Encord x [COMPANY] - Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "484994883787",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and that building the MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to a quick call this week?"
+},
+{
+"id": "484997972189",
+"subject": "Encord Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "485000124657",
+"subject": "Encord Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "485000348892",
+"subject": "Encord Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "485010088122",
+"subject": "Encord Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "485011845332",
+"subject": "Encord Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "485012663493",
+"subject": "Encord Intro",
+"text": "Hi [NAME],\n\nWe've heard from a few of your team that zero-shot VLM performance hasn't\nheld up for domain-specific driving data, and building efficient MLOps\npipelines to support fine-tuning at scale is a real challenge.\n\nThat's exactly what Encord is built for. We support 300+ AI teams including\nMotive with AI dashcam annotation - managing billion-mile datasets and\nautomating labelling at scale.\n\nWould love to explore how we can achieve similar results for [COMPANY],\nwould you be open to exploring Encord further?"
+},
+{
+"id": "485087629507",
+"subject": "Scaling ML pipelines // learnings from Boston Dynamics & Dyna Robotics",
+"text": "Hi [NAME],\n\nNoticed Hexagon Robotics is hiring across ML Ops & 3D perception and\nthought it could be worth an introduction.\n\nBeen working with leading Humanoid teams at Boston Dynamics & Dyna Robotics\n- providing the platform + services to help scale their multimodal\nannotation pipelines.\n\nWould be great to be introduced & happy to share how we may be able to\nsupport as you scale up your data pipelines.\n\nWould you be open to having a conversation later this week / early next?"
+},
+{
+"id": "485108180193",
+"subject": "Post CISCO Paris Invest connect | Computer Vision projects",
+"text": "Dear [NAME],\n\nI connected with your Chefs de projet innovation at Cisco Paris event in\nMarch - we had a conversation about some of your data initiatives including\ncomputer vision - thought it made sense to get introduced.\n\nA common challenge we see in large organisations is that multimodal data\n(video, images, sensor data) is often siloed or difficult to operationalise\n- We support teams in structuring and preparing this data to unlock use\ncases like *computer vision based automated inspection*, anomaly detection,\nand robotics & more\n<[LINK]>-\nworking with companies such as Boston Dynamics, AbbVie, or AXA.\n\nSince you're working on innovation projects - would it be worth it to show\nyou how we've supported others in this space?\n\nAttaching our deck, and some of the use cases (Zeitview\n<[LINK]>,\nor OnsiteIQ\n<[LINK]>\n),"
+},
+{
+"id": "485116366022",
+"subject": "Post CISCO Paris Invest connect | Computer Vision projects",
+"text": "Hi [NAME],\n\nI connected with your Chefs de projet innovation at Cisco Paris event in\nMarch - had a brief conversation about some of your data initiatives\nincluding CV - thought it made sense to get introduced.\n\nA common challenge we see in large organisations is that multimodal data\n(video, images, sensor data) is often siloed or difficult to\noperationalise.\n\nWe support teams with structuring data & annotations to unlock use cases\nlike *computer vision based automated inspection*, anomaly detection, and\nrobotics & more\n<[LINK]>-\nworking with companies such as Boston Dynamics, AbbVie, or AXA.\n\nSince you're working on CV projects - would it be worth it to show you how\nwe've supported others in this space - some of the use cases (Zeitview\n<[LINK]>,\nor OnsiteIQ\n<[LINK]>\n),"
+},
+{
+"id": "485123255498",
+"subject": "Post CISCO Paris Invest connect | Computer Vision projects",
+"text": "Dear [NAME],\n\nI connected with your Chefs de projet innovation at Cisco Paris event in\nMarch - we had a conversation about some of your data initiatives including\ncomputer vision - thought it make sense to get introduced,\n\nA common challenge we see in large organisations is that multimodal data\n(video, images, sensor data) is often siloed or difficult to operationalise\n- which slows down AI model development.\n\nWe support teams in structuring and preparing this data to unlock use cases\nlike *computer vision based automated inspection*, anomaly detection, and\nrobotics & more\n<[LINK]>-\nworking with companies such as Boston Dynamics, AbbVie, or AXA.\n\nSince you're working on innovation projects - would it be worth it to show\nyou how we've supported others in this space?\n\nAttaching our deck, and some of the use cases (Zeitview\n<[LINK]>,\nor OnsiteIQ\n<[LINK]>\n),"
+},
+{
+"id": "485126230203",
+"subject": "Chefs de projet innovation",
+"text": "Hi [NAME],\n\nI connected with your Chefs de projet innovation at Cisco Paris event in\nMarch - had a brief conversation about some of your data initiatives -\nthought it made sense to get introduced.\n\nA common challenge we see in large organisations is that multimodal data\n(video, images, sensor data) is often siloed or difficult to operationalise.\n\nWe support teams with structuring data & annotations to unlock use cases\nlike *computer vision based automated inspection*, anomaly detection, and\nrobotics & more\n<[LINK]>-\nworking with companies such as Boston Dynamics, AbbVie, or AXA.\n\nSince you're an AI engineer - would it be worth it to show you how we've\nsupported others in this space?"
+},
+{
+"id": "485133134025",
+"subject": "AIAH- chat",
+"text": "Hi [NAME],  \n\n Thanks again for your interest in our AI After Hour in SF - I wanted to reach out and properly introduce myself.  \n\n I'd love to grab a quick virtual coffee to share more about future events we have in the Bay Area and learn a bit more about how you're thinking about data and ML workflows.  \n\n My team at Encord work closely with physical AI teams like Synthesia, Boston Dynamics, Dyna Robotics, and Woven/Toyota dealing with multimodal data (doc, voice, image/video, point cloud). \n\n Would you be open to a quick 20min coffee chat? Happy to work around your schedule."
+},
+{
+"id": "485134462181",
+"subject": "Coffee in Vegas @ AWS re: Invent?",
+"text": "Hi [NAME],\n\nWill you be in Vegas next week for AWS re:Invent?\n\nI'm with Encord (we handle data infra for multimodal AI), and supporting Onfido, Veriff, and Vida on their KYC/AML solutions.\n\nGiven your focus on AI governance at JP Morgan, I thought it'd be nice to connect.\n\nAre you open to a quick coffee in between sessions? I can come to wherever you are (or your booth) to make it easy."
+},
+{
+"id": "485145630924",
+"subject": "Thoughts for [COMPANY]",
+"text": "Hi [NAME],\n\nBuilding accurate models on contract and legal data is a uniquely hard\nproblem - the documents are complex, the edge cases matter, and labelling\nat scale is painful.\n\nEncord is built for exactly this. Teams like Reducto & UiPath use our\nplatform to automate labelling for speed, build flexible structures that\nhandle document complexity, and run QA workflows to keep quality high.\n\nWe reached out to Gursimran and he recommended contacting you - could we\narrange an intro call for later this week to discuss things further?"
+},
+{
+"id": "485310685398",
+"subject": "[COMPANY] - ML ops",
+"text": "Hi [NAME], \n\n       Happy Friday! My team's been working with \n       AbbVie, and [COMPANY] came up - especially around the challenges of scaling cellular imaging pipelines. \n\n       We support teams on curation, annotation, and eval for complex biomedical data, where tools like CVAT/V7 tend to hit limits. Would love to compare notes and share a few learnings from similar teams. \n\n       Open to a quick 20min next week?"
+},
+{
+"id": "485312232659",
+"subject": "[COMPANY] x Encord",
+"text": "Hi [NAME], \n\n       Happy Friday! [COMPANY] came up in a conversation with \n       AbbVie recently, so thought it was a good time to reach out. \n\n       We work with their imaging and annotation pipelines - the kind of high-content microscopy and pathology work and modality that tools like V7 tend to struggle with as it gets more complex. \n\n       Would love to connect and hear how you're thinking about training data side of things at [COMPANY] - a quick virtual coffee next Wednesday?"
+},
+{
+"id": "485383673034",
+"subject": "Encord x [COMPANY]",
+"text": "Hi [NAME],\n\nI saw Curai's work on iterative pseudo-labelling and HITL for medical\nconversations - it's exciting to see your approach to improving clinical\nmodel reliability.\n\nEncord's platform helps AI teams streamline training data and evaluation\nworkflows so research teams can iterate faster.\n\nWe support MedTech teams like Mayo Clinic and Iterative Health on similar\nchallenges: building high-quality clinical ground truth, scaling QA, and\nsystematically surface edge cases and failure modes.\n\nWould you be open to a quick intro next week to discuss further?"
+},
+{
+"id": "485534115014",
+"subject": "[COMPANY] & Encord",
+"text": "Hi \n      [NAME], \n\n      Saw the ParseBench launch, the visual grounding results are striking! \n\n      For context, my team at Encord helps Doc Intelligence/OCR/VLM teams like Reducto and Appfolio build the ground truth pipelines that closes gaps - complex document annotation, bounding regions tied to semantic content, chart/table labelling at scale. \n\n      Would love to get your take on how you're thinking about the data infra behind ParseBench as you expand it. Happy to show you what we've built for teams in this space. \n\n      20min this week?"
+},
+{
+"id": "485738286307",
+"subject": "Spoke with Noah - Encord intro",
+"text": "Hey [NAME],\n\nHope all is well. Spoke to Noah earlier today, and it sounded like it could\nbe worth us having a chat.\n\nNoah mentioned a few ways in which we could potentially help - the main\narea being the loop between data visualisation & annotation, helping to\nensure the surfacing of correct data for annotation.\n\nA bit more context on Encord, we work with teams like Boston Dynamics to\nhelp optimise their perception stacks and ML/CV pipelines through improved\ndata curation and annotation.\n\nWould love to chat further - seeing you're based in SF, might you have some\ntime on Tues/Wed morning?"
+},
+{
+"id": "485767797971",
+"subject": "congrats",
+"text": "Hi [NAME], \n\n      [COMPANY] OCR-3 is an impressive release! #1 on OLM-OCR and the IDP leaderboard in the same week is solid!\n\n      Really like the hybrid VLM+classical engine approach, something we're seeing more recently. \n\n      For context, Encord helps document AI teams like Reducto, Appfolio, and UiPath manage data post-training so models like yours stay ahead consistently. \n\n      Would love to connect and compare notes. Shall we find 20min this week?"
+},
+{
+"id": "485823816903",
+"subject": "Smartapp <> Encord: Brena",
+"text": "Hi [NAME],\n\nI've been following what you're building with brena - the spec extraction\nand auto-scheduling features are a genuinely different take on jobsite AI.\n\nCurious how you're thinking about the data side, specifically labeling the\nfield documents and construction imagery that teach brena to extract and\nreason correctly. That's the exact problem we help teams at Actuate, Maven\nRobotics and Nimble Robotics solve at encord.\n\nWould love to get your take and compare notes on approaches to such\nchallenges, do you have 20 mins on Tues/Wed?"
+},
+{
+"id": "485829248229",
+"subject": "[NAME] <> Encord: Brena",
+"text": "Hi [NAME],\n\nSix years into scaling Smartapp, and Brena is now doing real operational\nwork - scheduling, spec extraction, budget generation. Coming from [SENDER]\nand JMC, you know better than most how quickly field teams lose faith in\ntech that misfires on a jobsite.\n\nAs Brena touches more workflows, the hardest question is knowing before\nevery release, that spec extraction holds up on messy redlines, that\nschedules handle real dependencies, that safety flags don't drown crews in\nfalse positives.\n\nEncord is the data and evals layer visual and multimodal AI teams like *Boston\nDynamics, Actuate and Nimble Robotics* use to prove that. Curate the long\ntail of jobsite data, grade model and agent outputs against structured\nrubrics, ship features with measurable quality.\n\nWorth 15 min to trade notes as Brena's rollout widens?"
+},
+{
+"id": "485834630390",
+"subject": "Scaling Gantter ML Roadmap",
+"text": "Hi [NAME],\n\nI've been following the brena launch, a really interesting direction for\ngantter.\n\nCurious how you're thinking about evaluating whether the AI suggestions are\naccurate and relevant - that's a notoriously hard problem when the outputs\nare open-ended like schedule generation. We work with OnsiteIQ and\nAttentive.AI on exactly that.\n\nWould love to compare notes on challenges regarding the construction\nintelligence CV."
+},
+{
+"id": "485840014550",
+"subject": "Smartapp <> Encord: Brena AI",
+"text": "Hi [NAME],\n\nWatched the arc of Brena from scheduling into drawing extraction and\nnear-live 3D twins. Impressive how fast you're pushing multimodal into the\njobsite.\n\nCurious how your team is handling the data side as those models scale with\nregards to curating BIM/CAD/360 imagery, catching edge cases, and\nevaluating spec-extraction accuracy before shipping.\n\nActuate, Nimble Robotics and Maven Robotics use us to build training/eval\ndatasets for multimodal models and run structured evals on model and agent\noutputs so AI features land with measurable quality.\n\nWorth 20 mins to compare notes on your Brena roadmap?"
+},
+{
+"id": "486333069560",
+"subject": "Encord Trial Request Follow-Up | Working w 1X, Pickle Robot, Zeitview",
+"text": "Hi [NAME],\n\nSaw you signed up for a trial, thanks for giving Encord a look. Also I\ncaught the ZED X Nano launch, the wrist-mounted RGB-D angle for humanoids\nand robotic arms is sharp.\n\nMost of our physical AI customers (Pickle Robot, Zeitview, OnsiteIQ,1X)\nbuild exactly the kind of systems ZED powers, and Encord is where they\nlabel, curate, and evaluate the multimodal data behind them.\n\nHappy to walk you through how we've helped them, what their autonomy\ndivision has shared and hope that it is useful insights for what you're\nbuilding at [COMPANY]. Do you have 20 minutes on Wed 11am/Thurs 2pm?"
+},
+{
+"id": "486573918450",
+"subject": "Obvio <> Encord",
+"text": "Hi [NAME],\n\nHope you've been well! I noticed your background at Standard AI (Encord's\ncustomer) and wanted to reach out to learn more about your current role at\nObvio.\n\nYou might be familiar with Encord - we support teams like Woven/Toyota,\nMotive, Nexar, developing CV/VLM models for road safety. Would love to see\nif we can support Obvio given a similar focus on traffic safety.\n\nWould you be open to a quick 20-min connect this or next week?"
+},
+{
+"id": "486605512945",
+"subject": "[NAME] - Reducto",
+"text": "Hi [NAME],\n\nCongrats on the LiteParse launch! It's exciting to see the innovation in\nthe document space.\n\nWorking with labelling teams at Reducto, AppFolio, and UiPath, we keep\nseeing the same challenge: reliably catching failures, layout drift, OCR\nambiguity & multilingual edge cases.\n\nEncord's multimodal platform is trusted by 300+ AI teams to annotate data\nat scale. Would love to explore whether we're a good fit for [COMPANY],\nwould you be open to discussing further?"
+}
+]

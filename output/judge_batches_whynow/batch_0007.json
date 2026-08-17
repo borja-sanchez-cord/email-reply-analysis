@@ -1,0 +1,202 @@
+[
+{
+"id": "127916119280",
+"subject": "Encord",
+"text": "Hi [NAME]​,\n\nGreat to see that you were exploring Encord - wanted to reach out to see if I could help with anything?"
+},
+{
+"id": "127948310752",
+"subject": "Encord",
+"text": "Hi [NAME]​,\n\nGreat to see that you were exploring Encord - wanted to reach out to see if I could help with anything?"
+},
+{
+"id": "128138507508",
+"subject": "Getting in touch after your interest in Encord",
+"text": "Hi [NAME],\n\nThanks for requesting some more information on Encord regarding data extraction.\n\nCould we schedule: [LINK] a call to see how Encord could be a fit for you and the team?\n\nOr if the times under my schedule don't work for you, let me know and we can find another time."
+},
+{
+"id": "128142134508",
+"subject": "[Invite] Toronto AI / CV Leaders Community",
+"text": "Hey [NAME]​,\n\nOver the last two years, we've hosted intimate roundtable dinners for AI / CV Execs in London, Paris, New York, & SF (see positive feedback here: [LINK]) - & now we're looking to start building a similar community in Toronto. \n\nMy team and I are going to be in town Mon 24th - Tues 25th Feb & we'd love to grab a coffee to get your feedback on what event formats could work well / connect more broadly & swap notes on what we're seeing in the space.\n\nIn case you're not familiar with Encord, we're a ~5 years old AI scale up, with 100+ employees & offices in London & San Francisco. \n\nWould you be interested in having a quick coffee?"
+},
+{
+"id": "128149532911",
+"subject": "Encord<>Coveo | 1-on-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you requested a sign up for our platform and thought I'd\nreach out as one of my colleagues was in touch during NRF.\n\nCould be good to connect & discuss what we've been building, and answer any\nquestions you might have. Do you have any time early next week for a short\ncall?\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "128539144423",
+"subject": "Is building your AI models painful?",
+"text": "Hi [NAME] \n\nSaw you are working as Head of AI at [COMPANY] and we missed you at CES.​\n\nIf you spend a significant amount of time using different apps for annotating/labeling, curating/indexing data, and model eval, it may be time to consider an end to end platform like Encord. We have had hundreds of AI teams join us in [YEAR] to either optimize or consolidate their ML team workflows. Saving you time, money, and providing you speed to market. \n\nDon't become numb to the pain of building your ML workflows because they get you by. Make your life and your teams better God willing by using Encord.\n\nWe would love for a quick 30 minutes this week to learn more about your work and the pains you are experiencing in your AI workflows."
+},
+{
+"id": "128722512093",
+"subject": "AI development costs",
+"text": "Hi [NAME], Navendu,\n\nBeen having some productive conversations with Himanshu, Anshuman & the\nwider [COMPANY] team, focusing on how we can improve cost efficiencies of\n[COMPANY]'s AI development across the organisation.\n\nThere's a few areas we've identified that will realise significant cost\nefficiencies, whilst improving model performance:\n\n   -\n*1) Reduction in time per annotation *\n      - Avoid spend on manual annotation in CVAT & LabelStudio (via\n      automated tooling)\n      - Reduce time spent by ML team waiting to receive annotations\n      - *We recently helped Standard AI\n      <[LINK]>\nto\n      save $600k / year on annotation costs*\n\n   - *2) Significant reduction in annotation volumes*\n      - Avoid unnecessary spend on annotation via data curation (only label\n      highest priority data)\n      - *We helped Automotus\n      <[LINK]>to\n      achieve a 25% reduction in dataset size & a 33% reduction in\n      annotation costs*\n\n   - *3) Streamline data management overheads*\n      - Reduce internal AI dev. costs writing custom code to manage\n      training data pipelines\n      - Limit effort of manual data collection (across team of 4-5 drivers)\n      - Avoid administrative QA burden of AI team checking low quality\n      annotations\n      -\n*We helped Plainsight\n      <[LINK]>to\n      save over 50% on AI data management costs *\n\nWould be great to connect & discuss the specific areas of value we've\nidentified from our working sessions with Himanshu, Anshuman, & the wider\nteam - do you have time to discuss later this week or early next?"
+},
+{
+"id": "128739055850",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\n[SENDER] here - just tried to give you a call as I saw that you visited our website and requested more information, but didn't pick a time to chat. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nFeel free to book some time in my calendar here - [LINK] [LINK]"
+},
+{
+"id": "128788047055",
+"subject": "Encord <> [COMPANY] Intro | Follow-up on referral from Ben [SENDER] (Motorway)",
+"text": "Hi [NAME],\n\nReaching out because I met Ben [SENDER] from Motorway last week at an AI\nLeaders dinner we hosted (would love to invite you to the next one we host\nif it's of interest!) and he recommended I get in touch.\n\nI work for Encord, a data development platform for computer vision AI teams\nin the vehicle inspection space. We've recently onboarded Tractable to help\nscale their data curation & annotation pipelines. Just like [COMPANY] they're\nleveraging vision models for vehicle visual inspection use cases (damage\ndetection, value appraisal, etc) .\n\nThey mostly came to us due to concerns about the competitiveness of their\nmodel quality and delivery speed as they started to scale. We've also\nhelped quite a few teams who've struggled with LabelBox move over - I heard\nthis was the case for you. We also offer a managed service for annotation\nif it's of interest to teams and provide a dedicated team rather than using\ncrowdsourcing like others.\n\nGiven the work we're doing with the teams at Tractable and Ben's\nrecommendation, I thought it'd make sense for us to be introduced if it\nbecomes of interest. Are you open to a quick call this week? My Thursday is\nwide open and Friday afternoon is looking pretty open right now."
+},
+{
+"id": "128827561163",
+"subject": "Encord <> [COMPANY] | Reconnect",
+"text": "Hi [NAME],\n\nI hope you've had a great start to the year! I just wanted to get in touch\nto see whether data curation, annotation and model evaluation have become a\npriority this year?\n\nOn a side note, I have met with a couple leaders in the AI in IVF space and\nhad the Chief Knowledge Officer from Conceivable Life Sciences at our AI\nLeaders dinner in London last week - happy to introduce you both if it's of\ninterest to you.\n\nLet me know if you'd be interested to reconnect with us at Encord, happy to\narrange a catch up call this week or early next week if it makes sense for\nyou."
+},
+{
+"id": "128844586212",
+"subject": "Encord <> [COMPANY] Intro | Congrats on Recent Raise",
+"text": "Hi [NAME],\n\nFantastic news on the recent raise, congrats! I'm reaching out because we\nextensively in the AI in radiology space and have recently onboarded Viz.AI\nto help scale their data curation & annotation pipelines and achieve 10x\nfaster annotation as they were growing their team so thought it would be a\ngood time to connect.\n\nWould you be interested in a quick virtual coffee with myself and our\nleadership team? It seemed like it was a good time to be introduced as you\nlook to scale.\n\nFor context, Encord is a London / SF based data development platform\n(recently raised Series B) built to help computer vision & multimodal AI\nteam deploy better models, faster. We work w/ many companies doing\nsimilarly great things to Ortoma (i.e. RapidAI, Brainomix, Viz.ai).\n\nPretty open next Monday-Wednesday - let me know if you're interested & I'll\nget a calendar invite sent over."
+},
+{
+"id": "128844616949",
+"subject": "Annotation budgets [YEAR]",
+"text": "Hey [NAME]​,\n\nNoticed that [COMPANY] has been expanding to new markets (e.g. Oil & Gas, Construction etc), and was wondering if managing annotation budgets was top of mind as you re-train ML models for these new domains?\n\nMany Product / Data Leads of leading Robotics / AV teams we work with (inc. Physical Intelligence, Pickle Robot, and Wayve) were struggling to balance customer demand for new features with the exploding data annotation costs required to train new models.\n\nWith Encord, teams can annotate native video (vs. breaking videos down frame-by-frame) - an approach which has helped Pickle Robot to save over 60% on annual annotation costs following its transition to Encord.\n\nOpen to learning more?"
+},
+{
+"id": "128846424266",
+"subject": "Annotation budgets [YEAR]",
+"text": "Hey [NAME]​,\n\nNoticed that [COMPANY] has been expanding to new markets (e.g. Oil & Gas, Construction etc), and was wondering if managing annotation budgets was top of mind as you re-train ML models for these new domains?\n\nMany CTOs / ML Leads of leading Robotics / AV teams we work with (inc. Physical Intelligence, Pickle Robot, and Wayve) were struggling to balance customer demand for new products with the exploding data annotation costs required to train new models.\n\nWith Encord, teams can annotate native video (vs. breaking videos down frame-by-frame) - an approach which has helped Pickle Robot to save over 60% on annual annotation costs following its transition to Encord.\n\nOpen to learning more?"
+},
+{
+"id": "128848350441",
+"subject": "Encord",
+"text": "Hey [NAME],\n\nWas chatting to my colleague [SENDER], who mentioned that when you spoke back\nin the summer [COMPANY] was evaluating different AI data management /\nannotation providers - curious to understand if a solution has been\nimplemented successfully?\n\nIn our experience working with Enterprise teams (e.g. Philips, Siemens,\nBaker Hughes), we often see the tension between technical teams pushing for\na best-of-breed approach vs. purchasing teams favouring a one-size-fits-all\napproach.\n\nSounded like there was a good technical fit when you last spoke with the\nteam - so do let me know if it makes sense to pick things back up again,"
+},
+{
+"id": "128854412533",
+"subject": "Annotation budgets [YEAR]",
+"text": "Hey [NAME]​,\n\nNoticed that Boston Dynamics has been expanding to new markets (e.g. Oil & Gas, Construction etc), and was wondering if managing annotation budgets was top of mind as you re-train ML models for these new domains?\n\nMany CTOs / ML Leads of leading Robotics / AV teams we work with (inc. Physical Intelligence, Pickle Robot, and Wayve) were struggling to balance customer demand for new products with the exploding data annotation costs required to train new models.\n\nWith Encord, teams can annotate native video (vs. breaking videos down frame-by-frame) - an approach which has helped Pickle Robot to save over 60% on annual annotation costs following its transition to Encord.\n\nOpen to learning more?"
+},
+{
+"id": "128859010237",
+"subject": "Annotation budgets [YEAR]",
+"text": "Hey [NAME]​,\n\nNoticed that Boston Dynamics has been expanding to new markets (e.g. Oil & Gas, Construction etc), and was wondering if managing annotation budgets was top of mind as you re-train ML models for these new domains?\n\nMany Product / Data Leads of leading Robotics / AV teams we work with (inc. Physical Intelligence, Pickle Robot, and Wayve) were struggling to balance customer demand for new features with the exploding data annotation costs required to train new models.\n\nWith Encord, teams can annotate native video (vs. breaking videos down frame-by-frame) - an approach which has helped Pickle Robot to save over 60% on annual annotation costs following its transition to Encord.\n\nOpen to learning more?"
+},
+{
+"id": "128869009645",
+"subject": "In-house tools for AI data mgmt",
+"text": "Hey [NAME],\n\nWas chatting to my CEO, [SENDER], who mentioned that you met out in Irvine a\ncouple of years ago - & curious to know if you continued down the route of\nusing internal tooling for data mgmt / annotation / active learning?\n\nSince you last spoke with Encord, we've raised over $50m, to double down on\ndata curation / annotation / model monitoring product development,\nswitching over 100 ML teams from in-house tools to Encord.\n\nWas wondering if you'd be open to having a quick catch-up?"
+},
+{
+"id": "128926435561",
+"subject": "Encord & Ontada | Chatted to Ken",
+"text": "Hi [NAME],\n\nWe just got off the phone with Ken, who mentioned that the team is\nconsidering Encord and Labelbox for your data annotation and curation needs.\n\nIt sounds like this responsibility has fallen to you after Wanmei's\ndeparture, and there is a bit of pressure to not delay further on this from\na few team members.\n\nI understand there's short-term urgency, but in the long run, Labelbox's\nongoing shift away from being a platform-focused product to a\nservices-based model could result in higher costs and missed deadlines due\nto data losses and bugs.\n\nMany of their customers have recently switched to Encord recently because\nof concerns over the lack of new feature development and increased platform\ninstability-issues Ken also highlighted.\n\nI'd be happy to hop on a call to help you weigh the pros and cons if that\nwould be helpful."
+},
+{
+"id": "128984695003",
+"subject": "Encord <> [COMPANY] Intro | Follow-up on referral from Ben [SENDER] (Motorway)",
+"text": "Hi [NAME],\n\nI met Ben [SENDER] from Motorway last week at an AI Leaders dinner we hosted\n(would love to invite you to the next one we host if it's of interest!) and\nhe recommended I reach out.\n\nI work for Encord, a data development platform for computer vision AI teams\nin the vehicle inspection space. We've recently onboarded Tractable to help\nscale their data curation & annotation pipelines. Just like [COMPANY] they're\nleveraging vision models for vehicle visual inspection use cases (damage\ndetection, value appraisal, etc) .\n\nThey mostly came to us due to concerns about the competitiveness of their\nmodel quality and delivery speed as they started to scale. We've also\nhelped quite a few teams who've struggled with LabelBox and V7 move over -\nI heard this was the case for you. We also offer a managed service for\nannotation if it's of interest to teams and provide a dedicated team rather\nthan using crowdsourcing like others.\n\nGiven the work we're doing with the teams at Tractable and Ben's\nrecommendation, I thought it'd make sense for us to be introduced if it\nbecomes of interest. Are you open to a quick call this week? My Thursday is\nwide open and Friday afternoon is looking pretty open right now."
+},
+{
+"id": "128990580972",
+"subject": "Encord",
+"text": "Hi [NAME],\n\nHope all is well - happy to see that you were checking out Encord.\n\nLooping in @[SENDER] <[EMAIL]> - who I know really enjoyed\nchatting with you at dinner back in October.\n\nProviding some availability (EST) if you'd like to chat over the next few\ndays:\n\n   - Wednesday 29th: 9:30 - 10:00 am\n   - Thursday 30th: 11:00 am - 12:00 pm, 1:00 - 2:00 pm\n   - Friday 31st: 9:00 - 10:00 am, 12:30 - 1:00 pm"
+},
+{
+"id": "129003979974",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129004000470",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129032710359",
+"subject": "Encord & [COMPANY] | Chatted to Ken",
+"text": "Hi [NAME],\n\nHope you're well. We've been chatting to Ken these past few days about\npartnering with Encord for your data annotation & curation needs.\n\nHe mentioned the team is also looking at Labelbox? A lot of partners moved\nto Encord from LB recently over concerns that they're becoming a services\nprovider rather than focusing on their platform. We're very excited about\nthis partnership and would be happy to help you weigh the pros & cons - can\ntell you what we're good at and not so good at as well to be transparent.\n\nFinally, our co-founder [SENDER] (Cc'ed) is hosting an event at GitHub HQ in\nSF later today at 5:30pm for AI product builders to share their experience\nin 20 min lightning talks. We'd love for you to join if you're around. More\ndetails here\n<[LINK]>\n."
+},
+{
+"id": "129195421892",
+"subject": "Encord // Roxpartner // 1-1 Meeting?",
+"text": "Hi [NAME],\n\nHope all's well, just missed you on the phone! Just saw that you requested\na sign up for our platform and that your team is looking for MLOps\nEngineers so thought it would be worthwhile I reach out.\n\nWould be great to connect & discuss what we've been building for this, and\nanswer any questions you might have from the work you're conducting over at\n[COMPANY]. Are you free this week for a short call? Some of my\navailability include: 9-11am tomorrow, 10.30am-12.30pm Friday and 9-11am\nMonday.\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "129660630229",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129660678386",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129664485573",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129671154906",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129674579132",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129674707190",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129674754281",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129680843962",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129688337657",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129692015828",
+"subject": "We have an MSA with [COMPANY] | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with [COMPANY] as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like [COMPANY], Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other [COMPANY] teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "129694011582",
+"subject": "Encord // Roxpartner // 1-1 Meeting?",
+"text": "Hi [NAME],\n\nHope all's well, just missed you on the phone! Just saw that you requested\na sign up for our platform and that your team is looking for MLOps\nEngineers so thought it would be worthwhile I reach out.\n\nWould be great to connect & discuss what we've been building for this, and\nanswer any questions you might have from the work you're conducting over at\n[COMPANY]. Are you free this week for a short call? Some of my\navailability include: 9-11am tomorrow, 10.30am-12.30pm Friday and 9-11am\nMonday.\n\nFeel free to book some time in my calendar here\n<[LINK]>\n."
+},
+{
+"id": "129695663301",
+"subject": "[NAME], chat on your work on AI Models and Data Development ?",
+"text": "[NAME],\n\n[SENDER] here [SENDER] - I noticed what you and the team at [COMPANY] are doing\nand wanted to reach out - how are you and the team currently approaching\nyour AI data curation, annotation and workflows, for computer vision and\nother modalities?\n\nIs this something you'd be open to discussing and exploring how Encord\nserves AI teams at enterprises like Philips, Baker Hughes and many others?\n\nVery best regards,"
+},
+{
+"id": "129701788903",
+"subject": "We have an MSA with Baker Hughes | AI annotation, curation & evaluation",
+"text": "Hi [NAME]​, \n\nWe have an MSA in place with Baker Hughes as we work with some of the AI & Computer Vision teams there on use cases such as robotics and automated visual inspection. Thought we could take advantage of the existing legal infrastructure to explore how we might collaborate with your specific team within BH as well.\n\nFor context, sophisticated AI/ML teams like Baker Hughes, Fraunhofer or Philips usually come to us when they're at the point of scaling their model training & data pipelines. They mostly use Encord to improve their data curation / annotation and model evaluation processes to iterate on their AI models faster and/or reduce development costs. \n\nCould be great to chat and get your feedback on what we've built for some of the other Baker Hughes teams. Open to catch up this week? My Thursday's looking pretty open right now."
+},
+{
+"id": "130447688899",
+"subject": "[NAME] Rahaman, a conversation on driving ML Ops for Computer Vision & Multimodal AI",
+"text": "Dear [NAME] Rahaman,\n\nI would be keen to speak with you regarding your strategic priorities at\n[COMPANY].\n\nI know you and the team are involved in a great range of computer vision\nand gen-AI projects.\n\nMy name is [SENDER] - part of the team at AI Data Development Platform,\nEncord.\n\nWe are serving hundreds of teams globally on their AI Data Development\nrequirements, including enterprise companies like Toyota, Philips, Baker\nHughes and other AI companies like Synthesia, Captions, Standard AI, Pickle\nRobot and many others.\n\nAre you open to a conversation together in the coming days to see how we\ncan enhance the technical capabilities and efficiencies of your teams?\n\nVery best,"
+},
+{
+"id": "130502341840",
+"subject": "Woven - data curation solution",
+"text": "Hey [NAME]​,\n\nWe've recently onboarded Woven, so thought it may make sense to reach out to see if we can help at [COMPANY] in a similar way.\n\nWoven's Computer Vision team faced challenges with existing data curation solutions (Voxel51 & internal tools), which lacked the speed & scalability required to efficiently search through their training datasets (capping out at ~1m images).\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through billions of data items (using embeddings visualisations, quality metric filters & natural language searches), enabling CV teams to avoid bottlenecks in model development.\n\nOpen to learning more?"
+},
+{
+"id": "130505429207",
+"subject": "Woven - data curation solution",
+"text": "Hey [NAME]​,\n\nWe've recently onboarded Woven, so thought it may make sense to reach out to see if we can help at [COMPANY] in a similar way.\n\nWoven's Computer Vision team faced challenges with existing data curation solutions (Voxel51 & internal tools), which lacked the speed & scalability required to efficiently search through their training datasets (capping out at ~1m images).\n\nAt Encord, we've built a high-performance architecture to support indexing and searching through billions of data items (using embeddings visualisations, quality metric filters & natural language searches), enabling CV teams to avoid bottlenecks in model development.\n\nOpen to learning more?"
+}
+]

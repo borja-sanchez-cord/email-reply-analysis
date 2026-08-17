@@ -1,0 +1,202 @@
+[
+{
+"id": "384024385752",
+"subject": "[NAME] + Encord",
+"text": "Hi [NAME],\n\nCongrats on the Aprevo launch! I noticed you lead the surgical planning\ntech team at [COMPANY] and wanted to reach out.\n\nWe've been supporting MedTech teams like Viz.ai, SDSC, Floy, and Mayo\nClinic on their annotation workflows for medical imaging and\nsurgical videos as they scale.\n\nIn case Encord is new to you, we're an SF-based data development platform\nfor multimodal AI (2D image/video, 3D point clouds), covering curation,\nannotation, and model evaluation.\n\nWould love to hear about your AI roadmap for [YEAR] - do you have 20 minutes\nthis or next week for a quick chat?"
+},
+{
+"id": "384030177495",
+"subject": "Platform for CV/Sensor Data",
+"text": "Hey [NAME],\n\nWe recently started working with Toyota by Woven, Nexar, and others in the\nADAS space. Our support for LiDAR and multi sensor annotation - combined\nwith standard computer vision workflows has shown strong interest.\n\nWe are the software platform to help keep models accurate and auditable for\nenterprise labeling workflows.\n\nWe met with Stefan and Tahmida earlier this year, but was curious if you'd\nbe open to over the next week as we approach year-end.\n\n-[SENDER]"
+},
+{
+"id": "384042222800",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nCongrats on your series C! Exciting to see your approach to social\nengineering defense gaining well-deserved recognition.\n\nWanted to reach out and introduce you to Encord - we work with FinTech and\nInsurTech teams tackle fraud detection, monitoring, and IDV workflows.\n\nQuick context: Encord is an SF-based data development platform for\nmultimodal AI pipeline (documents, audio, image, video, 3D etc) covering\ndata curation, labeling, QA, and model eval so models are trained and\nfine-tuned on high-quality datasets.\n\nWould love to explore if there's a fit to support [COMPANY] as you scale. Any\nchance for a 20-min chat this or next week? I'm flexible morning times (PT)\nTuesdays to Thursdays."
+},
+{
+"id": "384179953899",
+"subject": "scaling data annotation",
+"text": "Hi [NAME],\n\nImpressive work on [COMPANY] - especially the adaptability to diverse\nwarehouse conditions regarding fast deployment and mobility.\n\nI am reaching out because we work with CV/ML teams like Weave and Zipline\nto improve training data quality and scale annotation pipelines. This\nallows their engineers to focus purely on model accuracy and speed to\nmarket. Quick context: Encord is a data infrastructure platform helping\nover 200 AI teams. We are well-versed in VLM use cases relevant to you,\nsuch as physical safety, surveillance, and robotics.\n\nHow do you approach scaling data throughput at [COMPANY]? Are you free next\nweek to check in on this?"
+},
+{
+"id": "384822758637",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI imagine you might be deploying OCR/VLM models for the intake validation\nagent at [COMPANY]. We work with Uipath and Reducto on similar\ndocument processing workflows, so I wanted to reach out.\n\nThey came to us because they need strong governance, auditability, and\nscalable multimodal data pipelines. Encord helps with data curation,\nannotation, eval, and QA, so teams focus on shipping better products.\n\nQuick context, we're an SF-based data development platform ($50M raised,\nSeries B, YC W21). We support 200+ AI teams e.g. Boston Dynamics, Physical\nIntelligence, Twelve Labs, etc.\n\nWould love to get your perspective on what we've built. I'm flexible Mon -\nWed, do you have 20-min for a quick chat next week?"
+},
+{
+"id": "384832455899",
+"subject": "Scaling data annotation worklfows",
+"text": "Hi [NAME],\n\nSince you are gearing up your ML/CV team to optimize data workflows and\naccelerate large-scale model training, I thought it's a good time to\nconnect.\n\nWe work with physical AI teams (Woven by Toyota, Boston Dynamics, 1X) to\nscale annotation pipelines so engineers can focus on model accuracy rather\nthan data management. For context: Encord is a data layer scale-up\nsupporting over 200 AI teams - we are especially well-versed in VLM use\ncases for robotics and automation.\n\nHow do you currently approach scaling data throughput at Endox? Would love\nto share some best practices we've learned.\n\nAre you free for a brief chat on Tuesday?"
+},
+{
+"id": "384835921102",
+"subject": "Scaling data pipelines",
+"text": "Hi [NAME],\n\nSaw you are gearing up your ML Engineering Team, so I thought now is a good\ntime to connect.\n\nWe work with Robotics/ML teams like Weave, 1X, and PI to improve training\ndata quality and scale annotation pipelines, so teams can focus on boosting\nmodel accuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like physical AI, surveillance, and robotics.\n\nHow do you approach scaling data pipelines at [COMPANY]? Would love to exchange\nperspectives - are you free on Monday?"
+},
+{
+"id": "384905845963",
+"subject": "Scaling data pipelines",
+"text": "Hi [NAME],\n\nNoticed you are gearing up your ML Engineering Team, so I thought now is a\ngood time to connect.\n\nWe work with Robotics/ML teams like Tau, 1X, and PI to improve training\ndata quality and scale annotation pipelines, so teams can focus on boosting\nmodel accuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like physical AI, surveillance, and robotics.\n\nHow do you approach scaling data pipelines at Mbodi? Would love to exchange\nperspectives - are you free on Monday?"
+},
+{
+"id": "384950173917",
+"subject": "Scaling multimodal data",
+"text": "Hi [NAME],\n\nI noticed you are gearing up your Perception team to develop perception\nalgorithms on multimodal datasets.\n\nWe work with AV teams like Woven (Toyota) to improve training data quality\nand scale annotation pipelines, so teams can focus on boosting model\naccuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like AV/ADAS, surveillance, and robotics.\n\nHow do you handle multimodal data annotation (cameras, lidars, radars, etc)\ncurrently? Would love to exchange perspectives - are you free next week?"
+},
+{
+"id": "384957627618",
+"subject": "[NAME] + YC + Encord",
+"text": "Hi [NAME],\n\nI imagine you might be deploying OCR/VLM models for the intake validation\nagent at [COMPANY]. We work with Uipath and Reducto on similar\ndocument processing workflows, so I wanted to reach out.\n\nThey came to us because they need strong governance, auditability, and\nscalable multimodal data pipelines. Encord helps with data curation,\nannotation, eval, and QA, so teams focus on shipping better products.\n\nQuick context, we're an SF-based data development platform ($50M raised,\nSeries B, YC W21). We support 200+ AI teams e.g. Boston Dynamics, Physical\nIntelligence, Twelve Labs, etc.\n\nWould love to get your perspective on what we've built. I'm flexible Mon -\nWed, do you have 20-min for a quick chat next week?"
+},
+{
+"id": "385013948616",
+"subject": "Multimodal data processing",
+"text": "Hi [NAME],\n\nCame across your profile and noticed your background in LLM preprocessing.\nThought I'd reach out as we work with Uipath and Reducto on similar OCR/VLM\nheavy document processing workflows.\n\nThey came to us because they need strong governance, auditability, and\nscalable multimodal data pipelines. Encord helps with data curation,\nannotation, eval, and QA, so teams focus on shipping better products.\n\nQuick context, we're an SF-based data development platform ($50M raised,\nSeries B, YC W21). We support 200+ AI teams e.g. Boston Dynamics, Physical\nIntelligence, Twelve Labs, etc.\n\nWould love to get your perspective on what we've built. I'm flexible Mon -\nWed, do you have 20-min for a quick chat next week?"
+},
+{
+"id": "385019423980",
+"subject": "Multimodal data annotation",
+"text": "Hi [NAME],\n\nI noticed you are gearing up your Perception team to develop perception\nalgorithms on multimodal datasets.\n\nWe work with AV teams like Woven (Toyota) to improve training data quality\nand scale annotation pipelines, so teams can focus on boosting model\naccuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like AV/ADAS, surveillance, and robotics.\n\nHow do you handle multimodal data annotation (cameras, lidars, radars, etc)\ncurrently? Would love to exchange perspectives - are you free next week?"
+},
+{
+"id": "385025898744",
+"subject": "Scaling data workflows",
+"text": "Hi [NAME],\n\nI noticed you are gearing up your ML/CV team to optimize data workflows and\naccelerate large-scale model training.\n\nWe work with physical AI teams (Woven by Toyota, Boston Dynamics, 1X) to\nscale annotation pipelines so engineers can focus on model accuracy rather\nthan data management. For context: Encord is a data layer scale-up\nsupporting over 200 AI teams - we are especially well-versed in VLM use\ncases for robotics and automation.\n\nHow do you currently approach scaling data throughput at Endox? Would love\nto share some best practices we've learned.\n\nAre you free for a brief chat on Tuesday?"
+},
+{
+"id": "385041519833",
+"subject": "[COMPANY] <> Encord",
+"text": "Hi [NAME],\n\nI imagine you might be deploying OCR/VLM models for the intake validation\nagent at [COMPANY]. We work with Uipath and Reducto on similar\ndocument processing workflows, so I wanted to reach out.\n\nThey came to us because they need strong governance, auditability, and\nscalable multimodal data pipelines. Encord helps with data curation,\nannotation, eval, and QA, so teams focus on shipping better products.\n\nQuick context, we're an SF-based data development platform ($50M raised,\nSeries B, YC W21). We support 200+ AI teams e.g. Boston Dynamics, Physical\nIntelligence, Twelve Labs, etc.\n\nWould love to get your perspective on what we've built. I'm flexible Mon -\nWed, do you have 20-min for a quick chat next week?"
+},
+{
+"id": "385043515617",
+"subject": "Scaling data throughput",
+"text": "Hi [NAME],\n\nI noticed you're expanding your engineering team - great to see the growth.\n\nWe partner with ML teams to improve training data quality and scale\nannotation pipelines, enabling teams to focus on boosting model accuracy\nand speeding up deployment. For context, Encord is a data-layer scale-up\nworking with 200+ AI teams across industries, with strong expertise in VLM\nuse cases such as robotics, AV/ADAS, and CCTV.\n\nIt seems like there could be a good opportunity to support your data\nworkflows as you scale. Are you available for a quick chat next week?"
+},
+{
+"id": "385108229319",
+"subject": "scaling data throughput",
+"text": "Hi [NAME],\n\nI noticed you're expanding your engineering team - great to see the growth.\n\nWe partner with ML teams to improve training data quality and scale\nannotation pipelines, enabling teams to focus on boosting model accuracy\nand speeding up deployment. For context, Encord is a data-layer scale-up\nworking with 200+ AI teams across industries, with strong expertise in VLM\nuse cases such as robotics, AV/ADAS, and CCTV.\n\nIt seems like there could be a good opportunity to support your data\nworkflows as you scale. Are you available for a quick chat next week?"
+},
+{
+"id": "385558485214",
+"subject": "[SENDER] [SENDER]",
+"text": "Hey [NAME],\n\nJust tried to get you on the phone just now - I'm reaching out [SENDER].\nWe work with leading AI teams globally - including Skydio and Zipline in\nthe security-drone space, helping them solve data curation and annotation\nchallenges so they can build better models, faster.\n\nI've been following your progress for a while, and given your recent raise\n(congrats!) and your growing deployments across the U.S., Europe, and Latin\nAmerica, now felt like the right time to connect. This stage of expansion\nis typically when teams start partnering with us.\n\nHere's a short video demonstration of how we support drone teams with\nannotation:\n[LINK]\n\nIf you have 15 minutes tomorrow or next week, I'd be happy to share more\nabout our work and explore whether we can help."
+},
+{
+"id": "386024246508",
+"subject": "[COMPANY] labs <> Encord",
+"text": "Hi [NAME],\n\nBig fan of [COMPANY] Labs here. Thought I'd reach out since we work closely\nwith GenAI teams like Synthesia, Captions, Twelve Labs, and Flawless on\nsimilar GenAI character  projects. We mainly help them improve the realism\nof video avatars and post-production results, and reduce time spent\npreparing training data.\n\nQuick context on Encord - we are an SF-based data development platform\nbuilt for audio/image/video/3D annotation and model fine tuning\nacross LLM/VLM/VLA models leveraging RLHF preferencing. We're venture\nbacked ($50M, Series B) and support 200+ AI teams to date.\n\nKeen to hear how you're thinking about your training data as you scale? I'm\nflexible Tuesdays to Thursdays mornings PT - do you have 20 min to chat\nbefore the Christmas holiday? Happy to host you at our office in North\nBeach :)\n\nChers,"
+},
+{
+"id": "386979099891",
+"subject": "Teams chat - scaling data pipelines",
+"text": "Hi [NAME],\n\nSaw you're working with a lot of aviation clients & expanding your data\npipelines - thought it would be good to connect.\n\nI'm with Encord, we're a multimodal data platform working with your peers\n(eg Intenseye, Protex, StandardAI) reducing time teams spend on data\ncuration & annotation, cutting down costs and enabling faster model\niteration and release.\n\nConsidering you're currently scaling - would it make sense to find 20 mins\nto connect next week?"
+},
+{
+"id": "387235948784",
+"subject": "Thinking about ML pipeline investment",
+"text": "Hi [NAME],\n\nWe've not been introduced yet - I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for you next\nyear. A number of leaders planning FY budgets have asked me for pricing and\nplanning materials, so happy to share the same if it's useful on your side.\n\nBy way of context, Encord is a N47 portfolio company and multimodal (image,\nvideo, audio) ML DataOps platform - focused on large-scale dataset curation\n(strong embeddings UI/UX) integrated with automated annotation workflows\n(SAM3 or your own models in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "387237929191",
+"subject": "ML pipeline investment for FY26",
+"text": "Hi [NAME],\n\nWe've not been introduced yet, but I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for\n[COMPANY]'s CV team next year. I've had a few requests from companies\nplanning FY budgets asking for pricing and planning materials, so happy to\nshare the same if it's useful on your side.\n\nBy way of context, Encord is a multimodal (image, video, audio) ML DataOps\nplatform - focused on large-scale dataset curation (strong embeddings\nUI/UX) integrated with automated annotation workflows (SAM3 or your own\nmodels in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "387248357623",
+"subject": "NY investment: ML pipelines",
+"text": "Hi [NAME]\n\nWe've not been introduced yet - I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for you next\nyear. A number of leaders planning FY budgets have asked me for pricing and\nplanning materials, so happy to share the same if it's useful on your side.\n\nBy way of context, Encord is a N47 portfolio company and multimodal (image,\nvideo, audio) ML DataOps platform - focused on large-scale dataset curation\n(strong embeddings UI/UX) integrated with automated annotation workflows\n(SAM3 or your own models in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "387259717845",
+"subject": "FY26 ML pipeline budget",
+"text": "Hi [NAME],\n\nWe've not been introduced yet, but I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for\n[COMPANY]'s CV team next year. I've had a few requests from companies\nplanning FY budgets asking for pricing and planning materials, so happy to\nshare the same if it's useful on your side.\n\nBy way of context, Encord is a multimodal (image, video, audio) ML DataOps\nplatform - focused on large-scale dataset curation (strong embeddings\nUI/UX) integrated with automated annotation workflows (SAM3 or your own\nmodels in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "387260182764",
+"subject": "New year investment in [COMPANY]'s ML pipelines",
+"text": "Hi [NAME]\n\nWe've not been introduced yet - I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for you next\nyear. A number of leaders planning FY budgets have asked me for pricing and\nplanning materials, so happy to share the same if it's useful on your side.\n\nBy way of context, Encord is a N47 portfolio company and multimodal (image,\nvideo, audio) ML DataOps platform - focused on large-scale dataset curation\n(strong embeddings UI/UX) integrated with automated annotation workflows\n(SAM3 or your own models in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "387268672738",
+"subject": "Thinking of investing in ML pipelines next year",
+"text": "Hi [NAME],\n\nWe've not been introduced yet, but I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for [COMPANY]\nnext year and the product team. A number of leaders planning FY budgets\nhave asked me for pricing and planning materials, so happy to share the\nsame if it's useful on your side.\n\nBy way of context, Encord is a N47 portfolio company and multimodal (image,\nvideo, audio) ML DataOps platform - focused on large-scale dataset curation\n(strong embeddings UI/UX) integrated with automated annotation workflows\n(SAM3 or your own models in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "387281288413",
+"subject": "team connect - data pipelines",
+"text": "Hi [NAME],\n\nSaw you're working with a lot of aviation clients & expanding your data\npipelines - thought it would be good to connect.\n\nI'm with Encord, we're a multimodal data platform working with your peers\n(eg Intenseye, Protex, StandardAI) reducing time teams spend on data\ncuration & annotation, cutting down costs and enabling faster model\niteration and release.\n\nConsidering you're currently scaling - would it make sense to find 20 mins\nto connect next week?"
+},
+{
+"id": "387407412440",
+"subject": "New year investment in [COMPANY]'s ML pipelines",
+"text": "Hi [NAME]\n\nWe've not been introduced yet - I've spoken with a few members of your\ncomputer vision team in regard to supporting [COMPANY] continue to scale your\nML pipelines.\n\nI wanted to check whether ML pipeline investment is a priority for you next\nyear. A number of leaders planning FY budgets have asked me for pricing and\nplanning materials, so happy to share the same if it's useful on your side.\n\nBy way of context, Encord is a multimodal (image, video, audio) ML DataOps\nplatform - focused on large-scale dataset curation (strong embeddings\nUI/UX) integrated with automated annotation workflows (SAM3 or your own\nmodels in-loop).\n\nHappy to share some numbers or jump on a quick call if helpful."
+},
+{
+"id": "390644313327",
+"subject": "[NAME] - chat/ [working with comp like Hudl, SwingVision etc]",
+"text": "Hey [NAME],\n\nJust seeing that you're currently growing your CV and annotators team -\nthought I'd reach out and introduce myself.\n\nI'm [SENDER], working with SportsAI teams at Encord, we're an end to end data\nplatform for data curation, annotation and model eval.\n\nReally interested in what you guys are building - over the years we've\nworked with groups at different stages. We've worked across both\nplayer/team performance analysis for the space. Occlusion, tracking,\nfinding edge cases that will impact your models most are among just a few\nof the areas we help these groups with.\n\nI think there's pieces that could match well with your roadmap - would you\nopen to having a quick intro?"
+},
+{
+"id": "390644961486",
+"subject": "Scaling data throughput",
+"text": "Hi [NAME],\n\nI noticed you are gearing up your Perception team to develop perception\nalgorithms on multimodal datasets.\n\nWe work with AV teams like Woven (Toyota) to improve training data quality\nand scale annotation pipelines, so teams can focus on boosting model\naccuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like AV/ADAS, surveillance, and robotics.\n\nHow do you handle multimodal data annotation (cameras, lidars, radars, etc)\ncurrently? Would love to exchange perspectives - are you free next week?"
+},
+{
+"id": "390899885274",
+"subject": "Scaling data throughput",
+"text": "Hi [NAME],\n\nSaw you are gearing up your ML Engineering Team, so I thought now is a good\ntime to connect.\n\nWe work with Robotics/ML teams like Weave, 1X, and PI to improve training\ndata quality and scale annotation pipelines, so teams can focus on boosting\nmodel accuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like physical AI, surveillance, and robotics.\n\nHow do you approach scaling data pipelines at Mbodi? Would love to exchange\nperspectives - are you free on Monday?"
+},
+{
+"id": "390995948747",
+"subject": "multimodal data training for Genie",
+"text": "Hi [NAME],\n\nI noticed you recently checked out our E-MM1 multimodal dataset and saw\nyou're working on Genie at [COMPANY] - thought I'd reach out as I\nworks closely with many GenAI teams like Captions, Flawless, and Synthesia\non their data curation and annotation projects.\n\nA lot of teams I spoke with that are building multimodal search and\ndiscovery tools are thinking about how to scale training data across images\nand video - curious if the thinking resonates with you?\n\nIf you're focused on pairing semantic search across user generated image\nand video, image search result accuracy is critical to user experience.\nIt'd be great to grab 20 mins to compare notes and share how other teams\nare approaching data workflows as they plan for next year.\n\nWould you have time later this week?"
+},
+{
+"id": "390997618893",
+"subject": "Martin - chat/ connect (working with companies like Hudl, Veo, Swing Vision)",
+"text": "Hey [NAME],\n\nJust seeing that you're currently growing your CV and annotators team -\nthought I'd reach out and introduce myself.\n\nReally interested in what you guys are building - over the years we've\nworked with groups at different stages. We've worked across both\nplayer/team performance analysis for the space. Occlusion, tracking,\nfinding edge cases that will impact your models most are among just a few\nof the areas we help these groups with.\n\nI think there's pieces that could match well with your roadmap - would you\nopen to having a quick intro?"
+},
+{
+"id": "390997633263",
+"subject": "[NAME] <> [SENDER] intro (working with comp like Hudl, Swing Vision, Spiideo)",
+"text": "Hey [NAME],\n\nJust seeing that you're currently growing your CV and annotators team -\nthought I'd reach out and introduce myself.\n\nI'm [SENDER], working with sports AI teams at Encord, we're an end to end data\nplatform for data curation, annotation and model eval.\n\nReally interested in what you guys are building - over the years we've\nworked with groups at different stages. We've worked across both\nplayer/team performance analysis for the space. Occlusion, tracking,\nfinding edge cases that will impact your models most are among just a few\nof the areas we help these groups with.\n\nI think there's pieces that could match well with your roadmap - would you\nopen to having a quick intro?"
+},
+{
+"id": "391033762017",
+"subject": "[NAME] chat /connect",
+"text": "Hey [NAME],\n\nJust seeing that you're currently growing your CV and annotators team,\nthought I'd reach out and introduce myself.\n\nReally interested in what you guys are building - over the years we've\nworked with groups at different stages. We've worked across both\nplayer/team performance analysis for the space. Occlusion, tracking,\nfinding edge cases that will impact your models most are among just a few\nof the areas we help these groups with.\n\nI think there's pieces that could match well with your roadmap, would you\nopen to having a quick intro? Happy to tell you more about our learning\nfrom working with companies like Hudl, Veo, Swing Vision."
+},
+{
+"id": "391035742394",
+"subject": "[SENDER] <> [SENDER] intro (working with comp like Hudl, Veo, Spiideo and more)",
+"text": "Hey [NAME],\n\nJust seeing that your team is growing in engineers and annotators - thought\nI'd reach out and introduce myself.\n\nI'm [SENDER], working with sports AI teams at Encord, we're an end to end data\nplatform for data curation, annotation and model eval.\n\nReally interested in what you guys are building - over the years we've\nworked with groups at different stages. We've worked across both\nplayer/team performance analysis for the space. Occlusion, tracking,\nfinding edge cases that will impact your models most are among just a few\nof the areas we help these groups with.\n\nI think there's pieces that could match well with your roadmap - would you\nopen to having a quick intro?"
+},
+{
+"id": "391060393191",
+"subject": "Multimodal product beyond just notetaking",
+"text": "Hi [NAME],\n\nSaw the Crunchbase piece on Otter and [SENDER] 's push beyond notetaking,\nwhich is an exciting direction given the demands on your multimodal and\naudio models.\n\nWe've been supporting teams like Thinking Machines, Synthesia and Captions\nwith multichannel audio pipelines (speaker turns/overlaps, acoustic event\nlabelling, confirmation/rejection loops, etc.) through Encord.\n\nOur multimodal ML DataOps platform supports native curation (embedding\nsearch) and automated annotation using your own models.\n\nWould you be open to a quick 15/20 min call to see if any of this could\nhelp your roadmap? I'm free Wednesday or Friday morning, or Thursday\nafternoon if that works?"
+},
+{
+"id": "391103615204",
+"subject": "Daniil & [SENDER] chat",
+"text": "Hey [NAME],\n\nJust seeing that you're currently growing your CV and annotators team -\nthought I'd reach out and introduce myself.\n\nI'm [SENDER], working with sports AI teams at Encord, we're an end to end data\nplatform for data curation, annotation and model eval.\n\nReally interested in what you guys are building - over the years we've\nworked with groups at different stages. We've worked across both\nplayer/team performance analysis for the space. Occlusion, tracking,\nfinding edge cases that will impact your models most are among just a few\nof the areas we help these groups with.\n\nI think there's pieces that could match well with your roadmap - would you\nopen to having a quick intro?"
+},
+{
+"id": "391160776938",
+"subject": "Scaling data curation and annotation",
+"text": "Hi [NAME],\n\nSaw you are gearing up your ML Engineering Team, so I thought now is a good\ntime to connect.\n\nWe work with Robotics/ML teams like Weave, 1X, and PI to improve training\ndata quality and scale annotation pipelines, so teams can focus on boosting\nmodel accuracy and speed to market. Quick context: Encord is a data layer\nscale-up, helping over 200 AI teams across industries - we're especially\nwell versed in VLM use cases like physical AI, surveillance, and robotics.\n\nHow do you approach scaling data pipelines at Mbodi? Would love to exchange\nperspectives - are you free on Monday?"
+},
+{
+"id": "391173279948",
+"subject": "Thoughts on multimodal ML pipelines [YEAR]",
+"text": "[NAME],\n\nSaw the Crunchbase piece on Otter and [SENDER] 's push beyond notetaking,\nwhich is an exciting direction given the demands on your multimodal and\naudio models.\n\nWe've been supporting teams like Thinking Machines, Synthesia and Captions\nwith multichannel audio pipelines (speaker turns/overlaps, acoustic event\nlabelling, confirmation/rejection loops, etc.) through Encord.\n\nOur multimodal ML DataOps platform supports native curation (embedding\nsearch) and automated annotation using your own models.\n\nWould you be open to a quick 15/20 min call to see if any of this could\nhelp your roadmap? I'm free Wednesday or Friday morning, or Thursday\nafternoon if that works?"
+},
+{
+"id": "391178822905",
+"subject": "RedShread",
+"text": "Hi [NAME],\n\nHope all's well!\n\nSeen what you're building at [COMPANY] and wanted to reach out.\n\nI'm with Encord - working with teams handling large volumes of documents,\ntext, and image data. We're a data platform with advanced capabilities for\ncurating and managing document workflows, and we work closely with\ninsurance, ID verif, and healthcare companies.\n\nFrom what I've seen, there's a few pieces that could match well with your\nroadmap.\n\nWould you be open to a briefchat Friday/Monday to see if it makes sense to\nexplore further?"
+}
+]

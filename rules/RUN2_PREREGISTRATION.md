@@ -661,3 +661,44 @@ twin. The stated rule excludes Amplemarket. They are left in place — removing 
 post-hoc, after their existence was discovered, is the kind of after-the-fact filtering
 this pre-registration exists to prevent — and every 2026 test is additionally reported
 with `--tool hand`, which excludes them entirely.
+
+### 9.10 The blinding gate's verdict depends on corpus size — found 2026-08-17
+
+Found while building the graded why-now pass (`rules/judge_rubric.md` addendum). The item
+texts handed to that pass are copied **byte-for-byte** out of `output/judge_batches/`,
+programmatically verified identical (`scripts/build_whynow_batches.py::verify_verbatim`).
+The same texts produce two different gate verdicts:
+
+| corpus handed to `check_blinding.py` | items | verdict |
+|---|---|---|
+| `output/judge_batches` (full) | 12,462 | **CLEAN — 0 leaks** |
+| the cold-pitch subset of exactly those items | 7,055 | **BLOCKED — 14 hits** |
+
+**Cause.** `prune_common_words` decides whether a name token is really an ordinary English
+word from *lowercase evidence inside the corpus it is given* (§9.7). `max` and `kit` clear
+that threshold at 12,462 items and fall below it at 7,055, so on the subset they revert to
+being treated as sender vocabulary. The thresholds are relative; the verdict therefore is.
+
+**The 14 hits are not leaks.** Every occurrence was read. All are third parties named in
+body text, none an Encord sender: Max Stratmann and Max Gariel (people a rep met at
+events), Max Romero of Overland AI (a named peer), **Max Curie of IAS's data science
+team — the recipient's own colleague**, the Max Planck Institute (twice, misspelled
+"Plank"), and a Max who worked at Samsara. Redacting these would be over-redaction of the
+worst kind for this particular pass: a named referral is exactly the grade-4/5 evidence
+the why-now scale is built to detect.
+
+**Nothing was hidden by the original run.** `max` and `kit` appear by name in that run's
+PRUNED-AS-ORDINARY list, which §9.7 made a separate reviewable output precisely so a
+pruning decision could never pass as an absence of leaks. The structural fix worked: this
+was resolved by reading the list, in minutes.
+
+**Decision for this run.** The gate is run on the full corpus, which is where the pruning
+list was reviewed and signed off, and the guarantee for the subset is the byte-identity
+check rather than a re-derivation. Re-deriving redaction for a subset would mean a second
+implementation of the thing that leaked in run 1 — the mistake `check_blinding.py`'s own
+docstring records. Pinned by `tests/test_whynow_batches.py`.
+
+**Not fixed in code, deliberately.** Making the gate take its vocabulary decision from a
+reference corpus while checking a subset is the right fix, but changing a launch-blocking
+gate in the middle of a spend is how gates stop meaning anything. Logged for the next run;
+`docs/LEARNINGS_FOR_NEXT_RUN.md` carries it.

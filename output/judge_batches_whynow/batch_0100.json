@@ -1,0 +1,202 @@
+[
+{
+"id": "261855679719",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "261924905167",
+"subject": "Deepfake Detection Accuracy",
+"text": "Hi [NAME] - we just onboarded Onfido (Entrust) who was looking to improve\nprediction accuracy for deepfake detection models. GetReal came to mind\nsince you're solving for data integrity vulnerabilities. Curious if you've\nran into similar model development problems?\n\nThe Onfido team wanted to reduce false positives from model predictions\ngiven the narrow margin of error for fraud detection. We help them to\nimprove human feedback quality on multimodal data (image, video & audio) by\ndefining & monitoring complex workflows e.g. auto-annotation, QA/QC,\nconsensus; and accelerating active learning loop for data/label curation &\ntroubleshooting.\n\nWould you be open to exchange perspectives? I'm flexible morning times ET\nif you're open to share your take."
+},
+{
+"id": "262011729095",
+"subject": "Deepfake Detection Accuracy",
+"text": "Hi [NAME] - we just onboarded Onfido (Entrust) who was looking to improve\nprediction accuracy for deepfake detection models. GetReal came to mind\nsince you're solving for data integrity vulnerabilities. Curious if you've\nran into similar model development problems?\n\nThe Onfido team wanted to reduce false positives from model predictions\ngiven the narrow margin of error for fraud detection. We help them to\nimprove human feedback quality on multimodal data (image, video & audio) by\ndefining & monitoring complex workflows e.g. auto-annotation, QA/QC,\nconsensus; and accelerating active learning loop for data/label curation &\ntroubleshooting.\n\nWould you be open to exchange perspectives? I'm flexible morning times PT\nif you're open to share your take."
+},
+{
+"id": "262120169693",
+"subject": "Deepfake Detection Accuracy",
+"text": "Hi [NAME] - we just onboarded Onfido (Entrust) who was looking to improve\nprediction accuracy for deepfake detection models. GetReal came to mind\nsince you're solving for data integrity vulnerabilities. Curious if you've\nran into similar model development problems?\n\nThe Onfido team wanted to reduce false positives from model predictions\ngiven the narrow margin of error for fraud detection. We help them to\nimprove human feedback quality on multimodal data (image, video & audio) by\ndefining & monitoring complex workflows e.g. auto-annotation, QA/QC,\nconsensus; and accelerating active learning loop for data/label curation &\ntroubleshooting.\n\nWould you be open to exchange perspectives? I'm flexible morning times ET\nif you're open to share your take."
+},
+{
+"id": "262123793639",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "264080322809",
+"subject": "Annotation Efficiency",
+"text": "Hi [NAME],\n\nSeems like you're leading the computer vision team at [COMPANY] - wanted\nto reach out since we've been supporting precision farming teams (e.g.\nBloomfield AI, Sentera, Four Growers) improving annotation efficiency for\ntheir plant assessment models (and across berries, tomatoes, cucumbers!)\n\nIn case Encord is new to you - we help 200+ AI teams improve annotation\nefficiency by unifying data curation, annotation and label validation in\none place. Teams with comparable image volume to [COMPANY] typically\nleverage our model-assisted labelling to reduce time spent in manual\nannotation and narrow down on smaller portion of edge cases to improve\nmodel performance.\n\nHow are you thinking about data development at [COMPANY] today? We're\nflexible Wednesdays to Fridays if you're open to exchange perspectives."
+},
+{
+"id": "264085761238",
+"subject": "Accelerating Active Learning Loop",
+"text": "Hi [NAME],\n\nWe recently moved Bloomfield AI away from in-house tools to help accelerate\nthe active learning loop for blueberry classification models. I understand\nVisual Scale collects and analyzes 150k+ images per month - wanted to see\nhow you're thinking about optimising your data development for more\naccurate predictions?\n\nFor context - we help precision farming teams (harvesting across berries,\ntomatoes and cucumbers) unify data curation, annotation and label\nvalidation in one place. Teams with comparable image volume to Fruitscout\ntypically leverage model-assisted labelling to reduce time spent in manual\nannotation and narrow down on smaller portion of edge cases to improve\nmodel performance.\n\nHow are you thinking about data development at FruitScout today? We're\nflexible Wednesdays to Fridays if you're open to exchange perspectives."
+},
+{
+"id": "264110198005",
+"subject": "Multimodal AI Enablement",
+"text": "Hi [NAME],\n\nSeems like your team looks after the tooling for language and vision model\ndevelopment at [COMPANY]. Wanted to introduce ourselves since enterprises e.g.\nOnfido, AXA and UiPath typically move from open-source/first-gen tools\n(e.g. LabelStudio & Labelbox) to our unified platform for multimodal\nannotation (vision, text, documents) projects at scale.\n\nConsidering [COMPANY]'s ML projects in high-stake applications such as\ninsurance and identity verification - I'd also like to highlight how we\nsupport complex labelling projects:\n\n   - Nested ontology/attribute builder for hierarchical schema\n   - Workflow orchestrator to define multi-step projects (e.g.\n   model-assisted pre-labelling -> consensus -> quality control etc)\n   - Analytics and audit trial to monitor productivity and consistency\n\nHow you're thinking about AI enablement at [COMPANY]? Perhaps we can exchange\ninsights & walk through Encord in a representative workflow for your\nprojects. Flexible Wednesday to Friday if you have a preferred time."
+},
+{
+"id": "264864676033",
+"subject": "Encord Reconnect",
+"text": "Hi [NAME],\n\nWe just onboarded Mytra who moved from CVAT - they were facing surging\nvolume of video data for pallet tracking and needed a system to quickly\nfind relevant subsets and automate manual annotations. Recalling from your\nprevious conversations with Encord - you might be solving for similar\nchallenges at [COMPANY]?\n\nCurious how have things evolved on your side and perhaps we can share some\nproduct updates on our end too. How's early next week looking for a catch\nup?"
+},
+{
+"id": "264888828117",
+"subject": "Saildrone – Staff Software Engineer, Perception",
+"text": "Hi [NAME],\n\nIt looks like Saildrone's ML pipelines are scaling quickly between the\nVoyager launch in the Baltic Sea and your search for a Staff Software\nEngineer in Perception. We recently onboarded Saronic's AI/ML team to help\nfuse radar, video, and audio data more efficiency, resulting in reducing\nlabelling speeds by 60% and increasing model performance by 20%.\n\nWe work w/ a number of autonomous vehicle and defence leaders like Woven by\nToyota, Skydio, Fox Robotics, The Royal Navy, and Shield AI to manage\nend-to-end ML data pipelines - from curation and annotation to model\nevaluation - with enterprise QA and analytics baked in at every step.\n\nI believe we could deliver similar outcomes at Saildrone and help your new\nhire hit their goals. Would you be open to a quick call next week to\nexplore fit?"
+},
+{
+"id": "264929821894",
+"subject": "Data quality for driver safety models",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away from their in-house tools as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing relevant driver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine [COMPANY] is also working towards more accurate driver safety models, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "264935097538",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction\naccuracy for identity fraud detection models. Thought GetReal is solving\nsimilar problems with data integrity vulnerabilities especially in deepfake\n- curious if you've ran into similar problems?\n\nSharing a few reasons why Onfido moved to Encord:\n\n   - Unify curation and annotation for multimodal data (image, video &\n   audio)\n   - Define & monitor complex workflows e.g. auto-annotation, QA/QC,\n   consensus\n   - Accelerate active learning loop with data/label filtering &\n   troubleshooting\n\nHow are you approaching training data development at GetReal today? I'm\nflexible morning times CT if you're open to chat."
+},
+{
+"id": "264946170044",
+"subject": "Encord - We just onboarded Motive as a customer",
+"text": "Hi [NAME],\n\nNot sure if you heard, but we onboarded Motive last month onto the Encord\nplatform. Like [COMPANY], they'd been running a fully custom internal tool\nfor over a decade, with a large offshore annotation team. After a full\nevaluation, they decided to partner with us long-term for their ML data\npipelines.\n\nThought it might be worth sharing - if nothing else, it might confirm\n[COMPANY]'s in-house path is the right one, or open up a conversation about\nwhether there's a faster route.\n\nA few highlights from the Motive deal:\n\n   - *Future-proofed scalability without rebuilding* - New modalities\n   (lane-line key-pointing, temporal video segmentation, multimodal) in days,\n   not months, avoiding constant in-house rebuild cycles.\n   - *600+ annotation team in PK *- Replacing in-house tool with Encord as\n   de facto annotation platform for offshore team\n   - *Analytics dashboard *- Accuracy, review times, breaks, hourly pay -\n   all tracked for better quality control and oversight.\n   - *Unified curation + annotation* - Curated 500k+ images / 50-100k\n   videos in hours (vs. 4-6 weeks) and routed straight to annotators, freeing\n   ML engineers from manual sampling.\n\nPerhaps we could schedule a quick demo at some point? Irrespective of\ntooling investment I'd love to get your feedback. I think you'll be\nsurprised at what's out there."
+},
+{
+"id": "264987337957",
+"subject": "Reducing model false positives for Onfido",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction\naccuracy for identity fraud detection models. Thought GetReal is building\nsimilar great things to detect data integrity vulnerabilities particularly\nin deepfake - curious if you've ran into similar problems?\n\nHere's how we help them reduce false positives in the context of narrow\nmargin of error for fraud detection:\n\n   - Unify curation and annotation for multimodal data (image, video &\n   audio)\n   - Define & monitor complex workflows e.g. auto-annotation, QA/QC,\n   consensus\n   - Accelerate active learning loop with data/label filtering &\n   troubleshooting\n\nHow are you approaching training data development at GetReal today? I'm\nflexible morning times ET if you're open to a chat."
+},
+{
+"id": "264992731362",
+"subject": "Model accuracy",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to reduce false positive rate from their computer vision/ multimodal models by improving data representativeness & label accuracy, when the expected margin of error for model prediction is low. Given [COMPANY]'s operations in public safety, I thought you might be solving for model accuracy in similar high-stakes situations?\n\nIn case Encord is new to you - we support over 200 AI teams accelerate the annotation to model eval feedback loop. Teams in regulated industries leverage our workflow orchestrator to define complex annotation tasks (e.g. pre-labelling, consensus and extensive QC/QA) which is integrated with our data and label validation capabilities. We've also built out functionalities around data lineage tracking and VPC/on-prem deployment for security conscious teams.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "264992848110",
+"subject": "Onboarded Mytra from CVAT",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible Tuesdays to Thursdays if you're open to chat."
+},
+{
+"id": "264994570426",
+"subject": "Long-tail problem for ADAS data",
+"text": "Hi [NAME],\n\nWe recently onboarded Motive away as they moved from frame-based to video annotation. Like many driver safety teams, they faced challenges around handling billions of miles of in-cab and dashcam footage, e.g. surfacing rare events from diver behaviours and maintaining temporal consistency for high quality video datasets. \n\nI imagine your team is working towards streamlining data preparation processes for higher quality ADAS data, have you run into similar challenges? Sharing a few bullets on why Motive moved to Encord: \nModel-assisted labelling to cut down repetitive frame-by-frame work Consolidated platform for curation and annotation to reduce tooling overhead Org and project-level analytics to track data quality and annotation efficiency How are you approaching training data preparation at [COMPANY]? I'm flexible Tuesdays to Thursdays if you're open to bouncing some ideas."
+},
+{
+"id": "264999886069",
+"subject": "Onboarded Mytra from CVAT",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "265007070445",
+"subject": "Onboarded Mytra from CVAT",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "265012475068",
+"subject": "Encord - Catch Up",
+"text": "Hi [NAME],\n\nMy colleague [SENDER] passed on your contact mentioning now might be a\nbetter time to revisit data development topics. Wanted to see how\npriorities have evolved at [COMPANY]?\n\nFor context - we help precision farming teams e.g. Carbon Robotics, Sentera\nand Bloomfield Robotics improve model accuracy with more efficient data\ndevelopment process. Teams with similar autonomous farming use case\nleverage our platform to reduce time spent in manual annotation (across\nvision and LiDAR) and narrow down on subsets of edge cases to improve model\nperformance.\n\nHow are you thinking about improving model performance? I'm flexible\nWednesday to Friday if you're open to a catch up."
+},
+{
+"id": "265022448855",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) with a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "265896378595",
+"subject": "Data collection for autonomous flight",
+"text": "Hi [NAME],\n\nWe recently onboarded Skydio who was looking for a more scalable way to\nindex, auto-label and QA surging volume of perception data collected from\nthe real world. Are you encountering similar challenges when developing\nMerlin Pilot?\n\nFor context - autonomous flight teams (e.g. Skydio, Zipline, Zeitview)\nleverage Encord to curate, (auto)annotate and validate label accuracy\nacross 2D vision and 3D point cloud data in one unified platform. Often as\na complement to visualization/debugging tool like Foxglove.\n\nWould you be open to exchange perspectives on how you're approaching data\ncollection at [COMPANY]? We're flexible morning times ET if you have a\npreferred time."
+},
+{
+"id": "265901717706",
+"subject": "Real world data collection for autonomous flight",
+"text": "Hi [NAME],\n\nWe recently onboarded Skydio who was looking for a more scalable way to\nindex, auto-label and QA surging volume of perception data collected from\nthe real world. Are you encountering similar challenges when developing\nMerlin Pilot?\n\nFor context - autonomous flight teams (e.g. Skydio, Zipline, Zeitview)\nleverage Encord to curate, (auto)annotate and validate label accuracy\nacross 2D vision and 3D point cloud data in one unified platform.\n\nWould you be open to exchange perspectives on how you're approaching data\ncollection at [COMPANY]? We're flexible morning times ET if you have a\npreferred time."
+},
+{
+"id": "265957502163",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) with a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "265985537222",
+"subject": "Data to model performance feedback loop",
+"text": "Hi [NAME],\n\nWe recently onboarded Entrust (Onfido) who needed to improve data representativeness & label inaccuracy, with narrow margin of error for false positives in fraud detection. I understand [COMPANY] has similar operations in identity documents verification space - have you encountered similar challenges?\n\nIn case Encord is new to you - we support over 200 AI teams accelerate active learning loop between data curation, annotation and label validation. They typically leverage our workflow orchestrator to define multi-step human review processes (e.g. auto-labeling, consensus, and human QC/QA). We've also built out functionalities around data lineage tracking and secure deployment for teams in regulated environments. \n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "266008703207",
+"subject": "Onboarded Mytra from CVAT",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "266010704091",
+"subject": "Scaling ML data operation for AirCover",
+"text": "Hi [NAME],\n\nSeems like you look after data operations for the AirCover team at [COMPANY].\nWanted to introduce ourselves since we just onboarded Onfido (Entrust) for\na similar multimodal evidence/ identity verification use case.\n\nTypically enterprises (e.g. Onfido and AXA) building models for high-stake\napplications like insurance and fraud detection move to Encord from\nopen-source/first-gen tools (e.g. LabelStudio & Labelbox) for better\nscalability on complex labelling projects.\n\nSharing some common challenges we help address:\n\n   - Complex schema and requirements for multimodal annotation (vision,\n   documents and text)\n   - Workflow visibility on multi-step human-in-the-loop projects (e.g.\n   model-assisted pre-labelling -> consensus -> quality control etc)\n   - Analytics and label versioning to monitor productivity and consistency\n\nHow are you thinking about scaling data operations for Aircover? Flexible\nmorning times PT if you're open to a chat."
+},
+{
+"id": "266012142815",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction accuracy for identity fraud detection models. Thought [COMPANY] is building similar great things to detect deepfake - curious if you've ran into similar problems? \n\nIn case Encord is new to you - we help multimodal fraud detection teams (e.g. Onfido, Reality Defender, VIDA ID) reduce false positives with streamlined data preparation processes. Teams building cross-modality models leverage our platform to curate, annotate, and validate labels on image, video, audio & text data in one platform.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "266035394794",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction accuracy for identity fraud detection models. Thought [COMPANY] is building similar great things to detect deepfake - curious if you've ran into similar problems? \n\nIn case Encord is new to you - we help multimodal fraud detection teams (e.g. Onfido, Reality Defender, VIDA ID) reduce false positives with streamlined data preparation processes. Teams building cross-modality models leverage our platform to curate, annotate, and validate labels on image, video, audio & text data in one platform.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "266035520729",
+"subject": "Onboarded Mytra from CVAT",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "266047921349",
+"subject": "Long-tail problem for AV data",
+"text": "Hi [NAME],\n\nWe just moved Motive away from their internal tools - like [COMPANY], they're\ntrying to find + label rare events from millions of miles of driving data.\nI understand you've built AutoML systems before at Motional and Nyckel -\ncurious how you're thinking about the training data problem now with [COMPANY]'s\nexplorer program launching in Vegas?\n\nSharing a few ways how Encord is helping AV/DMS teams like Woven (Toyota)\nand Motive to focus engineering resources on building better models:\n\n   - Visualize, search & curate PB of data\n   - Integrate model-assisted workflow to reduce manual annotation\n   - Manage annotation workforces with org, project & individual level\n   analytics\n\nFor developed data operation functions like at [COMPANY] - we can also discuss\nhow you can customize/ integrate your preferred features to more\nefficiently enable your teams.\n\nWe're flexible morning times PT in the coming week if you're open to a\nquick chat?"
+},
+{
+"id": "266134544581",
+"subject": "Model accuracy for evidence authentication",
+"text": "Hi [NAME],\n\nSeems like you're building multimodal/ computer vision models for AirCover.\nWanted to introduce ourselves since we just onboarded Onfido (Entrust),\nhelping them improve data quality in a similar multimodal evidence\nverification use case.\n\nTypically enterprises (e.g. Onfido and AXA) in high-stake applications like\ninsurance and fraud detection move to Encord from open-source/first-gen\ntools (e.g. LabelStudio & Labelbox) to close the active learning loop for\nmodel iteration.\n\nSharing some common challenges we help address:\n\n   - Unify multimodal annotation (vision, documents and text) and label\n   validation\n   - Workflow visibility on multi-step human-in-the-loop projects (e.g.\n   model-assisted pre-labelling -> consensus -> quality control etc)\n   - Analytics and label versioning to monitor workforce productivity and\n   consistency\n\nHow are you thinking about improving data quality for Aircover? Flexible\nmorning times PT if you're open to a chat."
+},
+{
+"id": "266531997921",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction accuracy for identity fraud detection models. Thought [COMPANY] is building similar great things to detect deepfake - curious if you've ran into similar problems? \n\nIn case Encord is new to you - we help multimodal fraud detection teams (e.g. Onfido, Reality Defender, VIDA ID) reduce false positives with streamlined data preparation processes. Teams building cross-modality models leverage our platform to curate, annotate, and validate labels on image, video, audio & text data in one platform.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "266666841307",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction accuracy for identity fraud detection models. Thought [COMPANY] is building similar great things to detect deepfake - curious if you've ran into similar problems? \n\nIn case Encord is new to you - we help multimodal fraud detection teams (e.g. Onfido, Reality Defender, VIDA ID) reduce false positives with streamlined data preparation processes. Teams building cross-modality models leverage our platform to curate, annotate, and validate labels on image, video, audio & text data in one platform.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "266828639458",
+"subject": "Deepfake detection accuracy",
+"text": "Hi [NAME],\n\nWe onboarded Onfido (Entrust) last week to help them improve prediction accuracy for identity fraud detection models. Thought [COMPANY] is building similar great things to detect deepfake - curious if you've ran into similar problems? \n\nIn case Encord is new to you - we help multimodal fraud detection teams (e.g. Onfido, Reality Defender, VIDA ID) reduce false positives with streamlined data preparation processes. Teams building cross-modality models leverage our platform to curate, annotate, and validate labels on image, video, audio & text data in one platform.\n\nHow are you thinking about model performance feedback loop at [COMPANY]? I'm flexible Tuesday to Thursday if you're open to a chat."
+},
+{
+"id": "266875431098",
+"subject": "Just onboarded Boston Dynamics",
+"text": "Hi [NAME]  - we just partnered with Boston Dynamics, helping w/\nefficiency gain on video and 3D data development. Wanted to see if you're\nencountered similar challenges around perception data development\nat Apptonik?\n\nFor context - Boston Dynamics moved to us after experiencing limitations\nwith their internal tools on rendering video and 3D data - this became a\nprominent issue when they were scaling up real-world data collection.\n\nIn case Encord is new to you - we help physical AI teams (Boston Dynamics,\nFigure, Physical Intelligence) unify curaton/indexing, (auto)annotation and\nlabel validation in one place, with the objective of streamlining data\ndevelopment processes so the team can train their perception models on the\nhighest quality data.\n\nCurious if similar challenges are on your mind? Flexible morning times ET\nif you're open to a chat."
+},
+{
+"id": "266878845125",
+"subject": "Training data pipeline for perception model",
+"text": "Hi [NAME],\n\nWe've just onboarded Mytra (inventory robotics co) away from CAVT to help them scale their real-world data collection for perception models. They moved to our platform at a time where their data volume surged (as they were moving from simulation to real world testing and CVAT's frame-based limitation was slowing them down). \n\nWe're helping them alongside other Physical AI co's (e.g. Skydio, Zipline, Fox Robotics) to have a more effective system to index, auto-annotate and QA perception data across 2D (image & video) and 3D point cloud. With the goal of accelerating their model iteration cycles & increasing labelling throughput.\n\nHow are you thinking about perception training data at [COMPANY] Labs? I'm flexible afternoon times PT if you're up for a chat."
+},
+{
+"id": "266888032468",
+"subject": "Just onboarded Boston Dynamics",
+"text": "Hi [NAME] - congrats on your promotion! How's things going at [COMPANY]?\n\nWe just moved Boston Dynamics from their internal tools. The main reason\nwas efficiency gains in video and 3D annotation, as well as accelerating\nmodel iterations with our integrated data curation and label validation/\nmodel eval capabilities.\n\nCurious if model development on the vision/perception side has become more\nof a priority for [COMPANY]? Keen to catch up next week if you're open\nto it."
+},
+{
+"id": "266928398581",
+"subject": "Just onboarded Boston Dynamics",
+"text": "Hi [NAME]  - we just partnered with Boston Dynamics, helping w/ efficiency\ngain on video and 3D data development. Wanted to see how [COMPANY] is\nthinking about model development and if now is a better time to connect?\n\nFor context - Boston Dynamics moved to us after experiencing limitations\nwith their internal tools on rendering preception data - this became a\nprominent issue when they were scaling up real-world data collection.\n\nWe help unify curaton/indexing, auto-annotation, label validation and\nworkforce management in one place, with the objective of streamlining data\ndevelopment processes and accelerating model iterations.\n\nCurious if similar challenges are on your mind at [COMPANY]? Flexible\nmorning times PT if you're open to a chat."
+},
+{
+"id": "266944442576",
+"subject": "Just onboarded Boston Dynamics",
+"text": "Hi [NAME] - we just partnered with Boston Dynamics, helping w/ efficiency\ngain on video and 3D data development. Wanted to see how [COMPANY] is\nthinking about model development and if now is a better time to connect?\n\nFor context - Boston Dynamics moved to us after experiencing limitations\nwith their internal tools on rendering vision data - this became a\nprominent issue when they were scaling up real-world data collection.\n\nWe help unify curaton/indexing, auto-annotation, label validation and\nworkforce management in one place, with the objective of streamlining data\ndevelopment processes and accelerating model iterations.\n\nCurious if similar challenges are on your mind at [COMPANY]? Flexible\nmorning times PT if you're open to a chat."
+}
+]

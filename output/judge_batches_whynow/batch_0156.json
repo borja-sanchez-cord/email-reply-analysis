@@ -1,0 +1,202 @@
+[
+{
+"id": "501173569763",
+"subject": "One surgeon, two rooms - the data layer",
+"text": "Hi [NAME],\n\nYossi's post in February describes the end goal: one surgeon on a complex decompression in Room A, Dynamis executing routine bone milling autonomously in Room B. More patients treated, same surgical workforce.\n\nGetting there means training a new autonomous capability for every new procedure step. Each one needs an annotated operating room video from real cases. That annotation step sits between every completed procedure and every new training run.\n\nThe pattern we see at teams your size: the engineers building the models are also manually deciding what to annotate. At 10 cases a month, it is fine, but at 50 it becomes the bottleneck.\n\nWe work with Moon Surgical on exactly this & I thought it would be worth a 20-minute call next Thursday afternoon? Let me know."
+},
+{
+"id": "501174353084",
+"subject": "When the model gets it wrong, the member calls",
+"text": "Hi [NAME],\n\nYour payer customers sell [COMPANY] on member engagement and care gap closure. Both depend on your SLMs getting the recommendation right.\n\nThe gap most AI-first teams hit at your scale is knowing whether the model is working before it ships and being able to show that to a payer under HITRUST audit.\n\nWe work with Synthesia and Appfolio on that evaluation and curation layer. Teams come to us when model iteration is the priority and building evaluation infrastructure internally is slowing it down.\n\nIf relevant, do you have 20 minutes this Thursday to see if there is a parallel?"
+},
+{
+"id": "501174353139",
+"subject": "What ships when the eval loop breaks?",
+"text": "Hi [NAME],\n\nWe work with Synthesia and Appfolio on training data curation and model evaluation infrastructure, similar to what the [COMPANY] AI Models team is building for your SLMs and agent chains.\n\nML leads come to Encord:\n\n• \nModel iteration is blocked by the evaluation layer & not the model itself.\n\n• \nThe labelling pipeline design is still owned by ML engineers\n\n• \nHITRUST and payer SLAs make a hallucination a contractual problem\n\nWithout these issues fixed:\n\n• \nAgent failures compound before member impact.\n\n• \nPayer audits surface gaps in model output traceability.\n\nIf any of that is relevant, let's grab 20 minutes this week and i can show what that setup looks like?"
+},
+{
+"id": "501178364111",
+"subject": "What ships when the eval loop breaks ?",
+"text": "Hi [NAME],\n\nWe work with Synthesia and Appfolio on training data curation and model evaluation infrastructure, similar to what the [COMPANY] AI Models team is building for your SLMs and agent chains.\n\nML leads come to Encord:\n\n• \nModel iteration is blocked by the evaluation layer & not the model itself.\n\n• \nThe labelling pipeline design is still owned by ML engineers\n\n• \nHITRUST and payer SLAs make a hallucination a contractual problem\n\nWithout these issues fixed:\n\n• \nAgent failures compound before member impact.\n\n• \nPayer audits surface gaps in model output traceability.\n\nIf any of that is relevant, let's grab 20 minutes this week and i can show what that setup looks like?"
+},
+{
+"id": "501240329413",
+"subject": "EU AI Act and 9 cardiac indications",
+"text": "Hi [NAME],\n\nthe EU AI Act which comes into force in August requires a documented record\nof who labelled what for every model update. As i understand, MyCardium\nruns 9 indications across two cleared products, which if my math is\ncorrect, is nine separate records to keep current.\n\nThe gap is usually the paper trail behind it, which teams struggle with.\nWe work with abbvie and Conavi Medical team on annotating DICOM series\ntogether for their FDA submission.\n\nThought it would be relevant to you and am happy to chat further if you're\ninterested."
+},
+{
+"id": "501249111230",
+"subject": "abbvie's trial imaging QC results",
+"text": "Hi [NAME],\n\nAbbVie's pharma imaging team had a QC and adjudication problem across\nmultiple sites of trial data. I worked with them for a few weeks and got\nthem their annotation accuracy near 99%, with a full record of who reviewed\nwhich image.\n\nthought it was relevant to you and was curious if Core Lab is hitting the\nsame thing? Image QC and physician adjudication is a bottleneck across a\nfew teams we work with."
+},
+{
+"id": "501259862257",
+"subject": "EU AI Act and 9 cardiac indications",
+"text": "Hi [NAME],\n\nthe EU AI Act which comes into force in August requires a documented record\nof who labelled what for every model update. As i understand, MyCardium\nruns 9 indications across two cleared products, which if my math is\ncorrect, is nine separate records to keep current.\n\nThe gap is usually the paper trail behind it, which teams struggle with.\nWe work with abbvie and Conavi Medical team on annotating DICOM series\ntogether for their FDA submission.\n\nThought it would be relevant to you and am happy to chat further if you're\ninterested."
+},
+{
+"id": "501272039671",
+"subject": "ML ops & video processing",
+"text": "Hi [NAME] Yoon,\n\nSaw your focus on video ML at [COMPANY] and wanted to reach out as I support\nsimilar teams on short-form and long-form video processing using LLM/VLM.\n\nA common challenge teams at your scale face when building models:\nframe-accurate annotation, clear content-understanding rubric/measurements,\nscene classification, and multimodal curation (image, video, audio, 3D, etc)\n\nWould love to understand your scope and hear more about how you're\napproaching this at [COMPANY]. Open to a quick 20min chat later this week?"
+},
+{
+"id": "501424554204",
+"subject": "cyroad and the labelling challenge",
+"text": "Hi [NAME],\n\nI saw [COMPANY] launch CyRoad for highway video intelligence this month. I\nassume that's a new domain-specific CLIP model on top of the ones you\ndescribed in December.\n\nWe spoke with Prabodh in your team 6 months ago. Back then, you were openly\nreviewing the data architecture. Given the new product launch, I thought\nI'd get back in touch since it means you're probably building new\nontologies from scratch.\nI'm curious how that's being handled for CyRoad specifically and wanted to\nshow how we helped Flock Safety with their edge-deployed cameras.\n\nDo you have some time to connect this week? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "501428112573",
+"subject": "cyroad and the labelling challenge",
+"text": "Hi [NAME],\n\nI saw [COMPANY] launch CyRoad for highway video intelligence this month. I\nassume that's a new domain-specific CLIP model on top of the ones you\ndescribed in December.\n\nWe spoke with Prabodh in your team 6 months ago. Back then, you were openly\nreviewing the data architecture. Given the new product launch, I thought\nI'd get back in touch since it means you're probably building new\nontologies from scratch.\nI'm curious how that's being handled for CyRoad specifically and wanted to\nshow how we helped Flock Safety with their edge-deployed cameras.\n\nDo you have some time to connect this week? If so, let me know and I'll\nsend over a meeting link."
+},
+{
+"id": "501437288686",
+"subject": "Deep Learning Hiring - 1 person 2 jobs",
+"text": "Hi [NAME], \n\nI saw the Deep Learning Research Engineer role. \"Improve our data pipeline\" next to \"train models\" usually means one person doing two jobs?!\n\nWe work with teams hitting the same wall, labelling tools built for bounding boxes break down on person-crop embeddings, where identity ambiguity makes every annotation decision harder. \n\nAutomotus had 30,000 images, mostly near-duplicates, no fast way to find them. Embedding-based curation got them to ~10,000, no accuracy loss.\n\nWhat's eating more of your time right now, models or data pipeline? Would have to chat more if you're free."
+},
+{
+"id": "501437289674",
+"subject": "line in your ReID post that caught my eye",
+"text": "Hi [NAME],\n\nSaw the two Deep Learning Engineer openings referencing \"improve our data pipeline\" and \"build datasets\" alongside model training. Guessing your engineers are still maintaining the labelling infrastructure?\n\nThat tends to slow teams down right when they need to move fastest, especially post-Series A. \n\nTooling built for one detection task rarely stretches to the next, so every new hire spends part of their ramp rebuilding the pipeline instead of training models.\n\nWe saw the same at Automotus. Embedding-based curation cut their 30,000-image dataset to ~10,000 with no accuracy loss, and freed the engineers to get back to model work.\n\nLove the blog, by the way. If you're interested, it would be great to grab 20 minutes to chat later this week?"
+},
+{
+"id": "501437526221",
+"subject": "Deep Learning Hiring - 1 person 2 jobs",
+"text": "Hi [NAME], \n\nI saw the Deep Learning Research Engineer role. \"Improve our data pipeline\" next to \"train models\" usually means one person doing two jobs?!\n\nWe work with teams hitting the same wall, labelling tools built for bounding boxes break down on person-crop embeddings, where identity ambiguity makes every annotation decision harder. \n\nAutomotus had 30,000 images, mostly near-duplicates, no fast way to find them. Embedding-based curation got them to ~10,000, no accuracy loss.\n\nWhat's eating more of your time right now, models or data pipeline? Would have to chat more if you're free."
+},
+{
+"id": "501437625573",
+"subject": "Deep Learning Hiring - 1 person 2 jobs",
+"text": "Hi [NAME], \n\nI saw the Deep Learning Research Engineer role. \"Improve our data pipeline\" next to \"train models\" usually means one person doing two jobs?!\n\nWe work with teams hitting the same wall, labelling tools built for bounding boxes break down on person-crop embeddings, where identity ambiguity makes every annotation decision harder. \n\nAutomotus had 30,000 images, mostly near-duplicates, no fast way to find them. Embedding-based curation got them to ~10,000, no accuracy loss.\n\nWhat's eating more of your time right now, models or data pipeline? Would have to chat more if you're free."
+},
+{
+"id": "501474320589",
+"subject": "Challenge: Doubling Production Every Year",
+"text": "Hi [NAME], \n\nI saw the world ploughing record at Birch Farm last year in May. I hope you still have the record, it's extremely cool - I grew up on a farm and love to see the technology in this field progressing!\n\nWe work with agricultural robotics teams, including John Deere on one specific problem: closing the gap between the data the machines log in the field and data that actually improves the model.\n\nAs the fleet continues to double, that gap tends to widen faster than the team. \n\nDo you have 20 minutes next Thursday at 2 pm to see if we can help?"
+},
+{
+"id": "501507945704",
+"subject": "AgBot T2 Doubling Problem",
+"text": "Hi [NAME], \n\nWe just started working with John Deere on similar autonomous field robot perception use cases as agXeed, so I thought I'd reach out.\n\nMotion engineers in the agricultural robotics space come to us when:\n\n• \n\nField incident logs have no automated filter - engineers manually decide which obstacle events are worth pulling into a training dataset.\n\n• \n\nAnnotating LiDAR and camera captures from real field conditions requires a setup that general-purpose tools weren't built for.\n\n• \n\nThe loop from a field failure to a corrected labelled example in the retraining queue takes weeks, not days.\n\nDo you face similar issues at agXeed?\n\nIf so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free next Wednesday at 2pm."
+},
+{
+"id": "501592717519",
+"subject": "Clinical AI data pipeline at [COMPANY] with [NAME]",
+"text": "Hi [NAME],  \n\n I saw [COMPANY] standardized 88% of prior-auth volume and now processes 83% in real time. Big milestone, congrats! \n\n We're working with a top-three US payer and Highmark Health to help them with the clinician review-and-audit layer underneath that kind of automation. \n\n I'd love your thoughts on how we've helped them scale the review without losing the audit trail. Happy to share what's been working and what hasn't. \n\n I'm free this Wednesday afternoon."
+},
+{
+"id": "501599545564",
+"subject": "Vision at Mount Sinai",
+"text": "Hi [NAME],  \n\n We work with Iterative Scopes and Proximie on the data layer for clinical video AI.  \n\n The Mount Sinai partnership caught my attention. Eight hospitals and 100,000 procedures is a significant production milestone. \n\n Teams moving into computer vision whilst scaling clinical AI come to us when: \n\n - Each new hospital site introduces OR environments the model hasn't seen. \n\n - Precision degradation at a flagship customer is a commercial risk before it's a technical one \n\n - The data infrastructure that proved the product in a pilot wasn't built to support the retraining cadence a new production deployment requires \n\n Do you face similar issues at [COMPANY]? \n\n If so, it might be worth having an initial conversation to see whether our offerings fit your needs. I'm free this Thursday if that works."
+},
+{
+"id": "501791988927",
+"subject": "Machina - quick coffee?",
+"text": "Hi [NAME] - nice to meet,  \n\nI lead the Physical AI team at Encord and noticed that you'll be attending Machina next week. We're partnered closely with frontier labs and leading robotics companies, inc. Neura and Agility, supporting large-scale data collection and providing the data flywheel needed to prepare models for production. \n\n Saw you're building out the robotics venture at Almetra, and it would be great to connect to hear how you're approaching training and evaluation pipelines, particularly for VLMs. I've sent over a calendar placeholder to meet at the conference - let me know if it works for you. \n\n On a side note, we're hosting a  \nwine tasting event the Louvre - would be great to see you there!"
+},
+{
+"id": "501865796826",
+"subject": "SF Panel on multimodal benchmark & eval",
+"text": "Hi \n       [NAME], \n\n       Great to connect on LinkedIn. Wanted to share a bit more context:\n\n       A common theme we're seeing with multimodal customers like Dolby, TwelveLabs, and Synthesia is that the bottleneck has shifted to evals, benchmarking, and closing the feedback loop for agents and multimodal systems. \n\n       At Encord, we support that layer across docs, audio, vision, and 3D, particularly around post-training workflows (SFT/RLHF). \n       We're also putting together a small panel in July on this topic and would love to get your perspective - and potentially have you join as a speaker if you're interested. \n\n       Would you be open to a quick 20-min intro this Thu or Fri?"
+},
+{
+"id": "501866465486",
+"subject": "ML data ops",
+"text": "Hi [NAME], \n\n      I help Thinking Machines lab and Synthesia run high-velocity, large-scale HITL labeling projects across multimodal data. Thought it was worth reaching out. \n\n      A common challenge as these systems scale is managing hundreds of evaluators, maintaining consistent rubric quality, and closing the feedback loop for RLHF and model eval. That's the layer we help operationalize. \n\n      Given your work at \n      [COMPANY], I think there could be some interesting overlap. Worth a 20-min conversation this week?"
+},
+{
+"id": "501962626273",
+"subject": "pittsburgh. what changed.",
+"text": "Hi [NAME],  \n\n Quick one. my team works with Flock Safety on annotation and model evaluation for their LPR detection catalogue across hundreds of municipalities.  \n\n I saw Pittsburgh Public Schools just reported a significant drop in illegal passings this year, their COO credited the program with directly changing driver behavior.  \n\n Expanding AVA from stop-arm enforcement into general ALPR usually means the training data that got you that result wasn't built for the new detection task.  \n\n Is that a challenge felt at [COMPANY] right now? If so, would be great to chat next week."
+},
+{
+"id": "501966954700",
+"subject": "Less time finding data, more time on models",
+"text": "Hi [NAME], \n\nI saw the company's hiring pages for engineering roles and noticed your deep learning for fruit defect detection models. \n\nWe work with companies like John Deere on a similar detection workflow. Encord is the curation and annotation infrastructure that sits underneath their image-based defect and quality detection models. \n\nWhen their model got a new defect class wrong, they found the right training examples faster because Encord surfaced them automatically instead of engineers hunting through images manually.\n\nWith iQS Pro expanding into new geographies and fruit varieties, I thought i'd reach out before the annotation pipeline becomes a bottleneck. \n\nDo you have 20 minutes next week to compare notes on how you're managing that today?"
+},
+{
+"id": "501967197400",
+"subject": "quick question for the CEO",
+"text": "Hi [NAME],  \n\n Quick one. My team works with Automotus and Flock Safety on camera CV annotation and dataset curation pipelines. \n\n I saw the Series A and the push into enterprise security and retail. Expanding into new verticals on top of an existing detection pipeline usually means the labelling infrastructure hasn't caught up. Different environments, different edge cases & different failure modes per detection task. \n\n Is that a challenge at [COMPANY] right now?"
+},
+{
+"id": "502063670479",
+"subject": "when eo/ir data meets rf",
+"text": "Hi [NAME],  \n\n I saw the MoU with Ecliptic Defence and Space, combining electro-optical/infrared and RF sensor data for situational awareness. \n\n we work with Forterra on the labelling and QA behind edge-deployed defence perception models. Combining two sensor types usually means combining two labelling standards too, before either model can trust the other's ground truth. \n\n pulling two teams worth of training data into one pipeline is the kind of thing that slows your entire engineering team down.  \n\n I'm curious how that's being scoped? \n\n Do you have some time to connect early next week? If so, let me know and ill send over a link."
+},
+{
+"id": "502171266279",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "502199921851",
+"subject": "Encord Introduction",
+"text": "Hi [NAME],\n\n[SENDER] pointed me your way after we chatted on LinkedIn. He mentioned Label\nStudio briefly, which is part of why I wanted to reach out directly.\n\nEncord is a data layer platform that helps ML teams manage and improve the\ndata that feeds their models. We work with best-in-class teams like\nAttentive.ai, who are also building takeoff software for construction.\n\nWould love to find a time to learn more about what you're building at [COMPANY]\nand share what we've built at Encord."
+},
+{
+"id": "502203897028",
+"subject": "FDA clearance number two",
+"text": "Hi [NAME],\n\nI spoke with Dusan last Friday and he said to reach out to you directly.\n\nWith two 510(k) clearances now in place, every new autonomous capability\nDynamis adds requires its own documented training and test dataset.\n\nWe help teams like Moon Surgical and AbbVie turn surgical video into\nlabelled training data fast enough to keep the model roadmap moving, with a\nclean audit trail across all annotations - inside one platform.\n\nWorth 20 minutes to see if the same applies to you?"
+},
+{
+"id": "502239370433",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "502254773492",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502254801112",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502255185095",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502259955912",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502260430070",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502260834540",
+"subject": "Data flywheel for L4 autonomy",
+"text": "Hi [NAME] - been following Kakaomobility for some time, and after seeing the recent announcement at COEX around the L4 autonomy roadmap, I thought it would be a great time to get introduced. \n\nFor context, I work on the Physical AI team at Encord, partnering with companies like Woven by Toyota to provide the platform and workforce that scale real-world data pipelines, supporting the journey from L2/L3 to L4 autonomy. We help teams gain greater control over data curation by surfacing the right scenes and edge cases, while enabling frontier use cases such as VLA reasoning and 3D auto-labeling. \n\nI think there's pieces that could match well with your roadmap. Would you be open to a quick chat later this week? Happy to share what we've learned from supporting other teams on a similar journey."
+},
+{
+"id": "502262164693",
+"subject": "Point rapide sur Spimed AI",
+"text": "Bonjour [NAME],\n\n[SENDER] de faire ta connaissance. Je travaille avec [SENDER] chez Encord.\n\nJe relisais vos échanges précédents autour des projets de Spimed AI sur\nl'analyse de plaque, la dissection aortique et l'embolie pulmonaire.\n\nJe sais qu'à l'époque vous aviez choisi RedBrick, principalement parce que\ncela faisait plus de sens commercialement pour la première phase. Je\nvoulais simplement savoir si les choses avaient évolué depuis, en\nparticulier sur la labellisation des plaques, les workflows de revue\nradiologue ou les besoins de traçabilité FDA.\n\nNous avons aussi compris que RedBrick commençait à réduire ses opérations,\net nous avons récemment vu plusieurs équipes passer sur Encord en raison\nd'une baisse de capacité d'ingénierie et de support de leur côté.\n\nDe ce que vous aviez discuté avec [SENDER], la plaque semblait être le sujet\noù la qualité d'annotation, le consensus entre reviewers et l'auditabilité\npouvaient devenir plus importants à mesure que le projet avançait.\n\nJe serai à Paris la semaine prochaine avec notre équipe MedTech. Ce serait\nsuper de prendre un café ou un déjeuner si tu as un moment."
+},
+{
+"id": "502271783126",
+"subject": "FDA June Update - every model update needs its own trail",
+"text": "Hi [NAME],\n\nThe FDA's June 17 classification for DICOM ML-based radiology devices makes\nannotation documentation a legal special control. Combined with CE marking,\neyonis LCS now operates under two parallel post-market documentation\nregimes.\n\nThe risk: when a regulatory reviewer asks for subgroup-level annotation\nevidence behind the last model update, where does that trail live?\n\nWe work with Conavi Medical on exactly this: annotation provenance and\naudit trail for a regulated imaging AI device.\n\nIs this something you have a process for? Happy to connect this week if\nuseful."
+},
+{
+"id": "502272965848",
+"subject": "data collection challenges",
+"text": "Hi [NAME],  \n\n I noticed you're in the data collection team at [COMPANY]. Are you also part of the curation process? If so i would love to show you how we free up your time to be better spent elsewhere on operations. \n\n Please let me know."
+},
+{
+"id": "502303652038",
+"subject": "Introduction - [SENDER] & Encord",
+"text": "Hi [NAME],\n\nI hope this email finds you well and that you had a great 4th.\n\nMy aunt Cathy sent me your contact information, I appreciate your being\nopen to speaking.\n\nI'd love to find a time to introduce myself, tell you a bit more about what\nwe've built at Encord and learn more about what you're working on at TRSS.\nHappy to work around your schedule."
+},
+{
+"id": "502306461932",
+"subject": "RAISE Summit 8th/9th July - coffee?",
+"text": "Hey [NAME], \n\n Seen [COMPANY] are heading to the RAISE summit in Paris - are you joining also? It would be great to catch you for a coffee if so. \n\n Bit of context on me, lead our Partnerships team at Encord, and been working with companies like Synthesia, Thinking Machine Labs, & Dolby to stop their MLOps becoming the bottleneck for model iteration.  \n\n Let me know if the 8th / 9th is better for you - can be flexible."
+}
+]

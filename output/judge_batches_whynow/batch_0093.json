@@ -1,0 +1,202 @@
+[
+{
+"id": "230561319155",
+"subject": "Could you help?",
+"text": "Hi [NAME], \n\nWondered if you might be able to help - I'm looking to reach the Raptor Maps computer vision lead or closest to it.\n\nThought you might have an idea as a Data Manager but no worries if not. \n\nAll help is much appreciated,"
+},
+{
+"id": "230909131989",
+"subject": "Encord // [COMPANY]",
+"text": "Hi [NAME],\n\nI saw that you recently visited our website and requested more information. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?"
+},
+{
+"id": "231807611128",
+"subject": "Encord // INNOFarms",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information. Really interesting to see the work you are doing around precision farming with AI and robotics.\n\nCould be good to connect & discuss what we've been building, share a bit more about the work we have been doing with other AgTech and Robotics teams (like Carbon Robotics, Pickle Robot, etc.) and answer any questions you might have. Do you have any times that work in the next few days?"
+},
+{
+"id": "231908440275",
+"subject": "Could you help?",
+"text": "Hi [NAME], \n\nWondered if you might be able to help - I'm looking to reach the [COMPANY] computer vision lead or closest to it.\n\nThought you might have an idea as a Computer Vision Engineer but no worries if not. \n\nAll help is much appreciated,"
+},
+{
+"id": "231948539108",
+"subject": "Could you help?",
+"text": "Hi [NAME], \n\nWondered if you might be able to help - I'm looking to reach the [COMPANY] computer vision lead or closest to it.\n\nThought you might have an idea as a Computer Vision Engineer but no worries if not. \n\nAll help is much appreciated,"
+},
+{
+"id": "231988193505",
+"subject": "Could you help?",
+"text": "Hi [NAME], \n\nWondered if you might be able to help - I'm looking to reach the inmind computer vision lead or closest to it.\n\nThought you might have an idea as an Engineer but no worries if not. \n\nAll help is much appreciated,"
+},
+{
+"id": "231988198609",
+"subject": "Could you help?",
+"text": "Hi [NAME], \n\nWondered if you might be able to help - I'm looking to reach the inmind computer vision lead or closest to it.\n\nThought you might have an idea as a Software Engineer but no worries if not. \n\nAll help is much appreciated,"
+},
+{
+"id": "231991837897",
+"subject": "Could you help?",
+"text": "Hi [NAME], \n\nWondered if you might be able to help - I'm looking to reach the inmind computer vision lead or closest to it.\n\nThought you might have an idea as an Engineer but no worries if not. \n\nAll help is much appreciated,"
+},
+{
+"id": "232474453196",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nHappy to exchange over email first to ensure a productive meeting."
+},
+{
+"id": "232514471159",
+"subject": "Meeting with Encord next week - [SENDER] Scharff intro",
+"text": "Hi [NAME],\n\nGreat to meet you - I reached out to the Neura team last week at the\nAutomatica conference & your colleague [SENDER] recommended we connect.\n\nFor context: I lead a Humanoid team at Encord (~6 years old, 100+ employees\n& $50M+ funding) and we work several leading Robotics teams (inc. Boston\nDynamics, 1X, Figure AI) - supporting a range of VLM / 3D annotation tasks\n- helping them to iterate faster on the fine-tuning of their AI models.\n\nWe are planning to chat with Mavarick & Tung from the Neura team next week\n- so have also added you to the invite if you would like to join - looking\nforward to it!"
+},
+{
+"id": "232539153657",
+"subject": "Encord // [COMPANY] // 1-1 meeting?",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information, but didn't pick a time for a call. \n\nCould be good to connect & discuss what we've been building more broadly, and answer any questions you might have. Do you have any times that work in the next few days?\n\nHappy to exchange over email first to ensure a productive meeting."
+},
+{
+"id": "232696723666",
+"subject": "-",
+"text": "Hi [NAME] - just checking you saw my prior email? Let me know your thoughts, happy to share more about what I've been seeing work for some of your peers lately."
+},
+{
+"id": "233190004930",
+"subject": "Encord | Interested in more resources?",
+"text": "Hey [NAME],\n\nNoticed you recently downloaded our Physical AI e-book - so wanted to see if there was anything I could help with?\n\nI lead the Enterprise AI team here at Encord, working with similar scale orgs (including Toyota, Siemens, Philips) - helping them to move away from open-source starter tools like CVAT + Voxel 51, and towards a more scalable Enterprise-grade data management solution.\n\nIf you found the e-book useful, would also be happy to send over some further resources detailing how we work with teams like Toyota, Siemens, and Philips - let me know if this is something you'd be interested in seeing?"
+},
+{
+"id": "235340080366",
+"subject": "[NAME] - Interested in how other AV teams are using Encord?",
+"text": "Hey [NAME],\n\nNoticed you recently downloaded our Physical AI e-book - so wanted to see\nif there was anything I could help with?\n\nI lead the AV team here at Encord, working with Woven-by-Toyota, Wayve,\nMobileye etc, to provide the front-end to visualise, curate, & annotate\nlarge multimodal/3D datasets & train large foundation models.\n\nIf you found the e-book useful, would also be happy to send over a quick\none-pager detailing how we support AV teams to scale their data pipelines\n(> 1 billion items) - let me know if this is something you'd be interested\nin seeing?"
+},
+{
+"id": "236076137705",
+"subject": "Encord // [COMPANY]",
+"text": "Hi [NAME],\n\nJust saw that you visited our website and requested more information. \n\nCould be good to connect & discuss what we've been building to help teams with annotating screenshots, and answer any questions you might have. Do you have any times that work in the next few days?"
+},
+{
+"id": "236409369846",
+"subject": "Data Development for DMS/ ADAS",
+"text": "Hi [NAME],\n\nI came across a vehicle distance detection patent by your computer vision\nteam so I wanted to reach out. We've been working on projects with Woven\n(Toyota), Motive and Nauto, naturally your work at [COMPANY] has been on my\nradar.\n\nWe help those teams improve efficiency for training data preparations  -\ne.g. finding relevant events from millions of miles of video data, as well\nto automate parts of the annotation process.\n\nI'd love to exchange perspectives on data development for DMS/ADAS if\nyou're open to a chat? Quite flexible between Tuesdays to Thursdays if you\nhave a preferred time."
+},
+{
+"id": "236409444560",
+"subject": "Multimodal Data Development for Deepfake Detection",
+"text": "Hi [NAME],\n\nI came across the report on your image classification model so I wanted to\nreach out. We work on projects with Reality Defender & Paravision for\ndeepfake detection model development - thought it's worth a chat.\n\nIn case Encord is new to you - we help over 200 AI teams improve data\nquality for model development. We're designed for efficiency gains for\nmultimodal dataset preparation, with the goals of helping you bring model\nwith higher accuracy into production faster.\n\nWould you be open to exchange perspectives over a virtual coffee? I'm quite\nflexible Tuesdays to Thursdays if you have a preferred time."
+},
+{
+"id": "236467037429",
+"subject": "2D/3D Data Development for Vehicle Inspection",
+"text": "Hi [NAME],\n\nI connected with your colleagues at Fyusion in the Bay Area a few months\nback, and I recall your team is developing VLM & 3D damage reconstruction\nfor vehicle condition report. We recently launched point cloud support and\nwanted to see if you're open to a virtual coffee?\n\nIn case Encord is new to you - we work w/ UVEYE and Tractable to improve\ndata quality at scale for computer vision vehicle inspection models. We've\ndesigned our platform to make 2D/3D data curation and annotation 6x more\nefficient.\n\nI'd love to get your candid feedback on whether the problems we're helping\nto solve might resonate? Quite flexible Tuesday to Thursday if you're up\nfor a chat."
+},
+{
+"id": "236470454480",
+"subject": "2D/3D Data Development for Vehicle Inspection",
+"text": "Hi [NAME],\n\nI connected with your colleagues at Fyusion in the Bay Area a few months\nback, and I recall your team is developing VLM & 3D damage reconstruction\nfor vehicle condition report. We recently launched point cloud support and\nwanted to see if you're open to a virtual coffee?\n\nIn case Encord is new to you - we work w/ UVEYE and Tractable to improve\ndata quality at scale for computer vision vehicle inspection models. We've\ndesigned our platform to make 2D/3D data curation and annotation 6x more\nefficient.\n\nI'd love to get your candid feedback on whether the problems we're helping\nto solve might resonate? Quite flexible Tuesday to Thursday if you're up\nfor a chat."
+},
+{
+"id": "236483795151",
+"subject": "Data Development for DMS/ ADAS",
+"text": "Hi [NAME],\n\nI came across a vehicle distance detection patent by your computer vision\nteam so I wanted to reach out. We've been working on projects with Woven\n(Toyota), Motive and Nauto, naturally your work at [COMPANY] has been on my\nradar.\n\nWe help those teams improve efficiency for training data preparations  -\ne.g. finding relevant events from millions of miles of video data, as well\nto automate parts of the annotation process.\n\nI'd love to exchange perspectives on data development for DMS/ADAS if\nyou're open to a chat? Quite flexible between Tuesdays to Thursdays if you\nhave a preferred time."
+},
+{
+"id": "236536444118",
+"subject": "Multimodal Data Development for Deepfake Detection",
+"text": "Hi [NAME],\n\nI came across the report on your image classification model so I wanted to\nreach out. We work on projects with Reality Defender & Paravision for\ndeepfake detection model development - thought it's worth a chat.\n\nIn case Encord is new to you - we help over 200 AI teams improve data\nquality for model development. We're designed for efficiency gains for\nmultimodal dataset preparation, with the goals of helping you bring model\nwith higher accuracy into production faster.\n\nWould you be open to exchange perspectives over a virtual coffee? I'm quite\nflexible Tuesdays to Thursdays if you have a preferred time."
+},
+{
+"id": "236628565214",
+"subject": "Data Development for DMS/ ADAS",
+"text": "Hi [NAME],\n\nI came across a vehicle distance detection patent by your computer vision\nteam so I wanted to reach out. We've been working on projects with Woven\n(Toyota), Motive and Nauto, naturally your work at [COMPANY] has been on my\nradar.\n\nWe help those teams improve efficiency for training data preparations  -\ne.g. finding relevant events from millions of miles of video data, as well\nto automate parts of the annotation process.\n\nI'd love to exchange perspectives on data development for DMS/ADAS if\nyou're open to a chat? Quite flexible between Tuesdays to Thursdays if you\nhave a preferred time."
+},
+{
+"id": "236628891874",
+"subject": "Data Development for DMS/ ADAS",
+"text": "Hi [NAME],\n\nI came across a vehicle distance detection patent by your computer vision\nteam so I wanted to reach out. We've been working on projects with Woven\n(Toyota), Motive and Nauto, naturally your work at [COMPANY] has been on my\nradar.\n\nWe help those teams improve efficiency for training data preparations  -\ne.g. finding relevant events from millions of miles of video data, as well\nto automate parts of the annotation process.\n\nI'd love to exchange perspectives on data development for DMS/ADAS if\nyou're open to a chat? Quite flexible between Tuesdays to Thursdays if you\nhave a preferred time."
+},
+{
+"id": "237496754373",
+"subject": "Video-native data development for home security",
+"text": "Hi [NAME],\n\nI came across your recent product updates for bird species identification -\nvery wholesome spin on home security cameras! We work on projects with\nRhombus Systems, Eagle Eye Networks and Wyze Labs on similar detection and\nclassification models - naturally your work at InstaVision has been on my\nradar!\n\nFor context -  we help improve efficiency for computer vision data\ndevelopment, where they can curate and annotate large-scale datasets and\nperform tasks e.g. object tracking, segmentation and event captioning in a\nvideo-native interface.\n\nWould you be open to exchange perspectives? I'm quite flexible between\nTuesdays and Thursdays next week if you're open to a chat."
+},
+{
+"id": "237498852551",
+"subject": "Video-native data development for home security",
+"text": "Hi [NAME],\n\nI came across your recent product updates for bird species identification -\nvery wholesome spin on home security cameras! We work on projects with\nRhombus Systems, Eagle Eye Networks and Wyze Labs on similar detection and\nclassification models - naturally your work at InstaVision has been on my\nradar!\n\nFor context -  we help improve efficiency for computer vision data\ndevelopment, where they can curate and annotate large-scale datasets and\nperform tasks e.g. object tracking, segmentation and event captioning in a\nvideo-native interface.\n\nWould you be open to exchange perspectives? I'm quite flexible between\nTuesdays and Thursdays next week if you're open to a chat."
+},
+{
+"id": "237536277750",
+"subject": "Video-native data development for home security",
+"text": "Hi [NAME],\n\nI came across your recent product updates for bird species identification -\nvery wholesome spin on home security cameras! We work on projects with\nRhombus Systems, Eagle Eye Networks and Wyze Labs on similar detection and\nclassification models - naturally your work at InstaVision has been on my\nradar!\n\nFor context -  we help 6x efficiency for training data preparation on a\nvideo-native interface for curation and annotation, with the goals of\naccelerating model iteration cycles and improve model prediction accuracy.\n\nWould you be open to exchange perspectives? I'm quite flexible between\nTuesdays and Thursdays next week if you're open to a chat."
+},
+{
+"id": "237882550508",
+"subject": "Video-native data development for home security",
+"text": "Hi [NAME],\n\nI came across your recent product updates for bird species identification -\nvery wholesome spin on home security cameras! We work on projects with\nRhombus Systems, Eagle Eye Networks and Wyze Labs on similar detection and\nclassification models - naturally your work at InstaVision has been on my\nradar!\n\nFor context -  we help improve efficiency for computer vision data\ndevelopment, where they can curate and annotate large-scale datasets and\nperform tasks e.g. object tracking, segmentation and event captioning in a\nvideo-native interface.\n\nWould you be open to exchange perspectives? I'm quite flexible between\nTuesdays and Thursdays next week if you're open to a chat."
+},
+{
+"id": "237882558652",
+"subject": "Video-native data development for home security",
+"text": "Hi [NAME],\n\nI came across your recent product updates for bird species identification -\nvery wholesome spin on home security cameras! We work on projects with\nRhombus Systems, Eagle Eye Networks and Wyze Labs on similar detection and\nclassification models - naturally your work at InstaVision has been on my\nradar!\n\nFor context -  we help improve efficiency for computer vision data\ndevelopment, where they can curate and annotate large-scale datasets and\nperform tasks e.g. object tracking, segmentation and event captioning in a\nvideo-native interface.\n\nWould you be open to exchange perspectives? I'm quite flexible between\nTuesdays and Thursdays next week if you're open to a chat."
+},
+{
+"id": "238577052859",
+"subject": "Encord Reconnect",
+"text": "Hi [NAME],\n\nCongrats on your launch of DepalOne! I imagine with the automation\ncapabilities expanding, you're looking to fine-tune your models with data\nfrom customer deployments? i understand you have some familiarity with\nEncord so I thought it might be worth reconnecting.\n\nQuick recap - we help palletising robotics teams like Pickle Robot\naccelerate their human-in-the-loop processes, e.g. easily identify edge\ncases for model fine-tuning, as well bringing more control and visibility\nfor workflow orchestration.\n\nLet me know if you're open to a catch up? happy to share some product\nupdates from our end. Fairly flexible Tuesday to Thursday next week if you\nhave a preferred time."
+},
+{
+"id": "238605401311",
+"subject": "Encord Reconnect",
+"text": "Hi [NAME],\n\nCongrats on your launch of DepalOne! I imagine with the automation\ncapabilities expanding, you're looking to fine-tune your models with data\nfrom customer deployments? i understand you have some familiarity with\nEncord so I thought it might be worth reconnecting.\n\nQuick recap - we help palletising robotics teams like Pickle Robot\naccelerate their human-in-the-loop processes at scale, e.g. easily identify\nedge cases for model fine-tuning, as well bringing more control and\nvisibility for workflow orchestration.\n\nLet me know if you're open to a catch up? happy to share some product\nupdates from our end. Fairly flexible Tuesday to Thursday next week if you\nhave a preferred time."
+},
+{
+"id": "239390235856",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for [COMPANY].\n\nIn case you're not familiar with Encord - we've build an active learning\nloop to visualize and search for underrepresented scenarios and wrong\nlabels quicker, as well integrated workflow orchestrator for auto-labelling\nand routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239390386411",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for [SENDER]\nAI.\n\nIn case Encord is new to you - we work with Viz.ai. Proximie, and Brainomix\nwho use our platform to visualize and search for underrepresented scenarios\nand wrong labels for radiology data, as well integrated workflow\norchestrator for auto-labelling and routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239393835255",
+"subject": "Hello from [SENDER] @ Encord",
+"text": "Hi​,\n\nGreat to see that you were exploring Encord - wanted to reach out to see if I could help with anything?\n\nWould be great to chat. Let me know when works, or if easier, feel free to book a time directly in my calendar: [LINK]"
+},
+{
+"id": "239397420260",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for [COMPANY].\n\nIn case you're not familiar with Encord - we've build an active learning\nloop to visualize and search for underrepresented scenarios and wrong\nlabels quicker, as well integrated workflow orchestrator for auto-labelling\nand routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239397502177",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for\nJumio.\n\nSince last time you spoke with my colleague [SENDER] we started\nworking on projects with Onfido, Paravision and Veriff who are in identity\nverification space. They leverage us to visualize and search for\nunderrepresented scenarios and wrong labels quicker, as well integrated\nworkflow orchestrator for auto-labelling and routing for human review.\n\nWould you be open to a quick catch up? Quite flexible Tuesdays to Thursdays\nif you have preferred time."
+},
+{
+"id": "239397548278",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for [SENDER]\nAI.\n\nIn case Encord is new to you - we work with Proximie, Viz.ai and Brainomix\nwho use our platform to visualize and search for underrepresented scenarios\nand wrong labels for radiology data, as well integrated workflow\norchestrator for auto-labelling and routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239408204989",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for\n[COMPANY].\n\nIn case Encord is new to you - we work on projects with Onfido, Paravision\nand Veriff who are in identity verification space. We've built an active\nlearning loop to visualize and search for underrepresented scenarios and\nwrong labels quicker, as well integrated workflow orchestrator for\nauto-labelling and routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239410025662",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for [SENDER]\nAI.\n\nIn case Encord is new to you - we work with Proximie, Viz.ai and Brainomix\nwho use our platform to visualize and search for underrepresented scenarios\nand wrong labels for radiology images, as well integrated workflow\norchestrator for auto-labelling and routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239410161898",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for [SENDER]\nAI.\n\nIn case Encord is new to you - we work with Proximie, Viz.ai and Brainomix\nwho use our platform to efficiently identify root causes of model failures,\nas well improve control and visibility over annotation process with our\ncustomisable workflow orchestrater.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+},
+{
+"id": "239427053812",
+"subject": "Kolena Pivot",
+"text": "Hi [NAME],\n\nWe recently onboarded a customer who moved from Kolena mentioning they've\ndeprioritised model evaluation product and have since moved to document\nautomation. So I wonder how you're thinking about the path forward for\nJumio.\n\nIn case Encord is new to you - we work on projects with Onfido, Paravision\nand Veriff who are in identity verification space. We've built an active\nlearning loop to visualize and search for underrepresented scenarios and\nwrong labels quicker, as well integrated workflow orchestrator for\nauto-labelling and routing for human review.\n\nWould you be open to a quick chat? Quite flexible Tuesdays to Thursdays if\nyou have preferred time."
+}
+]

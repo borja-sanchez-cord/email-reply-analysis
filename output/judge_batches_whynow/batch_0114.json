@@ -1,0 +1,202 @@
+[
+{
+"id": "319584821461",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nHave you downloaded the E-MM1 dataset?\n\nGiven Surf Air's focus on aerial mobility, I imagine you're using multiple\nmodalities to train vision models for your AI-enabled SurfOS platform.\n\nAt Encord, we specialise in scaling vision/multimodal model training\npipelines (video, sensor, 3d point-cloud) and have supported teams like\nZipline and Skydio building safety, inspection and airborne perception\nmodels.\n\nWould you be open to a quick 20-min chat next week to explore if we could\ncomplement your current setup? I'm flexible Tuesdays to Thursdays."
+},
+{
+"id": "319621028072",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nHave you downloaded E-MM1?\n\nCurious which modalities are you currently using at [COMPANY]. I assume\nlike many of our customers in the medical/health space, you are exploring\nDICOM and other medical imaging formats.\n\nWould love to share how teams have been leveraging Encord on relevant use\ncases:\n- Rapid AI managed to reduce MRI/CT annotation time by 70%\n- SDSC achieved 10x faster video annotation\n\nWould love to hop on a call and share more if this is helpful. I'm flexible\nTuesdays to Thursdays if you have a preferred time."
+},
+{
+"id": "319628111087",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nHopefully you've received an access link to E-MM1. I imagine you are using\nmultiple modalities at Weee - you might find our customer retrieval model\nrelevant.\n\nWe work with many retail/warehouse customers to help with automating\ndata-related workflow. Quick context: Encord is a data layer scale-up ($50M\nSeries B), providing data curation, annotation, model-assisted labeling,\nautomated QA workflows - aimed at improving training data quality at scale\n- something open source tooling struggles with.\n\nHappy to share more if this is relevant for you - I'm flexible Tuesday to\nFriday mornings PT next week."
+},
+{
+"id": "319633123517",
+"subject": "Partner with [COMPANY]",
+"text": "Hi [NAME],\n\nI'm Adi from the growth team at Encord - a Series B YC-backed startup\nworking with 200+ AI teams including Woven by Toyota & Zipline - nice to\nmeet you!\n\nOur platform enables teams to curate data at scale and improve annotation\nefficiency.\n\nI'd love to present what we've built and hear your thoughts. Are you open\nto learning more?"
+},
+{
+"id": "319697312987",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nSaw that you are interested in our multimodal dataset. Curious - are you\nbuilding any models at [COMPANY]?\n\nWe work with quite a few smart vending machines teams that are building\nvision models for object identification and inventory tracking, thought it\nmight be relevant for your use cases in the RVM world.\n\nLet me know if you're open to learning more. I'm flexible Tue to Fri\nmornings PT."
+},
+{
+"id": "319702565063",
+"subject": "[NAME]- Encord Demo",
+"text": "Hi [NAME],\n\nSaw you clicked on Encord's interactive Demo - what's your thought?\n\nI'd love to show you how teams have been using Encord to manage, curate and\nannotate multimodal AI.\n\nHow's your schedule like next week for a quick chat?"
+},
+{
+"id": "319707963612",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nThanks for signing up on the webinar! I imagine you are training models\nusing different modalities at Walmart.\n\nI noticed your focus is on Applied AI and RAG, you might find the\ncapabilities of matching text files with any media file and large-scale\ntext/image classification relevant.\n\nWould love to share more and explore how Encord could fit into your current\nworkflow if you're open to a 20-min chat next week."
+},
+{
+"id": "319720673467",
+"subject": "demo - real workspace",
+"text": "Hi , \n\nWhat did you think of the Encord demo? \n\nCan I get you started using your own Encord workspace? \n\nI browsed your website, but I would love to hear a line or two on what ML pipeline problems you face in curation, annotation, or evaluation."
+},
+{
+"id": "319722484960",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nHow's it going? Saw you are building VLMs and thought you might be\ninterested in the multimodal AI data set we just released.\n\nIn particular, you might find the capability of combining video files with\n3d point cloud of similar acne/object relevant. We have been working with\nNexar, Motive, and Automotus on similar smart city/driver safety use cases.\n\nWould love to hear your thoughts regarding improving training data quality\nat scale. I'm flexible Tuesdays to Friday mornings PT."
+},
+{
+"id": "319742095547",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nThanks for signing up for the E-MM1 dataset. Any particular modalities that\nyou are currently using to develop/finetune models at [COMPANY]?\n\nWould love to chat and share how teams have been using Encord, particularly\nin the AV/ADAS and inspection space.\n\nWould you be interested to know more and see how Encord might complement\nyour current setup? I'm flexible Tuesdays to Fridays morning PT."
+},
+{
+"id": "319789063395",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nHave you downloaded the E-MM1 dataset?\n\nGiven your focus on autonomous driving at Autox/Tensor, I imagine the\nfunctionality of combining video files with 3D point cloud of a similar\nscene might be useful to you.\n\nWe've been working with Woven (Toyota), Nexar, and Motive on developing\nADAS/road safety vision models. Would love to hear your thoughts on\nimproving training data quality at scale.\n\nI'm flexible Tuesdays to Thursdays morning if you've got 20min."
+},
+{
+"id": "319801740536",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nDid you manage to download Encord's E-MM1 dataset? Curious which modalities\nyou are currently working with to develop/fine tune models at [COMPANY].\n\nHappy to give you a quick overview of how we support your peers like\nZeitview, Baker Hughes, and Buzz solutions with improving training data at\nscale with model-assisted labeling, QA, automated workflow, and model\nevaluation.\n\nI'm flexible morning times PT Tuesdays to Fridays if you've got 30min to\nchat."
+},
+{
+"id": "320261437648",
+"subject": "Monarch - where we fit into Blue River Technologies' ML pipelines",
+"text": "Hi [NAME],\n\nCame across Monarch as we've just onboarded Blue River Technologies (John\nDeere) to help with their AI team with their autonomy models.\n\nWe're helping their team surface data edge cases (via embeddings and\nsimilarity search) and streamline annotation through our video-native\nplatform (no need to break videos into frames) to build better models for\nobstacle detection around the farmyard.\n\nNoticed you raised again this summer, which usually signals AI teams are\nscaling their pipelines, so thought it'd be timely to introduce ourselves\nand show where we fit into Toyota, Skydio, Aigen, Nexar, and other\nautonomous vehicle ML pipelines.\n\nIs it worth connecting later this week or next?"
+},
+{
+"id": "320270752970",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how [COMPANY] was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320482242757",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "320556137669",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nHope you find the multi-modal dataset useful. I'm curious - which\nmodalities are you currently working with at [COMPANY]?\n\nI wanted to introduce myself as your point of contact here at Encord. When\nyou're ready, I'd like to set up a quick chat to learn more about your use\ncases and explore how Encord might complement your setup.\n\nI'm flexible Tuesday to Thursday mornings PT. Just let me know what works"
+},
+{
+"id": "320560680172",
+"subject": "Segments AI and alternatives for LiDAR/PCD data",
+"text": "Hi [NAME],\n\nNoticed [COMPANY] was featured on Segments AI's website, so wanted to get\nyour thoughts on their recent acquisition by Uber?\n\nWe've had a few of their customers reach out since the news, including Otiv\n(who we just onboarded) as they explored alternatives for LiDAR and PCD\nlabelling.\n\nThought it might be a good moment to introduce Encord and share how we're\nsupporting teams like [COMPANY] in unifying their 2D and 3D ML pipelines.\n\nDoes it make sense to jump on a quick call to explore this?"
+},
+{
+"id": "320561255615",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how [COMPANY] was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320618203342",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how [COMPANY] was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320810127549",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how [COMPANY] was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320822494394",
+"subject": "talk at Fully Connected - MCP for experiment analysis",
+"text": "Hi [NAME],\n\nSaw that you're speaking at Fully Connected next month - really interesting\ntopic. I'm part of our ML Team at Encord (based in London), wondering if\nyou'd have 20 or so mins that day for a coffee?\n\nContext on me and us - appreciate this is out of the blue. We've been\nworking on the data side of model training, with frontier teams incl. TML,\nReka AI, Synthesia - partnering with Weights and Biases on a lot of this\nwork.\n\nLet me know if you're around for a catch up - always nice to meet another\nwoman in AI!"
+},
+{
+"id": "320837648608",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how Oxa was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320847153393",
+"subject": "QA on LiDAR data labels + ML Pipelines for 3D",
+"text": "Hi [NAME],\n\nCame across [COMPANY] as we've been working with Ouster on improving label\nquality assurance for their LiDAR datasets.\n\nSince the Segments AI acquisition, several of their customers have reached\nout exploring alternatives (we actually just onboarded Otiv last week)!\n\nWould it be worth showing you how we compare, and where we fit into 3D ML\npipelines at teams like Woven (Toyota), Boston Dynamics, and others?\n\nLet me know if end of this week or next is a good time to connect."
+},
+{
+"id": "320847713503",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how [COMPANY] was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320848060663",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how Oxa was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320886062287",
+"subject": "[NAME] - spoke to Andrés",
+"text": "Nice to meet you, [NAME]​ \n\nMy colleague spoke to Andrés a few weeks ago & sounded like it could be interesting for our teams to connect,\n\nFor context, I lead an AV team at Encord - working with Wayve, Woven-by-Toyota, Aptiv & others to support annotation of 3D point cloud, VLAs, & Video (providing both platform + services). \n\nRecently we've seen lots of AV teams looking to diversify away from Segments & Scale AI following the respective acquisitions - so was curious to understand how [COMPANY] was thinking about its future partnerships here? \n\nLet me know if you'd be interested in having a quick chat - very open early next week,"
+},
+{
+"id": "320893583591",
+"subject": "[COMPANY] / Encord",
+"text": "Hi [NAME],\n\nHow's it going? Chatted with [SENDER] the other day - curious if you are\ncurrently visiting your data annotation set up.\n\nA lot of inspection companies hit the wall when real-world training data\noutgrows open source tools like CVAT that are not video-first,\nhandling billions of frames and edge cases become tough quickly.\n\nThat's why we're seeing a trend of teams shifting from multi-tool stack (CVAT,\nVoxel 51, Segments + outsourced labeling services) to Encord, consolidating\ncuration, annotation, QA, and model evaluation.\n\nDo you have 30min next week Tue to Thu for a quick chat?"
+},
+{
+"id": "320903759061",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321004223697",
+"subject": "[NAME] - E-MM1",
+"text": "Hi [NAME],\n\nDid you download the multimodal dataset? I imagine you are working with\nmultiple modalities to develop/finetune models at Micron.\n\nI'd love to better understand how Encord might be able to support your data\nmanagement/annotation workflows and show you a tailored demo.\n\nHow's your schedule like next week Tue to Thu?"
+},
+{
+"id": "321004324066",
+"subject": "[NAME] - Encord demo",
+"text": "Hi [NAME],\n\nSaw you checking out Encord website, you're definitely at the right place.\n\nWe built tooling to better manage, curate and annotate sensor data, QA, and\nHITL validation tasks for AI/ML teams. Given your focus on data curation\nand healthcare use cases at IQVIA, is there anything specific you would\nlike to know?\n\nShould we find 30min to chat next week? I'm flexible morning times PT for\nTuesdays to Thursdays."
+},
+{
+"id": "321076721855",
+"subject": "Encord - demo",
+"text": "Hi [NAME],\n\nGot a note that you are checking out the Encord website! You're\ndefinitely in the right place if you're looking for tools to automate\nannotation & improve data quality at scale.\n\nI'd like to introduce myself as your point of contact. Would love to have a\nquick chat to learn more about your use case & share a more tailored demo.\n\nI'm flexible Tuesdays to Thursdays PT - when you're ready for a quick call\njust give me a note I'll set something up."
+},
+{
+"id": "321076724972",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321157953737",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321164273905",
+"subject": "Partner with [COMPANY]",
+"text": "Hi [NAME],\n\nNoticed you recently moved into a VP Engineering role, are you considering\nways to improve training your 3D models?\n\nMany AI/ML teams we talk to have built something in-house that's costly to\nmaintain and improve - this diverts engineering resources away from product\ninnovation.\n\nOur data management platform streamlined Voxel AI's ML pipeline by\nresolving interpolation challenges and accelerating annotation workflows.\n\nOpen to learning more?"
+},
+{
+"id": "321591692507",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321631945937",
+"subject": "talk at Fully Connected - foundation models and digital twins",
+"text": "Hi [NAME],\n\nSaw that you're speaking at Fully Connected next month, interested to get\nyour take on how teams can access business value from foundation models.\nI'm part of our ML Team at Encord (based in London), wondering if you'd\nhave 20 or so mins that day for a coffee?\n\nContext on me and us - appreciate this is out of the blue. We've been\nworking on the data side of model training, with leading enterprise teams\nincl. Safi, Owkin, Phillips - partnering with Weights and Biases on a lot\nof this work.\n\nLet me know if you're around for a catch up, and can get something in the\nbooks"
+},
+{
+"id": "321648669916",
+"subject": "Encord",
+"text": "Hi [NAME], \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "321888084158",
+"subject": "Exploring data curation & annotation for AStuff’s off-road autonomy projects",
+"text": "Hi [NAME],\n\nWe recently started working with Ouster on improving quality assurance for\ntheir LiDAR labels, which is how I came across [COMPANY].\n\nWe partner with teams across the off-road autonomy space (from John Deere\nand Overland AI to Anduril) as well as self-driving and ADAS groups at\nWoven by Toyota, Otiv, and Nexar.\n\nFor off-road systems in particular, we've helped teams mine and surface\nedge-case data (e.g. desert terrain, fog, low-light conditions) to\nprioritise for annotation and model retraining.\n\nWould you be open to a short chat or demo to see where Encord could fit\ninto AStuff's 2D and 3D ML stack? If nothing else, would be great to get\nyour candid feedback on what we've built and for you to see what is out\nthere."
+},
+{
+"id": "321950092507",
+"subject": "Encord",
+"text": "Hi there, \n\nI hope you found the interactive demo useful! I wanted to personally reach out to see if there's anything I could help with - happy to show you a tailored demo to your specific use case. How about 20min this or next week?"
+},
+{
+"id": "322044083443",
+"subject": "Follow-up on labeling setup Adam mentioned",
+"text": "Hi [NAME],\n\nShame we missed each other at Actuate, but I managed to catch-up with Adam,\nand he mentioned you currently insource labelling due to the US-based\nworkforce requirement and that 2D tools like CVAT have been sufficient so\nfar.\n\nWe've onboarded 1X last week (alongside Boston Dynamics earlier this year)\nto help their perception teams move past those same CVAT-style limitations,\nespecially for captioning and multimodal tasks like vision-language\nalignment and QA. They've been able to keep control of their data while\nimproving throughput and label quality.\n\nWould it make sense to share how they approached it and where Encord fits\ninto their ML pipeline? Even if you're continuing to insource, it might\ngive you a few ideas for scaling your perception and evaluation workflows."
+}
+]
