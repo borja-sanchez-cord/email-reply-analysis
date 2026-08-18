@@ -105,3 +105,47 @@ follow-ups stop paying — is **withdrawn**; this cut points weakly the other wa
 **What does survive.** The 1→2 decision is only 25% selective, so the second email's 8.0%
 is close to unselected and the recommendation to always send it is safe. Everything from the
 4th on needs the experiment: assign sequence length rather than let reps choose.
+
+---
+
+## Addendum 2 — 2026-08-18, the Apollo cut: the selection bracketed at last
+
+Operator asked for it after the persistence cut failed to settle touch-4 value.
+`scripts/followup_apollo.py` → `output/followup_apollo.txt`. EXPLORATORY.
+
+**Design.** Apollo follow-ups fire from a sequence template — the judgement happens once,
+at enrollment, not per-prospect per-touch. If Apollo pushes continue with silent prospects
+at ~90%+, their curve is nearly unselected and touch-4's true value reads off directly.
+
+**The premise half-failed, reported first:** Apollo continuation among still-silent is
+48.7% after touch 2 and 30.1% after touch 3 — the same range as hand-followed pushes
+(52.3% / 33.0%). Sequences end, or reps pull people. Apollo is NOT autopilot in this data,
+so this is a weaker-selection view, not a no-selection one.
+
+**Curves by follow-up route** (touch-1 rows are biased down by construction — a push is
+only classifiable when follow-ups exist, which drops quick repliers — read from touch 2):
+
+| touch | Apollo-sequenced (2,012 pushes) | hand-followed (5,977) |
+|---|---|---|
+| 2 | 4.5% (86/1,921) | 5.5% (314/5,713) |
+| 3 | 3.2% (29/894) | 3.9% (111/2,826) |
+| 4 | **1.2% (3/260)** | 2.9% (26/895) |
+| 5 | 1.9% (2/105) | 4.3% (18/421) |
+| 7 | — | **7.7% (7/91)** |
+
+The hand tail RISES to 7.7% at touch 7 — the signature of reps chasing the prospects they
+believe in. The Apollo curve, where per-touch choosing is weakest, falls monotonically.
+
+**Three views of touch 4 now agree in ordering:** pooled curve 4.2% (most selected) >
+chases-everyone reps 2.9% > Apollo sequences 1.2% (least selected). The more selection is
+removed, the lower the number. The pooled 4%+ tail is therefore selection-inflated, and
+the honest value of a 4th email is **~1–3%** — bracketed, since Apollo enrollment may
+itself skew cold (a floor) while hand-followed skews warm (a ceiling).
+
+**What strengthens:** the second email holds everywhere — 4.5% inside sequences where
+nobody chose to send it, ≈ the opener's rate. "Always send the 2nd" no longer rests on the
+low-selection argument alone.
+
+**Verdict, superseding Addendum 1's "cannot say":** diminishing returns are real and start
+after email 3. Emails 1–3 carry the value; a 4th is a 1–3% shot. Still exploratory — the
+assigned-length A/B remains the only clean answer — but the direction is no longer open.
