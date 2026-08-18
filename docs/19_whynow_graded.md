@@ -246,6 +246,142 @@ most reliable in the study and survives every discriminant check run against it.
 the graded result has no clean out-of-sample test behind it, and the primary contrast was
 declared after the binary result was known. It needs Aug 2026+ data, or an experiment.
 
-Open items from `docs/18` §F, updated: **grade why-now 1–5 — DONE.** Still open:
+Open items from `docs/18` §F, updated: **grade why-now 1–5 — DONE.** See §9 for what the
+graded scale then made testable. Still open:
 re-validate on Aug 2026+, A/B test the confirmed findings, get Amplemarket reply
 attribution.
+
+---
+
+## 9. What the graded scale made testable — the templating mechanism, second pass
+
+Added 2026-08-17 after §1–8, driven by operator questions during the readout. Reproducible:
+`scripts/templating_mechanism_v2.py` → `output/templating_mechanism_v2.txt`.
+EXPLORATORY, post-holdout, on used data.
+
+`docs/18` §C2 asked "does the why-now work less well inside a template?", got p=0.216, and
+the claim was withdrawn. **That test could not have worked.** A yes/no cannot tell a
+specific reason from a generic one, so both sides of the interaction were the same mixture.
+The graded scale separates them.
+
+### 9.1 A specific reason does not pay inside a template
+
+2025, cold pitches, **inbound-triggered openers removed** (see §9.2 — they are follow-ups to
+a hand raise, not cold outreach):
+
+| | generic reason (grade 1–3) | specific reason (grade 4–5) |
+|---|---|---|
+| **hand-written** | 5.2% (n=906) | **11.6%** (n=1,391) |
+| **templated** | 3.7% (n=1,578) | 4.7% (n=988) |
+
+A specific reason is worth **+6.4pp** hand-written and **+1.0pp** templated.
+**Interaction −6.29pp, p=0.0001** (n=4,863).
+
+Within-sender, on the full 2025 set: grade 4–5 → replied is **+6.31pp (p<0.0001)** among
+hand-written mail and **+0.65pp (p=0.49)** inside templates. Read from the other direction,
+the templating penalty is only −1.4pp among emails whose reason was generic anyway and
+−5.6pp among those with a specific one — **most of what a good reason would have earned is
+what templating takes away.**
+
+2026 points the same way (+4.9pp hand vs +0.9pp templated) but the interaction is p=0.19 on
+125 specific-reason templates. Underpowered, not contradictory.
+
+**This reframes §5.** Templating shallowing the occasion (42% vs 62%) is real but mediates
+only 13%. The larger fact is that climbing the ladder inside a template does not pay at all.
+Those are different problems, and the second one is not fixable by writing better templates.
+
+**Raw ratios, for the "2–4×" claim used in readouts:** 2025 templated 4.8% vs hand 9.3%
+(**1.9×**); 2026 1.8% vs 8.0% (**4.4×**). Corner-to-corner in 2025, hand+specific vs
+templated+generic, is 3.1×. So "2–4×" is defensible for the range across years; the single-
+year templating effect is ~2× in 2025.
+
+### 9.2 Template sub-types — a real split that is an inbound confound
+
+Operator hypothesis: templates are not one thing. Blasting many people at one company
+differs from a merge sequence hitting one person per company, and the latter can carry a
+company-specific hook. Tested by how concentrated each template group's recipients are
+across company domains (2025, 298 distinct templates):
+
+| template group | sends | templates | mean grade | specific | inbound | reply |
+|---|---|---|---|---|---|---|
+| many people, few firms | 1,998 | 225 | 2.9 | 45% | 0% | 3.7% |
+| mixed | 534 | 56 | 2.1 | 12% | 0% | 5.4% |
+| one person per firm (merge) | 235 | 17 | 4.1 | **83%** | **30%** | **13.2%** |
+| *hand-written reference* | *2,386* | — | *3.3* | *62%* | *8%* | *9.3%* |
+
+The split is large and the third row appears to beat hand-written mail. **It does not
+survive reading the templates.** Its three biggest are *"Just saw that you visited our
+website and requested more information"* (n=70, 20% reply) and two variants of *"I hope you
+found the interactive demo useful"* (n=50 and n=42). These are **follow-ups to an inbound
+hand raise.** They reply well because the recipient already asked, and they legitimately
+grade 4–5 because "you visited our site" *is* a recipient-specific checkable occasion.
+
+The sub-type hypothesis is therefore **not supported**: the only template class that beats
+hand-written mail is not cold outreach. Among genuinely cold templates the grades are low
+and a specific reason still buys nothing.
+
+**Wider consequence — worth carrying into any future frame build.** Inbound-triggered
+openers are sitting inside the `cold_pitch` population. 8% of hand-written and 30% of
+merge-template cold pitches contain an explicit hand-raise marker. They are a distinct
+population with a mechanically different reply process, and they inflate whatever arm they
+land in. Every number in §9.1 is computed with them removed; the pre-registered findings in
+`docs/13`–`docs/16` are not, which is a known and previously unquantified impurity rather
+than an error — the frame rule was route-and-type based, not trigger based.
+
+### 9.3 The seam hypothesis — REJECTED
+
+Operator argument, and it corrected a sloppy statement of mine. Saying "it is not the
+writing, it is the reuse" cannot be right as stated: **the reader only ever sees one email
+and cannot see that it was reused.** So a reader-side mechanism must be *in the text*.
+Candidate: a specific fact welded onto a generic frame reads as bolted-on — the parts are
+fine, the joint gives it away. We scored the parts and never the joint.
+
+Operationalised with `bespokeness` ("could this have been sent to someone else unchanged"),
+the closest measured proxy. If the seam were the mechanism, a specific reason inside a
+bespoke body should beat one inside a generic body.
+
+| 2025, grade 4–5 only | bespoke body | generic body |
+|---|---|---|
+| hand-written | 11.8% (n=871) | 11.8% (n=608) |
+| templated | 3.9% (n=565) | 8.5% (n=600) |
+
+The hand-written row is **flat to the decimal** — the surrounding body does not matter at
+all when a human wrote it. The templated row runs backwards, and that is §9.2's confound
+again: 29.5% of the generic-body cell is inbound-triggered vs 0% of the bespoke cell. With
+those removed it is 3.9% vs 5.7%, still no seam effect.
+
+And bespokeness does not absorb the interaction:
+
+| model | interaction |
+|---|---|
+| raw | −5.39pp, p=0.0008 |
+| + bespokeness | −5.38pp, p=0.0007 |
+| + bespokeness × reason | −5.64pp, p=0.0002 |
+
+**Rejected as measured.** This does not refute the operator's reasoning, which stands: if
+the mechanism is reader-side it has to be in the text. It refutes `bespokeness` as the
+carrier of it. The cue is not occasion depth (13%), not the 19 counted features (27%), not
+judged bespokeness (0%), and not the seam as this proxy captures it.
+
+**Where it plausibly still lives** — none of it measured by this study: sentence-level
+phrasing and rhythm, word order, paragraph order, and genre familiarity (the reader has
+seen this shape of email from other vendors). The operator flagged token-level analysis
+earlier and correctly noted the corpus is too small for it. The non-text alternative is
+unchanged: within-rep targeting, which no observational cut can separate.
+
+### 9.4 Standing summary of the templating penalty
+
+| explanation | share explained | status |
+|---|---|---|
+| all 19 counted text features together | 27% | `docs/18` §C3 |
+| occasion depth (of that 27%) | 13% | §5 |
+| judged bespokeness / the seam | ~0% | §9.3, rejected |
+| copies sent (2 vs 25+) | 0% — a cliff, not a slope | `docs/18` §C4 |
+| spam filtering | weak evidence against | `docs/18` §C5 |
+| a few great templates carrying the rest | no — not a lottery | `docs/18` §C7 |
+| **recipients recognise mass mail and deprioritise it** | **unquantified; best supported** | `docs/18` §C6 — replies arrive 4.8d vs 1.8d |
+| within-rep targeting | unquantifiable observationally | needs an experiment |
+
+The single most useful new fact is §9.1's: **the penalty is not something better wording
+inside a template can recover.** One A/B test settles the rest — the same reason, in the
+same email, sent as a template to half the list and typed for the other half.

@@ -1,0 +1,97 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+==============================================================================
+A. DOES A SPECIFIC REASON PAY INSIDE A TEMPLATE?
+   (docs/18 §C2 asked this of the binary why_now: p=0.216, withdrawn)
+==============================================================================
+
+--- 2025 (n=5153) ---
+                    generic reason      specific reason
+  hand-written        5.2% (n= 907)      11.8% (n=1479)
+  templated           3.8% (n=1602)       6.3% (n=1165)
+
+  value of a specific reason:  hand +6.7pp   templated +2.5pp
+  templating penalty: among generic -1.4pp   among specific -5.6pp
+
+  within-sender, grade 4-5 -> replied:
+    inside templates  n=2767  +0.65pp (SE 0.94, p=0.4884)
+    hand-written only n=2386  +6.31pp (SE 1.35, p=0.0000)
+
+  FORMAL INTERACTION: -5.39pp  p=0.0008
+
+--- 2026 (n=1286) ---
+                    generic reason      specific reason
+  hand-written        5.0% (n= 362)       9.9% (n= 597)
+  templated           1.5% (n= 202)       2.4% (n= 125)
+
+  value of a specific reason:  hand +4.9pp   templated +0.9pp
+  templating penalty: among generic -3.5pp   among specific -7.5pp
+
+  within-sender, grade 4-5 -> replied:
+    inside templates  n= 327  +4.12pp (SE 3.81, p=0.2790)
+    hand-written only n= 959  +4.25pp (SE 1.38, p=0.0020)
+
+  FORMAL INTERACTION: -4.07pp  p=0.1926
+
+--- raw templating ratios, for the '2x-4x' claim ---
+  2025: templated 4.8% vs hand 9.3%  ->  1.9x
+  2026: templated 1.8% vs hand 8.0%  ->  4.4x
+
+==============================================================================
+B. TEMPLATE SUB-TYPES — real split, but it is an inbound confound
+==============================================================================
+
+                         sends  templates  mean_grade  pct_specific  pct_inbound  reply
+kind                                                                                   
+1 many-people-few-firms   1998        225         2.9          45.4          0.3    3.7
+2 mixed                    534         56         2.1          11.6          0.0    5.4
+3 one-person-per-firm      235         17         4.1          83.0         83.0   13.2
+
+  hand-written reference   sends=2386  mean_grade=3.3  pct_specific=62.0  reply=9.3
+
+  The one sub-type that beats hand-written is 83% specific and heavily
+  inbound-triggered. Its three biggest templates, by send count:
+    n= 70 reply= 20%  Hi,  Just saw that you visited our website and requested more information, but didn't pick a ti...
+    n= 50 reply=  8%  Hi [NAME],   I hope you found the interactive demo useful! I wanted to personally reach out to ...
+    n= 42 reply= 17%  Hi there,   I hope you found the interactive demo useful! I wanted to personally reach out to s...
+
+==============================================================================
+C. THE SEAM — a specific fact on a generic frame? REJECTED
+==============================================================================
+
+  bespokeness = 'could this have been sent to someone else unchanged?'
+  Among emails WITH a specific reason (grade 4-5):
+    hand-written n=1479  mean besp 3.63  top-2-box  58.9%  reply  11.8%
+    templated    n=1165  mean besp 3.32  top-2-box  48.5%  reply   6.3%
+
+  If the seam were the mechanism, a specific reason inside a BESPOKE body
+  should outperform one inside a generic body. It does not:
+    hand-written bespoke  11.8% (n= 871)   generic  11.8% (n= 608)
+    templated    bespoke   3.9% (n= 565)   generic   8.5% (n= 600)
+
+  The templated row runs BACKWARDS, and the cause is block B's confound:
+    bespoke body: inbound-triggered share   0.0%
+    generic body: inbound-triggered share  29.5%
+
+  Same split, inbound-triggered removed:
+    bespoke body:   3.9% (n= 565)
+    generic body:   5.7% (n= 423)
+
+  And bespokeness does not absorb the interaction at all:
+    raw                      interaction -5.39pp p=0.0008
+    + bespokeness            interaction -5.38pp p=0.0007
+    + bespokeness x reason   interaction -5.64pp p=0.0002
+
+==============================================================================
+THE CLEAN 2x2 — inbound-triggered openers removed, 2025 cold only
+==============================================================================
+
+                    generic reason      specific reason
+  hand-written        5.2% (n= 906)      11.6% (n=1391)
+  templated           3.7% (n=1578)       4.7% (n= 988)
+
+  value of a specific reason:  hand +6.4pp   templated +1.0pp
+  FORMAL INTERACTION: -6.29pp  p=0.0001  (n=4863)
+  Removing inbound STRENGTHENS it — the confound was working against the finding.
