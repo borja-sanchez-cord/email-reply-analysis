@@ -50,3 +50,58 @@ were still silent and did get this touch, how many replied to it".
 
 Email touches only — calls, LinkedIn and any other channel are not counted, so this is not
 a total-contact count.
+
+---
+
+## Addendum 2026-08-18 — attacking the selection, and failing to beat it
+
+Operator asked whether we can properly tell reps to keep emailing past 3, or to stop.
+`scripts/followup_persistence.py` → `output/followup_persistence.txt`. EXPLORATORY.
+
+**Design.** Reps differ in persistence, and persistence is closer to a habit than a
+per-account judgement. For a rep who continues with almost every silent prospect, the 4th
+touch is nearly unselected, so their touch-4 reply rate approximates what a 4th email does
+for an ordinary prospect rather than a hand-picked one.
+
+**How selective the stop decision is,** of prospects still silent after touch *n*:
+
+| after touch | continued to the next |
+|---|---|
+| 1 | 74.7% (8,604 / 11,522) |
+| 2 | 56.4% (4,600 / 8,151) |
+| **3** | **38.1% (1,687 / 4,427)** |
+| 4 | 54.0% |
+| 5 | 53.4% |
+
+The 3→4 decision is the most selective in the whole sequence. The 1→2 decision is barely
+selective at all, which matters below.
+
+**Reply rate to touch 4, by how selective the sending rep is** (16 reps with ≥30 silent
+prospects after touch 3; continuation ranges 6% to 82%):
+
+| sending rep | touch-4 reply rate | 95% CI |
+|---|---|---|
+| picks carefully (<35% continued) | 6.3% (10/158) | 3.5–11.3% |
+| middling (35–65%) | 2.7% (34/1,277) | 1.9–3.7% |
+| **chases nearly everyone (>65%)** | **2.9% (4/136)** | **1.1–7.3%** |
+| *pooled, from the curve above* | *4.2%* | — |
+
+Touch 5 repeats the pattern (15.0% on 3/20, 3.5%, 3.6%).
+
+**Reading, honestly.** The direction says selection *is* doing work — careful pickers get
+roughly double what indiscriminate chasers get, and the near-unselected estimate for a 4th
+email is ~3% rather than the pooled 4.2%. But it rests on 4 replies out of 136 with a CI
+from 1.1% to 7.3%, so it cannot carry a recommendation either way.
+
+**Rep-level policy check — uninformative.** Across 22 reps with ≥100 prospects:
+corr(share of prospects reaching email 4+, overall reply rate) = **+0.229**, while
+corr(mean touches per prospect, overall reply rate) = **−0.229**. Two measures of the same
+construct with opposite signs on 22 units is noise, not evidence.
+
+**Verdict.** The pre-registered position stands unchanged: **the curve cannot tell us where
+to stop.** One claim made verbally during the readout — that reps stop well before
+follow-ups stop paying — is **withdrawn**; this cut points weakly the other way.
+
+**What does survive.** The 1→2 decision is only 25% selective, so the second email's 8.0%
+is close to unselected and the recommendation to always send it is safe. Everything from the
+4th on needs the experiment: assign sequence length rather than let reps choose.

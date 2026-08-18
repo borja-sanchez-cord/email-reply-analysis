@@ -1,0 +1,84 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+stage records: 28691 across 12077 pushes, 38 reps
+
+==============================================================================
+A. HOW SELECTIVE IS THE DECISION TO KEEP GOING?
+==============================================================================
+
+  Of prospects still silent after touch n, what share got touch n+1:
+    after touch 1:  74.7% continued ( 8604 of 11522)
+    after touch 2:  56.4% continued ( 4600 of  8151)
+    after touch 3:  38.1% continued ( 1687 of  4427)
+    after touch 4:  54.0% continued (  884 of  1637)
+    after touch 5:  53.4% continued (  453 of   849)
+
+  Reps drop most silent prospects at every stage, so the pooled curve IS
+  selected. That is the problem block B works around.
+
+==============================================================================
+B. THE NEAR-UNSELECTED TEST — reps who chase almost everyone
+==============================================================================
+
+  --- the 4th email ---
+  16 reps with >=30 silent prospects after touch 3. Their continuation rates:
+    min 6%  median 40%  max 82%
+
+  Reply rate to touch 4, by how selective that rep is:
+    selective  (<35% continued)        6.3%  (10/158)  95% CI 3.5-11.3%
+    middling   (35-65%)                2.7%  (34/1277)  95% CI 1.9-3.7%
+    chases nearly everyone (>65%)      2.9%  (4/136)  95% CI 1.1-7.3%
+
+  If the high-persistence band holds up, a 4th/5th email works for an
+  ordinary silent prospect, not just for a hand-picked one.
+
+  --- the 5th email ---
+  12 reps with >=30 silent prospects after touch 4. Their continuation rates:
+    min 7%  median 55%  max 86%
+
+  Reply rate to touch 5, by how selective that rep is:
+    selective  (<35% continued)       15.0%  (3/20)  95% CI 5.2-36.0%
+    middling   (35-65%)                3.5%  (24/679)  95% CI 2.4-5.2%
+    chases nearly everyone (>65%)      3.6%  (4/112)  95% CI 1.4-8.8%
+
+  If the high-persistence band holds up, a 4th/5th email works for an
+  ordinary silent prospect, not just for a hand-picked one.
+
+==============================================================================
+C. REP-LEVEL POLICY — do persistent reps get more replies per prospect?
+==============================================================================
+
+  22 reps with >=100 prospects, sorted by persistence:
+
+    rep persistence (share reaching email 4+) | mean touches | reply rate | n
+        1.0%                                 1.3         14.7%      204
+        2.4%                                 1.4         15.3%      339
+        3.4%                                 1.7         12.6%      119
+        4.1%                                 1.3         10.1%      217
+        4.2%                                 1.8          1.7%      118
+        5.0%                                 2.0          8.9%      101
+        5.0%                                 2.8          3.8%      240
+        5.1%                                 2.6          6.5%      707
+        5.3%                                 2.2          8.9%      786
+        6.1%                                 1.7          8.3%      132
+        6.2%                                 2.9          2.6%      193
+        6.8%                                 2.1         11.2%     1003
+       12.7%                                 2.0          9.8%      102
+       14.9%                                 2.2          7.3%     1174
+       16.3%                                 2.5         14.0%     2343
+       17.0%                                 2.6         18.9%      440
+       17.4%                                 2.6         10.5%     1170
+       18.8%                                 3.2          6.6%      229
+       24.8%                                 2.4         12.4%      137
+       26.4%                                 2.8         10.0%     1285
+       31.7%                                 2.8          1.3%      227
+       40.0%                                 2.7         20.6%      160
+
+  corr(share reaching email 4+, overall reply rate) = +0.229
+  corr(mean touches per prospect, overall reply rate) = -0.229
+
+  Confounded by rep quality in an unknown direction: a persistent rep may be
+  more diligent (biases up) or a spray-and-pray rep (biases down). Read the
+  sign, not the size.
