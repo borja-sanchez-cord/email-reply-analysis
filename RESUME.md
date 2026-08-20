@@ -110,11 +110,16 @@ labelling agents do **not** need re-running.
 
 The hold-out is spent; no further 2026 test is legitimate. Open items in `docs/18` §F:
 re-validate on Aug 2026+ as it accumulates, A/B test the two confirmed findings, get
-Amplemarket reply attribution. The collaborative report (operator's structure, `docs/13`
-§"MUST appear" pinned) is the only outstanding deliverable — and `docs/19` §4 changes what
-it should say: "state a reason for writing now" is too loose to be useful coaching, because
-96.4% of cold pitches already clear that bar. The defensible instruction is **the reason
-has to be about the recipient, and it should drive the ask.**
+Amplemarket reply attribution.
+
+**The report is DELIVERED: `REPORT.md`** (2026-08-18, root of the repo, linked from the
+README). It is the operator's v3.0 structure rewritten in full sentences, with his margin
+comments folded into the text: why replies and not SAOs (drift), why the Amplemarket
+exclusion is safe (effects route-invariant), the three template explanations with verdicts,
+applied-vs-vague research as the frame for the why-now ladder and the personalisation
+nulls, the follow-up cliff with the selection story, and the volume-not-slop reading of
+2025→2026. The `docs/13` "MUST appear" items are in it (bold nulls, links-don't-hurt,
+scope statement, survivorship caveat via the trackable-mail framing).
 
 ## Environment
 

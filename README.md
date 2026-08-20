@@ -26,5 +26,5 @@ A from-scratch observational study of CA outbound email, run against a fresh Hub
 
 ## Deliverables
 
-- `output/REPORT.md` — the plain-English write-up for sales leaders (the deliverable).
+- `REPORT.md` — the plain-English write-up for sales leaders (the deliverable).
 - `docs/` — full technical documentation: every decision, every audit, every dead end.
