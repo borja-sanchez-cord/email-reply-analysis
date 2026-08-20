@@ -26,5 +26,6 @@ A from-scratch observational study of CA outbound email, run against a fresh Hub
 
 ## Deliverables
 
-- `REPORT.md` — the plain-English write-up for sales leaders (the deliverable).
+- `EXECUTIVE_SUMMARY.md` — the one-minute read: findings as tables and short sections.
+- `REPORT.md` — the full plain-English write-up for sales leaders.
 - `docs/` — full technical documentation: every decision, every audit, every dead end.
